@@ -1,0 +1,42 @@
+{
+  "slug": "havertz-undav-sturmduell",
+  "createdAt": "2026-06-21T15:38:16Z",
+  "title": "Havertz vs. Undav: Sturm-Duell vor Ecuador",
+  "script": "Nagelsmann hat ein Luxusproblem – und es heißt Undav! Kai Havertz traf zweimal gegen Curaçao, blieb gegen die Elfenbeinküste aber ohne Tor. Joker Undav? Eingewechselt in der 60. Minute, doppelt getroffen in der 68. und 90+4. Minute – 3 Tore, 2 Vorlagen in nur zwei Kurzeinsätzen! Karriere-Quote: 9 Tore in 11 Länderspielen. Nagelsmann nennt eine Startelf-Beförderung 'absolut im Bereich des Möglichen'. Sogar Riese Woltemade, 1,98 Meter, wartet weiter. Donnerstag gegen Ecuador entscheidet sich: Stammspieler oder Joker – wer verdient die Neun wirklich?",
+  "uploadCaption": "Kai Havertz oder Deniz Undav – wer soll am Donnerstag gegen Ecuador im Sturm starten? Havertz traf 2x gegen Curaçao, blieb gegen die Elfenbeinküste aber blank. Undav lieferte als Joker in nur zwei Kurzeinsätzen 3 Tore und 2 Vorlagen. Nagelsmann selbst nennt eine Startelf-Beförderung 'absolut im Bereich des Möglichen'.",
+  "uploadHashtags": "#DFB #WM2026 #Nagelsmann #Havertz #Undav #Ecuador",
+  "images": [
+    { "file": "zweikampf.jpg", "search": "zweikampf" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "havertz.jpg", "search": "Kai Havertz" },
+    { "file": "spieltafel.jpg", "search": "spieltafel" },
+    { "file": "undav.jpg", "search": "Deniz Undav" },
+    { "file": "training.jpg", "search": "training" },
+    { "file": "woltemade.jpg", "search": "Nick Woltemade" },
+    { "file": "metlife.jpg", "search": "metlife" },
+    { "file": "ecuador.jpg", "search": "ecuador" },
+    { "file": "fans.jpg", "search": "fans" },
+    { "file": "jubel.jpg", "search": "jubel" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "HAVERTZ HAT EIN PROBLEM – ES HEISST UNDAV.", "image": "zweikampf.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · GRUPPE E", "title": "Sturm-Duell vor Ecuador", "image": "nagelsmann.jpg", "weight": 0.6 },
+    { "type": "image", "image": "havertz.jpg", "name": "Kai Havertz", "role": "Stürmer · Startelf", "weight": 0.8 },
+    { "type": "stats", "title": "Bilanz nach 2 Spielen", "stats": [
+      { "label": "Havertz-Tore", "value": "2" },
+      { "label": "Undav-Tore", "value": "3" },
+      { "label": "Undav-Vorlagen", "value": "2" }
+    ], "image": "spieltafel.jpg", "weight": 0.85 },
+    { "type": "image", "image": "undav.jpg", "name": "Deniz Undav", "role": "Joker · Stürmer", "weight": 0.8 },
+    { "type": "image", "image": "training.jpg", "weight": 0.7 },
+    { "type": "image", "image": "woltemade.jpg", "name": "Nick Woltemade", "role": "Reserve · 1,98 m", "weight": 0.75 },
+    { "type": "stats", "title": "Undav als Super-Joker", "stats": [
+      { "label": "Tor-Schnitt", "value": "<30 Min" },
+      { "label": "Karriere-Quote", "value": "9 Tore/11 Spiele" },
+      { "label": "Einwechslung", "value": "60. Minute" }
+    ], "image": "metlife.jpg", "weight": 0.9 },
+    { "type": "image", "image": "ecuador.jpg", "weight": 0.75 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Stammspieler oder Joker?", "subtitle": "Wer soll gegen Ecuador starten? Sag's uns!", "image": "jubel.jpg", "weight": 1.0 }
+  ]
+}
