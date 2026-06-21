@@ -25,8 +25,10 @@ Nationalmannschaft) für die DFB-Reelmaschine.
    nach SCHEMA.md. Wichtig:
    - createdAt = aktueller UTC-Zeitstempel (ISO 8601, endet auf Z).
    - 10–12 Szenen, ≥6 image-Szenen, ≥8 Motive im images-Array.
-   - JEDER search-Begriff muss in bibliothek-index.json (tags/personen)
-     vorkommen. Ausnahme: ein echtes Spezial-Motiv mit "thematic": true.
+   - search-Begriffe: Bibliotheks-Motive (bibliothek-index.json, tags/personen)
+     BEVORZUGEN. Lücken füllt der Renderer automatisch: echte Personen/Events mit
+     echtem Suchbegriff → Web; konzeptionelle Spezial-Motive OHNE echte Person mit
+     "thematic": true → KI-generiert (thematic NIE für echte Spieler).
    - Hook in den ersten 2 Sek., Zahlen im Script, Outro = polarisierende Frage.
 4. Schreibe die Datei nach queue/<UTC-Zeitstempel>_<slug>.json
    (Zeitstempel-Format z. B. 2026-06-21T1330Z).

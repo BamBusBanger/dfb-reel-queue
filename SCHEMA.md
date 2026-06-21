@@ -4,9 +4,12 @@ Jede Datei in `queue/` ist EIN Reel-Auftrag. Dateiname:
 `<UTC-Zeitstempel>_<slug>.json`, z. B. `2026-06-21T1330Z_musiala-comeback.json`.
 
 Der Mac zieht neue Dateien aus `queue/` in seine `inbox/` und rendert sie. Die
-**Bild-Auswahl passiert auf dem Mac** gegen die echte Bildbibliothek – wähle hier
-nur `search`-Begriffe/Motive, die in `bibliothek-index.json` vorkommen
-(`tags`/`personen`). Spezial-Motive, die es dort nicht gibt → `"thematic": true`.
+**Bild-Auswahl passiert auf dem Mac**: zuerst gegen die echte Bildbibliothek
+(`bibliothek-index.json`, `tags`/`personen`) – diese Motive **bevorzugen**. Lücken
+füllt der Renderer automatisch: echte Personen/Events aus dem **Web**, mit
+`"thematic": true` markierte konzeptionelle Spezial-Motive per **KI** (Details in
+den Pflichtregeln). Du darfst also auch Motive anfordern, die (noch) nicht in der
+Bibliothek sind.
 
 ```json
 {
@@ -52,14 +55,18 @@ nur `search`-Begriffe/Motive, die in `bibliothek-index.json` vorkommen
   selben Reel verwendet → genug verschiedene Motive liefern.
 - **Jede Szene hat ein `image`.** `image`-Szenen sind reine Vollbild-Motive ohne
   Text; sichtbarer Text gehört in `hook`/`title`/`stats`/`outro`.
-- **Jedes Bild braucht ein `search`-Feld** (Personenname oder Motiv). Keine URLs,
-  keine Websuche – nur Begriffe, die in `bibliothek-index.json` vorkommen.
+- **Jedes Bild braucht ein `search`-Feld** (Personenname oder Motiv), keine URLs.
+  **Bibliotheks-Motive bevorzugen** (siehe `bibliothek-index.json`) – sie sind am
+  schnellsten und sichersten. Aber der Renderer füllt Lücken jetzt automatisch:
+  - **Echte Personen / aktuelle Events**, die (noch) nicht in der Bibliothek sind,
+    ruhig mit dem **echten** Suchbegriff anfordern (z. B. ein neu nominierter
+    Spieler) → wird aus dem Web geholt.
+  - **Konzeptionelle/symbolische Spezial-Motive OHNE echte Person** mit
+    **`"thematic": true`** markieren (z. B. Giftschlange im Camp, Milchreis-Snack,
+    Spukschloss-Quartier) → werden **KI-generiert**. `thematic` NIE für echte
+    Spieler/Personen setzen (KI-Gesichter wären falsch).
 - **Namensschild:** klares Spielerfoto → `name` + `role` setzen (nicht auf
   hook/outro).
-- **`thematic: true`** nur bei Spezial-Motiven, die die Fußball-Bibliothek
-  normalerweise NICHT hat (z. B. Giftschlange, Milchreis) – am besten beim Hook-
-  Bild. Fehlt es, blockiert es die Produktion nicht (wird ersetzt + als Wunsch
-  notiert).
 
 ## Viral-Regeln
 
