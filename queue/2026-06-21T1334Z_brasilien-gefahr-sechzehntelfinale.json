@@ -1,0 +1,42 @@
+{
+  "slug": "brasilien-gefahr-sechzehntelfinale",
+  "createdAt": "2026-06-21T13:34:21Z",
+  "title": "Brasilien-Gefahr im Sechzehntelfinale?",
+  "script": "Deutschland steht sicher im Sechzehntelfinale – doch es lauert ein Albtraum-Szenario! Am 29. Juni, 22:30 Uhr, wartet ein Gruppendritter aus fünf möglichen Gruppen – 15 Teams kommen infrage, und mittendrin: Rekordweltmeister Brasilien mit fünf WM-Titeln! In Gruppe C steht die Seleção nach zwei Spielen bei 4 Punkten, hauchdünn vor Marokko (4) und Schottland (3). Selbst danach wartet im Achtelfinale am 4. Juli in Philadelphia schon der nächste Brocken. Wollt ihr Brasilien jetzt schon – oder lieber erst im Finale?",
+  "uploadCaption": "Deutschland ist sicher im Sechzehntelfinale (29.6., 22:30 Uhr) – aber unter 15 möglichen Gegnern lauert Rekordweltmeister Brasilien! Die Seleção steht in Gruppe C bei 4 Punkten, knapp vor Marokko und Schottland. Sogar das mögliche Achtelfinale am 4.7. in Philadelphia wartet schon.",
+  "uploadHashtags": "#DFB #WM2026 #Nagelsmann #Brasilien #Sechzehntelfinale #Deutschland",
+  "images": [
+    { "file": "brasilien.jpg", "search": "Brasilien Flagge Seleção", "thematic": true },
+    { "file": "pokal.jpg", "search": "pokal" },
+    { "file": "gillette.jpg", "search": "Gillette Stadium Foxborough", "thematic": true },
+    { "file": "tah.jpg", "search": "Jonathan Tah" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "philly.jpg", "search": "lincoln financial field" },
+    { "file": "fans.jpg", "search": "fans" },
+    { "file": "jubel.jpg", "search": "jubel" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "DEUTSCHLAND IST WEITER – DOCH ES LAUERT EIN ALBTRAUM!", "image": "brasilien.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · K.O.-PHASE", "title": "Droht jetzt schon Brasilien?", "image": "pokal.jpg", "weight": 0.7 },
+    { "type": "stats", "title": "Der Showdown-Termin", "stats": [
+      { "label": "Datum", "value": "29.6." },
+      { "label": "Anstoß", "value": "22:30 Uhr" },
+      { "label": "Gegner-Pool", "value": "15 Teams" }
+    ], "image": "gillette.jpg", "weight": 0.9 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "Innenverteidiger · DFB", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · DFB", "weight": 0.8 },
+    { "type": "stats", "title": "Brasilien-Krimi in Gruppe C", "stats": [
+      { "label": "Brasilien", "value": "4 Pkt" },
+      { "label": "Marokko", "value": "4 Pkt" },
+      { "label": "Schottland", "value": "3 Pkt" }
+    ], "image": "musiala.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Offensiv · DFB", "weight": 0.8 },
+    { "type": "image", "image": "philly.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Brasilien jetzt – oder lieber später?", "subtitle": "Sag deine Meinung in die Kommentare!", "image": "jubel.jpg", "weight": 1.0 }
+  ]
+}
