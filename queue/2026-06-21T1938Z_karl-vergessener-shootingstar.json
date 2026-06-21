@@ -1,0 +1,42 @@
+{
+  "slug": "karl-vergessener-shootingstar",
+  "createdAt": "2026-06-21T19:38:36Z",
+  "title": "Der vergessene Shootingstar: Lennart Karls WM-Drama",
+  "script": "Während Deutschland elf Siege in Serie feiert, fehlt ihr größtes Talent. Lennart Karl, 18, überzeugte bei seinem ersten Startelf-Einsatz gegen Finnland: Bayerns Juwel mit 5 Toren, 5 Assists in der Bundesliga und 4 Toren, 2 Assists in der Champions League. Dann, im letzten Training vor dem USA-Test: Muskelverletzung im Oberschenkel. 6 bis 8 Wochen Pause – die komplette WM ist vorbei. Nagelsmann spricht von einem riesigen Schock. Ersatz Assan Ouédraogo, 20, wurde mitten im Urlaub angerufen. Verdient Karl nach der Reha sofort die Startelf – noch vor Wirtz und Musiala?",
+  "uploadCaption": "Er sollte der nächste deutsche Shootingstar werden – jetzt sitzt er verletzt zuhause. Lennart Karl (18) verpasst nach einer Oberschenkelverletzung die komplette WM 2026, Ersatz Assan Ouédraogo (20) wurde mitten im Urlaub einberufen. Während die DFB-Elf elf Siege in Serie feiert, fehlt Bayerns größtes Talent. 👇",
+  "uploadHashtags": "#DFB #WM2026 #LennartKarl #FCBayern #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "jubel_sw.jpg", "search": "DFB Jubel" },
+    { "file": "team_2026.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "karl.jpg", "search": "Lennart Karl" },
+    { "file": "allianz_arena.jpg", "search": "Allianz Arena München" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "basecamp.jpg", "search": "DFB Trainingslager Winston-Salem" },
+    { "file": "ouedraogo.jpg", "search": "Assan Ouédraogo" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "metlife.jpg", "search": "MetLife Stadium" },
+    { "file": "pokal.jpg", "search": "WM Pokal" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "WÄHREND DEUTSCHLAND ELF SIEGE FEIERT, FEHLT IHR GRÖSSTES TALENT.", "image": "jubel_sw.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · Geheimnis", "title": "Der vergessene Shootingstar", "image": "team_2026.jpg", "weight": 0.7 },
+    { "type": "image", "image": "karl.jpg", "name": "Lennart Karl", "role": "Offensiv · 18", "weight": 0.8 },
+    { "type": "stats", "title": "Sein Bayern-Jahr", "stats": [
+      { "label": "Bundesliga", "value": "5 Tore / 5 Assists" },
+      { "label": "Champions League", "value": "4 Tore / 2 Assists" },
+      { "label": "Alter", "value": "18 Jahre" }
+    ], "image": "allianz_arena.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Offensiv · 23", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "Offensiv · 23", "weight": 0.8 },
+    { "type": "stats", "title": "Der Schock", "stats": [
+      { "label": "Verletzung", "value": "Oberschenkel" },
+      { "label": "Ausfallzeit", "value": "6-8 Wochen" },
+      { "label": "Verpasst", "value": "Komplette WM" }
+    ], "image": "basecamp.jpg", "weight": 0.9 },
+    { "type": "image", "image": "ouedraogo.jpg", "name": "Assan Ouédraogo", "role": "Ersatz · 20", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "metlife.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Verdient er sofort die Startelf?", "subtitle": "Noch vor Wirtz und Musiala? Sag deine Meinung in den Kommentaren!", "image": "pokal.jpg", "weight": 1.0 }
+  ]
+}
