@@ -1,0 +1,34 @@
+{
+  "slug": "goretzka-ferrari-tiefgarage",
+  "createdAt": "2026-06-21T17:38:54Z",
+  "title": "Goretzka: Ferrari in der Tiefgarage",
+  "script": "Champions-League-Sieger. Dritte WM. Und nur Edeljoker. Leon Goretzka stand bei dieser WM erst 27 Minuten auf dem Platz – 18 gegen Curaçao, 9 gegen die Elfenbeinküste. Mit 70 Länderspielen und dem Henkelpott von 2020 müsste er Stammspieler sein. Doch Pavlović und Nmecha haben ihm die Doppel-Sechs geklaut. Bitterer noch: Bayern verlängert nicht – im Sommer ist er vereinslos. Ein Ferrari in der Tiefgarage, sagen Reporter. Jeder weiß, dass er da ist. Keiner holt ihn raus. Verdient ein Champions-League-Sieger mehr Einsatzzeit?",
+  "uploadCaption": "Champions-League-Sieger, 70 Länderspiele, dritte WM – und trotzdem nur 27 Minuten Einsatzzeit. Leon Goretzkas bitteres WM-2026-Drama auf der Bank. 👇",
+  "uploadHashtags": "#DFB #WM2026 #Goretzka #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "goretzka_bank.jpg", "search": "Leon Goretzka" },
+    { "file": "allianz_arena_nacht.jpg", "search": "Allianz Arena" },
+    { "file": "goretzka_trikot.jpg", "search": "Leon Goretzka" },
+    { "file": "pavlovic_aktion.jpg", "search": "Aleksandar Pavlović" },
+    { "file": "nmecha_aktion.jpg", "search": "Felix Nmecha" },
+    { "file": "team_2026.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "allianz_arena_tag.jpg", "search": "Allianz Arena München" },
+    { "file": "nagelsmann_pk.jpg", "search": "Julian Nagelsmann" },
+    { "file": "kimmich_kapitaen.jpg", "search": "Joshua Kimmich" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal" },
+    { "file": "metlife_stadium.jpg", "search": "MetLife Stadium" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "CHAMPIONS-LEAGUE-SIEGER. DRITTE WM. UND NUR ZUSCHAUER?", "image": "goretzka_bank.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026", "title": "Goretzkas Bank-Drama", "image": "allianz_arena_nacht.jpg", "weight": 0.6 },
+    { "type": "image", "image": "goretzka_trikot.jpg", "name": "Leon Goretzka", "role": "Sechser · 31", "weight": 0.7 },
+    { "type": "image", "image": "pavlovic_aktion.jpg", "name": "Aleksandar Pavlović", "role": "Sechser · 22", "weight": 0.75 },
+    { "type": "image", "image": "nmecha_aktion.jpg", "name": "Felix Nmecha", "role": "Sechser · 25", "weight": 0.75 },
+    { "type": "stats", "title": "Zahlen", "stats": [ { "label": "Länderspiele", "value": "70" }, { "label": "WM-Minuten 2026", "value": "27" }, { "label": "CL-Titel", "value": "2020" } ], "image": "team_2026.jpg", "weight": 0.9 },
+    { "type": "image", "image": "allianz_arena_tag.jpg", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann_pk.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "kimmich_kapitaen.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 31", "weight": 0.8 },
+    { "type": "image", "image": "wm_pokal.jpg", "weight": 0.85 },
+    { "type": "outro", "title": "Verdient er mehr Einsatzzeit?", "subtitle": "Oder hat Nagelsmann recht? Sag's in den Kommentaren!", "image": "metlife_stadium.jpg", "weight": 1.0 }
+  ]
+}
