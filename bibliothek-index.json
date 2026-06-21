@@ -1,0 +1,2368 @@
+{
+  "version": 1,
+  "aktualisiert": "2026-06-20",
+  "anzahl": 183,
+  "hinweis": "Reduzierter Index (nur datei/kategorie/tags/personen) fuer die Cloud-Routine: nur Motive/search-Begriffe waehlen, die hier vorkommen.",
+  "bilder": [
+    {
+      "datei": "spieler/musiala_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "musiala",
+        "aktion",
+        "zweikampf",
+        "supercup",
+        "2022"
+      ],
+      "personen": [
+        "Jamal Musiala"
+      ]
+    },
+    {
+      "datei": "spieler/wirtz_portrait_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "wirtz",
+        "portrait",
+        "leverkusen",
+        "2022"
+      ],
+      "personen": [
+        "Florian Wirtz"
+      ]
+    },
+    {
+      "datei": "spieler/wirtz_training_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "wirtz",
+        "training",
+        "liverpool",
+        "2026",
+        "aktuell"
+      ],
+      "personen": [
+        "Florian Wirtz"
+      ]
+    },
+    {
+      "datei": "spieler/havertz_2026_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "havertz",
+        "aktion",
+        "spielszene",
+        "arsenal",
+        "2026",
+        "aktuell",
+        "weitwinkel"
+      ],
+      "personen": [
+        "Kai Havertz"
+      ]
+    },
+    {
+      "datei": "spieler/kimmich_training_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "kimmich",
+        "kapitaen",
+        "training",
+        "bayern",
+        "2017"
+      ],
+      "personen": [
+        "Joshua Kimmich"
+      ]
+    },
+    {
+      "datei": "spieler/neuer_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "neuer",
+        "torwart",
+        "parade",
+        "2021",
+        "klein"
+      ],
+      "personen": [
+        "Manuel Neuer"
+      ]
+    },
+    {
+      "datei": "spieler/woltemade_portrait_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "woltemade",
+        "portrait",
+        "newcastle",
+        "2026",
+        "aktuell"
+      ],
+      "personen": [
+        "Nick Woltemade"
+      ]
+    },
+    {
+      "datei": "spieler/woltemade_portrait_02.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "woltemade",
+        "training",
+        "newcastle",
+        "2026",
+        "aktuell"
+      ],
+      "personen": [
+        "Nick Woltemade"
+      ]
+    },
+    {
+      "datei": "spieler/sane_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "sane",
+        "aktion",
+        "2025"
+      ],
+      "personen": [
+        "Leroy Sané"
+      ]
+    },
+    {
+      "datei": "spieler/schlotterbeck_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "schlotterbeck",
+        "aktion",
+        "dortmund",
+        "2023"
+      ],
+      "personen": [
+        "Nico Schlotterbeck"
+      ]
+    },
+    {
+      "datei": "spieler/ruediger_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "ruediger",
+        "jubel",
+        "gruppe",
+        "real_madrid",
+        "2023",
+        "person_nicht_zentral"
+      ],
+      "personen": [
+        "Antonio Rüdiger"
+      ]
+    },
+    {
+      "datei": "spieler/pavlovic_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "pavlovic",
+        "aktion",
+        "bayern",
+        "2026",
+        "aktuell"
+      ],
+      "personen": [
+        "Aleksandar Pavlović"
+      ]
+    },
+    {
+      "datei": "spieler/goretzka_training_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "goretzka",
+        "training",
+        "bayern",
+        "2019"
+      ],
+      "personen": [
+        "Leon Goretzka"
+      ]
+    },
+    {
+      "datei": "spieler/karl_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "karl",
+        "jubel",
+        "gruppe",
+        "bayern",
+        "2026",
+        "person_nicht_zentral"
+      ],
+      "personen": [
+        "Lennart Karl"
+      ]
+    },
+    {
+      "datei": "stadien/metlife_stadium_aussen_01.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "metlife",
+        "new_york",
+        "wm26_finale",
+        "aussen",
+        "spielort"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "stadien/sofi_stadium_01.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "sofi",
+        "los_angeles",
+        "innen",
+        "spielort"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "stadien/azteca_stadion_01.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "azteca",
+        "mexiko_stadt",
+        "aussen",
+        "spielort",
+        "eroeffnungsspiel"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "stadien/azteca_stadion_02.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "azteca",
+        "mexiko_stadt",
+        "innen",
+        "spielort",
+        "2026",
+        "aktuell"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "stadien/att_stadium_01.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "att_stadium",
+        "dallas",
+        "aussen",
+        "spielort",
+        "abend"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "stadien/hard_rock_stadium_01.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "hard_rock",
+        "miami",
+        "innen",
+        "spielort"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "stadien/allianz_arena_01.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "allianz_arena",
+        "muenchen",
+        "nacht",
+        "heimat",
+        "kein_wm26_spielort"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "pokal/wm_pokal_vitrine_01.jpg",
+      "kategorie": "pokal",
+      "tags": [
+        "pokal",
+        "wm_pokal",
+        "vitrine",
+        "gold",
+        "nahaufnahme"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "pokal/wm_pokal_museum_01.jpg",
+      "kategorie": "pokal",
+      "tags": [
+        "pokal",
+        "wm_pokal",
+        "fifa_museum",
+        "zuerich"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "team/team_aufstellung_2018_01.jpg",
+      "kategorie": "team",
+      "tags": [
+        "team",
+        "aufstellung",
+        "mannschaftsfoto",
+        "2018",
+        "aelter"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "team/deutschland-teamfoto-2026-hochkant.jpg",
+      "kategorie": "team",
+      "tags": [
+        "team",
+        "aufstellung",
+        "mannschaftsfoto",
+        "2026",
+        "aelter",
+        "aktuell",
+        "hochkant",
+        "deutschland"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "fans/fanmeile_berlin_2014_01.jpg",
+      "kategorie": "fans",
+      "tags": [
+        "fans",
+        "fanmeile",
+        "berlin",
+        "public_viewing",
+        "menschenmenge",
+        "2014"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "fans/fanzone_brandenburger_tor_01.jpg",
+      "kategorie": "fans",
+      "tags": [
+        "fans",
+        "fanzone",
+        "brandenburger_tor",
+        "berlin",
+        "2024"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "fans/fans_tribuene_euro12_01.jpg",
+      "kategorie": "fans",
+      "tags": [
+        "fans",
+        "tribuene",
+        "deutschland_flagge",
+        "stadion",
+        "2012"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "symbole/deutschland_flagge_bodensee_01.jpg",
+      "kategorie": "symbole",
+      "tags": [
+        "flagge",
+        "deutschland",
+        "schwarz_rot_gold",
+        "hochkant"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "symbole/deutschland_flagge_berlin_01.jpg",
+      "kategorie": "symbole",
+      "tags": [
+        "flagge",
+        "deutschland",
+        "reichstag",
+        "berlin",
+        "abend"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "sonstiges/wm26_vancouver_01.jpg",
+      "kategorie": "sonstiges",
+      "tags": [
+        "wm26",
+        "vancouver",
+        "spielort_stadt",
+        "stimmung",
+        "2026",
+        "aktuell"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "sonstiges/wm26_draw_reception_01.jpg",
+      "kategorie": "sonstiges",
+      "tags": [
+        "wm26",
+        "trionda",
+        "ball",
+        "auslosung",
+        "2026",
+        "aktuell"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "stadien/deutsche_bank_park_frankfurt_stadium_auto_01.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "deutsche",
+        "bank",
+        "park",
+        "frankfurt",
+        "stadium",
+        "auto-import"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/pavlovic_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "pavlovic",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Aleksandar Pavlović"
+      ]
+    },
+    {
+      "datei": "spieler/nuebel_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "nuebel",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Alexander Nübel"
+      ]
+    },
+    {
+      "datei": "spieler/stiller_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "stiller",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Angelo Stiller"
+      ]
+    },
+    {
+      "datei": "spieler/ruediger_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "ruediger",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Antonio Rüdiger"
+      ]
+    },
+    {
+      "datei": "spieler/raum_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "raum",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "David Raum"
+      ]
+    },
+    {
+      "datei": "spieler/undav_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "undav",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Deniz Undav"
+      ]
+    },
+    {
+      "datei": "spieler/nmecha_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "nmecha",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Felix Nmecha"
+      ]
+    },
+    {
+      "datei": "spieler/wirtz_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "wirtz",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Florian Wirtz"
+      ]
+    },
+    {
+      "datei": "spieler/ouedraogo_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "ouedraogo",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Assan Ouédraogo"
+      ]
+    },
+    {
+      "datei": "spieler/leweling_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "leweling",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Jamie Leweling"
+      ]
+    },
+    {
+      "datei": "spieler/tah_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "tah",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Jonathan Tah"
+      ]
+    },
+    {
+      "datei": "spieler/kimmich_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "kimmich",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Joshua Kimmich"
+      ]
+    },
+    {
+      "datei": "spieler/havertz_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "havertz",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Kai Havertz"
+      ]
+    },
+    {
+      "datei": "spieler/goretzka_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "goretzka",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Leon Goretzka"
+      ]
+    },
+    {
+      "datei": "spieler/sane_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "sane",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Leroy Sané"
+      ]
+    },
+    {
+      "datei": "spieler/thiaw_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "thiaw",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Malick Thiaw"
+      ]
+    },
+    {
+      "datei": "spieler/beier_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "beier",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Maximilian Beier"
+      ]
+    },
+    {
+      "datei": "spieler/woltemade_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "woltemade",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Nick Woltemade"
+      ]
+    },
+    {
+      "datei": "spieler/schlotterbeck_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "schlotterbeck",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Nico Schlotterbeck"
+      ]
+    },
+    {
+      "datei": "spieler/baumann_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "baumann",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Oliver Baumann"
+      ]
+    },
+    {
+      "datei": "spieler/gross_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "gross",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Pascal Groß"
+      ]
+    },
+    {
+      "datei": "spieler/anton_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "anton",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Waldemar Anton"
+      ]
+    },
+    {
+      "datei": "spieler/brown_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "brown",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Nathaniel Brown"
+      ]
+    },
+    {
+      "datei": "spieler/musiala_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "musiala",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Jamal Musiala"
+      ]
+    },
+    {
+      "datei": "spieler/neuer_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "neuer",
+        "avatar",
+        "freisteller",
+        "trikot",
+        "dfb",
+        "transparent"
+      ],
+      "personen": [
+        "Manuel Neuer"
+      ]
+    },
+    {
+      "datei": "symbole/ball_schwarz_rot_gold_01.jpg",
+      "kategorie": "symbole",
+      "tags": [
+        "ball",
+        "schwarz-rot-gold",
+        "eckfahne",
+        "deutschland",
+        "rasen"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "symbole/cote_divoire_globus_01.png",
+      "kategorie": "symbole",
+      "tags": [
+        "cote-divoire",
+        "elfenbeinkueste",
+        "globus",
+        "karte",
+        "gegner"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "fans/deutschland_fans_01.jpg",
+      "kategorie": "fans",
+      "tags": [
+        "fans",
+        "deutschland",
+        "stimmung",
+        "fahnen"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "symbole/ecuador_flaggenkarte_01.png",
+      "kategorie": "symbole",
+      "tags": [
+        "ecuador",
+        "flagge",
+        "karte",
+        "gegner"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "fans/public_viewing_entsetzen_01.jpg",
+      "kategorie": "fans",
+      "tags": [
+        "fans",
+        "public-viewing",
+        "entsetzen",
+        "emotion",
+        "wm2018",
+        "hamburg"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "fans/public_viewing_hoffen_01.jpg",
+      "kategorie": "fans",
+      "tags": [
+        "fans",
+        "public-viewing",
+        "hoffen",
+        "spannung",
+        "wm2018",
+        "hamburg"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "fans/jubelnde_menge_sw_01.jpg",
+      "kategorie": "fans",
+      "tags": [
+        "fans",
+        "jubel",
+        "stadion",
+        "schwarz-weiss",
+        "menge"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "symbole/usa_flagge_01.jpg",
+      "kategorie": "symbole",
+      "tags": [
+        "usa",
+        "flagge",
+        "gastgeber",
+        "wm26"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "pokal/pokal_goldener_fussballer_01.jpg",
+      "kategorie": "pokal",
+      "tags": [
+        "pokal",
+        "gold",
+        "trophae",
+        "fussballer"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "fans/public_viewing_fanpark_01.jpg",
+      "kategorie": "fans",
+      "tags": [
+        "fans",
+        "public-viewing",
+        "fanpark",
+        "wm2018",
+        "hamburg"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/jonathan_tah_germany_2024_auto_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "jonathan",
+        "tah",
+        "germany",
+        "2024",
+        "auto-import"
+      ],
+      "personen": [
+        "Jonathan Tah"
+      ]
+    },
+    {
+      "datei": "spieler/matthaeus_portrait_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "matthaeus",
+        "legende",
+        "experte",
+        "rekordnationalspieler",
+        "portrait"
+      ],
+      "personen": [
+        "Lothar Matthäus"
+      ]
+    },
+    {
+      "datei": "stadien/nrg_stadium_houston_texas_auto_01.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "nrg",
+        "stadium",
+        "houston",
+        "texas",
+        "auto-import"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/nagelsmann_portrait_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "nagelsmann",
+        "bundestrainer",
+        "trainer",
+        "coach",
+        "portrait",
+        "dfb",
+        "2026"
+      ],
+      "personen": [
+        "Julian Nagelsmann"
+      ]
+    },
+    {
+      "datei": "spieler/baumann_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "baumann",
+        "torwart",
+        "hoffenheim",
+        "aktion"
+      ],
+      "personen": [
+        "Oliver Baumann"
+      ]
+    },
+    {
+      "datei": "spieler/nmecha_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "nmecha",
+        "aktion",
+        "wolfsburg",
+        "training"
+      ],
+      "personen": [
+        "Felix Nmecha"
+      ]
+    },
+    {
+      "datei": "spieler/tahith_chong_curacao_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "chong",
+        "curacao",
+        "gegner",
+        "aktion"
+      ],
+      "personen": [
+        "Tahith Chong"
+      ]
+    },
+    {
+      "datei": "spieler/hoeness_portrait_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "hoeness",
+        "bayern",
+        "praesident",
+        "legende",
+        "experte",
+        "portrait"
+      ],
+      "personen": [
+        "Uli Hoeneß"
+      ]
+    },
+    {
+      "datei": "sonstiges/advocaat_curacao_trainer_01.jpg",
+      "kategorie": "sonstiges",
+      "tags": [
+        "advocaat",
+        "curacao",
+        "trainer",
+        "gegner",
+        "gruppe_e"
+      ],
+      "personen": [
+        "Dick Advocaat"
+      ]
+    },
+    {
+      "datei": "stadien/bmo_field_toronto_01.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "bmo_field",
+        "toronto",
+        "kanada",
+        "spielort",
+        "wm26"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "stadien/soldier_field_chicago_01.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "soldier_field",
+        "chicago",
+        "spielort",
+        "wm26"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "stadien/signal_iduna_park_dortmund_01.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "signal_iduna",
+        "dortmund",
+        "stadion",
+        "heimat",
+        "kein_wm26_spielort"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "stadien/allianz_arena_02.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "allianz_arena",
+        "muenchen",
+        "tag",
+        "aussen",
+        "kein_wm26_spielort"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "stadien/stadion_nacht_houston_01.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "houston",
+        "stadion",
+        "nacht",
+        "atmosphaere"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "sonstiges/houston_skyline_01.jpg",
+      "kategorie": "sonstiges",
+      "tags": [
+        "houston",
+        "skyline",
+        "spielort_stadt",
+        "texas"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "sonstiges/winston_salem_basecamp_01.jpg",
+      "kategorie": "sonstiges",
+      "tags": [
+        "winston_salem",
+        "basecamp",
+        "dfb_quartier",
+        "north_carolina"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "pokal/wm_pokal_staender_01.jpg",
+      "kategorie": "pokal",
+      "tags": [
+        "pokal",
+        "wm_pokal",
+        "gold",
+        "trophae"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "fans/pyro_stimmung_01.jpg",
+      "kategorie": "fans",
+      "tags": [
+        "fans",
+        "pyro",
+        "stimmung",
+        "rauch",
+        "tribuene"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/tah_aktion_02.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "tah",
+        "innenverteidiger",
+        "nationalmannschaft",
+        "dfb",
+        "bayern"
+      ],
+      "personen": [
+        "Jonathan Tah"
+      ]
+    },
+    {
+      "datei": "spieler/thiaw_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "thiaw",
+        "innenverteidiger",
+        "nationalmannschaft",
+        "dfb",
+        "ac milan",
+        "2025"
+      ],
+      "personen": [
+        "Malick Thiaw"
+      ]
+    },
+    {
+      "datei": "spieler/undav_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "undav",
+        "stürmer",
+        "nationalmannschaft",
+        "dfb",
+        "aktion"
+      ],
+      "personen": [
+        "Deniz Undav"
+      ]
+    },
+    {
+      "datei": "spieler/beier_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "beier",
+        "stürmer",
+        "nationalmannschaft",
+        "dfb",
+        "dortmund",
+        "training"
+      ],
+      "personen": [
+        "Maximilian Beier"
+      ]
+    },
+    {
+      "datei": "spieler/raum_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "raum",
+        "linksverteidiger",
+        "nationalmannschaft",
+        "dfb",
+        "leipzig",
+        "aktion"
+      ],
+      "personen": [
+        "David Raum"
+      ]
+    },
+    {
+      "datei": "spieler/gross_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "gross",
+        "mittelfeld",
+        "nationalmannschaft",
+        "dfb",
+        "portrait"
+      ],
+      "personen": [
+        "Pascal Groß"
+      ]
+    },
+    {
+      "datei": "spieler/anton_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "anton",
+        "innenverteidiger",
+        "nationalmannschaft",
+        "dfb",
+        "dortmund",
+        "portrait"
+      ],
+      "personen": [
+        "Waldemar Anton"
+      ]
+    },
+    {
+      "datei": "spieler/stiller_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "stiller",
+        "mittelfeld",
+        "nationalmannschaft",
+        "dfb",
+        "stuttgart",
+        "portrait"
+      ],
+      "personen": [
+        "Angelo Stiller"
+      ]
+    },
+    {
+      "datei": "spieler/gnabry_aktion_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "gnabry",
+        "flügelspieler",
+        "nationalmannschaft",
+        "dfb",
+        "bayern",
+        "training"
+      ],
+      "personen": [
+        "Serge Gnabry"
+      ]
+    },
+    {
+      "datei": "sonstiges/ecuador_valencia_01.jpg",
+      "kategorie": "sonstiges",
+      "tags": [
+        "ecuador",
+        "gruppengegner",
+        "wm2026",
+        "valencia",
+        "stürmer",
+        "südamerika",
+        "portrait"
+      ],
+      "personen": [
+        "Enner Valencia"
+      ]
+    },
+    {
+      "datei": "stadien/metlife_stadium_innen_01.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "metlife",
+        "new jersey",
+        "east rutherford",
+        "wm2026",
+        "usa",
+        "spielort",
+        "finale",
+        "innen"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "stadien/lincoln_financial_field_01.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "lincoln financial field",
+        "philadelphia",
+        "pennsylvania",
+        "wm2026",
+        "usa",
+        "spielort"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "stadien/nrg_stadium_01.jpg",
+      "kategorie": "stadien",
+      "tags": [
+        "nrg stadium",
+        "houston",
+        "texas",
+        "wm2026",
+        "usa",
+        "spielort",
+        "innen"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "symbole/wm2026_mural_01.jpg",
+      "kategorie": "symbole",
+      "tags": [
+        "wm2026",
+        "mural",
+        "usa",
+        "branding",
+        "stimmung",
+        "san francisco",
+        "wandbild"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "team/deutschland-teamfoto-schweiz-laenderspiel-2026.jpg",
+      "kategorie": "team",
+      "tags": [
+        "team",
+        "aufstellung",
+        "mannschaftsfoto",
+        "laenderspiel",
+        "schweiz",
+        "2026",
+        "hochkant",
+        "deutschland"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/neuer_beim_aufwaermen_geben_cu_01.png",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "neuer",
+        "aufwärmen",
+        "geben",
+        "curacao"
+      ],
+      "personen": [
+        "Manuel Neuer"
+      ]
+    },
+    {
+      "datei": "sonstiges/deutschland_curacao_spieltafel_01.jpg",
+      "kategorie": "sonstiges",
+      "tags": [
+        "sonstiges",
+        "deutschland",
+        "curacao",
+        "spieltafel",
+        "spieler",
+        "vordergrund",
+        "aufwärmen"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/kimich_gegen_curacao_in_aktion_01.webp",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "kimich",
+        "curacao",
+        "aktion"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/musiala_gegen_curacao_in_aktio_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "musiala",
+        "curacao",
+        "aktion"
+      ],
+      "personen": [
+        "Jamal Musiala"
+      ]
+    },
+    {
+      "datei": "symbole/deutschlandtriko_wm26_weiss_01.webp",
+      "kategorie": "symbole",
+      "tags": [
+        "symbole",
+        "deutschlandtriko",
+        "weiß"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/elfenbeinkueste_spieler_torjub_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "elfenbeinküste",
+        "spieler",
+        "torjubel"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "symbole/elfenbein_fussball_logo_01.png",
+      "kategorie": "symbole",
+      "tags": [
+        "symbole",
+        "elfenbein",
+        "fussball",
+        "logo"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/ecuador_spieler_aktion_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "ecuador",
+        "spieler",
+        "aktion"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/ecuador_torjubel_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "ecuador",
+        "torjubel"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "symbole/ecuador_triko_01.jpeg",
+      "kategorie": "symbole",
+      "tags": [
+        "symbole",
+        "ecuador",
+        "triko"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/Sebastion_Haller_elfenbeinkueste_torjub_02.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "elfenbeinküste",
+        "spieler",
+        "torjubel"
+      ],
+      "personen": [
+        "Sebastian Haller"
+      ]
+    },
+    {
+      "datei": "stadien/toronto_wm_stadion_von_innen_01.jpeg",
+      "kategorie": "stadien",
+      "tags": [
+        "stadien",
+        "toronto",
+        "stadion",
+        "innen"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "stadien/toronto_wm_stadion_von_aussen_01.jpeg",
+      "kategorie": "stadien",
+      "tags": [
+        "stadien",
+        "toronto",
+        "stadion",
+        "außen"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "sonstiges/juergen_klopp_01.jpg",
+      "kategorie": "sonstiges",
+      "tags": [
+        "sonstiges",
+        "jürgen",
+        "klopp"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/wirtz_jubel_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "wirtz",
+        "jubel",
+        "dfb"
+      ],
+      "personen": [
+        "Florian Wirtz"
+      ]
+    },
+    {
+      "datei": "symbole/wm2026_logo_01.webp",
+      "kategorie": "symbole",
+      "tags": [
+        "symbole",
+        "logo"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/nagelsmann_pressekonverenz_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "nagelsmann",
+        "pressekonverenz",
+        "dfb",
+        "2026"
+      ],
+      "personen": [
+        "Julian Nagelsmann"
+      ]
+    },
+    {
+      "datei": "spieler/hincapie_ecuador_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "hincapie",
+        "ecuador"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "symbole/ecuador_fahne_01.jpeg",
+      "kategorie": "symbole",
+      "tags": [
+        "symbole",
+        "ecuador",
+        "fahne"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "fans/elfenbeinkueste_fahne_01.jpeg",
+      "kategorie": "fans",
+      "tags": [
+        "fans",
+        "elfenbeinküste",
+        "fahne"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/nagelsmann_in_aktion_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "nagelsmann",
+        "aktion",
+        "dfb",
+        "2026"
+      ],
+      "personen": [
+        "Julian Nagelsmann"
+      ]
+    },
+    {
+      "datei": "spieler/wirtz_presse_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "wirtz",
+        "presse"
+      ],
+      "personen": [
+        "Florian Wirtz"
+      ]
+    },
+    {
+      "datei": "symbole/wm_usa_masskotschen_01.jpg",
+      "kategorie": "symbole",
+      "tags": [
+        "symbole",
+        "usa",
+        "masskotschen"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/ruediger_kopfball_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "rüdiger",
+        "kopfball",
+        "ruediger"
+      ],
+      "personen": [
+        "Antonio Rüdiger"
+      ]
+    },
+    {
+      "datei": "symbole/wm_masskotschen_01.jpg",
+      "kategorie": "symbole",
+      "tags": [
+        "symbole",
+        "masskotschen"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/caicedo_elfenbeinkueste_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "caicedo",
+        "elfenbeinküste"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/amad_diallo_elfenbeinkueste_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "amad",
+        "diallo",
+        "elfenbeinküste"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "fans/tribuene_leer_01.jpg",
+      "kategorie": "fans",
+      "tags": [
+        "fans",
+        "tribüne",
+        "leer"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/lukas_podolski_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "lukas",
+        "podolski",
+        "dfb"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/yan_diomand_elfenbeinkueste_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "yan",
+        "Diomandé",
+        "elfenbeinküste"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/nagelsmann_im_training_mit_bal_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "nagelsmann",
+        "training",
+        "ball",
+        "dfb",
+        "2026"
+      ],
+      "personen": [
+        "Julian Nagelsmann"
+      ]
+    },
+    {
+      "datei": "spieler/nagelsmann_pressekonverenz_01.webp",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "nagelsmann",
+        "pressekonverenz",
+        "dfb",
+        "2026"
+      ],
+      "personen": [
+        "Julian Nagelsmann"
+      ]
+    },
+    {
+      "datei": "spieler/nagelsmann_trainerbesprechung__01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "nagelsmann",
+        "trainerbesprechung",
+        "bank",
+        "coach",
+        "dfb",
+        "2026"
+      ],
+      "personen": [
+        "Julian Nagelsmann"
+      ]
+    },
+    {
+      "datei": "spieler/nagelsmann_privat_fahrrad_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "nagelsmann",
+        "privat",
+        "fahrrad",
+        "dfb",
+        "2026"
+      ],
+      "personen": [
+        "Julian Nagelsmann"
+      ]
+    },
+    {
+      "datei": "spieler/nagelsmann_umarmt_sane_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "nagelsmann",
+        "umarmt",
+        "sane",
+        "emotion",
+        "jubel",
+        "dfb",
+        "2026"
+      ],
+      "personen": [
+        "Julian Nagelsmann",
+        "Leroy Sané"
+      ]
+    },
+    {
+      "datei": "spieler/tah_spielszene_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "tah",
+        "spielszene",
+        "dfb"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/schlotterbeck_klatschen_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "schlotterbeck",
+        "klatschen"
+      ],
+      "personen": [
+        "Nico Schlotterbeck"
+      ]
+    },
+    {
+      "datei": "spieler/neuer_parade_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "neuer",
+        "parade"
+      ],
+      "personen": [
+        "Manuel Neuer"
+      ]
+    },
+    {
+      "datei": "spieler/wirtz_zweikampf_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "wirtz",
+        "zweikampf"
+      ],
+      "personen": [
+        "Florian Wirtz"
+      ]
+    },
+    {
+      "datei": "spieler/ruediger_tah_im_spiel_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "rüdiger",
+        "tah",
+        "spiel",
+        "ruediger"
+      ],
+      "personen": [
+        "Antonio Rüdiger"
+      ]
+    },
+    {
+      "datei": "spieler/kimmich_kapitaensbinde_01.webp",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "kimmich",
+        "kapitänsbinde"
+      ],
+      "personen": [
+        "Joshua Kimmich"
+      ]
+    },
+    {
+      "datei": "spieler/neuer_parade_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "neuer",
+        "parade",
+        "dfb"
+      ],
+      "personen": [
+        "Manuel Neuer"
+      ]
+    },
+    {
+      "datei": "spieler/wirtz_jubel_01.webp",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "wirtz",
+        "jubel"
+      ],
+      "personen": [
+        "Florian Wirtz"
+      ]
+    },
+    {
+      "datei": "spieler/ruediger_im_training_01.webp",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "rüdiger",
+        "training",
+        "ruediger"
+      ],
+      "personen": [
+        "Antonio Rüdiger"
+      ]
+    },
+    {
+      "datei": "spieler/ruediger_aufgeregt_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "rüdiger",
+        "aufgeregt",
+        "ruediger"
+      ],
+      "personen": [
+        "Antonio Rüdiger"
+      ]
+    },
+    {
+      "datei": "spieler/neuer_pressekonverenz_dfb_01.webp",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "neuer",
+        "pressekonverenz",
+        "dfb"
+      ],
+      "personen": [
+        "Manuel Neuer"
+      ]
+    },
+    {
+      "datei": "spieler/beier_dfb_spielszene_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "beier",
+        "dfb",
+        "spielszene"
+      ],
+      "personen": [
+        "Max Beier"
+      ]
+    },
+    {
+      "datei": "spieler/schlotterbeck_torjubel_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "schlotterbeck",
+        "torjubel",
+        "dfb"
+      ],
+      "personen": [
+        "Nico Schlotterbeck"
+      ]
+    },
+    {
+      "datei": "spieler/baumann_training_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "baumann",
+        "training",
+        "dfb"
+      ],
+      "personen": [
+        "Oliver Baumann"
+      ]
+    },
+    {
+      "datei": "spieler/havertz_torjubel_01.webp",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "havertz",
+        "torjubel"
+      ],
+      "personen": [
+        "Kai Havertz"
+      ]
+    },
+    {
+      "datei": "spieler/sane_im_training_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "sane",
+        "training"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/kimmich_training_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "kimmich",
+        "training",
+        "dfb"
+      ],
+      "personen": [
+        "Joshua Kimmich"
+      ]
+    },
+    {
+      "datei": "spieler/neuer_mit_ball_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "neuer",
+        "ball"
+      ],
+      "personen": [
+        "Manuel Neuer"
+      ]
+    },
+    {
+      "datei": "spieler/undav_training_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "undav",
+        "training",
+        "dfb"
+      ],
+      "personen": [
+        "Deniz Undav"
+      ]
+    },
+    {
+      "datei": "spieler/pavlovic_spielszene_dfb_01.webp",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "pavlovic",
+        "spielszene",
+        "dfb"
+      ],
+      "personen": [
+        "Aleksandar Pavlović"
+      ]
+    },
+    {
+      "datei": "spieler/nagelsmann_pavlovic_besprechun_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "nagelsmann",
+        "pavlovic",
+        "besprechung",
+        "dfb"
+      ],
+      "personen": [
+        "Aleksandar Pavlović",
+        "Julian Nagelsmann"
+      ]
+    },
+    {
+      "datei": "spieler/wirtz_presse_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "wirtz",
+        "presse"
+      ],
+      "personen": [
+        "Florian Wirtz"
+      ]
+    },
+    {
+      "datei": "spieler/ruediger_nahaufnahme_01.webp",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "rüdiger",
+        "nahaufnahme",
+        "ruediger"
+      ],
+      "personen": [
+        "Antonio Rüdiger"
+      ]
+    },
+    {
+      "datei": "spieler/sane_dfb_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "sane",
+        "dfb"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/neuer_aufwaermen_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "neuer",
+        "aufwärmen",
+        "dfb"
+      ],
+      "personen": [
+        "Manuel Neuer"
+      ]
+    },
+    {
+      "datei": "spieler/sane_kimmich_jubel_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "sane",
+        "kimmich",
+        "jubel"
+      ],
+      "personen": [
+        "Joshua Kimmich"
+      ]
+    },
+    {
+      "datei": "spieler/neuer_baumann_training_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "neuer",
+        "baumann",
+        "training",
+        "dfb"
+      ],
+      "personen": [
+        "Manuel Neuer",
+        "Oliver Baumann"
+      ]
+    },
+    {
+      "datei": "spieler/woltemade_jubel_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "woltemade",
+        "jubel"
+      ],
+      "personen": [
+        "Nick Woltemade"
+      ]
+    },
+    {
+      "datei": "spieler/schlotterbeck_geschockt_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "schlotterbeck",
+        "geschockt",
+        "dfb"
+      ],
+      "personen": [
+        "Nico Schlotterbeck"
+      ]
+    },
+    {
+      "datei": "spieler/baumann_spielszene_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "baumann",
+        "spielszene",
+        "dfb"
+      ],
+      "personen": [
+        "Oliver Baumann"
+      ]
+    },
+    {
+      "datei": "spieler/sane_spielszene_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "sane",
+        "spielszene",
+        "dfb"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/undav_dfb_training_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "undav",
+        "dfb",
+        "training"
+      ],
+      "personen": [
+        "Deniz Undav"
+      ]
+    },
+    {
+      "datei": "spieler/havertz_training_dfb_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "havertz",
+        "training",
+        "dfb"
+      ],
+      "personen": [
+        "Kai Havertz"
+      ]
+    },
+    {
+      "datei": "spieler/tah_spielszene_dfb_02.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "tah",
+        "spielszene",
+        "dfb"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/kimmich_dfb_kapitaen_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "kimmich",
+        "dfb",
+        "kapitaen"
+      ],
+      "personen": [
+        "Joshua Kimmich"
+      ]
+    },
+    {
+      "datei": "spieler/neuer_presse_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "neuer",
+        "presse",
+        "dfb"
+      ],
+      "personen": [
+        "Manuel Neuer"
+      ]
+    },
+    {
+      "datei": "spieler/havertz_torjubel_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "havertz",
+        "torjubel",
+        "dfb"
+      ],
+      "personen": [
+        "Kai Havertz"
+      ]
+    },
+    {
+      "datei": "spieler/musiala_torjubel_dfb_01.webp",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "musiala",
+        "torjubel",
+        "dfb"
+      ],
+      "personen": [
+        "Jamal Musiala"
+      ]
+    },
+    {
+      "datei": "spieler/nmecha_spielszene_dfb_curacao_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "nmecha",
+        "spielszene",
+        "dfb",
+        "curacao"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/nathaniel_brown_spielszene_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "nathaniel",
+        "brown",
+        "spielszene",
+        "dfb"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/nathaniel_brown_jubel_dfb_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "nathaniel",
+        "brown",
+        "jubel",
+        "dfb"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/nicolas_p_p_elfenbeinkueste_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "nicolas",
+        "elfenbeinküste",
+        "schlotterbeck"
+      ],
+      "personen": [
+        "Nico Schlotterbeck"
+      ]
+    },
+    {
+      "datei": "spieler/nicolas_p_p_jubel_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "nicolas",
+        "jubel",
+        "schlotterbeck"
+      ],
+      "personen": [
+        "Nico Schlotterbeck"
+      ]
+    },
+    {
+      "datei": "spieler/messi_jubel_01.jpeg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "messi",
+        "jubel"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/messi_vor_dem_spiel_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "messi",
+        "spiel"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/klose_mit_ball_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "klose",
+        "ball"
+      ],
+      "personen": []
+    },
+    {
+      "datei": "spieler/miroslav_klose_jubel_dfb_01.jpg",
+      "kategorie": "spieler",
+      "tags": [
+        "spieler",
+        "miroslav",
+        "klose",
+        "jubel",
+        "dfb"
+      ],
+      "personen": []
+    }
+  ]
+}

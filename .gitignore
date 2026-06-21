@@ -1,0 +1,4 @@
+# Lokale Merkliste des Mac (welche queue-Dateien schon in die inbox kopiert
+# wurden) – gehört NICHT ins Repo.
+.ingested.txt
+.DS_Store
