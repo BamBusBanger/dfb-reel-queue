@@ -1,0 +1,42 @@
+{
+  "slug": "ecuador-patzt-dfb-gruppensieger",
+  "createdAt": "2026-06-21T13:17:13Z",
+  "title": "Gruppensieger ohne eigenes Spiel",
+  "script": "GRUPPENSIEGER, OHNE SELBST ZU SPIELEN! Ecuador patzt sensationell: 0:0 gegen Curaçao, 29 Schüsse, kein einziges Tor. Curaçaos Torhüter Eloy Room hält alles – historischer erster WM-Punkt für die Insel! Das Ergebnis macht Deutschland nach den Siegen 7:1 und 2:1 schon jetzt zum Gruppensieger der Gruppe E, ganz ohne eigenen Anpfiff. Nagelsmanns Team ist längst im Achtelfinale, das letzte Gruppenspiel gegen Ecuador am 25. Juni im MetLife Stadium wird zur Formsache. Für Ecuador zählt jeder Punkt, für Deutschland nur noch der Feinschliff. Schont Nagelsmann jetzt seine Stars oder gibt er volle Power?",
+  "uploadCaption": "Deutschland ist schon Gruppensieger der Gruppe E – noch bevor das eigene Spiel überhaupt angepfiffen wurde. Ecuador patzt mit 0:0 gegen Curaçao (29 Schüsse, 0 Tore), Nagelsmanns Elf braucht gegen Ecuador am 25.6. nur noch Formsache zu spielen.",
+  "uploadHashtags": "#DFB #WM2026 #Nagelsmann #GruppeE #Ecuador #Gruppensieger",
+  "images": [
+    { "file": "ecuador.jpg", "search": "ecuador" },
+    { "file": "team.jpg", "search": "mannschaftsfoto" },
+    { "file": "valencia.jpg", "search": "Enner Valencia" },
+    { "file": "hincapie.jpg", "search": "hincapie" },
+    { "file": "spieltafel.jpg", "search": "spieltafel" },
+    { "file": "advocaat.jpg", "search": "advocaat" },
+    { "file": "chong.jpg", "search": "chong" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "sane.jpg", "search": "Leroy Sané" },
+    { "file": "metlife.jpg", "search": "metlife" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "GRUPPENSIEGER – OHNE EIN EIGENES SPIEL!", "image": "ecuador.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · GRUPPE E", "title": "DFB ist Gruppensieger!", "image": "team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "valencia.jpg", "name": "Enner Valencia", "role": "Kapitän · Ecuador, 36", "weight": 0.8 },
+    { "type": "image", "image": "hincapie.jpg", "name": "Piero Hincapié", "role": "Abwehr · Ecuador", "weight": 0.8 },
+    { "type": "stats", "title": "Ecuador-Pleite in Zahlen", "stats": [
+      { "label": "Schüsse", "value": "29" },
+      { "label": "Tore", "value": "0" },
+      { "label": "Punkte", "value": "1" }
+    ], "image": "spieltafel.jpg", "weight": 0.9 },
+    { "type": "image", "image": "advocaat.jpg", "name": "Dick Advocaat", "role": "Trainer · Curaçao, 78", "weight": 0.8 },
+    { "type": "image", "image": "chong.jpg", "name": "Tahith Chong", "role": "Curaçao · Mittelfeld", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · DFB", "weight": 0.8 },
+    { "type": "stats", "title": "Gruppe E Stand", "stats": [
+      { "label": "DFB", "value": "6 Pkt" },
+      { "label": "Elfenbeinküste", "value": "3 Pkt" },
+      { "label": "Ecuador", "value": "1 Pkt" }
+    ], "image": "sane.jpg", "weight": 0.9 },
+    { "type": "outro", "title": "Schonen oder volle Power?", "subtitle": "Deine Meinung in die Kommentare!", "image": "metlife.jpg", "weight": 1.0 }
+  ]
+}
