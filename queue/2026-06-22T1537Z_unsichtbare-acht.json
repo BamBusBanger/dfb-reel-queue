@@ -1,0 +1,40 @@
+{
+  "slug": "unsichtbare-acht",
+  "createdAt": "2026-06-22T15:37:05Z",
+  "title": "Die unsichtbare Acht",
+  "script": "8 SPIELER. 2 SPIELE. NULL MINUTEN. Acht Namen im DFB-Kader haben bei dieser WM noch keine einzige Sekunde auf dem Platz gestanden. Stürmer Nick Woltemade, die Mittelfeld-Profis Stiller, Groß und Nmecha, Offensivmann Leweling, Stürmer Beier – und sogar die Ersatztorhüter Baumann und Nübel. Acht von 26 Spielern, komplett unsichtbar. Dabei steht Deutschland schon als Gruppensieger fest. Gegen Ecuador am Donnerstag in East Rutherford hat Nagelsmann plötzlich Rotationsspielraum. Wer von den Acht verdient sich jetzt endlich seine Chance?",
+  "uploadCaption": "8 von 26 DFB-Spielern haben bei der WM 2026 noch keine einzige Minute gespielt – darunter Stürmer Nick Woltemade. Gegen Ecuador am Donnerstag in East Rutherford könnte sich das ändern: Als Gruppensieger hat Nagelsmann jetzt Rotationsspielraum. Wer bekommt seine Chance?",
+  "uploadHashtags": "#DFB #WM2026 #Woltemade #Nagelsmann #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "metlife.jpg",       "search": "MetLife Stadium East Rutherford" },
+    { "file": "team.jpg",         "search": "Deutschland Nationalmannschaft Teamfoto 2026" },
+    { "file": "woltemade.jpg",    "search": "Nick Woltemade" },
+    { "file": "stiller.jpg",      "search": "Angelo Stiller" },
+    { "file": "beier.jpg",        "search": "Maximilian Beier" },
+    { "file": "gross.jpg",        "search": "Pascal Groß" },
+    { "file": "nmecha.jpg",       "search": "Felix Nmecha" },
+    { "file": "leweling.jpg",     "search": "Jamie Leweling" },
+    { "file": "baumann.jpg",      "search": "Oliver Baumann" },
+    { "file": "ersatzbank.jpg",   "search": "Leere Ersatzbank im Flutlicht Stadion", "thematic": true },
+    { "file": "nagelsmann.jpg",   "search": "Julian Nagelsmann" },
+    { "file": "fans.jpg",         "search": "Deutschland Fans" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "8 SPIELER. 2 SPIELE. NULL MINUTEN.", "image": "metlife.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · GEHEIMNIS", "title": "Die unsichtbare Acht", "image": "team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "woltemade.jpg", "name": "Nick Woltemade", "role": "Stürmer · Newcastle", "weight": 0.8 },
+    { "type": "image", "image": "stiller.jpg",   "name": "Angelo Stiller", "role": "Mittelfeld · Stuttgart", "weight": 0.8 },
+    { "type": "image", "image": "beier.jpg",     "name": "Maximilian Beier", "role": "Stürmer · Dortmund", "weight": 0.8 },
+    { "type": "image", "image": "gross.jpg",     "name": "Pascal Groß", "role": "Mittelfeld · Dortmund", "weight": 0.8 },
+    { "type": "image", "image": "nmecha.jpg",    "name": "Felix Nmecha", "role": "Mittelfeld · Dortmund", "weight": 0.8 },
+    { "type": "image", "image": "leweling.jpg",  "name": "Jamie Leweling", "role": "Offensiv · Stuttgart", "weight": 0.8 },
+    { "type": "image", "image": "baumann.jpg",   "name": "Oliver Baumann", "role": "Ersatztorwart · Hoffenheim", "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen", "stats": [
+        { "label": "Ohne Einsatz", "value": "8" },
+        { "label": "WM-Spiele bisher", "value": "2" },
+        { "label": "Kadergröße", "value": "26" }
+      ], "image": "ersatzbank.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "outro", "title": "Wer von den 8 verdient seine Chance?", "subtitle": "Schreib den Namen in die Kommentare!", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
