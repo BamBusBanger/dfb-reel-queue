@@ -1,0 +1,34 @@
+{
+  "slug": "valencia-neuer-letzter-tanz",
+  "createdAt": "2026-06-22T19:37:17Z",
+  "title": "Valencia vs. Neuer: Duell der Veteranen",
+  "script": "Dreimal traf er nur den Pfosten – und trotzdem ist er Deutschlands größte Gefahr. Enner Valencia, 36, Ecuadors Kapitän und mit 49 Toren Rekordschütze seines Landes, hat bei sage und schreibe sechs verschiedenen Weltmeisterschafts-Spielen getroffen. Donnerstag, 22 Uhr, MetLife Stadium, trifft er auf Manuel Neuer, 40, der gerade mit seinem 21. WM-Spiel zum Rekordtorhüter wurde. Zwei Karrieren laufen auf ihren letzten WM-Auftritt zu – nur einer hält bis zum Schluss durch. Tah und Rüdiger sollen die deutsche Mauer halten. Wer gewinnt das Duell der Veteranen?",
+  "uploadCaption": "36 Jahre alt, Ecuadors Rekordschütze, dreimal nur den Pfosten getroffen – und trotzdem DFB-Gefahr Nr. 1 vor dem Gruppenfinale. Wer hält länger durch: der ewige Knipser Valencia oder die deutsche Mauer um Neuer?",
+  "uploadHashtags": "#DFB #WM2026 #Ecuador #ManuelNeuer #EnnerValencia #Fussball",
+  "images": [
+    { "file": "torpfosten.jpg", "search": "Fußball Torpfosten Nahaufnahme dramatisches Licht", "thematic": true },
+    { "file": "metlife.jpg", "search": "MetLife Stadium" },
+    { "file": "valencia.jpg", "search": "Enner Valencia" },
+    { "file": "ecuador-flagge.jpg", "search": "Ecuador Flagge" },
+    { "file": "ecuador-trikot.jpg", "search": "Ecuador Trikot" },
+    { "file": "neuer-parade.jpg", "search": "Manuel Neuer Parade" },
+    { "file": "neuer-presse.jpg", "search": "Manuel Neuer Pressekonferenz" },
+    { "file": "tah.jpg", "search": "Jonathan Tah" },
+    { "file": "ruediger.jpg", "search": "Antonio Rüdiger" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "deutschland-flagge.jpg", "search": "Deutschland Flagge Schwarz Rot Gold" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "DREIMAL NUR DEN PFOSTEN.", "image": "torpfosten.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · GRUPPE E", "title": "Duell der Veteranen", "image": "metlife.jpg", "weight": 0.7 },
+    { "type": "image", "image": "valencia.jpg", "name": "Enner Valencia", "role": "Kapitän Ecuador · 36", "weight": 0.8 },
+    { "type": "stats", "title": "Ecuadors Rekordmann", "stats": [{ "label": "Länderspiel-Tore", "value": "49" }, { "label": "WM-Tore", "value": "6" }], "image": "ecuador-flagge.jpg", "weight": 0.9 },
+    { "type": "image", "image": "ecuador-trikot.jpg", "weight": 0.8 },
+    { "type": "image", "image": "neuer-parade.jpg", "name": "Manuel Neuer", "role": "Torwart · 40", "weight": 0.8 },
+    { "type": "stats", "title": "Neuers Bestmarke", "stats": [{ "label": "WM-Spiele", "value": "21" }, { "label": "Länderspiele", "value": "125" }], "image": "neuer-presse.jpg", "weight": 0.9 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "Innenverteidiger · 30", "weight": 0.8 },
+    { "type": "image", "image": "ruediger.jpg", "name": "Antonio Rüdiger", "role": "Innenverteidiger · 33", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wer hält durch?", "subtitle": "Ewiger Knipser oder deutsche Mauer? Dein Tipp ⬇", "image": "deutschland-flagge.jpg", "weight": 1.0 }
+  ]
+}
