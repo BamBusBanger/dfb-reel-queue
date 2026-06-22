@@ -1,0 +1,38 @@
+{
+  "slug": "ruediger-statt-schlotterbeck",
+  "createdAt": "2026-06-22T17:37:20Z",
+  "title": "Rüdiger übernimmt",
+  "script": "Schlotterbeck raus – Panik? Grundlos. Antonio Rüdiger kam beim 2:1 gegen Elfenbeinküste zur Halbzeit, sammelte 35 Ballkontakte und spielte 97 Prozent seiner Pässe fehlerfrei. Nagelsmann lobt: 'sehr konzentriert'. Klopp im TV-Studio: kein einziger Ooops-Moment in 45 Minuten. Mit 83 Länderspielen und zwei Champions-League-Titeln bringt der 33-Jährige mehr internationale Erfahrung als der 26-jährige Schlotterbeck je sammeln konnte. Donnerstag gegen Ecuador steht er wohl von Beginn an neben Tah – kein Notnagel, sondern Aufwertung.",
+  "uploadCaption": "Schlotterbeck ist raus - aber sein Ersatz hat sich schon bewiesen: 35 Ballkontakte, 97% Passquote, null Patzer. Upgrade statt Notlösung?",
+  "uploadHashtags": "#DFB #WM2026 #Ruediger #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "schlotterbeck.jpg", "search": "Nico Schlotterbeck" },
+    { "file": "stadion.jpg", "search": "BMO Field Toronto" },
+    { "file": "ruediger.jpg", "search": "Antonio Rüdiger" },
+    { "file": "tah.jpg", "search": "Jonathan Tah" },
+    { "file": "basecamp.jpg", "search": "Winston-Salem DFB Quartier" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "anton.jpg", "search": "Waldemar Anton" },
+    { "file": "teamfoto.jpg", "search": "Deutschland Mannschaftsfoto 2026" },
+    { "file": "fans.jpg", "search": "Deutschland Fans" },
+    { "file": "flagge.jpg", "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "SCHLOTTERBECK RAUS. PANIK? GRUNDLOS.", "image": "schlotterbeck.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026", "title": "Rüdiger übernimmt", "image": "stadion.jpg", "weight": 0.7 },
+    { "type": "image", "image": "ruediger.jpg", "name": "Antonio Rüdiger", "role": "Innenverteidiger · 33", "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "Abwehrchef", "weight": 0.8 },
+    { "type": "stats", "title": "Die Halbzeit-Bilanz", "stats": [
+        { "label": "Ballkontakte", "value": "35" },
+        { "label": "Passquote", "value": "97%" },
+        { "label": "Länderspiele", "value": "83" }
+      ], "image": "basecamp.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "TV-Experte", "weight": 0.8 },
+    { "type": "image", "image": "anton.jpg", "name": "Waldemar Anton", "role": "Plan B · Innenverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "teamfoto.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Down- oder Upgrade?", "subtitle": "Sag deine Meinung in den Kommentaren", "image": "flagge.jpg", "weight": 1.0 }
+  ]
+}
