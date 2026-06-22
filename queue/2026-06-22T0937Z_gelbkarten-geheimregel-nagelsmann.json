@@ -1,0 +1,42 @@
+{
+  "slug": "gelbkarten-geheimregel-nagelsmann",
+  "createdAt": "2026-06-22T09:37:07Z",
+  "title": "Die geheime Gelbkarten-Regel",
+  "script": "Eine GEHEIMREGEL macht DFB-Stars plötzlich unverwundbar. Die FIFA hat die Gelbe-Karten-Regel bei dieser WM heimlich geändert: Verwarnungen werden jetzt schon nach der Gruppenphase gelöscht, nicht erst nach dem Viertelfinale. Grund: Mit 48 Teams gibt es eine K.o.-Runde mehr – ohne Reform hätten zwei Gelbe Karten in nur sechs Spielen schon das Halbfinale gekostet. Nagelsmanns Bilanz: 18 Spieler in zwei Gruppenspielen, null Verwarnungen – sauberes Konto vor Ecuador und dem Sechzehntelfinale in Boston. Nagelsmann selbst: 'Ich nehme keine Rücksicht auf Gelbe Karten.' Macht ihn die Regel zu sorglos – oder ist das einfach fairer Fußball?",
+  "uploadCaption": "Geheime Regeländerung bei der WM 2026: Gelbe Karten werden jetzt schon nach der Gruppenphase gelöscht statt erst nach dem Viertelfinale. Nagelsmanns 18 eingesetzte Spieler stehen bei null Verwarnungen – sauberes Konto vor Ecuador und dem Sechzehntelfinale in Boston.",
+  "uploadHashtags": "#DFB #WM2026 #Nagelsmann #GelbeKarte #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "pavlovic.jpg",       "search": "Aleksandar Pavlović" },
+    { "file": "logo.jpg",           "search": "WM 2026 Logo" },
+    { "file": "kimmich.jpg",        "search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "gelbe_karte.jpg",    "search": "Schiedsrichter zeigt Gelbe Karte Nahaufnahme", "thematic": true },
+    { "file": "tah.jpg",            "search": "Jonathan Tah" },
+    { "file": "schlotterbeck.jpg",  "search": "Nico Schlotterbeck" },
+    { "file": "nagelsmann.jpg",     "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "metlife.jpg",        "search": "MetLife Stadium" },
+    { "file": "gillette.jpg",       "search": "Gillette Stadium Foxborough" },
+    { "file": "fans.jpg",           "search": "Deutschland Fans" },
+    { "file": "team.jpg",           "search": "Deutschland Nationalmannschaft Teamfoto 2026" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "DIESE GEHEIMREGEL MACHT DFB-STARS UNVERWUNDBAR.", "image": "pavlovic.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026", "title": "Alte Regel vs. neue Regel", "image": "logo.jpg", "weight": 0.7 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · DFB", "weight": 0.8 },
+    { "type": "stats", "title": "Alte Regel vs. neue Regel", "stats": [
+        { "label": "Früher: Reset", "value": "nach Viertelfinale" },
+        { "label": "Jetzt: Reset", "value": "nach Gruppenphase" },
+        { "label": "Grund", "value": "+1 K.o.-Runde (48 Teams)" }
+      ], "image": "gelbe_karte.jpg", "weight": 0.9 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "Innenverteidiger · DFB", "weight": 0.8 },
+    { "type": "image", "image": "schlotterbeck.jpg", "name": "Nico Schlotterbeck", "role": "Innenverteidiger · DFB", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "stats", "title": "Nagelsmanns Bilanz", "stats": [
+        { "label": "Eingesetzte Spieler", "value": "18" },
+        { "label": "Gruppenspiele", "value": "2" },
+        { "label": "Gelbe Karten", "value": "0" }
+      ], "image": "metlife.jpg", "weight": 0.9 },
+    { "type": "image", "image": "gillette.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Zu kulant – oder einfach fair?", "subtitle": "Sag deine Meinung in die Kommentare!", "image": "team.jpg", "weight": 1.0 }
+  ]
+}
