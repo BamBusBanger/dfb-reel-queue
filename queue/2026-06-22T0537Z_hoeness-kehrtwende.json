@@ -1,0 +1,44 @@
+{
+  "slug": "hoeness-kehrtwende",
+  "createdAt": "2026-06-22T05:37:27Z",
+  "title": "Hoeneß' Kehrtwende",
+  "script": "Er zerlegte Nagelsmann – jetzt der komplette Rückzieher! Uli Hoeneß warf dem Bundestrainer vor der WM vor: ständig wechselnde Aufstellungen, eine unfaire Baumann-Entscheidung, Kimmich auf der falschen Position. Nach dem 2:1 gegen die Elfenbeinküste, mit Joker Undav und seinem Doppelpack in Minute 68 und 90+4, schlägt Hoeneß komplett um: 'Kämpferisch Unglaubliches geleistet', sogar die Wechsel lobt er jetzt – genau das Gegenteil seiner Kritik. 11 Siege in Serie, Achtelfinale schon sicher. Hat der größte Bayern-Kritiker seine Meinung wirklich geändert – oder kommt die nächste Attacke?",
+  "uploadCaption": "Uli Hoeneß zerlegte Nagelsmann vor der WM – nach dem 2:1 gegen die Elfenbeinküste schlägt der Bayern-Boss komplett um. Hat er sich wirklich überzeugen lassen?",
+  "uploadHashtags": "#DFB #WM2026 #Hoeness #Nagelsmann #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "hoeness.jpg",            "search": "Uli Hoeneß" },
+    { "file": "nagelsmann_portrait.jpg","search": "Julian Nagelsmann" },
+    { "file": "nagelsmann_pk.jpg",      "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "nagelsmann_training.jpg","search": "Julian Nagelsmann Training" },
+    { "file": "baumann.jpg",            "search": "Oliver Baumann" },
+    { "file": "kimmich.jpg",             "search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "undav.jpg",               "search": "Deniz Undav" },
+    { "file": "stadion.jpg",             "search": "Toronto Stadion WM 2026" },
+    { "file": "nagelsmann_sane.jpg",    "search": "Nagelsmann Sané Umarmung" },
+    { "file": "fans.jpg",                "search": "Deutschland Fans" },
+    { "file": "jubel.jpg",               "search": "Jubel Fans Stadion" },
+    { "file": "logo.jpg",                "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER ZERLEGTE NAGELSMANN. JETZT DER KOMPLETTE RÜCKZIEHER.", "image": "hoeness.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026", "title": "Hoeneß' Kehrtwende", "image": "nagelsmann_portrait.jpg", "weight": 0.7 },
+    { "type": "image", "image": "nagelsmann_pk.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "stats", "title": "Seine Kritik vor der WM", "stats": [
+        { "label": "Vorwurf", "value": "Ständige Wechsel" },
+        { "label": "Baumann-Entscheidung", "value": "\"Nicht fair\"" },
+        { "label": "Kimmich", "value": "Falsch besetzt" }
+      ], "image": "nagelsmann_training.jpg", "weight": 0.9 },
+    { "type": "image", "image": "baumann.jpg", "name": "Oliver Baumann", "role": "Torwart · Nr. 1", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · Rechtsverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "undav.jpg", "name": "Deniz Undav", "role": "Stürmer · Joker", "weight": 0.8 },
+    { "type": "stats", "title": "Die Wende beim 2:1", "stats": [
+        { "label": "Undav-Tore", "value": "68. + 90+4." },
+        { "label": "Serie", "value": "11 Siege" },
+        { "label": "Stand", "value": "Achtelfinale sicher" }
+      ], "image": "stadion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann_sane.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "jubel.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Hat er sich wirklich geändert?", "subtitle": "Oder kommt die nächste Attacke?", "image": "logo.jpg", "weight": 1.0 }
+  ]
+}
