@@ -1,0 +1,38 @@
+{
+  "slug": "schlotterbeck-wm-aus",
+  "createdAt": "2026-06-22T12:37:30Z",
+  "title": "Schlotterbeck-Schock: WM-Aus",
+  "script": "ER FÄLLT AUS – und Nagelsmann darf NICHTS tun. Nico Schlotterbeck erleidet beim 2:1 gegen die Elfenbeinküste einen Innenbandriss im linken Sprunggelenk nach nur 13 Minuten. Diagnose: WM-Ende. Eine Nachnominierung ist verboten – die FIFA-Frist lief schon am 13. Juni ab, einen Tag vor dem 7:1 gegen Curaçao. Nagelsmann bleiben nur noch 22 Feldspieler. Tah bleibt der Fels in der Abwehr, doch drei Kandidaten kämpfen um den freien Platz: Rüdiger, schon fehlerfrei eingesprungen. Anton, Schlotterbecks BVB-Kollege. Und Thiaw von der AC Milan. Vor dem Gruppenfinale gegen Ecuador am Donnerstag die große Frage.",
+  "uploadCaption": "Nico Schlotterbeck fällt mit Innenbandriss für den Rest der WM 2026 aus – nachnominieren darf der DFB nicht, die FIFA-Frist lief schon einen Tag vor dem 7:1 gegen Curaçao ab. Drei Kandidaten kämpfen jetzt um den Platz neben Tah: Rüdiger, Anton und Thiaw.",
+  "uploadHashtags": "#DFB #WM2026 #Schlotterbeck #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "schlotterbeck_geschockt.jpg", "search": "Nico Schlotterbeck" },
+    { "file": "schlotterbeck_aktion.jpg",    "search": "Nico Schlotterbeck" },
+    { "file": "schlotterbeck_klatschen.jpg", "search": "Nico Schlotterbeck" },
+    { "file": "toronto_stadion.jpg",         "search": "Toronto BMO Field Stadion" },
+    { "file": "tah_aktion.jpg",              "search": "Jonathan Tah" },
+    { "file": "ruediger_aufgeregt.jpg",      "search": "Antonio Rüdiger" },
+    { "file": "anton_aktion.jpg",            "search": "Waldemar Anton" },
+    { "file": "thiaw_aktion.jpg",            "search": "Malick Thiaw" },
+    { "file": "nagelsmann_pk.jpg",           "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "fans_entsetzen.jpg",          "search": "DFB Fans Public Viewing Schock" },
+    { "file": "fans_deutschland.jpg",        "search": "Deutschland Fans" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER FÄLLT AUS. UND NAGELSMANN DARF NICHTS TUN.", "image": "schlotterbeck_geschockt.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026", "title": "Schlotterbeck-Schock", "image": "schlotterbeck_aktion.jpg", "weight": 0.7 },
+    { "type": "image", "image": "schlotterbeck_klatschen.jpg", "name": "Nico Schlotterbeck", "role": "Aus für den Rest der WM", "weight": 0.8 },
+    { "type": "stats", "title": "Die Diagnose", "stats": [
+        { "label": "Verletzung", "value": "Innenbandriss" },
+        { "label": "Ausfall", "value": "Rest der WM" },
+        { "label": "Nachnominierung", "value": "nicht erlaubt" }
+      ], "image": "toronto_stadion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "tah_aktion.jpg", "name": "Jonathan Tah", "role": "Abwehrchef · bleibt sicher", "weight": 0.8 },
+    { "type": "image", "image": "ruediger_aufgeregt.jpg", "name": "Antonio Rüdiger", "role": "Option 1 · bereits eingewechselt", "weight": 0.85 },
+    { "type": "image", "image": "anton_aktion.jpg", "name": "Waldemar Anton", "role": "Option 2 · BVB-Kollege", "weight": 0.8 },
+    { "type": "image", "image": "thiaw_aktion.jpg", "name": "Malick Thiaw", "role": "Option 3 · AC Milan", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann_pk.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "fans_entsetzen.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Reicht die Abwehr ohne Schlotterbeck?", "subtitle": "Sag deine Meinung in den Kommentaren!", "image": "fans_deutschland.jpg", "weight": 1.0 }
+  ]
+}
