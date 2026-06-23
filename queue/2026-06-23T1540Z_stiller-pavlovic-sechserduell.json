@@ -1,0 +1,37 @@
+{
+  "slug": "stiller-pavlovic-sechserduell",
+  "createdAt": "2026-06-23T15:40:13Z",
+  "title": "Stillers WM-Wartezeit: 0 Minuten",
+  "script": "0 Minuten – so oft stand Angelo Stiller bisher bei dieser WM auf dem Platz. Der 25-Jährige wartet seit Turnierstart auf sein Debüt, während Aleksandar Pavlović, nur 22, in beiden Gruppenspielen startete. Gegen Elfenbeinküste wurde er aber schon nach 60 Minuten ausgewechselt. Deutschland ist längst Gruppensieger, Nagelsmann kann rotieren. Stiller hat erst 7 Länderspiele, gilt aber als Toni-Kroos-Nachfolger. Donnerstag, MetLife Stadium, gegen Ecuador. Wer verdient den Platz auf der Sechs mehr?",
+  "uploadCaption": "0 WM-Minuten für Stiller, 150 für Pavlović – wer verdient den Sechser-Platz gegen Ecuador?",
+  "uploadHashtags": "#DFB #WM2026 #Stiller #Pavlovic #Nationalmannschaft",
+  "images": [
+    { "file": "stiller.jpg", "search": "Angelo Stiller" },
+    { "file": "pavlovic.jpg", "search": "Aleksandar Pavlović" },
+    { "file": "nmecha.jpg", "search": "Felix Nmecha" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "hincapie.jpg", "search": "Piero Hincapié" },
+    { "file": "metlife.jpg", "search": "MetLife Stadium" },
+    { "file": "team.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "ball.jpg", "search": "Ball Schwarz Rot Gold" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "0 MINUTEN.", "image": "stiller.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026", "title": "Stiller vs. Pavlović", "image": "team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "stiller.jpg", "name": "Angelo Stiller", "role": "Sechser · 25", "weight": 0.8 },
+    { "type": "image", "image": "pavlovic.jpg", "name": "Aleksandar Pavlović", "role": "Sechser · 22", "weight": 0.8 },
+    { "type": "stats", "title": "Bilanz bei dieser WM", "stats": [
+        { "label": "Stiller WM-Minuten", "value": "0" },
+        { "label": "Pavlović Minuten", "value": "150" },
+        { "label": "Stiller Länderspiele", "value": "7" }
+      ], "image": "metlife.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nmecha.jpg", "name": "Felix Nmecha", "role": "Sechser · 25", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "hincapie.jpg", "name": "Piero Hincapié", "role": "Ecuador · Abwehr", "weight": 0.8 },
+    { "type": "image", "image": "metlife.jpg", "weight": 0.8 },
+    { "type": "image", "image": "team.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Stiller-Debüt JETZT?", "subtitle": "Oder bleibt alles beim Alten? Sag's in den Kommentaren!", "image": "ball.jpg", "weight": 1.0 }
+  ]
+}
