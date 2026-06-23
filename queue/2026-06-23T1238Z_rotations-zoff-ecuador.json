@@ -1,0 +1,40 @@
+{
+  "slug": "rotations-zoff-ecuador",
+  "createdAt": "2026-06-23T12:38:02Z",
+  "title": "Nagelsmanns Rotations-Zoff",
+  "script": "8 DFB-Spieler haben bei dieser WM noch keine einzige Minute gespielt. Nach 11 Siegen in Serie und dem Gruppensieg tobt jetzt der Rotations-Streit. ARD-Experte Schweinsteiger fordert: Baumann ins Tor statt Neuer! Mertesacker warnt: Den Rhythmus nicht brechen! Mittendrin: Joker Undav, mit nur 56 gespielten Minuten gleichauf mit Messi an der Spitze der WM-Torjägerliste. Nagelsmann selbst fragt nur: Warum sollte ich seinen Flow brechen? Donnerstag, 22 Uhr, East Rutherford gegen Ecuador. Bestbesetzung oder die letzte Chance für die Wartenden?",
+  "uploadCaption": "Schweinsteiger will Baumann statt Neuer, Mertesacker warnt vor zu viel Risiko – und Joker Undav steht mit nur 56 Minuten schon gleichauf mit Messi an der Spitze der Torjägerliste. Vor dem Gruppenfinale gegen Ecuador tobt der Rotations-Streit. Komplett umbauen oder Bestbesetzung?",
+  "uploadHashtags": "#DFB #WM2026 #Nagelsmann #Undav #Rotation #Fussball",
+  "images": [
+    { "file": "ersatzbank.jpg",     "search": "Leere Ersatzbank im Flutlicht Stadion", "thematic": true },
+    { "file": "nagelsmann-pk.jpg",  "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "schweinsteiger.jpg", "search": "Bastian Schweinsteiger" },
+    { "file": "mertesacker.jpg",    "search": "Per Mertesacker" },
+    { "file": "neuer.jpg",          "search": "Manuel Neuer" },
+    { "file": "baumann.jpg",        "search": "Oliver Baumann" },
+    { "file": "team.jpg",           "search": "Deutschland Nationalmannschaft Teamfoto 2026" },
+    { "file": "undav.jpg",          "search": "Deniz Undav" },
+    { "file": "ruediger.jpg",       "search": "Antonio Rüdiger" },
+    { "file": "woltemade.jpg",      "search": "Nick Woltemade" },
+    { "file": "metlife.jpg",        "search": "MetLife Stadium East Rutherford" },
+    { "file": "fans.jpg",           "search": "Deutschland Fans" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "8 SPIELER. NULL MINUTEN. JETZT ESKALIERT DER STREIT.", "image": "ersatzbank.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · NEWS-DRAMA", "title": "Nagelsmanns Rotations-Zoff", "image": "nagelsmann-pk.jpg", "weight": 0.7 },
+    { "type": "image", "image": "schweinsteiger.jpg", "name": "Bastian Schweinsteiger", "role": "ARD-Experte", "weight": 0.8 },
+    { "type": "image", "image": "mertesacker.jpg",    "name": "Per Mertesacker", "role": "Ex-Nationalspieler", "weight": 0.8 },
+    { "type": "image", "image": "neuer.jpg",          "name": "Manuel Neuer", "role": "Torwart · 40", "weight": 0.8 },
+    { "type": "image", "image": "baumann.jpg",        "name": "Oliver Baumann", "role": "Ersatztorhüter · Hoffenheim", "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen zum Streit", "stats": [
+        { "label": "Ohne WM-Minute", "value": "8" },
+        { "label": "Undav-Minuten", "value": "56" },
+        { "label": "Siege in Serie", "value": "11" }
+      ], "image": "team.jpg", "weight": 0.9 },
+    { "type": "image", "image": "undav.jpg",      "name": "Deniz Undav", "role": "Joker-Stürmer · Stuttgart", "weight": 0.8 },
+    { "type": "image", "image": "ruediger.jpg",   "name": "Antonio Rüdiger", "role": "Innenverteidiger · 33", "weight": 0.8 },
+    { "type": "image", "image": "woltemade.jpg",  "name": "Nick Woltemade", "role": "Stürmer · wartet", "weight": 0.8 },
+    { "type": "image", "image": "metlife.jpg",    "weight": 0.8 },
+    { "type": "outro", "title": "Komplett rotieren oder Bestbesetzung?", "subtitle": "Deine Meinung in die Kommentare!", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
