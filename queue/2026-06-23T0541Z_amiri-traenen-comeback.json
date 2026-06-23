@@ -1,0 +1,36 @@
+{
+  "slug": "amiri-traenen-comeback",
+  "createdAt": "2026-06-23T05:41:24Z",
+  "title": "3 Gründe: Amiris Comeback",
+  "script": "Er weinte vor laufender Kamera – mit 29 Jahren erlebt Nadiem Amiri seine allererste WM, nach 4,5 Jahren ganz ohne Nationalmannschaft! Drei Gründe, warum er Nagelsmanns Geheimwaffe ist: Erstens die Verbindung, seit 2016 kennen sie sich aus gemeinsamen Hoffenheim-Jahren. Zweitens die Zahlen, 17 Pflichtspieltore plus 6 Vorlagen für Mainz in nur einer Saison. Drittens der Beweis, eingewechselt gegen die Elfenbeinküste, sofort Vorlage zum 1:1-Ausgleich, perfektes Debüt! Verdient sich der Spätstarter jetzt die Startelf gegen Ecuador?",
+  "uploadCaption": "4,5 Jahre raus aus der Nationalmannschaft, jetzt mit 29 die allererste WM 🥹⚽ 17 Tore + 6 Vorlagen für Mainz, Joker-Tor-Vorlage gegen die Elfenbeinküste – ist Nadiem Amiri Nagelsmanns Geheimwaffe gegen Ecuador?",
+  "uploadHashtags": "#DFB #WM2026 #NadiemAmiri #Nagelsmann #Mainz05 #Fussball",
+  "images": [
+    { "file": "amiri-emotional.jpg", "search": "Nadiem Amiri" },
+    { "file": "amiri-pk.jpg", "search": "Nadiem Amiri Pressekonferenz" },
+    { "file": "amiri-aktion.jpg", "search": "Nadiem Amiri Mainz 05" },
+    { "file": "mainz-stadion.jpg", "search": "Mainz 05 Stadion" },
+    { "file": "nagelsmann-pk.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "hoffenheim-2016.jpg", "search": "TSG Hoffenheim Training 2016" },
+    { "file": "mainz-conferenceleague.jpg", "search": "Mainz 05 Conference League" },
+    { "file": "amiri-assist.jpg", "search": "Nadiem Amiri Vorlage Elfenbeinküste" },
+    { "file": "ecuador-flagge.jpg", "search": "Ecuador Flagge" },
+    { "file": "metlife-stadium.jpg", "search": "MetLife Stadium" },
+    { "file": "dfb-fans.jpg", "search": "DFB Fans" },
+    { "file": "deutschland-flagge.jpg", "search": "Deutschland Flagge Schwarz Rot Gold" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER WEINTE VOR DER KAMERA.", "image": "amiri-emotional.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · ECUADOR-VORSCHAU", "title": "3 Gründe: Amiris Comeback", "image": "amiri-pk.jpg", "weight": 0.7 },
+    { "type": "image", "image": "amiri-aktion.jpg", "name": "Nadiem Amiri", "role": "Mittelfeld · 29", "weight": 0.8 },
+    { "type": "stats", "title": "4,5 Jahre weg", "stats": [{ "label": "Jahre ohne DFB", "value": "4,5" }, { "label": "Alter bei 1. WM", "value": "29" }], "image": "mainz-stadion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann-pk.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "hoffenheim-2016.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Mainz-Saison 25/26", "stats": [{ "label": "Pflichtspieltore", "value": "17" }, { "label": "Vorlagen", "value": "6" }], "image": "mainz-conferenceleague.jpg", "weight": 0.9 },
+    { "type": "image", "image": "amiri-assist.jpg", "name": "Nadiem Amiri", "role": "Mittelfeld · 29", "weight": 0.8 },
+    { "type": "image", "image": "ecuador-flagge.jpg", "weight": 0.8 },
+    { "type": "image", "image": "metlife-stadium.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb-fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Startelf-reif?", "subtitle": "Sollte Amiri gegen Ecuador von Anfang an spielen? ⬇", "image": "deutschland-flagge.jpg", "weight": 1.0 }
+  ]
+}
