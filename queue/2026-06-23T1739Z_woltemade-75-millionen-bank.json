@@ -1,0 +1,41 @@
+{
+  "slug": "woltemade-75-millionen-bank",
+  "createdAt": "2026-06-23T17:39:05Z",
+  "title": "Der 75-Mio-Mann ohne Einsatz",
+  "script": "Drei Zahlen erzählen Woltemades WM-Drama. 75 Millionen Euro Ablöse nach Newcastle. 4 Tore in 4 Quali-Spielen als klare Nummer eins. Und: null Minuten bei dieser WM. Stattdessen explodiert Joker Deniz Undav – 3 Tore, 2 Vorlagen in nur 56 Minuten. Nagelsmann hält trotzdem zu seinem teuersten Stürmer: „Er braucht Entwicklungszeit, wir haben Vertrauen in ihn.“ Donnerstag in East Rutherford ist Deutschland als Gruppensieger längst safe, Nagelsmann kann gegen Ecuador frei rotieren. Holt sich der 75-Millionen-Mann jetzt endlich seine Startelf-Chance?",
+  "uploadCaption": "75 Mio Euro Ablöse, 4 Quali-Tore als Nummer eins – aber seit WM-Start 0 Minuten gespielt. Nick Woltemades Sturm-Drama vor dem Ecuador-Spiel. Holt er sich jetzt seine Chance?",
+  "uploadHashtags": "#DFB #WM2026 #Woltemade #Undav #Nagelsmann #Nationalmannschaft",
+  "images": [
+    { "file": "woltemade.jpg", "search": "Nick Woltemade" },
+    { "file": "undav.jpg", "search": "Deniz Undav" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "basecamp.jpg", "search": "DFB Trainingslager Winston-Salem" },
+    { "file": "metlife.jpg", "search": "MetLife Stadium East Rutherford" },
+    { "file": "ecuador.jpg", "search": "Ecuador Flagge" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "team.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "ball.jpg", "search": "Ball Schwarz Rot Gold" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "75 MILLIONEN. 4 TORE. NULL MINUTEN.", "image": "woltemade.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · TOP-3-LISTE", "title": "Woltemades WM-Rätsel", "image": "team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "woltemade.jpg", "name": "Nick Woltemade", "role": "Stürmer · Newcastle", "weight": 0.8 },
+    { "type": "stats", "title": "Die Quali-Bilanz", "stats": [
+        { "label": "Ablöse nach Newcastle", "value": "75 Mio €" },
+        { "label": "Tore in der Quali", "value": "4 in 4 Spielen" },
+        { "label": "WM-Minuten 2026", "value": "0" }
+      ], "image": "basecamp.jpg", "weight": 0.9 },
+    { "type": "image", "image": "undav.jpg", "name": "Deniz Undav", "role": "Joker · Stuttgart", "weight": 0.8 },
+    { "type": "stats", "title": "Der Konkurrent explodiert", "stats": [
+        { "label": "Joker-Tore (Karriere)", "value": "9 in 11 Spielen" },
+        { "label": "Bei dieser WM", "value": "3 Tore, 2 Vorlagen" },
+        { "label": "Einsatzzeit", "value": "56 Minuten" }
+      ], "image": "metlife.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "woltemade.jpg", "weight": 0.8 },
+    { "type": "image", "image": "ecuador.jpg", "weight": 0.8 },
+    { "type": "image", "image": "undav.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Woltemade jetzt in die Startelf?", "subtitle": "Oder bleibt Undav der bessere Joker? Sag's in den Kommentaren!", "image": "ball.jpg", "weight": 1.0 }
+  ]
+}
