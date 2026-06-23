@@ -1,0 +1,34 @@
+{
+  "slug": "goretzka-geheime-tuer",
+  "createdAt": "2026-06-23T19:38:30Z",
+  "title": "Goretzkas Geheim-Tür",
+  "script": "27 Minuten. So wenig stand Leon Goretzka bei dieser WM bisher auf dem Platz. Doch jetzt öffnet sich die Geheim-Tür: Aleksandar Pavlović enttäuschte gegen die Elfenbeinküste, und Nagelsmann lobt seinen Ersatzmann plötzlich in höchsten Tönen – kämpferisch, kopfballstark, strafraumstark. Champions-League-Sieger 2020, 70 Länderspiele, im Sommer sogar vereinslos: Goretzka könnte am Donnerstag im Gruppenfinale gegen Ecuador in East Rutherford erstmals von Beginn an ran. Reicht ein Pflichtspiel ohne Tabellenwert, um sich für die K.o.-Runde unverzichtbar zu machen?",
+  "uploadCaption": "27 Bankminuten, dann ein Patzer von Pavlović – plötzlich klopft Leon Goretzka wieder an die Startelf-Tür. Reicht ein Pflichtspiel gegen Ecuador, um sich für die K.o.-Runde zu empfehlen? 👇",
+  "uploadHashtags": "#DFB #WM2026 #Goretzka #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "goretzka_training.jpg", "search": "Leon Goretzka" },
+    { "file": "metlife_aussen.jpg", "search": "MetLife Stadium" },
+    { "file": "goretzka_trikot.jpg", "search": "Leon Goretzka" },
+    { "file": "pavlovic_aktion.jpg", "search": "Aleksandar Pavlović" },
+    { "file": "nagelsmann_pavlovic_besprechung.jpg", "search": "Julian Nagelsmann Pavlović Besprechung" },
+    { "file": "nagelsmann_pk.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "nmecha_trikot.jpg", "search": "Felix Nmecha" },
+    { "file": "ruediger_tah.jpg", "search": "Antonio Rüdiger Jonathan Tah" },
+    { "file": "metlife_innen.jpg", "search": "MetLife Stadium East Rutherford" },
+    { "file": "fans_deutschland.jpg", "search": "Deutschland Fans" },
+    { "file": "undav_trikot.jpg", "search": "Deniz Undav" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "27 MINUTEN BANK. DOCH EIN PATZER ÄNDERT ALLES.", "image": "goretzka_training.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · VOR ECUADOR", "title": "Goretzkas Geheim-Tür", "image": "metlife_aussen.jpg", "weight": 0.65 },
+    { "type": "image", "image": "goretzka_trikot.jpg", "name": "Leon Goretzka", "role": "Mittelfeld · 31", "weight": 0.75 },
+    { "type": "image", "image": "pavlovic_aktion.jpg", "name": "Aleksandar Pavlović", "role": "Mittelfeld · 22", "weight": 0.75 },
+    { "type": "stats", "title": "Die Zahlen", "stats": [ { "label": "WM-Bankminuten 2026", "value": "27" }, { "label": "Länderspiele", "value": "70" }, { "label": "CL-Titel", "value": "2020" } ], "image": "nagelsmann_pavlovic_besprechung.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann_pk.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "nmecha_trikot.jpg", "name": "Felix Nmecha", "role": "Mittelfeld · 25", "weight": 0.8 },
+    { "type": "image", "image": "ruediger_tah.jpg", "weight": 0.8 },
+    { "type": "image", "image": "metlife_innen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans_deutschland.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Jetzt unverzichtbar?", "subtitle": "Oder war's nur ein Pflichtspiel ohne Wert? Sag's in den Kommentaren!", "image": "undav_trikot.jpg", "weight": 1.0 }
+  ]
+}
