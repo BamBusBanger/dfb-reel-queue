@@ -1,0 +1,38 @@
+{
+  "slug": "tah-der-neue-chef",
+  "createdAt": "2026-06-23T09:39:35Z",
+  "title": "Der neue Abwehrchef",
+  "script": "„Er ist der neue Chef.“ Diese vier Worte sagt ausgerechnet Antonio Rüdiger, 33, zweimal Champions-League-Sieger und bislang Deutschlands Abwehrchef. Jetzt krönt er live bei der WM seinen eigenen Nachfolger: Jonathan Tah, 30, seit dem Bayern-Wechsel 2025 mit über 65 Prozent Zweikampfquote der Fels der DFB-Abwehr. Seit Schlotterbecks Bandriss in Minute 13 ist die neue Hierarchie endgültig klar. Donnerstag, 25. Juni, MetLife Stadium: Tah und Rüdiger erstmals gemeinsam in der Startelf gegen Ecuador. Freiwillige Ablösung – verdient oder viel zu früh?",
+  "uploadCaption": "Rüdiger sagt es selbst: \"Er ist der neue Chef.\" Tah übernimmt mit 65% Zweikampfquote die DFB-Abwehr, der alte Boss tritt zur Seite. Verdient oder zu früh?",
+  "uploadHashtags": "#DFB #WM2026 #JonathanTah #AntonioRuediger #Fussball",
+  "images": [
+    { "file": "tah-ruediger-spiel.jpg", "search": "Jonathan Tah Antonio Rüdiger" },
+    { "file": "ruediger-training.jpg", "search": "Antonio Rüdiger Training" },
+    { "file": "tah-aktion.jpg", "search": "Jonathan Tah" },
+    { "file": "ruediger-nahaufnahme.jpg", "search": "Antonio Rüdiger" },
+    { "file": "schlotterbeck-geschockt.jpg", "search": "Nico Schlotterbeck" },
+    { "file": "nagelsmann-pk.jpg", "search": "Julian Nagelsmann" },
+    { "file": "metlife-stadion.jpg", "search": "MetLife Stadium" },
+    { "file": "ecuador-valencia.jpg", "search": "Enner Valencia" },
+    { "file": "dfb-fans.jpg", "search": "DFB Fans" },
+    { "file": "tah-spielszene.jpg", "search": "Jonathan Tah Spielszene" },
+    { "file": "deutschland-flagge.jpg", "search": "Deutschland Flagge Schwarz Rot Gold" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "DER CHEF GIBT SEINE KRONE FREIWILLIG AB.", "image": "tah-ruediger-spiel.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026", "title": "Der neue Abwehrchef", "image": "ruediger-training.jpg", "weight": 0.7 },
+    { "type": "image", "image": "tah-aktion.jpg", "name": "Jonathan Tah", "role": "Innenverteidiger · 30", "weight": 0.8 },
+    { "type": "image", "image": "ruediger-nahaufnahme.jpg", "name": "Antonio Rüdiger", "role": "Innenverteidiger · 33", "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen zum Stabwechsel", "stats": [
+        { "label": "Tahs Zweikampfquote", "value": "65%" },
+        { "label": "Rüdigers Länderspiele", "value": "83" },
+        { "label": "Schlotterbeck-Ausfall", "value": "Minute 13" }
+      ], "image": "schlotterbeck-geschockt.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann-pk.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "metlife-stadion.jpg", "weight": 0.8 },
+    { "type": "image", "image": "ecuador-valencia.jpg", "name": "Enner Valencia", "role": "Ecuador · Kapitän", "weight": 0.8 },
+    { "type": "image", "image": "dfb-fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "tah-spielszene.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Verdient oder zu früh?", "subtitle": "Sag deine Meinung in den Kommentaren", "image": "deutschland-flagge.jpg", "weight": 1.0 }
+  ]
+}
