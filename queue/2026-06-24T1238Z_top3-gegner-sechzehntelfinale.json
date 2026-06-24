@@ -1,0 +1,45 @@
+{
+  "slug": "top3-gegner-sechzehntelfinale",
+  "createdAt": "2026-06-24T12:38:44Z",
+  "title": "Top 3: Wer wartet im Sechzehntelfinale?",
+  "script": "15 mögliche Gegner für das Sechzehntelfinale – aber nur drei sind wirklich realistisch! Platz drei: Australien, das sich am dritten Spieltag direkt mit Paraguay duelliert. Platz zwei: genau dieses Paraguay, zusammen mit Australien bei 42,8 Prozent Wahrscheinlichkeit aus Gruppe D. Platz eins: Rekordweltmeister Brasilien, Gruppe-C-Spitzenreiter mit 4 Punkten und 46,7 Prozent Chance. Entschieden wird erst nach dem letzten Vorrundenspieltag, fest steht nur: Montag, 29. Juni, 22:30 Uhr, Gillette Stadium bei Boston. Welcher Gegner wäre euch lieber?",
+  "uploadCaption": "Deutschland steht als Gruppensieger sicher im Sechzehntelfinale (29.6., 22:30 Uhr, Gillette Stadium) – aber wer wartet dort? Top 3 Gegner-Kandidaten: Australien, Paraguay und Rekordweltmeister Brasilien mit 46,7% Chance!",
+  "uploadHashtags": "#DFB #WM2026 #Sechzehntelfinale #Brasilien #Nagelsmann #Fussball",
+  "images": [
+    { "file": "turnierbaum.jpg",  "search": "WM Sechzehntelfinale Turnierbaum Fragezeichen Gegner Roulette", "thematic": true },
+    { "file": "pokal.jpg",        "search": "WM Pokal" },
+    { "file": "dfb-team.jpg",     "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "gillette.jpg",     "search": "Gillette Stadium Foxborough" },
+    { "file": "australien.jpg",   "search": "Australien Nationalmannschaft Fußball" },
+    { "file": "paraguay.jpg",     "search": "Paraguay Nationalmannschaft Fußball" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "brasilien.jpg",    "search": "Brasilien Nationalmannschaft Seleção" },
+    { "file": "tah.jpg",          "search": "Jonathan Tah" },
+    { "file": "nagelsmann.jpg",   "search": "Julian Nagelsmann" },
+    { "file": "fans.jpg",         "search": "DFB Fans" },
+    { "file": "jubel.jpg",        "search": "DFB Jubel" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "15 GEGNER MÖGLICH. NUR 3 SIND WIRKLICH GEFÄHRLICH.", "image": "turnierbaum.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · SECHZEHNTELFINALE · 29.6. BOSTON", "title": "Top 3: Wer wartet in Boston?", "image": "pokal.jpg", "weight": 0.7 },
+    { "type": "image", "image": "dfb-team.jpg", "weight": 0.8 },
+    { "type": "image", "image": "gillette.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Platz 3", "stats": [
+        { "label": "Team", "value": "Australien" },
+        { "label": "Gruppe D", "value": "3 Punkte" }
+      ], "image": "australien.jpg", "weight": 0.85 },
+    { "type": "stats", "title": "Platz 2", "stats": [
+        { "label": "Team", "value": "Paraguay" },
+        { "label": "Direktduell", "value": "Spieltag 3 vs. Australien" }
+      ], "image": "paraguay.jpg", "weight": 0.85 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · DFB", "weight": 0.8 },
+    { "type": "stats", "title": "Platz 1", "stats": [
+        { "label": "Team", "value": "Brasilien" },
+        { "label": "Chance", "value": "46,7 %" }
+      ], "image": "brasilien.jpg", "weight": 0.9 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "Abwehrchef · DFB", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Welcher Gegner wäre euch lieber?", "subtitle": "Schreibt's in die Kommentare!", "image": "jubel.jpg", "weight": 1.0 }
+  ]
+}
