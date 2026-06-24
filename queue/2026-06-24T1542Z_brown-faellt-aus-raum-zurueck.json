@@ -1,0 +1,38 @@
+{
+  "slug": "brown-faellt-aus-raum-zurueck",
+  "createdAt": "2026-06-24T15:42:32Z",
+  "title": "Schon wieder Abwehr-Alarm vor Ecuador!",
+  "script": "Schon wieder Abwehr-Alarm vor dem Ecuador-Spiel! Nach Schlotterbecks WM-Aus fehlt jetzt auch Nathaniel Brown im Abschlusstraining – Adduktorenprobleme, ein Tag vor dem Anpfiff um 22 Uhr im MetLife Stadium. Sein Comeback-Konkurrent David Raum, im Juni erst von ihm verdrängt, könnte zurück in die Startelf rutschen. Tah und Rüdiger bilden ohnehin schon die Notlösung in der Innenverteidigung. Kapitän Kimmich bleibt gelassen, Deutschland ist längst Gruppensieger – trotzdem wackelt die Achse vor dem K.o.-Duell am Montag. Reicht das Flickwerk gegen Ecuador?",
+  "uploadCaption": "Nach Schlotterbeck nun auch Nathaniel Brown angeschlagen! Reicht die Abwehr-Notlösung mit Tah, Rüdiger und Comeback-Kandidat Raum gegen Ecuador?",
+  "uploadHashtags": "#DFB #WM2026 #Ecuador #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "nathaniel_brown_spielszene_dfb_01.jpg", "search": "Nathaniel Brown" },
+    { "file": "schlotterbeck_geschockt_dfb_01.jpg", "search": "Nico Schlotterbeck" },
+    { "file": "nathaniel_brown_jubel_dfb_01.jpeg", "search": "Nathaniel Brown" },
+    { "file": "raum_aktion_01.jpg", "search": "David Raum" },
+    { "file": "tah_aktion_02.jpg", "search": "Jonathan Tah" },
+    { "file": "ruediger_kopfball_01.jpg", "search": "Antonio Rüdiger" },
+    { "file": "nagelsmann_trainerbesprechung__01.jpg", "search": "Julian Nagelsmann" },
+    { "file": "kimmich_dfb_kapitaen_01.jpg", "search": "Joshua Kimmich" },
+    { "file": "metlife_stadium_innen_01.jpg", "search": "MetLife Stadium" },
+    { "file": "deutschland_fans_01.jpg", "search": "DFB Fans" },
+    { "file": "ball_schwarz_rot_gold_01.jpg", "search": "DFB Ball" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "SCHON WIEDER ABWEHR-ALARM VOR ECUADOR!", "image": "nathaniel_brown_spielszene_dfb_01.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · NÄCHSTER RÜCKSCHLAG", "title": "Jetzt auch Brown!", "image": "schlotterbeck_geschockt_dfb_01.jpg", "weight": 0.6 },
+    { "type": "image", "image": "nathaniel_brown_jubel_dfb_01.jpeg", "name": "Nathaniel Brown", "role": "Linksverteidiger · 23", "weight": 0.65 },
+    { "type": "image", "image": "raum_aktion_01.jpg", "name": "David Raum", "role": "Comeback-Kandidat · 28", "weight": 0.7 },
+    { "type": "image", "image": "tah_aktion_02.jpg", "name": "Jonathan Tah", "role": "Abwehrchef · 30", "weight": 0.75 },
+    { "type": "image", "image": "ruediger_kopfball_01.jpg", "name": "Antonio Rüdiger", "role": "Vertreter · 33", "weight": 0.8 },
+    { "type": "stats", "title": "Die Abwehr-Bilanz", "stats": [
+        { "label": "Bereits ausgefallen", "value": "2 Verteidiger" },
+        { "label": "Grund Brown", "value": "Adduktoren" },
+        { "label": "Anstoß Ecuador", "value": "22 Uhr" }
+      ], "image": "nagelsmann_trainerbesprechung__01.jpg", "weight": 0.85 },
+    { "type": "image", "image": "kimmich_dfb_kapitaen_01.jpg", "name": "Joshua Kimmich", "role": "Kapitän", "weight": 0.85 },
+    { "type": "image", "image": "metlife_stadium_innen_01.jpg", "weight": 0.9 },
+    { "type": "image", "image": "deutschland_fans_01.jpg", "weight": 0.9 },
+    { "type": "outro", "title": "Hält die Abwehr trotzdem?", "subtitle": "Ja oder Nein – ab in die Kommentare!", "image": "ball_schwarz_rot_gold_01.jpg", "weight": 1.0 }
+  ]
+}
