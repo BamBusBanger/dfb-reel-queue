@@ -1,0 +1,38 @@
+{
+  "slug": "kimmich-caicedo-mittelfeldduell",
+  "createdAt": "2026-06-24T09:38:20Z",
+  "title": "Kimmich gegen den 133-Mio-Mann",
+  "script": "133 Millionen Euro für einen Mann, der morgen Kimmichs Mittelfeld zerlegen soll. Moisés Caicedo, Chelseas Premier-League-Rekordtransfer, brach beim 0:0 gegen Curaçao mit 112 Pässen den ecuadorianischen WM-Rekord. Ihm gegenüber: Joshua Kimmich, 108 Länderspiele, zum ersten Mal Kapitän bei einer Weltmeisterschaft. Im Gruppenfinale morgen in East Rutherford treffen Ballbesitz-Maschine und Passmaschine aufeinander. Deutschland ist längst Gruppensieger, Ecuador braucht zwingend einen Sieg. Dahinter lauern Hincapié und Kapitän Valencia. Wer gewinnt das Mittelfeld – Kimmich oder der 133-Millionen-Mann?",
+  "uploadCaption": "Vor dem Gruppenfinale: Kimmich (108 Länderspiele, Kapitän) gegen Ecuadors 133-Millionen-Mann Moisés Caicedo! Wer gewinnt das Mittelfeld-Duell in East Rutherford?",
+  "uploadHashtags": "#DFB #WM2026 #Kimmich #Caicedo #Ecuador #Fussball #Mittelfeldduell",
+  "images": [
+    { "file": "caicedo.jpg",         "search": "Moisés Caicedo Chelsea" },
+    { "file": "kimmich.jpg",         "search": "Joshua Kimmich" },
+    { "file": "metlife-stadium.jpg", "search": "MetLife Stadium" },
+    { "file": "ball-drg.jpg",        "search": "Ball Schwarz Rot Gold" },
+    { "file": "hincapie.jpg",        "search": "Piero Hincapié" },
+    { "file": "valencia.jpg",        "search": "Enner Valencia" },
+    { "file": "nagelsmann.jpg",      "search": "Julian Nagelsmann" },
+    { "file": "dfb-team.jpg",        "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "ecuador-trikot.jpg",  "search": "Ecuador Trikot" },
+    { "file": "dfb-fans.jpg",        "search": "DFB Fans" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "133 MILLIONEN EURO. FÜR EINEN MANN GEGEN KIMMICH.", "image": "caicedo.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "GRUPPENFINALE MORGEN", "title": "Kimmich gegen den 133-Mio-Mann", "image": "metlife-stadium.jpg", "weight": 0.7 },
+    { "type": "image", "image": "kimmich.jpg",  "name": "Joshua Kimmich",  "role": "Kapitän · 108 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "caicedo.jpg",  "name": "Moisés Caicedo",  "role": "Mittelfeld · Ecuador", "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen", "stats": [
+        { "label": "Caicedo-Ablöse", "value": "133 Mio. €" },
+        { "label": "Pässe vs. Curaçao", "value": "112" },
+        { "label": "Kimmich-Länderspiele", "value": "108" }
+      ], "image": "ball-drg.jpg", "weight": 0.9 },
+    { "type": "image", "image": "hincapie.jpg", "name": "Piero Hincapié", "role": "Abwehr · Ecuador", "weight": 0.8 },
+    { "type": "image", "image": "valencia.jpg", "name": "Enner Valencia", "role": "Kapitän · Ecuador", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "dfb-team.jpg", "weight": 0.8 },
+    { "type": "image", "image": "ecuador-trikot.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb-fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wer gewinnt das Mittelfeld?", "subtitle": "Kimmich oder der 133-Mio-Mann – sag's in den Kommentaren!", "image": "metlife-stadium.jpg", "weight": 1.0 }
+  ]
+}
