@@ -1,0 +1,44 @@
+{
+  "slug": "dfb-rekordserie-ecuador",
+  "createdAt": "2026-06-24T17:37:30Z",
+  "title": "Der 46 Jahre alte Rekord wackelt",
+  "script": "Kaum jemand kennt diesen Rekord – aber morgen kann er fallen. Deutschland gewann die letzten elf Länderspiele in Folge. Mit einem Sieg gegen Ecuador wären es zwölf – zuletzt gelang das nur einem Team: Jupp Derwalls Elf, vor 46 Jahren, 1979 und 1980. Dazu die perfekte Bilanz gegen die Südamerikaner: zwei Spiele, zwei Siege, sieben zu zwei Tore. Klose und Podolski trafen schon 2006 und 2013. Jetzt will Kapitän Kimmich Geschichte schreiben.",
+  "uploadCaption": "🚨 46 Jahre alter DFB-Rekord in Gefahr! Mit einem Sieg gegen Ecuador wäre es der 12. Sieg in Folge für Nagelsmanns Team – zuletzt gelang das nur Jupp Derwalls Mannschaft 1979/80. Dazu: perfekte Bilanz mit 2 Siegen und 7:2 Toren gegen die Südamerikaner. Schreibt Kimmichs Truppe morgen Geschichte?",
+  "uploadHashtags": "#DFB #WM2026 #Deutschland #Nagelsmann #Kimmich #Ecuador #Fussball #WMRekord",
+  "images": [
+    { "file": "kimmich-kapitaen.jpg", "search": "Joshua Kimmich" },
+    { "file": "team-2026.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "nagelsmann-pk.jpg", "search": "Julian Nagelsmann" },
+    { "file": "metlife-stadium.jpg", "search": "MetLife Stadium East Rutherford" },
+    { "file": "klose.jpg", "search": "Miroslav Klose" },
+    { "file": "podolski.jpg", "search": "Lukas Podolski" },
+    { "file": "ecuador-flagge.jpg", "search": "Ecuador Flagge" },
+    { "file": "valencia.jpg", "search": "Enner Valencia" },
+    { "file": "tah.jpg", "search": "Jonathan Tah" },
+    { "file": "deutschland-flagge.jpg", "search": "Deutschland Flagge" },
+    { "file": "jubel.jpg", "search": "DFB Jubel" },
+    { "file": "fans.jpg", "search": "DFB Fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Diesen Rekord kennt kaum jemand – und morgen kann er fallen.", "image": "kimmich-kapitaen.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · GEHEIMNIS", "title": "Der Rekord von 1979", "image": "team-2026.jpg", "weight": 0.7 },
+    { "type": "image", "image": "nagelsmann-pk.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "stats", "title": "Sieg-Serie", "stats": [
+        { "label": "Siege in Folge", "value": "11" },
+        { "label": "Bei Sieg morgen", "value": "12." },
+        { "label": "Gleicher Lauf zuletzt", "value": "1979/80" }
+      ], "image": "metlife-stadium.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klose.jpg", "name": "Miroslav Klose", "role": "WM-Rekordtorschütze", "weight": 0.8 },
+    { "type": "image", "image": "podolski.jpg", "name": "Lukas Podolski", "role": "Doppel-Torschütze vs Ecuador", "weight": 0.8 },
+    { "type": "stats", "title": "Bilanz vs Ecuador", "stats": [
+        { "label": "Spiele", "value": "2" },
+        { "label": "Siege", "value": "2" },
+        { "label": "Tore", "value": "7:2" }
+      ], "image": "ecuador-flagge.jpg", "weight": 0.9 },
+    { "type": "image", "image": "valencia.jpg", "name": "Enner Valencia", "role": "Ecuadors Kapitän", "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "Innenverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "deutschland-flagge.jpg", "weight": 0.8 },
+    { "type": "image", "image": "jubel.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Rekord oder Pflicht?", "subtitle": "12 Siege in Folge wären Geschichte – zählt das mehr als der Titel selbst?", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
