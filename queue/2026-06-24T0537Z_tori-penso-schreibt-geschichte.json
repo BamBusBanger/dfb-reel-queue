@@ -1,0 +1,36 @@
+{
+  "slug": "tori-penso-schreibt-geschichte",
+  "createdAt": "2026-06-24T05:37:23Z",
+  "title": "Frau pfeift DFB-Showdown gegen Ecuador",
+  "script": "Sie pfeift Geschichte – gegen Deutschland! Tori Penso, 39, leitet morgen das WM-Gruppenfinale gegen Ecuador in East Rutherford. Erst die zweite Frau nach Stéphanie Frappart 2022, die je ein Männer-WM-Spiel pfeifen durfte. Ihre Bilanz: Note 2,0 beim 1:1 zwischen Tschechien und Südafrika, drei Gelbe Karten, ein später Elfmeter goldrichtig erkannt. Schiedsrichter-Experte Ittrich nennt es die beste Leistung dieser WM. Der DFB vergleicht sie sogar mit Bundesliga-Pionierin Bibiana Steinhaus. Penso selbst sagt: Wir schreiben die Geschichtsbücher, die unsere Töchter lesen werden. Pfeift sie Kimmich und Co. ins Achtelfinale?",
+  "uploadCaption": "Historisch: Eine Frau pfeift morgen Deutschlands WM-Showdown gegen Ecuador! Tori Penso schreibt Geschichte – nur die zweite Frau überhaupt bei einer Männer-WM. Was sagst du dazu?",
+  "uploadHashtags": "#DFB #WM2026 #ToriPenso #Fussball #Schiedsrichterin #Deutschland #Ecuador",
+  "images": [
+    { "file": "tori-penso.jpg",      "search": "Tori Penso Schiedsrichterin" },
+    { "file": "metlife-stadium.jpg", "search": "MetLife Stadium" },
+    { "file": "frappart.jpg",        "search": "Stéphanie Frappart" },
+    { "file": "steinhaus.jpg",       "search": "Bibiana Steinhaus" },
+    { "file": "nagelsmann.jpg",      "search": "Julian Nagelsmann" },
+    { "file": "kimmich.jpg",         "search": "Joshua Kimmich" },
+    { "file": "valencia.jpg",        "search": "Enner Valencia" },
+    { "file": "ecuador-flagge.jpg",  "search": "Ecuador Flagge" },
+    { "file": "ball-drg.jpg",        "search": "Ball Schwarz Rot Gold" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "SIE PFEIFT GESCHICHTE – GEGEN DEUTSCHLAND.", "image": "tori-penso.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026", "title": "Frau pfeift den DFB-Showdown", "image": "metlife-stadium.jpg", "weight": 0.7 },
+    { "type": "image", "image": "tori-penso.jpg", "name": "Tori Penso", "role": "Schiedsrichterin · USA", "weight": 0.8 },
+    { "type": "stats", "title": "Historische Bilanz", "stats": [
+        { "label": "Alter", "value": "39" },
+        { "label": "Frau bei Männer-WM", "value": "Nr. 2" },
+        { "label": "Note (Tschechien-Südafrika)", "value": "2,0" }
+      ], "image": "ball-drg.jpg", "weight": 0.9 },
+    { "type": "image", "image": "frappart.jpg",  "name": "Stéphanie Frappart", "role": "WM-Pionierin 2022", "weight": 0.8 },
+    { "type": "image", "image": "steinhaus.jpg", "name": "Bibiana Steinhaus", "role": "Bundesliga-Pionierin", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",    "name": "Joshua Kimmich", "role": "Kapitän · DFB", "weight": 0.8 },
+    { "type": "image", "image": "valencia.jpg",   "name": "Enner Valencia", "role": "Kapitän · Ecuador", "weight": 0.8 },
+    { "type": "image", "image": "ecuador-flagge.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Mehr Frauen als WM-Schiris?", "subtitle": "Ja oder Nein – sag's in den Kommentaren!", "image": "metlife-stadium.jpg", "weight": 1.0 }
+  ]
+}
