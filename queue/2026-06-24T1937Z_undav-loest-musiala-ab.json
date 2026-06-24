@@ -1,0 +1,39 @@
+{
+  "slug": "undav-loest-musiala-ab",
+  "createdAt": "2026-06-24T19:37:05Z",
+  "title": "Undav verdrängt Musiala aus der Startelf",
+  "script": "Nagelsmann nimmt seinen Star aus der Startelf – für den Ersatzspieler. Deniz Undav: 9 Tore in 11 Länderspielen als Joker, bei dieser WM 3 Tore und 2 Vorlagen in nur 56 Minuten. Laut Bild ist es zu 100 Prozent sicher: Undav startet heute Abend gegen Ecuador von Anfang an. Der Preis dafür: Jamal Musiala, in beiden Gruppenspielen ausgewechselt, bekommt eine Pause. 22 Uhr, MetLife Stadium, East Rutherford – Deutschland ist schon Gruppensieger. Lohnt sich das Risiko?",
+  "uploadCaption": "Undav startet, Musiala pausiert! Nagelsmanns mutige Entscheidung vor dem Gruppenfinale gegen Ecuador heute um 22 Uhr. Richtig so?",
+  "uploadHashtags": "#DFB #WM2026 #Undav #Musiala #Nagelsmann #Ecuador #Fussball",
+  "images": [
+    { "file": "undav.jpg",          "search": "Deniz Undav" },
+    { "file": "metlife-stadium.jpg","search": "MetLife Stadium" },
+    { "file": "musiala.jpg",        "search": "Jamal Musiala" },
+    { "file": "undav-training.jpg", "search": "Deniz Undav Training" },
+    { "file": "nagelsmann.jpg",     "search": "Julian Nagelsmann" },
+    { "file": "musiala-jubel.jpg",  "search": "Jamal Musiala Torjubel" },
+    { "file": "teamfoto.jpg",       "search": "Deutschland Mannschaftsfoto 2026" },
+    { "file": "ecuador-flagge.jpg", "search": "Ecuador Flagge" },
+    { "file": "ecuador-trikot.jpg", "search": "Ecuador Trikot" },
+    { "file": "fans.jpg",           "search": "Deutschland Fans" },
+    { "file": "wm-logo.jpg",        "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER WAR NUR JOKER. JETZT STARTET ER GEGEN ECUADOR.", "image": "undav.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · GRUPPENFINALE", "title": "Undav verdrängt Musiala", "image": "metlife-stadium.jpg", "weight": 0.7 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "Offensiv · FC Bayern", "weight": 0.8 },
+    { "type": "stats", "title": "Joker-Bilanz", "stats": [
+        { "label": "Tore als Einwechselspieler", "value": "9/11" },
+        { "label": "Tore bei dieser WM", "value": "3" },
+        { "label": "Vorlagen", "value": "2" },
+        { "label": "Einsatzzeit", "value": "56 Min." }
+      ], "image": "undav-training.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "musiala-jubel.jpg", "weight": 0.8 },
+    { "type": "image", "image": "teamfoto.jpg", "weight": 0.8 },
+    { "type": "image", "image": "ecuador-flagge.jpg", "weight": 0.8 },
+    { "type": "image", "image": "ecuador-trikot.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Richtige Entscheidung?", "subtitle": "Undav startet, Musiala pausiert – sag uns deine Meinung!", "image": "wm-logo.jpg", "weight": 1.0 }
+  ]
+}
