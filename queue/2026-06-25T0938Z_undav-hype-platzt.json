@@ -1,0 +1,42 @@
+{
+  "slug": "undav-hype-platzt",
+  "createdAt": "2026-06-25T09:38:32Z",
+  "title": "Undav-Hype platzt: Nagelsmann bleibt hart",
+  "script": "Gestern war sich Bild zu 100 Prozent sicher: Deniz Undav startet gegen Ecuador. Heute sagt Nagelsmann: Nein. Nur zwei Wechsel – Antonio Rüdiger für den verletzten Nico Schlotterbeck, David Raum für Nathaniel Brown. Undav bleibt Joker, trotz 9 Toren in 11 Länderspielen als Einwechsler und 3 Toren bei dieser WM in nur 56 Minuten. Nagelsmann setzt auf Rhythmus vor der K.o.-Runde – Deutschland führt Gruppe E mit 6 Punkten vor der Elfenbeinküste mit 3 und Ecuador mit nur 1 Punkt. Plan oder Fehler?",
+  "uploadCaption": "Bild war sich SICHER. Nagelsmann hat ANDERE Pläne. Undav bleibt Joker – Plan oder Fehler? 🇩🇪⚽",
+  "uploadHashtags": "#DFB #WM2026 #Nagelsmann #Undav #Fussball",
+  "images": [
+    { "file": "undav.jpg", "search": "Deniz Undav" },
+    { "file": "undav-training.jpg", "search": "Deniz Undav Training" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "raum.jpg", "search": "David Raum" },
+    { "file": "ruediger.jpg", "search": "Antonio Rüdiger" },
+    { "file": "schlotterbeck.jpg", "search": "Nico Schlotterbeck verletzt" },
+    { "file": "stadion.jpg", "search": "MetLife Stadium East Rutherford" },
+    { "file": "ball.jpg", "search": "Ball Schwarz Rot Gold" },
+    { "file": "team.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "fans.jpg", "search": "Deutschland Fans" },
+    { "file": "jubel.jpg", "search": "DFB Jubel" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "100% SICHER, hieß es gestern. Nagelsmann: NEIN.", "image": "undav.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · Gruppe E", "title": "Nagelsmanns Startelf-Hammer", "image": "nagelsmann.jpg", "weight": 0.6 },
+    { "type": "image", "image": "undav-training.jpg", "name": "Deniz Undav", "role": "Stürmer · Joker", "weight": 0.7 },
+    { "type": "stats", "title": "Undavs Joker-Zahlen", "stats": [
+      { "label": "Tore als Einwechsler", "value": "9/11" },
+      { "label": "Bilanz bei dieser WM", "value": "3 Tore, 2 Assists" },
+      { "label": "Einsatzzeit", "value": "56 Min." }
+    ], "image": "ball.jpg", "weight": 0.8 },
+    { "type": "image", "image": "raum.jpg", "name": "David Raum", "role": "Linksverteidiger · Comeback", "weight": 0.75 },
+    { "type": "image", "image": "ruediger.jpg", "name": "Antonio Rüdiger", "role": "Innenverteidiger · Vertreter", "weight": 0.8 },
+    { "type": "image", "image": "schlotterbeck.jpg", "name": "Nico Schlotterbeck", "role": "Verletzt · WM-Aus", "weight": 0.8 },
+    { "type": "image", "image": "stadion.jpg", "weight": 0.8 },
+    { "type": "image", "image": "team.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Gruppe E vor dem 3. Spieltag", "stats": [
+      { "label": "Deutschland", "value": "6 Punkte" },
+      { "label": "Elfenbeinküste", "value": "3 Punkte" },
+      { "label": "Ecuador", "value": "1 Punkt" }
+    ], "image": "fans.jpg", "weight": 0.9 },
+    { "type": "outro", "title": "Plan oder Fehler?", "subtitle": "Hätte Undav von Anfang an spielen müssen? Kommentar!", "image": "jubel.jpg", "weight": 1.0 }
+  ]
+}
