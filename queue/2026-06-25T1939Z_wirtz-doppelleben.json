@@ -1,0 +1,42 @@
+{
+  "slug": "wirtz-doppelleben",
+  "createdAt": "2026-06-25T19:39:10Z",
+  "title": "Wirtz' Doppelleben: Liverpool-Flop, WM-Held",
+  "script": "125 Millionen Euro Ablöse, aber beim FC Liverpool nur fünf Saisontore – vier Ligaspiele sogar ganz ohne Torbeteiligung. Fans nennen Florian Wirtz bereits 'Flop'. Bei der Nationalmannschaft dagegen ist er unantastbar: Zusammen mit Manuel Neuer die meisten Spielminuten aller DFB-Spieler bei dieser WM, kein einziges Mal ausgewechselt. Seine Vorlage leitete Felix Nmechas Rekordtor nach nur sechs Minuten gegen Curaçao ein. Heute im Gruppenfinale gegen Ecuador im MetLife Stadium ist Wirtz wieder gesetzt – Bundestrainer Nagelsmann vertraut ihm bedingungslos. Klub-Krise, WM-Krone: zwei Welten, ein Spieler.",
+  "uploadCaption": "125 Mio. Euro Ablöse, aber beim FC Liverpool nur 5 Tore – beim DFB dagegen unverzichtbar. Florian Wirtz lebt aktuell zwei komplett unterschiedliche Fußball-Leben. Verdient er trotzdem seinen WM-Stammplatz?",
+  "uploadHashtags": "#DFB #WM2026 #Wirtz #Liverpool #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "wirtz-presse.jpg", "search": "Florian Wirtz Pressekonferenz Liverpool" },
+    { "file": "buerde-125.jpg", "search": "Symbolische goldene Last aus Geldscheinen druckt auf Schultern, Druck und Erwartung Metapher", "thematic": true },
+    { "file": "wirtz-training.jpg", "search": "Florian Wirtz Liverpool Training" },
+    { "file": "wirtz-zweikampf.jpg", "search": "Florian Wirtz Zweikampf" },
+    { "file": "wirtz-jubel.jpg", "search": "Florian Wirtz Jubel Nationalmannschaft" },
+    { "file": "nmecha-tor.jpg", "search": "Felix Nmecha Tor Curacao" },
+    { "file": "neuer-aktion.jpg", "search": "Manuel Neuer Aktion" },
+    { "file": "nagelsmann-pk.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "metlife-aussen.jpg", "search": "MetLife Stadium" },
+    { "file": "dfb-fans.jpg", "search": "Deutschland Fans" },
+    { "file": "team-2026.jpg", "search": "Deutschland Nationalmannschaft Teamfoto 2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "125 MILLIONEN € – NUR 5 TORE.", "image": "wirtz-presse.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026", "title": "Wirtz' Doppelleben", "image": "buerde-125.jpg", "weight": 0.7 },
+    { "type": "image", "image": "wirtz-training.jpg", "name": "Florian Wirtz", "role": "Offensiv · FC Liverpool", "weight": 0.8 },
+    { "type": "stats", "title": "Liga-Krise", "stats": [
+        { "label": "Ablöse", "value": "125 Mio €" },
+        { "label": "Saisontore", "value": "5" },
+        { "label": "Ohne Torbeteiligung", "value": "4 Spiele" }
+      ], "image": "wirtz-zweikampf.jpg", "weight": 0.85 },
+    { "type": "image", "image": "wirtz-jubel.jpg", "name": "Florian Wirtz", "role": "Nationalmannschaft · 23", "weight": 0.85 },
+    { "type": "image", "image": "nmecha-tor.jpg", "name": "Felix Nmecha", "role": "Mittelfeld · 26", "weight": 0.8 },
+    { "type": "stats", "title": "WM-Form", "stats": [
+        { "label": "Spielminuten", "value": "180" },
+        { "label": "Ausgewechselt", "value": "0×" },
+        { "label": "Vorlage Rekordtor", "value": "6. Min." }
+      ], "image": "neuer-aktion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann-pk.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "metlife-aussen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb-fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Verdient er den Stammplatz?", "subtitle": "Klub-Flop, WM-unverzichtbar – deine Meinung?", "image": "team-2026.jpg", "weight": 1.0 }
+  ]
+}
