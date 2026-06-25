@@ -1,0 +1,36 @@
+{
+  "slug": "metlife-problem-rasen",
+  "createdAt": "2026-06-25T17:37:56Z",
+  "title": "Der Problem-Rasen vom WM-Finale",
+  "script": "27 Lkw-Ladungen Rasen aus North Carolina, verlegt auf 46 Zentimetern Sand – und Spieler weltweit hassen ihn schon. Das MetLife Stadium ist heute Bühne für Deutschlands Gruppenfinale gegen Ecuador, aber in nur 24 Tagen auch WM-Finale-Schauplatz. Kritiker sagen: zu hart, zu trocken, zu langsam. Dazu gefühlte 34 Grad und eine WM-Premiere – Trinkpausen in Minute 22 und 67, erstmals Pflicht bei jedem einzigen Spiel. Kimmich, Tah, Rüdiger, Raum und Wirtz testen heute live, was im Finale wartet.",
+  "uploadCaption": "27 Lkw-Ladungen Rasen aus North Carolina, 46 Zentimeter Sand drunter – und Stars weltweit hassen ihn schon. Heute testet Deutschland live, was in 24 Tagen das WM-Finale tragen soll. Dazu 34 Grad gefühlt und erstmals Pflicht-Trinkpausen bei jedem WM-Spiel.",
+  "uploadHashtags": "#DFB #WM2026 #MetLifeStadium #Nationalmannschaft #Ecuador #Fussball",
+  "images": [
+    { "file": "metlife-aussen.jpg", "search": "MetLife Stadium" },
+    { "file": "metlife-innen.jpg", "search": "MetLife Stadium innen" },
+    { "file": "rollrasen-lkw.jpg", "search": "Rollrasen Lkw Lieferung Stadion", "thematic": true },
+    { "file": "rasen-sandbett.jpg", "search": "Rasen Sandbett Verlegung Querschnitt", "thematic": true },
+    { "file": "wasserflaschen-trinkpause.jpg", "search": "Wasserflaschen Trinkpause Spielfeldrand", "thematic": true },
+    { "file": "kimmich-kapitaen.jpg", "search": "Joshua Kimmich" },
+    { "file": "tah-aktion.jpg", "search": "Jonathan Tah" },
+    { "file": "ruediger-kopfball.jpg", "search": "Antonio Rüdiger" },
+    { "file": "raum-aktion.jpg", "search": "David Raum" },
+    { "file": "wirtz-training.jpg", "search": "Florian Wirtz" },
+    { "file": "fans-dfb.jpg", "search": "DFB Fans" },
+    { "file": "fans-jubel.jpg", "search": "Jubelnde Fans Stadion" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "27 LKW RASEN FÜR EIN PROBLEM-FELD.", "image": "metlife-aussen.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · Geheimnis", "title": "Der Problem-Rasen vom Finale", "image": "metlife-innen.jpg", "weight": 0.7 },
+    { "type": "image", "image": "rollrasen-lkw.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Der Rasen in Zahlen", "stats": [ { "label": "Lkw-Ladungen", "value": "27" }, { "label": "Sand-Tiefe", "value": "46 cm" } ], "image": "rasen-sandbett.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich-kapitaen.jpg", "name": "Joshua Kimmich", "role": "Kapitän", "weight": 0.8 },
+    { "type": "image", "image": "tah-aktion.jpg", "name": "Jonathan Tah", "role": "Innenverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "ruediger-kopfball.jpg", "name": "Antonio Rüdiger", "role": "Innenverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "raum-aktion.jpg", "name": "David Raum", "role": "Linksverteidiger", "weight": 0.8 },
+    { "type": "stats", "title": "Hitze-Check", "stats": [ { "label": "Gefühlt", "value": "34 °C" }, { "label": "Trinkpausen", "value": "Min. 22 + 67" } ], "image": "wasserflaschen-trinkpause.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz-training.jpg", "name": "Florian Wirtz", "role": "Offensiv", "weight": 0.8 },
+    { "type": "image", "image": "fans-dfb.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Rasen-Drama vorm Finale?", "subtitle": "Wird der Problem-Rasen am 19. Juli das WM-Finale verderben? Sag's in den Kommentaren!", "image": "fans-jubel.jpg", "weight": 1.0 }
+  ]
+}
