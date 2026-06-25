@@ -1,0 +1,34 @@
+{
+  "slug": "sane-trotzt-fan-veto",
+  "createdAt": "2026-06-25T15:39:08Z",
+  "title": "Fans wollten Sané raus",
+  "script": "2.700 DFB-Fans haben abgestimmt – mit einer klaren Forderung: Sané raus aus der Startelf gegen Ecuador. Nagelsmann ignoriert sie komplett. Zum dritten Mal in Folge steht Leroy Sané in der Anfangself. Die Zahl, die niemand ausspricht: 13 Spiele bei großen Turnieren, Euro und WM – und noch immer null Tore für Sané. Bei Rüdiger lagen die Fans mit 1.908 Stimmen goldrichtig, bei Wirtz mit 1.921 auch. Nur bei einem Namen liegen Bundestrainer und Basis komplett über Kreuz. Verdient Sané nach 13 Nullnummern noch eine vierte Chance?",
+  "uploadCaption": "2.700 DFB-Fans stimmten ab: Sané soll raus! Nagelsmann hört nicht hin – schon das 3. Spiel in Folge in der Startelf, trotz 13 Turnierspielen ohne eigenes Tor. Bei Rüdiger und Wirtz lagen die Fans goldrichtig. Wer hat Recht?",
+  "uploadHashtags": "#DFB #WM2026 #Sane #Nagelsmann #Ecuador #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "sane-aktion.jpg", "search": "Leroy Sané" },
+    { "file": "metlife-aussen.jpg", "search": "MetLife Stadium" },
+    { "file": "fans-dfb.jpg", "search": "DFB Fans" },
+    { "file": "sane-dfb.jpg", "search": "Leroy Sané" },
+    { "file": "nagelsmann-pk.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "sane-training.jpg", "search": "Leroy Sané Training" },
+    { "file": "wirtz-jubel.jpg", "search": "Florian Wirtz" },
+    { "file": "ruediger-aktion.jpg", "search": "Antonio Rüdiger" },
+    { "file": "nagelsmann-sane.jpg", "search": "Nagelsmann Sané" },
+    { "file": "metlife-innen.jpg", "search": "MetLife Stadium innen" },
+    { "file": "fans-hoffen.jpg", "search": "DFB Fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "2.700 FANS SAGEN: SANÉ RAUS.", "image": "sane-aktion.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · Gruppenfinale", "title": "Fans gegen Nagelsmann", "image": "metlife-aussen.jpg", "weight": 0.7 },
+    { "type": "stats", "title": "Die Forderung der Fans", "stats": [ { "label": "Stimmen für Sané-Bank", "value": "Mehrheit" }, { "label": "Wirtz-Stimmen", "value": "1.921" }, { "label": "Rüdiger-Stimmen", "value": "1.908" } ], "image": "fans-dfb.jpg", "weight": 0.85 },
+    { "type": "image", "image": "sane-dfb.jpg", "name": "Leroy Sané", "role": "Offensiv", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann-pk.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "stats", "title": "Die bittere Zahl", "stats": [ { "label": "Turnierspiele ohne Tor", "value": "13" }, { "label": "Große Turniere (EM+WM)", "value": "5" } ], "image": "sane-training.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz-jubel.jpg", "name": "Florian Wirtz", "role": "Offensiv", "weight": 0.8 },
+    { "type": "image", "image": "ruediger-aktion.jpg", "name": "Antonio Rüdiger", "role": "Innenverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann-sane.jpg", "weight": 0.8 },
+    { "type": "image", "image": "metlife-innen.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Verdient er Spiel 4?", "subtitle": "Hat Nagelsmann Recht, die Fans bei Sané zu ignorieren? Sag's in den Kommentaren!", "image": "fans-hoffen.jpg", "weight": 1.0 }
+  ]
+}
