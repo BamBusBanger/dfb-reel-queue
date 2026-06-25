@@ -1,0 +1,34 @@
+{
+  "slug": "nagelsmann-nullrotation-ecuador",
+  "createdAt": "2026-06-25T12:37:17Z",
+  "title": "Nullrotation trotz Gruppensieg",
+  "script": "Schon Gruppensieger – trotzdem keine Schonung! Nagelsmann sagt vor dem Ecuador-Spiel klipp und klar: Ich sehe da keinen Riesensinn. Nur zwei Wechsel sind Pflicht: Rüdiger für den verletzten Schlotterbeck, Raum für Brown. Sonst bleibt alles beim Alten – auch der 40-jährige Manuel Neuer spielt weiter. Dabei bekam er bei dieser WM nur zwei Schüsse aufs Tor – und beide waren Gegentore! Null Paraden, aber Nagelsmann will Rhythmus für die K.o.-Runde. Dazu winkt heute der 12. Sieg in Serie bei 9:2 Toren. Richtig so, oder sollte er jetzt Kräfte sparen?",
+  "uploadCaption": "Nagelsmann rotiert NICHT – trotz Gruppensieg! Nur 2 Pflicht-Wechsel, Neuer bleibt im Tor trotz Horror-Stat: 2 Schüsse, 2 Gegentore, 0 Paraden. Heute winkt der 12. Sieg in Serie gegen Ecuador.",
+  "uploadHashtags": "#DFB #WM2026 #Nagelsmann #ManuelNeuer #Ecuador #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "metlife-aussen.jpg", "search": "MetLife Stadium" },
+    { "file": "team-2026.jpg", "search": "Deutschland Mannschaftsfoto 2026" },
+    { "file": "neuer-parade.jpg", "search": "Manuel Neuer" },
+    { "file": "neuer-aufwaermen.jpg", "search": "Manuel Neuer Aufwärmen" },
+    { "file": "ruediger.jpg", "search": "Antonio Rüdiger" },
+    { "file": "raum.jpg", "search": "David Raum" },
+    { "file": "nagelsmann-pk.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "ball-srg.jpg", "search": "Ball schwarz rot gold Deutschland" },
+    { "file": "pavlovic.jpg", "search": "Aleksandar Pavlović" },
+    { "file": "metlife-innen.jpg", "search": "MetLife Stadium innen" },
+    { "file": "fans.jpg", "search": "Deutschland Fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "NULL ROTATION. TROTZ GRUPPENSIEG.", "image": "metlife-aussen.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · Gruppenfinale", "title": "Nagelsmanns Nullrotation", "image": "team-2026.jpg", "weight": 0.7 },
+    { "type": "image", "image": "neuer-parade.jpg", "name": "Manuel Neuer", "role": "Torwart · 40", "weight": 0.8 },
+    { "type": "stats", "title": "Neuers Horror-Stat", "stats": [ { "label": "Schüsse aufs Tor", "value": "2" }, { "label": "Gegentore", "value": "2" }, { "label": "Paraden", "value": "0" } ], "image": "neuer-aufwaermen.jpg", "weight": 0.9 },
+    { "type": "image", "image": "ruediger.jpg", "name": "Antonio Rüdiger", "role": "Innenverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "raum.jpg", "name": "David Raum", "role": "Linksverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann-pk.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "stats", "title": "DFB-Bilanz vor Ecuador", "stats": [ { "label": "Siege in Serie", "value": "11" }, { "label": "Tore", "value": "9" }, { "label": "Gegentore", "value": "2" } ], "image": "ball-srg.jpg", "weight": 0.9 },
+    { "type": "image", "image": "pavlovic.jpg", "name": "Aleksandar Pavlović", "role": "Mittelfeld · 22", "weight": 0.8 },
+    { "type": "image", "image": "metlife-innen.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Richtig oder Risiko?", "subtitle": "Sollte Nagelsmann vor dem Achtelfinale Kräfte sparen? Sag's in den Kommentaren!", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
