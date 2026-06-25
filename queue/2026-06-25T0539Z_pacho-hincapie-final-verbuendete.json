@@ -1,0 +1,34 @@
+{
+  "slug": "pacho-hincapie-final-verbuendete",
+  "createdAt": "2026-06-25T05:39:03Z",
+  "title": "Pacho & Hincapié: Vom CL-Finale zu Ecuadors Mauer",
+  "script": "Vor 26 Tagen standen sich Willian Pacho und Piero Hincapié im Champions-League-Finale als Gegner gegenüber: PSG gegen Arsenal, Elfmeterkrimi in Budapest, Pacho gewinnt. Heute bilden beide gemeinsam Ecuadors Abwehr gegen Deutschland. Aus derselben Jugendakademie, früher gemeinsam Südamerika-Meister der U20, jetzt verantwortlich für nur 5 Gegentore in 18 WM-Quali-Spielen. Ihr Gegner: die DFB-Rekordserie mit 11 Siegen in Folge, heute 22 Uhr im MetLife Stadium. Stoppt die Final-Connection, was bisher keiner konnte?",
+  "uploadCaption": "26 Tage nach dem Champions-League-Finale stehen sich Pacho und Hincapié nicht mehr gegenüber - sie verteidigen gemeinsam gegen Deutschland. Stoppt die Final-Connection die DFB-Rekordserie? Heute 22 Uhr im MetLife Stadium!",
+  "uploadHashtags": "#DFB #WM2026 #Ecuador #Pacho #Hincapie #ChampionsLeague #Fussball",
+  "images": [
+    { "file": "hincapie.jpg", "search": "Piero Hincapié" },
+    { "file": "pacho.jpg", "search": "Willian Pacho" },
+    { "file": "cl-finale.jpg", "search": "Champions League Finale Pokal 2026" },
+    { "file": "ecuador-aktion.jpg", "search": "Ecuador Nationalmannschaft WM 2026" },
+    { "file": "ecuador-flagge.jpg", "search": "Ecuador Flagge" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich Kapitän" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "metlife-innen.jpg", "search": "MetLife Stadium innen" },
+    { "file": "metlife-aussen.jpg", "search": "MetLife Stadium außen" },
+    { "file": "dfb-jubel.jpg", "search": "DFB Jubel" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "VOR 26 TAGEN WAREN SIE NOCH GEGNER.", "image": "metlife-innen.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · GEHEIMNIS", "title": "Pacho & Hincapié: Feinde im Mai, Verbündete im Juni", "image": "metlife-aussen.jpg", "weight": 0.7 },
+    { "type": "image", "image": "hincapie.jpg", "name": "Piero Hincapié", "role": "Innenverteidiger · Ecuador", "weight": 0.8 },
+    { "type": "image", "image": "pacho.jpg", "name": "Willian Pacho", "role": "Innenverteidiger · Ecuador", "weight": 0.8 },
+    { "type": "stats", "title": "Champions-League-Finale", "stats": [ { "label": "Datum", "value": "30. Mai" }, { "label": "Ort", "value": "Budapest" }, { "label": "Ergebnis", "value": "Elfmeterkrimi, Pacho gewinnt" } ], "image": "cl-finale.jpg", "weight": 0.9 },
+    { "type": "image", "image": "ecuador-aktion.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Ecuadors Abwehr-Mauer", "stats": [ { "label": "Gegentore Quali", "value": "5" }, { "label": "Spiele", "value": "18" } ], "image": "ecuador-flagge.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · DFB", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Bremst die Final-Freundschaft die DFB-Serie?", "subtitle": "11 Siege in Folge - heute 22 Uhr im MetLife Stadium", "image": "dfb-jubel.jpg", "weight": 1.0 }
+  ]
+}
