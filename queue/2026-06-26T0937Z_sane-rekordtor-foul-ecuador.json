@@ -1,0 +1,38 @@
+{
+  "slug": "sane-rekordtor-foul-ecuador",
+  "createdAt": "2026-06-26T09:37:29Z",
+  "title": "Sanés Rekord-Tor hat einen Makel",
+  "script": "108 Sekunden. So schnell brauchte Leroy Sané für sein Tor gegen Ecuador – die zweitschnellste deutsche WM-Führung aller Zeiten, nur Ernst Lehner war 1934 noch schneller. Sanés allererstes Tor bei einem großen Turnier, nach 13 sieglosen Spielen bei EM und WM. Doch davor: ein ungeahndetes Foul von Pavlović ins Gesicht eines Ecuadorianers. Schiedsrichterin Tori Penso und der VAR ließen es laufen. Das Tor zählte – am Ende verlor Deutschland trotzdem 1:2. Hätte dieser Treffer überhaupt zählen dürfen?",
+  "uploadCaption": "Sané traf nach nur 108 Sekunden – fast ein 92 Jahre alter DFB-Rekord. Aber direkt davor lief etwas, das kaum jemand sah. 👀⚽",
+  "uploadHashtags": "#DFB #WM2026 #Sane #Fussball #Ecuador #Nationalmannschaft",
+  "images": [
+    { "file": "sane-action.jpg", "search": "Leroy Sané" },
+    { "file": "sane-jubel.jpg", "search": "Leroy Sané Jubel" },
+    { "file": "metlife-stadium.jpg", "search": "MetLife Stadium" },
+    { "file": "sane-training.jpg", "search": "Leroy Sané Training" },
+    { "file": "stoppuhr-rekord.jpg", "search": "Stoppuhr Sekunden Rekord", "thematic": true },
+    { "file": "pavlovic-aktion.jpg", "search": "Aleksandar Pavlović" },
+    { "file": "tori-penso.jpg", "search": "Tori Penso Schiedsrichterin" },
+    { "file": "ecuador-jubel.jpg", "search": "Ecuador Torjubel" },
+    { "file": "nagelsmann-pk.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "ecuador-aktion.jpg", "search": "Ecuador Spieler Aktion" },
+    { "file": "fans-enttaeuscht.jpg", "search": "Fans Enttäuschung Public Viewing" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "108 SEKUNDEN BIS ZUM FAST-REKORD.", "image": "sane-action.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · GEHEIMNIS", "title": "Sanés Rekord-Tor hat einen Makel", "image": "sane-jubel.jpg", "weight": 0.7 },
+    { "type": "image", "image": "metlife-stadium.jpg", "weight": 0.75 },
+    { "type": "image", "image": "sane-training.jpg", "name": "Leroy Sané", "role": "Offensiv · DFB", "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen hinter dem Tor", "stats": [
+        { "label": "Sanés Tor", "value": "1:49 Min" },
+        { "label": "Nur schneller", "value": "Lehner, 1934" },
+        { "label": "Sané-Tore vorher", "value": "0 von 13" }
+      ], "image": "stoppuhr-rekord.jpg", "weight": 0.9 },
+    { "type": "image", "image": "pavlovic-aktion.jpg", "name": "Aleksandar Pavlović", "role": "Mittelfeld · DFB", "weight": 0.85 },
+    { "type": "image", "image": "tori-penso.jpg", "name": "Tori Penso", "role": "Schiedsrichterin", "weight": 0.8 },
+    { "type": "image", "image": "ecuador-jubel.jpg", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann-pk.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "ecuador-aktion.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Hätte das Tor zählen dürfen?", "subtitle": "Sag's in den Kommentaren", "image": "fans-enttaeuscht.jpg", "weight": 1.0 }
+  ]
+}
