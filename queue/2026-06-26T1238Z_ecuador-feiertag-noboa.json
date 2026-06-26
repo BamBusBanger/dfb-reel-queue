@@ -1,0 +1,38 @@
+{
+  "slug": "ecuador-feiertag-noboa",
+  "createdAt": "2026-06-26T12:38:48Z",
+  "title": "Ecuador feiert WM-Sieg mit Feiertag",
+  "script": "EIN GANZES LAND HAT HEUTE FREI – WEGEN UNS. Nach dem 2:1-Sieg gegen Deutschland rief Ecuadors Präsident Daniel Noboa einen landesweiten Feiertag aus. Sein Zitat: Trotz Kritik und Beleidigungen brachten die Spieler dem Land diese riesige Freude. Der Grund: Ecuadors ERSTER Sieg gegen Deutschland überhaupt, zuvor 0:3 in 2006 und 2:4 in 2013. Sané traf in Minute 2, doch Nilson Angulo, 23, Mann des Spiels, glich in Minute 9 aus, Gonzalo Plata traf in Minute 78 zum Sieg. Deutschlands Serie von 11 Siegen ist gerissen.",
+  "uploadCaption": "Ecuador hat HEUTE einen nationalen Feiertag ausgerufen – weil sie zum ERSTEN MAL in der Geschichte gegen Deutschland gewonnen haben (2:1). Präsident Noboa feiert mit dem ganzen Land, während die DFB-Serie von 11 Siegen reißt. Verdient das einen Feiertag?",
+  "uploadHashtags": "#DFB #WM2026 #Ecuador #Nagelsmann #Sane #Fussball",
+  "images": [
+    { "file": "ecuador-fahne.jpg",      "search": "Ecuador Fahne" },
+    { "file": "ecuador-jubel.jpg",      "search": "Ecuador Torjubel" },
+    { "file": "noboa.jpg",              "search": "Daniel Noboa" },
+    { "file": "ecuador-karte.jpg",      "search": "Ecuador Flaggenkarte" },
+    { "file": "sane.jpg",               "search": "Leroy Sané" },
+    { "file": "angulo.jpg",             "search": "Nilson Angulo" },
+    { "file": "plata.jpg",              "search": "Gonzalo Plata" },
+    { "file": "fans-entsetzen.jpg",     "search": "DFB Fans Public Viewing Entsetzen" },
+    { "file": "metlife-stadium.jpg",    "search": "MetLife Stadium" },
+    { "file": "valencia.jpg",           "search": "Enner Valencia" },
+    { "file": "wm2026-logo.jpg",        "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "EIN LAND HAT HEUTE FREI. WEGEN UNS.", "image": "ecuador-fahne.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · GRUPPE E", "title": "Ecuadors Feiertag nach DFB-Sieg", "image": "ecuador-jubel.jpg", "weight": 0.7 },
+    { "type": "image", "image": "noboa.jpg", "name": "Daniel Noboa", "role": "Präsident · Ecuador", "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen zum Schock", "stats": [
+        { "label": "Endstand", "value": "2:1" },
+        { "label": "Bilanz davor", "value": "0:2 für DFB" },
+        { "label": "DFB-Serie beendet", "value": "11" }
+      ], "image": "ecuador-karte.jpg", "weight": 0.9 },
+    { "type": "image", "image": "sane.jpg", "name": "Leroy Sané", "role": "Offensiv · 30", "weight": 0.8 },
+    { "type": "image", "image": "angulo.jpg", "name": "Nilson Angulo", "role": "Mann des Spiels · 23", "weight": 0.8 },
+    { "type": "image", "image": "plata.jpg", "name": "Gonzalo Plata", "role": "Siegtorschütze · Ecuador", "weight": 0.8 },
+    { "type": "image", "image": "fans-entsetzen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "metlife-stadium.jpg", "weight": 0.8 },
+    { "type": "image", "image": "valencia.jpg", "name": "Enner Valencia", "role": "Kapitän · 36", "weight": 0.8 },
+    { "type": "outro", "title": "Verdient das einen Feiertag?", "subtitle": "Sag's in den Kommentaren", "image": "wm2026-logo.jpg", "weight": 1.0 }
+  ]
+}
