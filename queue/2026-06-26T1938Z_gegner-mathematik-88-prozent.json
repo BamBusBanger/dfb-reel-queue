@@ -1,0 +1,40 @@
+{
+  "slug": "gegner-mathematik-88-prozent",
+  "createdAt": "2026-06-26T19:38:50Z",
+  "title": "Paraguay zu 88 Prozent: Die Gegner-Mathematik",
+  "script": "495 mögliche Kombinationen gab es für Deutschlands Sechzehntelfinal-Gegner – jetzt ist die Mathematik fast entschieden. Nur noch 51 Konstellationen bleiben übrig. Außenseiter Schweden: gerade 1 von 51. Schottland: immerhin 5 von 51. Klarer Favorit ist Paraguay mit 45 von 51 Konstellationen – satte 88 Prozent Wahrscheinlichkeit. Pikant: Zwischen dem Ecuador-Spiel und dem Duell am 29. Juni in Boston bleiben Kapitän Kimmich und der DFB-Elf gerade mal 4 Tage Pause. Wettet ihr auf Paraguay, oder hofft ihr auf die Schottland-Überraschung?",
+  "uploadCaption": "495 mögliche Kombinationen, jetzt nur noch 51: Die Mathematik zum DFB-Sechzehntelfinal-Gegner ist fast entschieden. Schweden nur 1/51, Schottland 5/51 – Favorit ist klar Paraguay mit 45/51 Konstellationen (88%). Dazu bleiben zwischen Ecuador-Spiel und dem Duell am 29. Juni in Boston nur 4 Tage Pause. Wettet ihr auf Paraguay?",
+  "uploadHashtags": "#DFB #WM2026 #Paraguay #Sechzehntelfinale #Nagelsmann #Fussball",
+  "images": [
+    { "file": "wuerfel-symbol.jpg",      "search": "Digitale Glaskugel WM Auslosung Wahrscheinlichkeit", "thematic": true },
+    { "file": "gillette-stadium.jpg",    "search": "Gillette Stadium Foxborough" },
+    { "file": "schweden.jpg",            "search": "Schweden Fußballnationalmannschaft" },
+    { "file": "schottland.jpg",          "search": "Schottland Fußballnationalmannschaft" },
+    { "file": "paraguay-flagge.jpg",     "search": "Paraguay Fußballnationalmannschaft" },
+    { "file": "nagelsmann-pk.jpg",       "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "kimmich-kapitaensbinde.jpg","search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "dfb-training.jpg",        "search": "DFB Training" },
+    { "file": "dfb-fans.jpg",            "search": "DFB Fans" },
+    { "file": "dfb-jubel.jpg",           "search": "DFB Jubel" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "88 PROZENT SICHER: DAS IST UNSER NÄCHSTER GEGNER.", "image": "wuerfel-symbol.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · SECHZEHNTELFINALE", "title": "Die Gegner-Mathematik", "image": "gillette-stadium.jpg", "weight": 0.7 },
+    { "type": "stats", "title": "495 Möglichkeiten", "stats": [
+        { "label": "Ursprünglich möglich", "value": "495" },
+        { "label": "Jetzt noch übrig", "value": "51" }
+      ], "image": "wuerfel-symbol.jpg", "weight": 0.9 },
+    { "type": "image", "image": "schweden.jpg", "weight": 0.8 },
+    { "type": "image", "image": "schottland.jpg", "weight": 0.8 },
+    { "type": "image", "image": "paraguay-flagge.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Die Paraguay-Quote", "stats": [
+        { "label": "Konstellationen", "value": "45 von 51" },
+        { "label": "Wahrscheinlichkeit", "value": "88%" }
+      ], "image": "paraguay-flagge.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann-pk.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "kimmich-kapitaensbinde.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 108 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "dfb-training.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb-fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Paraguay zu 88% sicher – Angst oder Vorfreude?", "subtitle": "Sag's in den Kommentaren!", "image": "dfb-jubel.jpg", "weight": 1.0 }
+  ]
+}
