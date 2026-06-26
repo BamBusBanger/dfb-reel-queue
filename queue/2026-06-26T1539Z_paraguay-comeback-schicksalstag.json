@@ -1,0 +1,44 @@
+{
+  "slug": "paraguay-comeback-schicksalstag",
+  "createdAt": "2026-06-26T15:39:11Z",
+  "title": "Paraguays Schicksalsdatum gegen Deutschland",
+  "script": "Montag, 29. Juni – genau dieses Datum hat für Paraguay magische Kraft. Vor exakt 16 Jahren, am 29. Juni 2010, schoss sich Paraguay im Elfmeterkrimi gegen Japan ins einzige WM-Viertelfinale seiner Geschichte. Jetzt, nach 16 Jahren WM-Abstinenz, ist Paraguay mit 4 Punkten als Gruppendritter zurück – und trifft im Sechzehntelfinale wohl auf Deutschland, im Gillette Stadium bei Boston. Die Bilanz bisher: ein Sieg für die DFB-Elf, 1:0 durch Oliver Neuville 2002, plus ein 3:3 im Test 2013. Star-Stürmer Julio Enciso und Miguel Almirón warten auf Revanche. Glaubt ihr, das Schicksalsdatum schlägt wieder zu?",
+  "uploadCaption": "Der 29. Juni hat für Paraguay magische Kraft: Vor GENAU 16 Jahren schoss sich die Albirroja ins einzige WM-Viertelfinale ihrer Geschichte. Jetzt ist sie nach 16 Jahren WM-Pause zurück und trifft im Sechzehntelfinale wohl auf die DFB-Elf – im Gillette Stadium bei Boston. Bilanz bisher: 1:0 für Deutschland (2002), 3:3 im Test (2013). Schlägt das Schicksalsdatum wieder zu?",
+  "uploadHashtags": "#DFB #WM2026 #Paraguay #Sechzehntelfinale #Nagelsmann #Fussball",
+  "images": [
+    { "file": "paraguay-flagge.jpg",     "search": "Paraguay Flaggenkarte" },
+    { "file": "gillette-stadium.jpg",    "search": "Gillette Stadium" },
+    { "file": "wm-pokal.jpg",            "search": "WM Pokal Vitrine" },
+    { "file": "enciso.jpg",              "search": "Julio Enciso" },
+    { "file": "almiron.jpg",             "search": "Miguel Almirón" },
+    { "file": "alfaro.jpg",              "search": "Gustavo Alfaro" },
+    { "file": "deutschland-flagge.jpg",  "search": "Deutschland Flagge" },
+    { "file": "neuer.jpg",               "search": "Manuel Neuer" },
+    { "file": "tah.jpg",                 "search": "Jonathan Tah" },
+    { "file": "kimmich.jpg",             "search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "wirtz.jpg",               "search": "Florian Wirtz" },
+    { "file": "dfb-fans.jpg",            "search": "Deutschland Fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "DIESES DATUM HAT FÜR UNSEREN NÄCHSTEN GEGNER MAGISCHE KRAFT.", "image": "paraguay-flagge.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · SECHZEHNTELFINALE", "title": "Deutschland trifft auf Paraguay?", "image": "gillette-stadium.jpg", "weight": 0.7 },
+    { "type": "stats", "title": "16 Jahre Schicksal", "stats": [
+        { "label": "WM-Pause", "value": "16 Jahre" },
+        { "label": "Bestes Ergebnis", "value": "Viertelfinale 2010" },
+        { "label": "Damals Datum", "value": "29. Juni" }
+      ], "image": "wm-pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "enciso.jpg",  "name": "Julio Enciso",   "role": "Offensiv · Paraguay", "weight": 0.8 },
+    { "type": "image", "image": "almiron.jpg", "name": "Miguel Almirón", "role": "Offensiv · Paraguay", "weight": 0.8 },
+    { "type": "image", "image": "alfaro.jpg",  "name": "Gustavo Alfaro", "role": "Trainer · Paraguay", "weight": 0.8 },
+    { "type": "stats", "title": "Direktduelle", "stats": [
+        { "label": "Bilanz", "value": "1 Sieg DFB" },
+        { "label": "WM 2002", "value": "1:0 (Neuville)" },
+        { "label": "Test 2013", "value": "3:3" }
+      ], "image": "deutschland-flagge.jpg", "weight": 0.9 },
+    { "type": "image", "image": "neuer.jpg",   "name": "Manuel Neuer",   "role": "Torhüter · 40", "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg",     "name": "Jonathan Tah",   "role": "Abwehrchef · 30", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · Mittelfeld", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",   "name": "Florian Wirtz",  "role": "Offensiv · Liverpool", "weight": 0.8 },
+    { "type": "outro", "title": "Schlägt das Schicksalsdatum wieder zu?", "subtitle": "Sag's in den Kommentaren", "image": "dfb-fans.jpg", "weight": 1.0 }
+  ]
+}
