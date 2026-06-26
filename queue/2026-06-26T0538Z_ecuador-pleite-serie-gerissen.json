@@ -1,0 +1,46 @@
+{
+  "slug": "ecuador-pleite-serie-gerissen",
+  "createdAt": "2026-06-26T05:38:04Z",
+  "title": "DFB-Schock: Serie nach 11 Siegen gerissen",
+  "script": "Schnellstes deutsches WM-Tor seit 92 Jahren – und trotzdem verloren! Leroy Sané traf schon in der 2. Minute gegen Ecuador, doch Nilson Angulo glich nur sieben Minuten später aus. Gonzalo Plata schoss in der 78. Minute den Siegtreffer zum 1:2. Die Serie von 11 Siegen ist gerissen, Jupp Derwalls Uralt-Rekord von zwölf in Folge aus den Jahren 1979 und 1980 bleibt unerreicht. Nagelsmann hatte bewusst rotiert, weil der Gruppensieg längst sicher war. Am Montag, dem 29. Juni, geht's in Boston weiter.",
+  "uploadCaption": "92 Jahre wartete Deutschland auf ein Tor so früh wie das von Sané (2. Minute) - und verliert trotzdem 1:2 gegen Ecuador. Die Serie von 11 Siegen ist gerissen, Derwalls Uralt-Rekord bleibt unerreicht. War die Rotation von Nagelsmann ein Fehler?",
+  "uploadHashtags": "#DFB #WM2026 #Sane #Ecuador #Nagelsmann #Fussball",
+  "images": [
+    { "file": "sane-dfb.jpg", "search": "Leroy Sané" },
+    { "file": "metlife-aussen.jpg", "search": "MetLife Stadium" },
+    { "file": "sane-spielszene.jpg", "search": "Leroy Sané" },
+    { "file": "metlife-innen.jpg", "search": "MetLife Stadium" },
+    { "file": "sane-aktion.jpg", "search": "Leroy Sané" },
+    { "file": "ecuador-torjubel.jpg", "search": "Ecuador Torjubel" },
+    { "file": "public-viewing-entsetzen.jpg", "search": "Public Viewing Enttäuschung" },
+    { "file": "nagelsmann-pk.jpg", "search": "Julian Nagelsmann" },
+    { "file": "ruediger-aktion.jpg", "search": "Antonio Rüdiger" },
+    { "file": "kimmich-kapitaen.jpg", "search": "Joshua Kimmich" },
+    { "file": "neuer-parade.jpg", "search": "Manuel Neuer" },
+    { "file": "public-viewing-hoffen.jpg", "search": "Public Viewing Fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Schnellstes deutsches WM-Tor seit 92 Jahren – trotzdem verloren!", "image": "sane-dfb.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · GRUPPE E", "title": "DFB-Schock gegen Ecuador", "image": "metlife-aussen.jpg", "weight": 0.6 },
+    { "type": "image", "image": "sane-spielszene.jpg", "name": "Leroy Sané", "role": "Offensiv · 30", "weight": 0.7 },
+    { "type": "stats", "title": "Das Spiel in Zahlen", "stats": [
+      { "label": "Sané-Tor", "value": "2. Minute" },
+      { "label": "Ausgleich Angulo", "value": "9. Minute" },
+      { "label": "Endstand", "value": "1:2" }
+    ], "image": "metlife-innen.jpg", "weight": 0.75 },
+    { "type": "image", "image": "sane-aktion.jpg", "weight": 0.78 },
+    { "type": "image", "image": "ecuador-torjubel.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Serie gerissen", "stats": [
+      { "label": "Siege in Serie", "value": "11" },
+      { "label": "Rekord Derwall 1979/80", "value": "12 - verpasst" }
+    ], "image": "public-viewing-entsetzen.jpg", "weight": 0.82 },
+    { "type": "image", "image": "nagelsmann-pk.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.85 },
+    { "type": "image", "image": "ruediger-aktion.jpg", "name": "Antonio Rüdiger", "role": "Abwehr · 33", "weight": 0.87 },
+    { "type": "stats", "title": "Trotzdem entspannt?", "stats": [
+      { "label": "Gruppenplatz", "value": "1 (schon sicher)" },
+      { "label": "Nächstes Spiel", "value": "29.6. Boston" }
+    ], "image": "kimmich-kapitaen.jpg", "weight": 0.9 },
+    { "type": "image", "image": "neuer-parade.jpg", "name": "Manuel Neuer", "role": "Tor · 40", "weight": 0.92 },
+    { "type": "outro", "title": "Rotation war richtig - oder Leichtsinn?", "subtitle": "Schreib's in die Kommentare!", "image": "public-viewing-hoffen.jpg", "weight": 1.0 }
+  ]
+}
