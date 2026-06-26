@@ -1,0 +1,33 @@
+{
+  "slug": "kimmich-nagelsmann-widerspruch",
+  "createdAt": "2026-06-26T17:38:20Z",
+  "title": "Kimmich vs. Nagelsmann: Riss im Team?",
+  "script": "Riss im DFB-Team mitten in der WM! Nach dem 1:2 gegen Ecuador und dem Ende der Serie von 11 Siegen warnt Kapitän Joshua Kimmich: 'Der Gegner wollte mehr gewinnen als wir.' Mit 108 Länderspielen fordert er sofort eine Reaktion - keine weitere Pleite in der K.o.-Runde. Bundestrainer Julian Nagelsmann widerspricht vehement: kein Mentalitätsproblem, nur Taktik. Als ein TV-Moderator nachhakt, wird er sogar laut: 'Hört auf mit dem Quatsch.' Vor dem Sechzehntelfinale gegen Paraguay am 29. Juni in Boston zeigt sich der erste echte Bruch dieser WM.",
+  "uploadCaption": "Kimmich warnt nach der Ecuador-Pleite, Nagelsmann widerspricht ihm öffentlich. Der erste Riss im DFB-Team mitten im Turnier - kurz vor dem Sechzehntelfinale gegen Paraguay.",
+  "uploadHashtags": "#DFB #WM2026 #Kimmich #Nagelsmann #Fussball",
+  "images": [
+    { "file": "kimmich-kapitaensbinde.jpg", "search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "nagelsmann-pk.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "kimmich-kapitaen.jpg", "search": "Joshua Kimmich" },
+    { "file": "nagelsmann-portrait.jpg", "search": "Julian Nagelsmann" },
+    { "file": "undav-aktion.jpg", "search": "Deniz Undav" },
+    { "file": "riss-trikot-symbol.jpg", "search": "Gespaltenes Trikot Riss symbolisch", "thematic": true },
+    { "file": "fans-entsetzen.jpg", "search": "DFB Fans enttäuscht" },
+    { "file": "nagelsmann-besprechung.jpg", "search": "DFB Trainerbesprechung" },
+    { "file": "gillette-stadium.jpg", "search": "Gillette Stadium Boston" },
+    { "file": "dfb-teamfoto-2026.jpg", "search": "DFB Mannschaftsfoto 2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "RISS IM TEAM. MITTEN IN DER WM.", "image": "kimmich-kapitaensbinde.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026", "title": "Kimmich widerspricht Nagelsmann", "image": "nagelsmann-pk.jpg", "weight": 0.7 },
+    { "type": "image", "image": "kimmich-kapitaen.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 108 Länderspiele", "weight": 0.8 },
+    { "type": "stats", "title": "Die Pleite in Zahlen", "stats": [{ "label": "Endstand", "value": "1:2" }, { "label": "Serie beendet", "value": "11 Siege" }], "image": "nagelsmann-besprechung.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann-portrait.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "undav-aktion.jpg", "name": "Deniz Undav", "role": "Stürmer · Joker", "weight": 0.8 },
+    { "type": "image", "image": "riss-trikot-symbol.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Kimmichs Ansage", "stats": [{ "label": "Länderspiele", "value": "108" }, { "label": "Weitere K.o.-Pleiten erlaubt", "value": "0" }], "image": "undav-aktion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "gillette-stadium.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans-entsetzen.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Mentalität oder Taktik?", "subtitle": "Wer hat recht - Kimmich oder Nagelsmann? Sag's in den Kommentaren!", "image": "dfb-teamfoto-2026.jpg", "weight": 1.0 }
+  ]
+}
