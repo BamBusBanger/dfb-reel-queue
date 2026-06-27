@@ -1,0 +1,37 @@
+{
+  "slug": "reserve-trio-paraguay",
+  "createdAt": "2026-06-27T12:39:10Z",
+  "title": "Die Bank-Geheimwaffe gegen Paraguay",
+  "script": "102 Sekunden – so schnell traf keiner schneller nach seiner Einwechslung. Heute trainierten drei DFB-Reservisten in Winston-Salem auf Hochtouren fürs Achtelfinale. Platz 3: Leon Goretzka, 70 Länderspiele, aber nur 27 Bank-Minuten bisher. Platz 2: Nick Woltemade, 75 Millionen Euro Ablöse, aber 0 WM-Minuten. Platz 1: Assan Ouédraogo, erst 20 – traf 2025 exakt 102 Sekunden nach seiner Einwechslung, jüngster deutscher Debüt-Torschütze seit 1954. Gegen Paraguays Festungs-Abwehr, nur 10 Gegentore in 18 Quali-Spielen, könnte er Montag Nagelsmanns Geheimwaffe werden.",
+  "uploadCaption": "Drei DFB-Reservisten trainierten heute in Winston-Salem auf Hochtouren fürs Achtelfinale gegen Paraguay: Goretzka (70 Länderspiele, nur 27 Bank-Minuten), Woltemade (75 Mio. Ablöse, 0 WM-Minuten) und Ouédraogo (20, traf 2025 102 Sekunden nach seiner Einwechslung – jüngster deutscher Debüt-Torschütze seit 1954). Gegen Paraguays Festungs-Abwehr (nur 10 Gegentore in 18 Quali-Spielen) könnte einer von ihnen am Montag die Geheimwaffe sein. Wer soll ran?",
+  "uploadHashtags": "#DFB #WM2026 #Ouedraogo #Woltemade #Goretzka #Nagelsmann #Paraguay #Achtelfinale #Fussball",
+  "images": [
+    { "file": "winston-salem-camp.jpg", "search": "Winston-Salem DFB Trainingslager" },
+    { "file": "nagelsmann-training.jpg", "search": "Julian Nagelsmann Training" },
+    { "file": "kimmich-training.jpg", "search": "Joshua Kimmich Training" },
+    { "file": "goretzka-training.jpg", "search": "Leon Goretzka" },
+    { "file": "woltemade-portrait.jpg", "search": "Nick Woltemade" },
+    { "file": "ouedraogo.png", "search": "Assan Ouédraogo" },
+    { "file": "dfb-fans.jpg", "search": "DFB Fans" },
+    { "file": "paraguay-festung.jpg", "search": "Festung Mauer Symbol Abwehr", "thematic": true },
+    { "file": "gomez-paraguay.jpg", "search": "Gustavo Gómez Paraguay" },
+    { "file": "gillette-stadium.jpg", "search": "Gillette Stadium Foxborough" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "102 SEKUNDEN. EIN TOR. EINE GEHEIMWAFFE GEGEN PARAGUAY?", "image": "winston-salem-camp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · ACHTELFINALE", "title": "Die Bank-Geheimwaffe", "image": "nagelsmann-training.jpg", "weight": 0.7 },
+    { "type": "image", "image": "kimmich-training.jpg", "name": "Joshua Kimmich", "role": "Kapitän · Mittelfeld", "weight": 0.8 },
+    { "type": "image", "image": "goretzka-training.jpg", "name": "Leon Goretzka", "role": "Mittelfeld · 31", "weight": 0.8 },
+    { "type": "image", "image": "woltemade-portrait.jpg", "name": "Nick Woltemade", "role": "Stürmer · 24", "weight": 0.8 },
+    { "type": "image", "image": "ouedraogo.png", "name": "Assan Ouédraogo", "role": "Mittelfeld · 20", "weight": 0.8 },
+    { "type": "stats", "title": "Die Bank-Bilanz", "stats": [
+        { "label": "Goretzka Bank-Minuten", "value": "27" },
+        { "label": "Woltemade WM-Minuten", "value": "0" },
+        { "label": "Ouédraogo Tor nach", "value": "102 Sek." }
+      ], "image": "dfb-fans.jpg", "weight": 0.9 },
+    { "type": "image", "image": "paraguay-festung.jpg", "weight": 0.8 },
+    { "type": "image", "image": "gomez-paraguay.jpg", "name": "Gustavo Gómez", "role": "Kapitän · Paraguay", "weight": 0.8 },
+    { "type": "image", "image": "gillette-stadium.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Setzt Nagelsmann gegen Paraguay auf Ouédraogo?", "subtitle": "Sag's in den Kommentaren!", "image": "gillette-stadium.jpg", "weight": 1.0 }
+  ]
+}
