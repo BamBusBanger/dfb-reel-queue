@@ -1,0 +1,37 @@
+{
+  "slug": "neuer-raum-schuldfrage",
+  "createdAt": "2026-06-27T15:37:48Z",
+  "title": "Wer ist schuld am Neuer-Patzer?",
+  "script": "40 Jahre alt, WM-Rekordtorhüter mit 21 Einsätzen – und plötzlich der Sündenbock? Beim 1:2 gegen Ecuador wirft Legende Sepp Maier Manuel Neuer Mitschuld am Plata-Treffer der 78. Minute vor: 'Muss sich an die eigene Nase fassen.' Neuer selbst sagt knallhart 'Nee' – kein Torwartfehler, nur eine normale Kopfballverlängerung. Das Geheimnis: Nagelsmann zeigt gar nicht auf seinen Keeper, sondern auf David Raum, der das entscheidende Kopfballduell nach dem Eckball verlor. In der ganzen Gruppenphase nur 7 Schüsse aufs Tor – 4 davon Gegentore. Drei Tage vor Paraguay: Wer trägt wirklich die Schuld?",
+  "uploadCaption": "Sepp Maier übt Kritik, Neuer weist jede Schuld von sich – aber Nagelsmann zeigt am Ende auf einen ganz anderen Spieler. Das steckt wirklich hinter dem 1:2 gegen Ecuador. Wer ist für dich schuld am Gegentor – Neuer oder Raum?",
+  "uploadHashtags": "#DFB #WM2026 #Neuer #Nagelsmann #Fussball",
+  "images": [
+    { "file": "neuer.jpg", "search": "Manuel Neuer" },
+    { "file": "raum.jpg", "search": "David Raum" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "ruediger.jpg", "search": "Antonio Rüdiger" },
+    { "file": "tah.jpg", "search": "Jonathan Tah" },
+    { "file": "ecuador-jubel.jpg", "search": "Ecuador Torjubel" },
+    { "file": "plata.jpg", "search": "Gonzalo Plata Ecuador" },
+    { "file": "maier.jpg", "search": "Sepp Maier" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "metlife.jpg", "search": "MetLife Stadium" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "40 JAHRE. WM-REKORD. UND TROTZDEM DER SÜNDENBOCK?", "image": "neuer.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · ACHTELFINALE", "title": "Die Schuldfrage", "image": "ecuador-jubel.jpg", "weight": 0.7 },
+    { "type": "image", "image": "neuer.jpg", "name": "Manuel Neuer", "role": "Torwart · 40", "weight": 0.8 },
+    { "type": "image", "image": "plata.jpg", "name": "Gonzalo Plata", "role": "Ecuador · Tor 78.", "weight": 0.8 },
+    { "type": "image", "image": "maier.jpg", "name": "Sepp Maier", "role": "Torwart-Legende", "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen", "stats": [
+      { "label": "WM-Spiele Neuer", "value": "21" },
+      { "label": "Schüsse aufs Tor (Gruppe)", "value": "7" },
+      { "label": "Davon Gegentore", "value": "4" }
+    ], "image": "metlife.jpg", "weight": 0.9 },
+    { "type": "image", "image": "raum.jpg", "name": "David Raum", "role": "Linksverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "ruediger.jpg", "name": "Antonio Rüdiger", "role": "Innenverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "Abwehrchef", "weight": 0.8 },
+    { "type": "outro", "title": "Wer trägt wirklich Schuld?", "subtitle": "Neuer oder Raum? Sag's in den Kommentaren!", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
