@@ -1,0 +1,39 @@
+{
+  "slug": "paraguay-gluecksbringer",
+  "createdAt": "2026-06-27T19:37:34Z",
+  "title": "Der geheime Glücksbringer: Paraguay",
+  "script": "Nur ZWEI Duelle in der Geschichte – und das erste brachte Deutschland bis ins WM-Finale! 2002, Achtelfinale, Oliver Neuville trifft in der 88. Minute zum 1:0 gegen Paraguay. Danach marschiert die DFB-Elf bis ins Endspiel. Nach einem 3:3-Test 2013 trifft Deutschland jetzt, 24 Jahre später, im Sechzehntelfinale wieder auf Paraguay – Montag, 22:30 Uhr, vor 65.000 Fans im Gillette Stadium Foxborough. Kimmich und Co. wollen den Glücksbringer-Effekt wiederholen. Reicht der Mythos für den nächsten Schritt Richtung Titel?",
+  "uploadCaption": "Nur 1 Pflichtspiel-Sieg in der Geschichte gegen Paraguay – und der brachte uns 2002 bis ins WM-Finale. Jetzt, 24 Jahre später, wartet im Sechzehntelfinale erneut Paraguay auf die DFB-Elf. Glaubst du an die Wiederholung der Geschichte? 🇩🇪⚽",
+  "uploadHashtags": "#DFB #WM2026 #Paraguay #Sechzehntelfinale #Fussball",
+  "images": [
+    { "file": "pokal.jpg", "search": "DFB WM Pokal Vitrine" },
+    { "file": "stadion.jpg", "search": "Gillette Stadium Foxborough" },
+    { "file": "neuville.jpg", "search": "Oliver Neuville Nationalmannschaft" },
+    { "file": "teamfoto.jpg", "search": "Deutschland Nationalmannschaft Teamfoto 2026" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich Kapitän" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "tah.jpg", "search": "Jonathan Tah" },
+    { "file": "paraguay-flagge.jpg", "search": "Paraguay Flagge" },
+    { "file": "fans.jpg", "search": "DFB Fans Jubel" },
+    { "file": "deutschland-flagge.jpg", "search": "Deutschland Flagge Fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "EIN TOR SCHICKTE DEUTSCHLAND INS WM-FINALE.", "image": "pokal.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · Sechzehntelfinale", "title": "Der geheime Glücksbringer", "image": "stadion.jpg", "weight": 0.7 },
+    { "type": "image", "image": "neuville.jpg", "name": "Oliver Neuville", "role": "Siegtorschütze 2002", "weight": 0.8 },
+    { "type": "stats", "title": "2002 vs. 2026", "stats": [
+      { "label": "Siegtor-Minute 2002", "value": "88." },
+      { "label": "Endstand 2002", "value": "1:0" },
+      { "label": "Jahre seit dem Coup", "value": "24" },
+      { "label": "Test 2013", "value": "3:3" }
+    ], "image": "teamfoto.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Offensiv · 23", "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "Abwehrchef", "weight": 0.8 },
+    { "type": "image", "image": "paraguay-flagge.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wiederholt sich das WM-Wunder?", "subtitle": "Sag's in den Kommentaren!", "image": "deutschland-flagge.jpg", "weight": 1.0 }
+  ]
+}
