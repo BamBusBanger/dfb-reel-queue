@@ -1,0 +1,38 @@
+{
+  "slug": "almiron-gegen-dfb-mauer",
+  "createdAt": "2026-06-27T17:40:41Z",
+  "title": "Almiróns Comeback nach Skurril-Rot",
+  "script": "Mund zugehalten – Rote Karte! Paraguays Topspieler Miguel Almirón sah als erster Profi der WM-Geschichte Rot für die neue Anti-Rassismus-Regel, beim 1:0-Sieg gegen die Türkei, eine Halbzeit lang in Unterzahl. Eine Partie Sperre, das 0:0 gegen Australien verpasst – jetzt ist der 32-Jährige wieder spielberechtigt. Montag, 22:30 Uhr, Gillette Stadium: Almiróns Tempo trifft auf Deutschlands neue Abwehr-Chefs Jonathan Tah und Antonio Rüdiger, die seit Schlotterbecks Ausfall die Mauer bilden. Tempo gegen Erfahrung im Sechzehntelfinale. Wer setzt sich durch?",
+  "uploadCaption": "Mund zugehalten, Rote Karte, eine Partie Sperre – und jetzt ist er zurück: Paraguays Tempo-Waffe Almirón gegen die neue DFB-Mauer Tah/Rüdiger. Montag 22:30 Uhr geht's um den Achtelfinal-Platz!",
+  "uploadHashtags": "#DFB #WM2026 #Sechzehntelfinale #Paraguay #Almiron #JonathanTah #AntonioRuediger #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "almiron_portrait.jpg", "search": "Miguel Almirón" },
+    { "file": "rote_karte_schiedsrichter.jpg", "search": "Schiedsrichter rote Karte" },
+    { "file": "paraguay_jubel.jpg", "search": "Paraguay Nationalmannschaft Jubel" },
+    { "file": "winston_salem_basecamp.jpg", "search": "DFB Trainingslager Winston-Salem" },
+    { "file": "gillette_stadium.jpg", "search": "Gillette Stadium Foxborough" },
+    { "file": "tah_aktion.jpg", "search": "Jonathan Tah" },
+    { "file": "ruediger_kopfball.jpg", "search": "Antonio Rüdiger" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "kimmich_training.jpg", "search": "Joshua Kimmich" },
+    { "file": "deutschland_fans.jpg", "search": "DFB Fans" },
+    { "file": "fan_jubel_menge.jpg", "search": "Fußballfans Jubel Menge" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER WURDE WEGEN SEINER HAND VOM PLATZ GESTELLT.", "image": "almiron_portrait.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · Sechzehntelfinale", "title": "Almiróns Comeback", "image": "rote_karte_schiedsrichter.jpg", "weight": 0.7 },
+    { "type": "image", "image": "paraguay_jubel.jpg", "weight": 0.75 },
+    { "type": "image", "image": "winston_salem_basecamp.jpg", "weight": 0.75 },
+    { "type": "stats", "title": "Die Zahlen", "stats": [
+      { "label": "Rote Karte Nr.", "value": "1." },
+      { "label": "Sperre", "value": "1 Spiel" },
+      { "label": "Sieg trotz Unterzahl", "value": "1:0" }
+    ], "image": "gillette_stadium.jpg", "weight": 0.9 },
+    { "type": "image", "image": "tah_aktion.jpg", "name": "Jonathan Tah", "role": "Innenverteidiger · DFB", "weight": 0.8 },
+    { "type": "image", "image": "ruediger_kopfball.jpg", "name": "Antonio Rüdiger", "role": "Innenverteidiger · DFB", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "kimmich_training.jpg", "name": "Joshua Kimmich", "role": "Kapitän · DFB", "weight": 0.8 },
+    { "type": "image", "image": "deutschland_fans.jpg", "weight": 0.85 },
+    { "type": "outro", "title": "Tempo oder Erfahrung?", "subtitle": "Wer gewinnt das Duell? Kommentar!", "image": "fan_jubel_menge.jpg", "weight": 1.0 }
+  ]
+}
