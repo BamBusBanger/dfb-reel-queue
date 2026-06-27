@@ -1,0 +1,40 @@
+{
+  "slug": "paraguay-weltmeister-warnung",
+  "createdAt": "2026-06-27T05:38:12Z",
+  "title": "DFB-Warnung: Dieser Gegner bezwang den Weltmeister",
+  "script": "Achtung, DFB! Der nächste Gegner hat schon den Weltmeister bezwungen. Paraguay ist jetzt offiziell Deutschlands Sechzehntelfinal-Gegner, Montag, 22:30 Uhr in Boston. Was viele vergessen: Paraguay schlug Argentinien im November 2024 mit 2:1, Verteidiger Alderete köpfte in der 47. Minute den Siegtreffer. Trainer Alfaro warnt offen: Wir glauben, dass wir jede Mannschaft schlagen können. Kapitän Gustavo Gómez bringt 88 Länderspiele Erfahrung, dazu Stars wie Almirón und Enciso im Angriff. Unterschätzt Deutschland diesen Außenseiter?",
+  "uploadCaption": "Paraguay ist offiziell Deutschlands Sechzehntelfinal-Gegner – Montag, 22:30 Uhr in Boston. Was viele vergessen: Die Südamerikaner schlugen Weltmeister Argentinien 2024 mit 2:1, Alderete traf in der 47. Minute. Trainer Alfaro: 'Wir glauben, dass wir jede Mannschaft schlagen können.' Unterschätzt Deutschland diesen Außenseiter?",
+  "uploadHashtags": "#DFB #WM2026 #Paraguay #Sechzehntelfinale #Nagelsmann #Fussball",
+  "images": [
+    { "file": "paraguay-flagge.jpg",   "search": "Paraguay Fußballnationalmannschaft" },
+    { "file": "gillette-stadium.jpg",  "search": "Gillette Stadium Foxborough" },
+    { "file": "alderete.jpg",          "search": "Omar Alderete Paraguay" },
+    { "file": "gustavo-gomez.jpg",     "search": "Gustavo Gómez Paraguay Kapitän" },
+    { "file": "alfaro.jpg",            "search": "Gustavo Alfaro Trainer Paraguay" },
+    { "file": "almiron.jpg",           "search": "Miguel Almirón Paraguay" },
+    { "file": "enciso.jpg",            "search": "Julio Enciso Paraguay" },
+    { "file": "nagelsmann.jpg",        "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "dfb-training.jpg",      "search": "DFB Training" },
+    { "file": "dfb-fans.jpg",          "search": "DFB Fans" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ACHTUNG, DFB! DEIN NÄCHSTER GEGNER HAT SCHON DEN WELTMEISTER BESIEGT.", "image": "paraguay-flagge.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · SECHZEHNTELFINALE", "title": "Warnschuss aus Paraguay", "image": "gillette-stadium.jpg", "weight": 0.7 },
+    { "type": "stats", "title": "Die Sensation 2024", "stats": [
+        { "label": "Gegner", "value": "Weltmeister Argentinien" },
+        { "label": "Ergebnis", "value": "2:1 für Paraguay" }
+      ], "image": "alderete.jpg", "weight": 0.9 },
+    { "type": "image", "image": "alderete.jpg", "name": "Omar Alderete", "role": "Verteidiger · Siegtor vs. Argentinien", "weight": 0.8 },
+    { "type": "image", "image": "gustavo-gomez.jpg", "name": "Gustavo Gómez", "role": "Kapitän · 88 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "alfaro.jpg", "name": "Gustavo Alfaro", "role": "Trainer Paraguay", "weight": 0.8 },
+    { "type": "stats", "title": "Das Duell steht", "stats": [
+        { "label": "Termin", "value": "Montag, 22:30 Uhr" },
+        { "label": "Ort", "value": "Boston / Foxborough" }
+      ], "image": "gillette-stadium.jpg", "weight": 0.9 },
+    { "type": "image", "image": "almiron.jpg", "name": "Miguel Almirón", "role": "Offensive · Atlanta United", "weight": 0.8 },
+    { "type": "image", "image": "enciso.jpg", "name": "Julio Enciso", "role": "Offensive · RC Straßburg", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "dfb-training.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Unterschätzt Deutschland diesen Außenseiter?", "subtitle": "Sag's in den Kommentaren!", "image": "dfb-fans.jpg", "weight": 1.0 }
+  ]
+}
