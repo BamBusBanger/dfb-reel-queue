@@ -1,0 +1,41 @@
+{
+  "slug": "nagelsmann-voeller-zoff",
+  "createdAt": "2026-06-27T09:39:37Z",
+  "title": "Bestraft für den Sieg? Nagelsmann vs. Völler",
+  "script": "Deutschland wird Gruppensieger – und genau dafür plötzlich bestraft? Bundestrainer Nagelsmann wettert: 'Dass man als Gruppensieger so ein bisschen bestraft wird, finde ich nicht optimal.' Der Grund: Der Gegner steht erst Samstagnacht fest, am Montag um 22:30 Uhr ist schon Anstoß gegen Paraguay in Boston. Sportdirektor Rudi Völler widerspricht entspannt: 'Es gibt nicht die Top-Lösung' – seine Lösung: einfach eine Stunde länger arbeiten. Kapitän Kimmich und Co. müssen es ausbaden. Wer hat recht – der kritische Trainer oder der coole Manager?",
+  "uploadCaption": "Deutschland ist Gruppensieger – und wird laut Nagelsmann dafür 'bestraft': Der Gegner steht erst Samstagnacht fest, Anstoß ist schon Montag 22:30 Uhr gegen Paraguay in Boston. Völler sieht's gelassener: 'Es gibt nicht die Top-Lösung' – einfach eine Stunde länger arbeiten. Wer hat recht?",
+  "uploadHashtags": "#DFB #WM2026 #Nagelsmann #Voeller #Paraguay #Sechzehntelfinale #Fussball",
+  "images": [
+    { "file": "nagelsmann-pk.jpg",             "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "gillette-stadium.jpg",          "search": "Gillette Stadium Foxborough" },
+    { "file": "nagelsmann-portrait.jpg",       "search": "Julian Nagelsmann Portrait" },
+    { "file": "zeitdruck-uhr.jpg",             "search": "Stoppuhr Mitternacht Zeitdruck", "thematic": true },
+    { "file": "voeller.jpg",                   "search": "Rudi Völler" },
+    { "file": "wm-pokal.jpg",                  "search": "WM Pokal Vitrine" },
+    { "file": "analysten-nachtschicht.jpg",    "search": "Trainerstab Videoanalyse Laptop nachts", "thematic": true },
+    { "file": "paraguay-flagge.jpg",           "search": "Paraguay Flaggenkarte" },
+    { "file": "kimmich-kapitaensbinde.jpg",    "search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "dfb-training.jpg",              "search": "DFB Training" },
+    { "file": "dfb-fans.jpg",                  "search": "DFB Fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "DEUTSCHLAND WIRD GRUPPENSIEGER – UND DAFÜR BESTRAFT?!", "image": "nagelsmann-pk.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · K.O.-MODUS", "title": "Nagelsmann gegen Völler", "image": "gillette-stadium.jpg", "weight": 0.7 },
+    { "type": "image", "image": "nagelsmann-portrait.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "stats", "title": "Der Vorwurf", "stats": [
+        { "label": "Pressekonferenz", "value": "Mi., 24. Juni" },
+        { "label": "Anstoß vs. Paraguay", "value": "Mo., 22:30 Uhr" },
+        { "label": "Ort", "value": "Boston / Foxborough" }
+      ], "image": "zeitdruck-uhr.jpg", "weight": 0.9 },
+    { "type": "image", "image": "voeller.jpg", "name": "Rudi Völler", "role": "Sportdirektor · DFB", "weight": 0.8 },
+    { "type": "stats", "title": "Völlers Konter", "stats": [
+        { "label": "Gegner steht fest", "value": "Samstagnacht" },
+        { "label": "Völlers Lösung", "value": "+1 Stunde Arbeit" }
+      ], "image": "wm-pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "analysten-nachtschicht.jpg", "weight": 0.8 },
+    { "type": "image", "image": "paraguay-flagge.jpg", "weight": 0.8 },
+    { "type": "image", "image": "kimmich-kapitaensbinde.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 108 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "dfb-training.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wer hat recht – Nagelsmann oder Völler?", "subtitle": "Sag's in den Kommentaren!", "image": "dfb-fans.jpg", "weight": 1.0 }
+  ]
+}
