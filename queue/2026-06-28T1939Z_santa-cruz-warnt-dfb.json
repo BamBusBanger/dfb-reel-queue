@@ -1,0 +1,34 @@
+{
+  "slug": "santa-cruz-warnt-dfb",
+  "createdAt": "2026-06-28T19:39:52Z",
+  "title": "Die Bayern-Legende gegen den DFB",
+  "script": "Er hat Bayern fünf Meisterschaften beschert – jetzt will er den DFB stürzen. Roque Santa Cruz, einst Münchens Stürmer-Idol, hofft im Achtelfinale auf ein hitziges, körperlich brutales Spiel gegen Deutschland. Seine Bilanz bei Bayern: 155 Spiele, 31 Tore, Champions-League-Sieger 2001. Für Paraguay ist er sogar Rekordtorschütze mit 32 Toren in 112 Länderspielen – und mit 44 Jahren immer noch aktiver Profi. Jetzt setzt er auf Hitze in Foxborough und Paraguays robuste Abwehr gegen Nagelsmanns Team. Kann eine Vereinslegende ihrem Ex-Klub wirklich gefährlich werden?",
+  "uploadCaption": "Eine Bayern-Legende will dem DFB wehtun: Roque Santa Cruz (44, einst 155 Spiele/31 Tore für Bayern, heute Paraguays Rekordtorschütze mit 32 Toren in 112 Länderspielen) hofft auf Hitze und ein körperlich brutales Spiel gegen Deutschland im Achtelfinale. Kann er seinem Ex-Klub wirklich gefährlich werden? 👇",
+  "uploadHashtags": "#DFB #WM2026 #Paraguay #SantaCruz #FCBayern #Achtelfinale #Fussball",
+  "images": [
+    { "file": "gillette_stadium.jpg", "search": "Gillette Stadium Foxborough" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "santacruz.jpg", "search": "Roque Santa Cruz" },
+    { "file": "allianz_arena.jpg", "search": "FC Bayern München Allianz Arena" },
+    { "file": "paraguay_team.jpg", "search": "Paraguay Nationalmannschaft" },
+    { "file": "hitzewelle.jpg", "search": "Hitzewelle über US-Stadion Symbolbild", "thematic": true },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "tah.jpg", "search": "Jonathan Tah" },
+    { "file": "ruediger.jpg", "search": "Antonio Rüdiger" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "stadion_nacht.jpg", "search": "Stadion bei Nacht Atmosphäre" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER HAT BAYERN FÜNF MEISTERSCHAFTEN BESCHERT – JETZT WILL ER DEN DFB STÜRZEN.", "image": "gillette_stadium.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · Achtelfinale", "title": "Die Bayern-Legende gegen den DFB", "image": "fans.jpg", "weight": 0.7 },
+    { "type": "image", "image": "santacruz.jpg", "name": "Roque Santa Cruz", "role": "Paraguay-Legende", "weight": 0.8 },
+    { "type": "stats", "title": "Seine Bayern-Bilanz", "stats": [{ "label": "Spiele", "value": "155" }, { "label": "Tore", "value": "31" }, { "label": "Meistertitel", "value": "5" }], "image": "allianz_arena.jpg", "weight": 0.9 },
+    { "type": "stats", "title": "Paraguays Rekordmann", "stats": [{ "label": "Länderspiele", "value": "112" }, { "label": "Tore", "value": "32" }], "image": "paraguay_team.jpg", "weight": 0.9 },
+    { "type": "image", "image": "hitzewelle.jpg", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "Innenverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "ruediger.jpg", "name": "Antonio Rüdiger", "role": "Innenverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän", "weight": 0.8 },
+    { "type": "outro", "title": "Gefährlich für Deutschland?", "subtitle": "Sag deine Meinung", "image": "stadion_nacht.jpg", "weight": 1.0 }
+  ]
+}
