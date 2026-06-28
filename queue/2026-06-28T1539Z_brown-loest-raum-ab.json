@@ -1,0 +1,37 @@
+{
+  "slug": "brown-loest-raum-ab",
+  "createdAt": "2026-06-28T15:39:23Z",
+  "title": "Brown verdrängt Raum vor Paraguay-Kracher",
+  "script": "Vier Tage nach überstandenen Adduktorenproblemen schnappt sich Nathaniel Brown, 23, mit nur 3 Länderspielen den Stammplatz zurück. Laut Sky-Insider Florian Plettenberg startet er im Achtelfinale gegen Paraguay wieder von Anfang an und verdrängt damit Routinier David Raum, 39 Länderspiele, der beim 1:2 gegen Ecuador noch eingesprungen war. Brown traf schon beim 7:1-Auftakt gegen Curaçao, Raum sammelte diese Saison 7 Vorlagen für Leipzig. Nagelsmann entscheidet vor Montag, 22:30 Uhr im Gillette Stadium, die wohl wichtigste Personalfrage des Achtelfinals.",
+  "uploadCaption": "Nathaniel Brown ist zurück im Training – und schnappt sich offenbar den Stammplatz von David Raum zurück! 23 Jahre, nur 3 Länderspiele, aber bereit fürs Achtelfinale gegen Paraguay. Wer sollte am Montag verteidigen? 👇",
+  "uploadHashtags": "#DFB #WM2026 #Paraguay #Nagelsmann #NathanielBrown #DavidRaum #Fussball",
+  "images": [
+    { "file": "brown_avatar.jpg", "search": "Nathaniel Brown" },
+    { "file": "brown_spielszene.jpg", "search": "Nathaniel Brown Spielszene" },
+    { "file": "brown_jubel.jpg", "search": "Nathaniel Brown Jubel" },
+    { "file": "raum_avatar.jpg", "search": "David Raum" },
+    { "file": "raum_aktion.jpg", "search": "David Raum Linksverteidiger" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "gillette_stadium.jpg", "search": "Gillette Stadium Foxborough" },
+    { "file": "winston_salem.jpg", "search": "Winston-Salem Trainingslager DFB" },
+    { "file": "team_2026.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER WAR RAUS. JETZT SCHNAPPT ER SICH DEN PLATZ ZURÜCK.", "image": "brown_jubel.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · ACHTELFINALE", "title": "Brown löst Raum ab", "image": "gillette_stadium.jpg", "weight": 0.7 },
+    { "type": "image", "image": "brown_avatar.jpg", "name": "Nathaniel Brown", "role": "Linksverteidiger · 23", "weight": 0.8 },
+    { "type": "image", "image": "raum_avatar.jpg", "name": "David Raum", "role": "Linksverteidiger · 28", "weight": 0.8 },
+    { "type": "image", "image": "brown_spielszene.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen", "stats": [
+      { "label": "Länderspiele Brown", "value": "3" },
+      { "label": "Länderspiele Raum", "value": "39" },
+      { "label": "Vorlagen Raum (Saison)", "value": "7" }
+    ], "image": "winston_salem.jpg", "weight": 0.9 },
+    { "type": "image", "image": "raum_aktion.jpg", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "team_2026.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Brown oder Raum?", "subtitle": "Wer verdient den Platz gegen Paraguay?", "image": "gillette_stadium.jpg", "weight": 1.0 }
+  ]
+}
