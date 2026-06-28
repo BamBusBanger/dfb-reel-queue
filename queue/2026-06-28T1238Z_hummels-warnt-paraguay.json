@@ -1,0 +1,35 @@
+{
+  "slug": "hummels-warnt-paraguay",
+  "createdAt": "2026-06-28T12:38:04Z",
+  "title": "Hummels' Geheimwarnung vor Paraguay",
+  "script": "Er holte den WM-Titel – jetzt warnt er sein eigenes Team. Mats Hummels, Weltmeister 2014 mit über 70 Länderspielen, jetzt MagentaTV-Experte, erkennt bei Paraguay ein klares Muster: 'Ähnliche Herangehensweise wie Ecuador.' Sein Verdacht: Die Südamerikaner haben die 1:2-Pleite genau studiert und wollen kopieren – um exakt die Ballverluste zu provozieren, die Deutschland zuletzt reihenweise leistete. Nur 4 Tage Pause, Montag 22:30 Uhr in Boston entscheidet sich das Achtelfinale. Reicht Nagelsmanns Plan gegen die Kopie der eigenen Schwäche?",
+  "uploadCaption": "Ex-Weltmeister Mats Hummels warnt das DFB-Team: Kopiert Paraguay den Ecuador-Plan? Achtelfinale Montag 22:30 Uhr in Boston.",
+  "uploadHashtags": "#DFB #WM2026 #Paraguay #Hummels #Achtelfinale #Fussball",
+  "images": [
+    { "file": "hummels.jpg", "search": "Mats Hummels" },
+    { "file": "boston-skyline.jpg", "search": "Boston Skyline" },
+    { "file": "ecuador-flagge.jpg", "search": "Ecuador Flagge" },
+    { "file": "gillette-stadium.jpg", "search": "Gillette Stadium Foxborough" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "spiegeltaktik.jpg", "search": "Spiegeltaktik zwei identische Fußball-Spielsysteme als Spiegelbild", "thematic": true },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "pavlovic.jpg", "search": "Aleksandar Pavlović" },
+    { "file": "fans.jpg", "search": "Deutschland Fans" },
+    { "file": "pyro.jpg", "search": "DFB Pyro Stimmung" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "EX-WELTMEISTER SCHLÄGT ALARM!", "image": "hummels.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · ACHTELFINALE", "title": "Hummels' Geheimwarnung", "image": "boston-skyline.jpg", "weight": 0.7 },
+    { "type": "image", "image": "hummels.jpg", "name": "Mats Hummels", "role": "Weltmeister 2014 · TV-Experte", "weight": 0.8 },
+    { "type": "image", "image": "ecuador-flagge.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen", "stats": [{ "label": "Länderspiele Hummels", "value": "70+" }, { "label": "Ecuador-Spiel", "value": "1:2" }], "image": "gillette-stadium.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 108 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "spiegeltaktik.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Offensiv · 23", "weight": 0.8 },
+    { "type": "image", "image": "pavlovic.jpg", "name": "Aleksandar Pavlović", "role": "Mittelfeld · 22", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Kopie oder Confidence?", "subtitle": "Hat Hummels recht? Sag's in den Kommentaren!", "image": "pyro.jpg", "weight": 1.0 }
+  ]
+}
