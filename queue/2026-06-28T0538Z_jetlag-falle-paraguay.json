@@ -1,0 +1,41 @@
+{
+  "slug": "jetlag-falle-paraguay",
+  "createdAt": "2026-06-28T05:38:45Z",
+  "title": "Kurztrip gegen Jetlag-Falle",
+  "script": "4.300 Kilometer Jetlag-Reise quer durch die USA – gegen Deutschlands Kurztrip von nur 320 Kilometern! Einen Tag vor dem K.-o.-Kracher in Foxborough sagt Rudi Völler: 'Ich bin völlig beruhigt, am Montag wird die Mannschaft alles reinhauen.' Doch Paraguay ist kein gewöhnlicher Außenseiter: nur Platz 42 der Weltrangliste, aber in der Qualifikation Rekordweltmeister Brasilien 1:0 UND Weltmeister Argentinien 2:1 bezwungen! Trainer Alfaro warnt: 'Unmöglich gibt es nicht.' Dazu die stabilste Abwehr Südamerikas: nur 10 Gegentore in 18 Quali-Spielen. Reicht der Reise-Vorteil für den Achtelfinal-Einzug, oder schlägt der Riesentöter erneut zu?",
+  "uploadCaption": "320 km für Deutschland, 4.300 km Jetlag-Reise für Paraguay! Einen Tag vor dem Sechzehntelfinale schwört Völler die Mannschaft ein ('alles reinhauen'), während Außenseiter Paraguay (FIFA-Rang 42) damit wirbt, in der Quali sowohl Brasilien (1:0) als auch Weltmeister Argentinien (2:1) geschlagen zu haben. Reicht der Reise-Vorteil? 🇩🇪⚽",
+  "uploadHashtags": "#DFB #WM2026 #Paraguay #Sechzehntelfinale #Fussball",
+  "images": [
+    { "file": "jetlag-flugzeug.jpg", "search": "Nachtflug Jetlag Flugzeug Symbol", "thematic": true },
+    { "file": "nagelsmann-pk.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "nagelsmann-training.jpg", "search": "Julian Nagelsmann Training" },
+    { "file": "weltkarte-flugroute.jpg", "search": "Weltkarte Flugroute USA Symbol", "thematic": true },
+    { "file": "kimmich-kapitaen.jpg", "search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "ruediger-tah.jpg", "search": "Antonio Rüdiger Jonathan Tah" },
+    { "file": "neuer-parade.jpg", "search": "Manuel Neuer Parade" },
+    { "file": "alfaro.jpg", "search": "Gustavo Alfaro Paraguay" },
+    { "file": "sane-aktion.jpg", "search": "Leroy Sané" },
+    { "file": "gillette-stadium.jpg", "search": "Gillette Stadium Foxborough" },
+    { "file": "dfb-fans.jpg", "search": "DFB Fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "4.300 KM JETLAG GEGEN NUR 320 KM KURZTRIP.", "image": "jetlag-flugzeug.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · Sechzehntelfinale", "title": "Kurztrip vs. Jetlag-Falle", "image": "nagelsmann-pk.jpg", "weight": 0.7 },
+    { "type": "image", "image": "nagelsmann-training.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "stats", "title": "Die Reise-Bilanz", "stats": [
+        { "label": "Deutschlands Anreise", "value": "320 km" },
+        { "label": "Paraguays Anreise", "value": "4.300 km" }
+      ], "image": "weltkarte-flugroute.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich-kapitaen.jpg", "name": "Joshua Kimmich", "role": "Kapitän", "weight": 0.8 },
+    { "type": "image", "image": "ruediger-tah.jpg", "weight": 0.8 },
+    { "type": "image", "image": "neuer-parade.jpg", "name": "Manuel Neuer", "role": "Torwart · WM-Rekord", "weight": 0.8 },
+    { "type": "stats", "title": "Paraguays Riesentöter-Bilanz", "stats": [
+        { "label": "vs. Brasilien (Quali)", "value": "1:0" },
+        { "label": "vs. Argentinien (Quali)", "value": "2:1" },
+        { "label": "Gegentore in 18 Spielen", "value": "10" }
+      ], "image": "alfaro.jpg", "weight": 0.9 },
+    { "type": "image", "image": "sane-aktion.jpg", "name": "Leroy Sané", "role": "Offensiv · Rekordtor", "weight": 0.8 },
+    { "type": "image", "image": "gillette-stadium.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Trotz Jetlag: Schafft Paraguay die Sensation?", "subtitle": "Sag's in den Kommentaren!", "image": "dfb-fans.jpg", "weight": 1.0 }
+  ]
+}
