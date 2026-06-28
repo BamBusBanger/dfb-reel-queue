@@ -1,0 +1,34 @@
+{
+  "slug": "schiedsrichter-wiedersehen-paraguay",
+  "createdAt": "2026-06-28T09:38:24Z",
+  "title": "Dieser Schiedsrichter pfeift schon wieder",
+  "script": "Krasser Zufall vor dem Achtelfinale! Schiedsrichter Jalal Jayed leitete schon das 7:1 zum Auftakt gegen Curaçao – jetzt pfeift er auch gegen Paraguay. Eine echte WM-Seltenheit: zweimal derselbe Unparteiische für dieselbe Mannschaft! Der 39-jährige Marokkaner gilt als Top-Schiedsrichter und leitete sogar das Spiel um Platz drei beim Afrika Cup. Montag, 22:30 Uhr, vor 65.000 Fans im Gillette Stadium in Boston. Bringt er wieder die Tor-Garantie – oder wird er zum Albtraum für Neuer, Kimmich und Co.?",
+  "uploadCaption": "Dieser Schiedsrichter pfiff schon das 7:1 gegen Curaçao – jetzt entscheidet er auch im Achtelfinale gegen Paraguay! Glücksbringer oder Risiko? 👇",
+  "uploadHashtags": "#DFB #WM2026 #Achtelfinale #Schiedsrichter #DeutschlandParaguay #Fussball",
+  "images": [
+    { "file": "jayed.jpg", "search": "Jalal Jayed Schiedsrichter" },
+    { "file": "gillette-stadium.jpg", "search": "Gillette Stadium Boston" },
+    { "file": "curacao-auftakt.jpg", "search": "Deutschland Curacao Spieltafel" },
+    { "file": "neuer.jpg", "search": "Manuel Neuer" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "tah.jpg", "search": "Jonathan Tah" },
+    { "file": "ruediger.jpg", "search": "Antonio Rüdiger" },
+    { "file": "paraguay-team.jpg", "search": "Paraguay Nationalmannschaft" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "fans.jpg", "search": "Deutschland Fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Krasser Zufall vor dem Achtelfinale!", "image": "jayed.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · Achtelfinale", "title": "Schiedsrichter-Wiedersehen", "image": "gillette-stadium.jpg", "weight": 0.7 },
+    { "type": "image", "image": "jayed.jpg", "name": "Jalal Jayed", "role": "Schiedsrichter · Marokko, 39", "weight": 0.8 },
+    { "type": "image", "image": "curacao-auftakt.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen", "stats": [ { "label": "Auftakt-Ergebnis", "value": "7:1" }, { "label": "Alter Jayed", "value": "39" }, { "label": "Stadion-Kapazität", "value": "65.000" } ], "image": "gillette-stadium.jpg", "weight": 0.9 },
+    { "type": "image", "image": "neuer.jpg", "name": "Manuel Neuer", "role": "Torwart · 40 Jahre", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 108 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "Innenverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "ruediger.jpg", "name": "Antonio Rüdiger", "role": "Innenverteidiger · 83 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "paraguay-team.jpg", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "outro", "title": "Glücksbringer oder Risikofaktor?", "subtitle": "Glaubt ihr an Schiedsrichter-Schicksal?", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
