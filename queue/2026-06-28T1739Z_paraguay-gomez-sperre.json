@@ -1,0 +1,38 @@
+{
+  "slug": "paraguay-gomez-sperre",
+  "createdAt": "2026-06-28T17:39:19Z",
+  "title": "Gómez-Sperre: Die Regel-Lücke trifft Paraguay",
+  "script": "Diese Regel sollte alle Spieler retten – einen Mann rettet sie nicht. Diego Gómez, Paraguays Mittelfeld-Motor von Brighton, 23 Jahre, 25 Millionen Euro wert, fehlt gesperrt im Achtelfinale gegen Deutschland. Der Grund: Seine zwei Gelben Karten kamen im ersten und dritten Gruppenspiel – exakt die Kombination, die auch die neue FIFA-Regel nicht mehr löscht. Auch Ägyptens Mohanad Lasheen trifft es. Deutschland dagegen hat null gesperrte Spieler, Nagelsmann kann aus dem vollen Kader wählen. Trainer Alfaro muss seinen wichtigsten Antreiber ersetzen. Montag, 22:30 Uhr, Gillette Stadium – ist das schon die Vorentscheidung?",
+  "uploadCaption": "Eine Regel-Lücke trifft Paraguay hart: Diego Gómez (23, Brighton, 25 Mio. € wert) fehlt gesperrt im Achtelfinale gegen Deutschland – seine zwei Gelben kamen ausgerechnet im 1. und 3. Gruppenspiel. Deutschland dagegen hat null Sperren. Verschafft das dem DFB einen unfairen Vorteil? 👇",
+  "uploadHashtags": "#DFB #WM2026 #Paraguay #DiegoGomez #Nagelsmann #Fussball #Achtelfinale",
+  "images": [
+    { "file": "gomez_hook.jpg",            "search": "Diego Gómez Brighton" },
+    { "file": "gillette_stadium.jpg",      "search": "Gillette Stadium Foxborough" },
+    { "file": "gomez_portrait.jpg",        "search": "Diego Gómez Paraguay" },
+    { "file": "gelbe_karte_zerrissen.jpg", "search": "Zerrissene gelbe Karte Symbolbild Fußball", "thematic": true },
+    { "file": "lasheen_portrait.jpg",      "search": "Mohanad Lasheen Ägypten" },
+    { "file": "nagelsmann.jpg",            "search": "Julian Nagelsmann" },
+    { "file": "kimmich.jpg",               "search": "Joshua Kimmich" },
+    { "file": "tah.jpg",                   "search": "Jonathan Tah" },
+    { "file": "ruediger.jpg",              "search": "Antonio Rüdiger" },
+    { "file": "neuer.jpg",                 "search": "Manuel Neuer" },
+    { "file": "team_2026.jpg",             "search": "DFB Mannschaftsfoto 2026" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "DIESE REGEL SOLLTE ALLE SPIELER RETTEN. EINEN MANN RETTET SIE NICHT.", "image": "gomez_hook.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · ACHTELFINALE", "title": "Paraguays Sperren-Schock", "image": "gillette_stadium.jpg", "weight": 0.7 },
+    { "type": "image", "image": "gomez_portrait.jpg", "name": "Diego Gómez", "role": "Mittelfeld · Paraguay", "weight": 0.8 },
+    { "type": "stats", "title": "Die Regel-Lücke", "stats": [
+        { "label": "Alter", "value": "23" },
+        { "label": "Marktwert", "value": "25 Mio. €" },
+        { "label": "Gelbe Karten", "value": "2" }
+      ], "image": "gelbe_karte_zerrissen.jpg", "weight": 0.9 },
+    { "type": "image", "image": "lasheen_portrait.jpg", "name": "Mohanad Lasheen", "role": "Mittelfeld · Ägypten", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · DFB", "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "Innenverteidiger · DFB", "weight": 0.8 },
+    { "type": "image", "image": "ruediger.jpg", "name": "Antonio Rüdiger", "role": "Innenverteidiger · DFB", "weight": 0.8 },
+    { "type": "image", "image": "neuer.jpg", "name": "Manuel Neuer", "role": "Torwart · DFB", "weight": 0.8 },
+    { "type": "outro", "title": "Vorteil DFB?", "subtitle": "Verschafft Gómez' Sperre Deutschland einen unfairen Vorteil?", "image": "team_2026.jpg", "weight": 1.0 }
+  ]
+}
