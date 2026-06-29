@@ -1,0 +1,40 @@
+{
+  "slug": "ko-duerre-seit-2014",
+  "createdAt": "2026-06-29T17:37:40Z",
+  "title": "12 Jahre ohne WM-K.o.-Sieg",
+  "script": "12 JAHRE. So lange wartet Deutschland schon auf einen WM-K.o.-Sieg! Seit dem Titel 2014 in Brasilien gab es nur zwei Vorrunden-Blamagen – 2018 und 2022, beide vor dem Achtelfinale nach Hause. Heute, 22:30 Uhr im Gillette Stadium, wartet im Sechzehntelfinale Außenseiter Paraguay, FIFA-Rang 42 – aber mit Siegen gegen Brasilien und Argentinien in der Quali. Nagelsmann, Kimmich, Neuer: Sie alle wissen, ein Aus heute wäre der dritte Schock in Folge. Bricht das Team heute endlich den Fluch?",
+  "uploadCaption": "Seit dem WM-Titel 2014 hat Deutschland kein K.o.-Spiel mehr gewonnen – heute 22:30 Uhr wartet im Sechzehntelfinale Außenseiter Paraguay (FIFA-Rang 42). Reicht es endlich für den Befreiungsschlag?",
+  "uploadHashtags": "#DFB #WM2026 #Deutschland #Paraguay #Fussball",
+  "images": [
+    { "file": "pokal.jpg", "search": "WM Pokal Vitrine" },
+    { "file": "gillette.jpg", "search": "Gillette Stadium Foxborough" },
+    { "file": "team.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "flagge.jpg", "search": "Deutschland Flagge" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "tah_ruediger.jpg", "search": "Tah Rüdiger Abwehr" },
+    { "file": "neuer.jpg", "search": "Manuel Neuer Parade" },
+    { "file": "alfaro.jpg", "search": "Gustavo Alfaro Paraguay" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz Jubel" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala Torjubel" },
+    { "file": "fans.jpg", "search": "Deutschland Fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "12 JAHRE OHNE WM-K.O.-SIEG.", "image": "pokal.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · Sechzehntelfinale", "title": "Der 12-Jahre-Fluch", "image": "gillette.jpg", "weight": 0.7 },
+    { "type": "image", "image": "team.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Die Bilanz seit 2014", "stats": [
+      { "label": "Letzter K.o.-Sieg", "value": "2014" },
+      { "label": "Vorrunden-Aus", "value": "2018 & 2022" },
+      { "label": "Wartezeit", "value": "12 Jahre" }
+    ], "image": "flagge.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 108 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "tah_ruediger.jpg", "weight": 0.8 },
+    { "type": "image", "image": "neuer.jpg", "name": "Manuel Neuer", "role": "Tor · WM-Rekordhalter", "weight": 0.8 },
+    { "type": "image", "image": "alfaro.jpg", "name": "Gustavo Alfaro", "role": "Paraguay-Trainer", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Offensiv · 22", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "Offensiv · WM-Comeback", "weight": 0.8 },
+    { "type": "outro", "title": "12 Jahre reichen?", "subtitle": "Bricht der DFB heute den K.o.-Fluch gegen Paraguay – oder droht der nächste Schock?", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
