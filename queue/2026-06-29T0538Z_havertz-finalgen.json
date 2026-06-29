@@ -1,0 +1,37 @@
+{
+  "slug": "havertz-finalgen",
+  "createdAt": "2026-06-29T05:38:54Z",
+  "title": "Havertz' Finalgen",
+  "script": "Nur drei Spieler der Fußball-Geschichte trafen in Champions-League-Finals für zwei verschiedene Klubs: Cristiano Ronaldo, Mario Mandžukić — und Kai Havertz. 2021 schoss er Chelsea zum Titel. Vor vier Wochen, am 30. Mai in Budapest, traf er für Arsenal gegen PSG. Bei dieser WM legte er beim 7:1-Auftakt gegen Curaçao direkt einen Doppelpack nach. Heute, 22:30 Uhr im Gillette Stadium, wartet das Achtelfinale gegen Paraguay. Wenn es um alles geht, trifft Havertz.",
+  "uploadCaption": "Nur 3 Spieler der Fußball-Geschichte trafen in Champions-League-Finals für zwei Klubs - einer heißt Kai Havertz. Heute will er auch im WM-Achtelfinale gegen Paraguay liefern. 22:30 Uhr, Gillette Stadium.",
+  "uploadHashtags": "#DFB #WM2026 #Havertz #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "havertz_jubel.jpg", "search": "Kai Havertz Jubel" },
+    { "file": "havertz_aktion.jpg", "search": "Kai Havertz" },
+    { "file": "havertz_training.jpg", "search": "Kai Havertz Training" },
+    { "file": "havertz_chelsea_cl2021.jpg", "search": "Kai Havertz Chelsea Champions League Finale 2021" },
+    { "file": "havertz_arsenal_cl2026.jpg", "search": "Kai Havertz Arsenal Champions League Finale PSG" },
+    { "file": "havertz_doppelpack.jpg", "search": "Kai Havertz Tor Curacao" },
+    { "file": "gillette_stadium.jpg", "search": "Gillette Stadium Foxborough" },
+    { "file": "paraguay_flagge.jpg", "search": "Paraguay Fussball Nationalmannschaft Flagge" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "DAS SCHAFFTEN NUR DREI SPIELER ALLER ZEITEN.", "image": "havertz_jubel.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · ACHTELFINALE", "title": "Havertz' Finalgen", "image": "gillette_stadium.jpg", "weight": 0.7 },
+    { "type": "image", "image": "havertz_chelsea_cl2021.jpg", "name": "Kai Havertz", "role": "CL-Sieger 2021 · Chelsea", "weight": 0.8 },
+    { "type": "image", "image": "havertz_arsenal_cl2026.jpg", "name": "Kai Havertz", "role": "CL-Finale 2026 · Arsenal", "weight": 0.8 },
+    { "type": "stats", "title": "Sein Final-Track-Record", "stats": [
+        { "label": "CL-Finaltore", "value": "2" },
+        { "label": "Klubs", "value": "2" },
+        { "label": "WM-Tore 2026", "value": "2" }
+      ], "image": "havertz_aktion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "havertz_doppelpack.jpg", "name": "Kai Havertz", "role": "Doppelpack · WM-Auftakt", "weight": 0.8 },
+    { "type": "image", "image": "havertz_training.jpg", "name": "Kai Havertz", "role": "Stürmer · DFB", "weight": 0.8 },
+    { "type": "image", "image": "paraguay_flagge.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wm_pokal.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Trifft er wieder?", "subtitle": "Heute 22:30 Uhr vs. Paraguay - deine Prognose in die Kommentare!", "image": "dfb_fans.jpg", "weight": 1.0 }
+  ]
+}
