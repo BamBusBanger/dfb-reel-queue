@@ -1,0 +1,34 @@
+{
+  "slug": "lineker-attacke",
+  "createdAt": "2026-06-29T19:38:33Z",
+  "title": "Lineker nennt DFB-Team schwächste Mannschaft aller Zeiten",
+  "script": "England-Legende Gary Lineker zerlegt das DFB-Team: 'Eine der schwächsten deutschen Mannschaften, die ich je gesehen habe.' Sein Beweis: zweimal in Folge, 2018 und 2022, raus in der Vorrunde – seit 2014 kein K.-o.-Sieg mehr. Sein Urteil: Frankreich würde locker ins Viertelfinale marschieren. Kai Havertz kontert scharf: 'Wir haben schon genug Experten im eigenen Land – wenn das jetzt auch im Ausland anfängt, reicht es irgendwann.' Heute, 22:30 Uhr, im Gillette Stadium gegen Paraguay hat er die beste Antwort selbst in den Füßen: der erste K.-o.-Sieg seit 12 Jahren.",
+  "uploadCaption": "Gary Lineker nennt das DFB-Team 'eine der schwächsten Mannschaften aller Zeiten' – Kai Havertz antwortet vor dem Achtelfinale gegen Paraguay. Wer hat recht?",
+  "uploadHashtags": "#DFB #WM2026 #Havertz #Lineker #Achtelfinale #Fussball",
+  "images": [
+    { "file": "duell.jpg", "search": "Boxring Rivalität Symbolbild", "thematic": true },
+    { "file": "gillette.jpg", "search": "Gillette Stadium Foxborough" },
+    { "file": "lineker.jpg", "search": "Gary Lineker" },
+    { "file": "havertz.jpg", "search": "Kai Havertz" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "paraguay.jpg", "search": "Paraguay Nationalmannschaft" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "ball.jpg", "search": "DFB Ball Eckfahne" },
+    { "file": "kritik.jpg", "search": "Zeitungsschlagzeilen Kritik Symbolbild", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ENGLAND-LEGENDE NENNT DEUTSCHLAND DIE SCHWÄCHSTE MANNSCHAFT ALLER ZEITEN.", "image": "duell.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · HEUTE ACHTELFINALE", "title": "Lineker-Attacke", "image": "gillette.jpg", "weight": 0.7 },
+    { "type": "image", "image": "lineker.jpg", "name": "Gary Lineker", "role": "TV-Experte · Ex-England-Stürmer", "weight": 0.8 },
+    { "type": "stats", "title": "Linekers Vorwurf", "stats": [ { "label": "Vorrunden-Aus in Folge", "value": "2" }, { "label": "Letzter K.-o.-Sieg", "value": "2014" } ], "image": "kritik.jpg", "weight": 0.9 },
+    { "type": "image", "image": "havertz.jpg", "name": "Kai Havertz", "role": "Stürmer · Arsenal", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 108 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Offensiv · Liverpool", "weight": 0.8 },
+    { "type": "image", "image": "paraguay.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Hat Lineker recht?", "subtitle": "Ja oder Nein – schreib's in die Kommentare", "image": "ball.jpg", "weight": 1.0 }
+  ]
+}
