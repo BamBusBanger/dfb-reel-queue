@@ -1,0 +1,36 @@
+{
+  "slug": "nagelsmann-alles-shit",
+  "createdAt": "2026-06-29T09:38:14Z",
+  "title": "Nagelsmanns Shit-Satz vor dem K.o.-Spiel",
+  "script": "Wenige Stunden vor dem WM-K.o.-Spiel gegen Paraguay lässt Julian Nagelsmann auf der Pressekonferenz in Foxborough die Maske fallen: 'Wenn du gewinnst, ist alles perfekt. Wenn du verlierst, ist alles shit.' Ein Satz, der nach der 1:2-Pleite gegen Ecuador und dem Ende der 11-Siege-Serie wie ein Eingeständnis klingt. Kimmich sprach zuletzt offen von einem Mentalitätsproblem, Nagelsmann widersprach vehement. Heute, 22:30 Uhr im Gillette Stadium, entscheidet sich, wer recht hatte – und ob seine Worte Kampfgeist oder Schwäche waren.",
+  "uploadCaption": "Nagelsmann vor dem K.o.-Spiel: 'Wenn du verlierst, ist alles shit.' Druck pur vor Deutschland gegen Paraguay heute 22:30 Uhr im Achtelfinale. Ehrliche Ansage oder zu viel Druck?",
+  "uploadHashtags": "#DFB #WM2026 #Nagelsmann #Paraguay #Achtelfinale #Fussball",
+  "images": [
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "pk.jpg",         "search": "DFB Pressekonferenz Foxborough WM 2026" },
+    { "file": "havertz.jpg",    "search": "Kai Havertz" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich Kapitän" },
+    { "file": "stadion.jpg",    "search": "Gillette Stadium Foxborough" },
+    { "file": "team.jpg",       "search": "Deutschland Mannschaftsfoto 2026" },
+    { "file": "fans.jpg",       "search": "DFB Fans" },
+    { "file": "mikro.jpg",      "search": "Mikrofon mit Zensur-Balken Pressekonferenz", "thematic": true },
+    { "file": "neuer.jpg",      "search": "Manuel Neuer Training" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "DIESES WORT WOLLTE NAGELSMANN NICHT SAGEN.", "image": "nagelsmann.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · Achtelfinale", "title": "Nagelsmanns Shit-Satz", "image": "pk.jpg", "weight": 0.7 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "stats", "title": "Druck-Fakten", "stats": [
+        { "label": "Serie gerissen", "value": "11 Siege" },
+        { "label": "Ecuador-Pleite", "value": "1:2" },
+        { "label": "Anstoß heute", "value": "22:30 Uhr" }
+      ], "image": "stadion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "havertz.jpg", "name": "Kai Havertz", "role": "Stürmer · Arsenal", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Spiele", "weight": 0.8 },
+    { "type": "image", "image": "mikro.jpg", "weight": 0.8 },
+    { "type": "image", "image": "team.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "neuer.jpg", "name": "Manuel Neuer", "role": "Torwart · 21. WM-Spiel", "weight": 0.8 },
+    { "type": "outro", "title": "Ehrlich – oder zu viel Druck?", "subtitle": "Schreib's in die Kommentare!", "image": "stadion.jpg", "weight": 1.0 }
+  ]
+}
