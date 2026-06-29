@@ -1,0 +1,39 @@
+{
+  "slug": "kimmich-geheime-doppelrolle",
+  "createdAt": "2026-06-29T15:37:33Z",
+  "title": "Kimmichs geheime Doppelrolle",
+  "script": "Kimmich steht heute wieder als Rechtsverteidiger in der Startelf - aber das ist nur die halbe Wahrheit. In Ballbesitz rutscht er heimlich ins Zentrum und wird zum echten Sechser, genau wie bei Bayern. Trotzdem tobt die Debatte: Lothar Matthäus sagt klipp und klar, 'Er fehlt mir auf dem Platz.' Nagelsmann bleibt stur: 'Ich will nicht auf Felix oder Pavlo verzichten.' Bei einer Fan-Umfrage stimmten trotzdem 13.691 für Kimmich auf rechts. 108 Länderspiele, eine Doppelrolle, ein Streit ohne Ende. Heute, 22:30 Uhr, Gillette Stadium Foxborough, Achtelfinale gegen Paraguay.",
+  "uploadCaption": "Offiziell Rechtsverteidiger, heimlich Sechser: Joshua Kimmichs (108 Länderspiele) Doppelrolle sorgt vor dem Achtelfinale gegen Paraguay für Zoff. Lothar Matthäus fordert ihn zurück ins Mittelfeld, Nagelsmann bleibt stur - und 13.691 Fans stimmten in einer Umfrage sogar gegen die Rochade. Wer hat recht? 👇",
+  "uploadHashtags": "#DFB #WM2026 #Kimmich #Nagelsmann #Mittelfeld #Achtelfinale #Fussball",
+  "images": [
+    { "file": "kimmich_kapitaensbinde.jpg", "search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "kimmich_training.jpg", "search": "Joshua Kimmich Training" },
+    { "file": "kimmich_portrait.jpg", "search": "Joshua Kimmich" },
+    { "file": "nagelsmann_presse.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "matthaeus_portrait.jpg", "search": "Lothar Matthäus" },
+    { "file": "pavlovic_aktion.jpg", "search": "Aleksandar Pavlović" },
+    { "file": "nmecha_aktion.jpg", "search": "Felix Nmecha" },
+    { "file": "ruediger_tah.jpg", "search": "Antonio Rüdiger Jonathan Tah" },
+    { "file": "neuer_aktion.jpg", "search": "Manuel Neuer" },
+    { "file": "gillette_stadium.jpg", "search": "Gillette Stadium Foxborough" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" },
+    { "file": "sane_kimmich_jubel.jpg", "search": "Leroy Sané Joshua Kimmich Jubel" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER SPIELT EINE POSITION, DIE ES OFFIZIELL GAR NICHT GIBT.", "image": "kimmich_kapitaensbinde.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · GEHEIMNIS", "title": "Kimmichs Doppelrolle", "image": "kimmich_training.jpg", "weight": 0.7 },
+    { "type": "image", "image": "kimmich_portrait.jpg", "name": "Joshua Kimmich", "role": "Kapitän · Rechtsverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann_presse.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "stats", "title": "Der Streit in Zahlen", "stats": [
+      { "label": "Länderspiele", "value": "108" },
+      { "label": "Fan-Votum für RV", "value": "13.691" }
+    ], "image": "matthaeus_portrait.jpg", "weight": 0.9 },
+    { "type": "image", "image": "pavlovic_aktion.jpg", "name": "Aleksandar Pavlović", "role": "Mittelfeld", "weight": 0.8 },
+    { "type": "image", "image": "nmecha_aktion.jpg", "name": "Felix Nmecha", "role": "Mittelfeld", "weight": 0.8 },
+    { "type": "image", "image": "ruediger_tah.jpg", "weight": 0.8 },
+    { "type": "image", "image": "neuer_aktion.jpg", "name": "Manuel Neuer", "role": "Torwart · 40", "weight": 0.8 },
+    { "type": "image", "image": "gillette_stadium.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Gehört Kimmich ins Mittelfeld?", "subtitle": "Sag deine Meinung in den Kommentaren", "image": "sane_kimmich_jubel.jpg", "weight": 1.0 }
+  ]
+}
