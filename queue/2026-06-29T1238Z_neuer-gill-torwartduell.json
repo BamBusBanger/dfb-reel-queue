@@ -1,0 +1,42 @@
+{
+  "slug": "neuer-gill-torwartduell",
+  "createdAt": "2026-06-29T12:38:11Z",
+  "title": "Neuer gegen Gill: Wackelt der Mythos?",
+  "script": "40 Jahre alt, lebende Torwart-Legende – und plötzlich wackelt der Mythos. Beim 1:2 gegen Ecuador sah Manuel Neuer bei beiden Gegentoren unglücklich aus: nur 2 Schüsse aufs deutsche Tor bei dieser WM, beide drin. Heute im Achtelfinale wartet Orlando Gill, 26, Paraguays 1,98-Meter-Riese, der sein Nationalmannschafts-Debüt erst im September 2025 feierte und gegen Australien mit einer Last-Minute-Parade das 0:0 rettete. Neuers 21. WM-Spiel ist Rekord. Foxborough, 22:30 Uhr – wer hält heute die Null?",
+  "uploadCaption": "Mythos gegen Riese: Manuel Neuer (40, WM-Rekord mit 21 Spielen) trifft im Achtelfinale auf Orlando Gill (26) – Paraguays Torwart, der sein Nationalmannschaftsdebüt erst im September 2025 feierte. Wer hält heute Abend die Null? 👇",
+  "uploadHashtags": "#DFB #WM2026 #Neuer #Paraguay #Torwart #Achtelfinale #Fussball",
+  "images": [
+    { "file": "neuer_aktion.jpg", "search": "Manuel Neuer" },
+    { "file": "gillette_stadium.jpg", "search": "Gillette Stadium Foxborough" },
+    { "file": "neuer_presse.jpg", "search": "Manuel Neuer Pressekonferenz" },
+    { "file": "tah_ruediger.jpg", "search": "Jonathan Tah Antonio Rüdiger" },
+    { "file": "tah_aktion.jpg", "search": "Jonathan Tah" },
+    { "file": "gill_avatar.jpg", "search": "Orlando Gill Paraguay Torwart" },
+    { "file": "paraguay_team.jpg", "search": "Paraguay Nationalmannschaft" },
+    { "file": "nagelsmann_presse.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "baumann_aktion.jpg", "search": "Oliver Baumann" },
+    { "file": "kimmich_kapitaen.jpg", "search": "Joshua Kimmich Kapitän" },
+    { "file": "neuer_aufwaermen.jpg", "search": "Manuel Neuer Aufwärmen" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER IST 40 - UND DER MYTHOS WACKELT.", "image": "neuer_aktion.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · ACHTELFINALE", "title": "Neuer gegen Gill", "image": "gillette_stadium.jpg", "weight": 0.7 },
+    { "type": "image", "image": "neuer_presse.jpg", "name": "Manuel Neuer", "role": "Torwart · 40", "weight": 0.8 },
+    { "type": "stats", "title": "Horror-Stat", "stats": [
+      { "label": "Schüsse aufs Tor", "value": "2" },
+      { "label": "Davon gehalten", "value": "0" }
+    ], "image": "tah_ruediger.jpg", "weight": 0.9 },
+    { "type": "image", "image": "tah_aktion.jpg", "name": "Jonathan Tah", "role": "Innenverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "gill_avatar.jpg", "name": "Orlando Gill", "role": "Torwart · 26", "weight": 0.8 },
+    { "type": "image", "image": "paraguay_team.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Rekord vs. Rookie", "stats": [
+      { "label": "WM-Spiele Neuer", "value": "21" },
+      { "label": "Gills Debüt", "value": "09/2025" }
+    ], "image": "nagelsmann_presse.jpg", "weight": 0.9 },
+    { "type": "image", "image": "baumann_aktion.jpg", "name": "Oliver Baumann", "role": "Ersatztorwart", "weight": 0.8 },
+    { "type": "image", "image": "kimmich_kapitaen.jpg", "name": "Joshua Kimmich", "role": "Kapitän", "weight": 0.8 },
+    { "type": "image", "image": "neuer_aufwaermen.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Mythos oder Rente?", "subtitle": "Sag deine Meinung in den Kommentaren", "image": "dfb_fans.jpg", "weight": 1.0 }
+  ]
+}
