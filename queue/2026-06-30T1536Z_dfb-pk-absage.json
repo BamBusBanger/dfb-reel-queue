@@ -1,0 +1,40 @@
+{
+  "slug": "dfb-pk-absage",
+  "createdAt": "2026-06-30T15:36:29Z",
+  "title": "DFB sagt PK ab – was steckt dahinter?",
+  "script": "Diese Absage sagt mehr als jedes Interview. Nach dem 4:5-Aus im Elfmeterschießen gegen Paraguay sollte Julian Nagelsmann um 13 Uhr Ortszeit vor die Presse treten – doch die DFB-Spitze berät bis spät in die Nacht und sagt die Pressekonferenz kurzfristig ab. Stattdessen: Sofortiger Rückflug, die Spieler werden direkt in den Urlaub geschickt. Nagelsmann selbst bleibt kämpferisch: „Ich stehe dem DFB zur Verfügung.\" Sein Vertrag läuft noch bis 2028 – DFB-Präsident Bernd Neuendorf soll sich nun äußern. Es ist bereits das dritte frühe WM-Aus in Folge nach 2018 und 2022.",
+  "uploadCaption": "Die abgesagte Pressekonferenz sagt mehr als jedes Interview: Nach dem 4:5-Aus gegen Paraguay schickt der DFB Nagelsmann nicht vor die Presse, sondern die Spieler direkt in den Urlaub. Schon das dritte frühe WM-Aus in Folge. Was bedeutet das für seine Zukunft?",
+  "uploadHashtags": "#DFB #WM2026 #Nagelsmann #Pressekonferenz #Fussball #Paraguay",
+  "images": [
+    { "file": "nagelsmann_pk.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "basecamp.jpg", "search": "Winston-Salem DFB Basecamp" },
+    { "file": "tribuene.jpg", "search": "Leere Tribüne" },
+    { "file": "nagelsmann_besprechung.jpg", "search": "Julian Nagelsmann Trainerbesprechung" },
+    { "file": "teamfoto.jpg", "search": "Deutschland Mannschaftsfoto 2026" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich Kapitän" },
+    { "file": "havertz.jpg", "search": "Kai Havertz Torjubel" },
+    { "file": "neuer.jpg", "search": "Manuel Neuer Pressekonferenz" },
+    { "file": "neuendorf.jpg", "search": "Bernd Neuendorf DFB-Präsident" },
+    { "file": "entsetzen.jpg", "search": "Public Viewing Fans Entsetzen" },
+    { "file": "trikot.jpg", "search": "Deutschland Trikot WM 2026" },
+    { "file": "fans.jpg", "search": "Deutschland Fans Fahnen" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "DIESE ABSAGE SAGT MEHR ALS JEDES INTERVIEW.", "image": "nagelsmann_pk.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM-AUS", "title": "DFB sagt PK ab", "image": "basecamp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "tribuene.jpg", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann_besprechung.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "stats", "title": "Die Fakten", "stats": [
+      { "label": "PK geplant für", "value": "13 Uhr" },
+      { "label": "Nagelsmann-Vertrag bis", "value": "2028" },
+      { "label": "Frühes WM-Aus in Folge", "value": "3." }
+    ], "image": "teamfoto.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän", "weight": 0.8 },
+    { "type": "image", "image": "havertz.jpg", "name": "Kai Havertz", "role": "Sturm", "weight": 0.8 },
+    { "type": "image", "image": "neuer.jpg", "name": "Manuel Neuer", "role": "Torwart · Rekordhalter", "weight": 0.8 },
+    { "type": "image", "image": "neuendorf.jpg", "name": "Bernd Neuendorf", "role": "DFB-Präsident", "weight": 0.8 },
+    { "type": "image", "image": "entsetzen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "trikot.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Rücktritt oder Neuanfang?", "subtitle": "Sollte der DFB nach 3 frühen Niederlagen in Folge durchgreifen – Ja oder Nein?", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
