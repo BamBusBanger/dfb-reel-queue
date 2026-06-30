@@ -1,0 +1,91 @@
+{
+  "slug": "deutschland-erster-wm-elfmeter-verlust",
+  "createdAt": "2026-06-30T19:34:42Z",
+  "title": "44 Jahre – dann fiel der Mythos",
+  "script": "44 Jahre lang war Deutschland beim WM-Elfmeterschießen UNSCHLAGBAR. 1982, 1986, 1990, 2006 – jedes Mal Sieg. 4 aus 4. Man nannte uns die Elfmeter-Könige. Dann, am 29. Juni 2026 in Foxborough: Havertz scheitert. Woltemade scheitert. Tah scheitert. 4 zu 5 gegen Paraguay – das erste WM-Elfmeterschießen, das Deutschland je verloren hat. Nach 44 Jahren endet der Mythos. Und jetzt die Frage: War Deutschland wirklich so gut – oder hatten wir 44 Jahre lang einfach Glück?",
+  "uploadCaption": "44 Jahre lang verlor Deutschland kein einziges WM-Elfmeterschießen. 1982. 1986. 1990. 2006. Jedes Mal Sieg. Gestern Nacht in Foxborough endete der Mythos. Havertz, Woltemade, Tah – 3 verschossene Elfmeter, 4:5 gegen Paraguay.",
+  "uploadHashtags": "#DFB #WM2026 #Elfmeter #Deutschland #Paraguay #Fussball #Weltmeisterschaft #ElfmeterKoenige",
+  "images": [
+    { "file": "wm_pokal.jpg",          "search": "WM Pokal" },
+    { "file": "fans_schock.jpg",       "search": "public viewing entsetzen" },
+    { "file": "elfmeter_historisch.jpg","search": "Germany England World Cup 1990 penalty shootout" },
+    { "file": "fans_hoffen.jpg",       "search": "DFB Fans WM public viewing" },
+    { "file": "havertz.jpg",           "search": "Kai Havertz" },
+    { "file": "woltemade.jpg",         "search": "Nick Woltemade" },
+    { "file": "tah.jpg",               "search": "Jonathan Tah" },
+    { "file": "paraguay_jubel.jpg",    "search": "Paraguay WM 2026 Elfmeter Jubel Foxborough" },
+    { "file": "nagelsmann.jpg",        "search": "Julian Nagelsmann" },
+    { "file": "kimmich.jpg",           "search": "Joshua Kimmich" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "44 JAHRE UNGESCHLAGEN. JETZT VORBEI.",
+      "image": "wm_pokal.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 FOXBOROUGH",
+      "title": "Deutschlands erste WM-Elfmeter-Niederlage der Geschichte",
+      "image": "fans_schock.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "elfmeter_historisch.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Elfmeter-Bilanz",
+      "stats": [
+        { "label": "WM-Elfmeter-Siege 1982–2006", "value": "4 aus 4" },
+        { "label": "Verschossene Elfmeter heute",  "value": "3 von 5" },
+        { "label": "Endstand",                     "value": "4:5 n.E." }
+      ],
+      "image": "fans_hoffen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Elfmeter #1 verschossen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "Elfmeter #3 verschossen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "Elfmeter #5 verschossen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "paraguay_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Bundestrainer · 3 WM-Outs in Folge",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Elfmeter-König – Mythos oder Realität?",
+      "subtitle": "War Deutschland wirklich unschlagbar – oder hatten wir 44 Jahre lang einfach Glück?",
+      "image": "kimmich.jpg",
+      "weight": 1.0
+    }
+  ]
+}
