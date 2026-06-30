@@ -1,0 +1,42 @@
+{
+  "slug": "bitterste-stimmen-wm-aus",
+  "createdAt": "2026-06-30T12:35:39Z",
+  "title": "Die bittersten Stimmen nach dem WM-Aus",
+  "script": "DREI SÄTZE, DIE WEH TUN. Nach dem 3:4 im Elfmeterschießen gegen Paraguay bricht das DFB-Team sein Schweigen. Kapitän Joshua Kimmich übernimmt volle Verantwortung: „Das waren einzig und allein wir.“ Kai Havertz, Torschütze zum 1:1 in der 54. Minute, aber Elfmeter-Verschützer, entschuldigt sich: „Zum zweiten Mal haben wir reingeschissen.“ Rekordhalter Manuel Neuer, 21 WM-Spiele, nennt das frühe Aus „extrem bitter“. Drei Stars, eine bittere Wahrheit. Wer trägt für dich die größte Schuld?",
+  "uploadCaption": "Kimmich, Havertz, Neuer: Nach dem 3:4-Elfmeterkrimi gegen Paraguay brechen die DFB-Stars ihr Schweigen – drei Zitate, die unter die Haut gehen. Wer trägt für dich die größte Schuld am frühen WM-Aus?",
+  "uploadHashtags": "#DFB #WM2026 #Kimmich #Havertz #Neuer #Fussball #Paraguay",
+  "images": [
+    { "file": "kimmich_binde.jpg", "search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "kimmich_training.jpg", "search": "Joshua Kimmich Training" },
+    { "file": "havertz_jubel.jpg", "search": "Kai Havertz Torjubel" },
+    { "file": "havertz_training.jpg", "search": "Kai Havertz Training" },
+    { "file": "neuer_presse.jpg", "search": "Manuel Neuer Pressekonferenz" },
+    { "file": "nagelsmann_presse.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "fans_entsetzen.jpg", "search": "DFB Fans Entsetzen Public Viewing" },
+    { "file": "tribuene_leer.jpg", "search": "Stadion Tribüne leer" },
+    { "file": "gillette.jpg", "search": "Gillette Stadium Foxborough" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "DREI SÄTZE, DIE WEH TUN.", "image": "kimmich_binde.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · Nach dem Aus", "title": "Die bittersten Stimmen", "image": "gillette.jpg", "weight": 0.7 },
+    { "type": "image", "image": "kimmich_training.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 108 Länderspiele", "weight": 0.8 },
+    { "type": "stats", "title": "Kimmichs Wahrheit", "stats": [
+      { "label": "O-Ton", "value": "\"Einzig und allein wir\"" },
+      { "label": "Länderspiele", "value": "108" }
+    ], "image": "kimmich_binde.jpg", "weight": 0.9 },
+    { "type": "image", "image": "havertz_jubel.jpg", "name": "Kai Havertz", "role": "Ausgleich · 54. Minute", "weight": 0.8 },
+    { "type": "stats", "title": "Havertz' Entschuldigung", "stats": [
+      { "label": "O-Ton", "value": "\"2. Mal reingeschissen\"" },
+      { "label": "Elfmeter", "value": "verschossen" }
+    ], "image": "havertz_training.jpg", "weight": 0.9 },
+    { "type": "image", "image": "neuer_presse.jpg", "name": "Manuel Neuer", "role": "Tor · WM-Rekord 21 Spiele", "weight": 0.8 },
+    { "type": "stats", "title": "Neuers Bitterkeit", "stats": [
+      { "label": "O-Ton", "value": "\"Extrem bitter\"" },
+      { "label": "WM-Spiele", "value": "21" }
+    ], "image": "neuer_presse.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann_presse.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "fans_entsetzen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "tribuene_leer.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wer trägt die größte Schuld?", "subtitle": "Kimmich, Havertz oder Neuer – sag's in den Kommentaren", "image": "tribuene_leer.jpg", "weight": 1.0 }
+  ]
+}
