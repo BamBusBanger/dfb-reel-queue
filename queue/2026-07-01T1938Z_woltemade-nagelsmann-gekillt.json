@@ -1,0 +1,95 @@
+{
+  "slug": "woltemade-nagelsmann-gekillt",
+  "createdAt": "2026-07-01T19:38:00Z",
+  "title": "Hat Nagelsmann Woltemade 'gekillt'?",
+  "script": "75 MIO. EURO. NULL MINUTEN. Nick Woltemade, Deutschlands teuerster Stürmer und WM-Quali-Torjaeger mit 4 Treffern, spielte bei dieser WM keine einzige Sekunde – bis Minute 88 gegen Paraguay. Erste Einwechslung. Erste Ballaktion. Elfmeter. Fehlschuss. WM-Aus. ZDF-Expertin Fritzy Kromp live auf Sendung: 'Man hat ihn gefuehlt gekillt.' 3 Gruppenspiele auf der Bank, dann im groessten Moment geopfert. Die Nagelsmann-Entlassung naht – war Woltemade sein teuerster Fehler?",
+  "uploadCaption": "75 Millionen. Null Minuten. Dann Elfmeter in der 88. – und raus. Hat Nagelsmann Nick Woltemade bei dieser WM zerstoert? ZDF-Expertin Fritzy Kromp macht ihrem Aerger Luft.",
+  "uploadHashtags": "#DFB #WM2026 #Woltemade #Nagelsmann #Paraguay #Fussball #WM",
+  "images": [
+    { "file": "woltemade_portrait.jpg",  "search": "Nick Woltemade" },
+    { "file": "woltemade_training.jpg",  "search": "Nick Woltemade DFB" },
+    { "file": "woltemade_jubel.jpg",     "search": "Nick Woltemade" },
+    { "file": "woltemade_bank.jpg",      "search": "Nick Woltemade Newcastle" },
+    { "file": "nagelsmann_portrait.jpg", "search": "Julian Nagelsmann" },
+    { "file": "nagelsmann_pk.jpg",       "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "kromp_zdf.jpg",           "search": "Fritzy Kromp ZDF" },
+    { "file": "fans_entsetzen.jpg",      "search": "DFB Fans Entsetzen Paraguay" },
+    { "file": "elfmeter_paraguay.jpg",   "search": "Nick Woltemade Elfmeter Paraguay WM 2026" },
+    { "file": "fans_hoffen.jpg",         "search": "DFB Fans Public Viewing" },
+    { "file": "wm_logo.jpg",             "search": "WM 2026 Logo FIFA" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "75 MIO. – NULL MINUTEN.",
+      "image": "woltemade_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026",
+      "title": "Hat Nagelsmann Woltemade gekillt?",
+      "image": "nagelsmann_portrait.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "woltemade_training.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stuermer · 23 · Newcastle",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Woltemades WM",
+      "stats": [
+        { "label": "Gespielte Minuten", "value": "0" },
+        { "label": "Spiele auf der Bank", "value": "3" },
+        { "label": "Einwechslung vs. Paraguay", "value": "88.'" }
+      ],
+      "image": "woltemade_bank.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann_pk.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kromp_zdf.jpg",
+      "name": "Fritzy Kromp",
+      "role": "ZDF-Expertin",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "elfmeter_paraguay.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_hoffen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Haette Woltemade frueher spielen muessen?",
+      "subtitle": "Schreib's in die Kommentare!",
+      "image": "wm_logo.jpg",
+      "weight": 1.0
+    }
+  ]
+}
