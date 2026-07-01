@@ -1,0 +1,108 @@
+{
+  "slug": "klopp-vs-glasner-bundestrainer",
+  "createdAt": "2026-07-01T12:34:31Z",
+  "title": "Klopp vs. Glasner – Das Bundestrainer-Duell",
+  "script": "KLOPP KANN NICHT KOMMEN – selbst wenn er will! Sein Red-Bull-Vertrag läuft bis 2029, ohne Ausstiegsklausel. Der DFB müsste Millionen zahlen – und Klopp blockt selbst ab: 'Nicht der Moment.' Gleichzeitig ist Glasner frei: 2 Europapokal-Titel, Kenntnisse der Bundesliga, würde als erster Ausländer Bundestrainer werden. Nach 3 verschossenen Elfmetern von Havertz, Tah und Woltemade braucht Deutschland jetzt eine Antwort. Entscheidung fällt DIESE Woche.",
+  "uploadCaption": "KLOPP vs. GLASNER – Das Bundestrainer-Duell nach dem WM-Drama! Nach dem 3:4-Elfmeter-Aus gegen Paraguay muss der DFB diese Woche entscheiden: Klopp kostet Millionen Ablöse und ist bei Red Bull gebunden bis 2029 – Glasner ist vereinslos und hat 2 Europacup-Titel. Wer wird der neue Bundestrainer?",
+  "uploadHashtags": "#DFB #WM2026 #Bundestrainer #Klopp #Glasner #Nagelsmann #Deutschland #Fussball #WM #Nachfolger",
+  "images": [
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "glasner.jpg",         "search": "Oliver Glasner" },
+    { "file": "nagelsmann.jpg",      "search": "Julian Nagelsmann" },
+    { "file": "havertz.jpg",         "search": "Kai Havertz" },
+    { "file": "tah.jpg",             "search": "Jonathan Tah" },
+    { "file": "kimmich.jpg",         "search": "Joshua Kimmich" },
+    { "file": "woltemade.jpg",       "search": "Nick Woltemade" },
+    { "file": "fans_entsetzen.jpg",  "search": "DFB Fans Entsetzen" },
+    { "file": "flagge.jpg",          "search": "Deutschland Flagge" },
+    { "file": "wm_logo.jpg",         "search": "WM 2026 Logo" },
+    { "file": "pokal.jpg",           "search": "WM Pokal" },
+    { "file": "fans.jpg",            "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP GEBUNDEN BIS 2029 – GLASNER IST FREI!",
+      "image": "flagge.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BUNDESTRAINER-DUELL NACH WM-AUS",
+      "title": "Klopp vs. Glasner",
+      "image": "nagelsmann.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Red Bull · Kein Exit-Klausel · Vertrag bis 2029",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "glasner.jpg",
+      "name": "Oliver Glasner",
+      "role": "Vereinslos · 2× Europacup-Sieger 2022 + 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "DAS BUNDESTRAINER-DUELL",
+      "stats": [
+        { "label": "Klopp-Ablöse (Red Bull)",  "value": "Millionen €" },
+        { "label": "Glasner-Ablöse",           "value": "0 €" },
+        { "label": "Klopp Trainer-Titel",      "value": "9" },
+        { "label": "Glasner Europacup-Titel",  "value": "2" }
+      ],
+      "image": "wm_logo.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Arsenal · Elfmeter miss im Shoot-out",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "Bayern · Phantomtor + Elfmeter miss",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "Newcastle · 75 Mio. € · 0 WM-Min. · Elfmeter miss",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 108 Länderspiele · WM 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopp oder Glasner?",
+      "subtitle": "Wer soll neuer Bundestrainer werden? Kommentiere jetzt!",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
