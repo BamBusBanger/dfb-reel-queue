@@ -1,0 +1,93 @@
+{
+  "slug": "klopp-bundestrainer-traum",
+  "createdAt": "2026-07-01T05:33:00Z",
+  "title": "Klopp als Bundestrainer? DFB-Hammer nach dem WM-Desaster",
+  "script": "KLOPP ALS BUNDESTRAINER — das ist jetzt kein Traum mehr. Nach dem dritten WM-Aus in Folge — vier zu fünf im Elfmeterschießen gegen Außenseiter Paraguay — denkt der DFB laut über Nagelsmanns Entlassung nach. Laut Berichten steht Klopp bereit. Er selbst sagt nur: 'Nicht der Moment.' Nagelsmann hält an seinem Vertrag bis 2028 fest, schließt Rücktritt aus. Völler glaubt noch an ihn — Neuendorf zögert. Entscheidung fällt Ende der Woche. Drei Turniere, null Titel: Braucht Deutschland jetzt Klopp?",
+  "uploadCaption": "🚨 KLOPP als Bundestrainer? Nach dem 3. WM-Aus in Folge (4:5 n.E. gegen Paraguay) steht die DFB-Trainerfrage. Nagelsmann hält an seinem Vertrag bis 2028 fest — doch Klopp soll bereitstehen. Entscheidung fällt bis Ende der Woche! Was denkst du: Klopp oder Nagelsmann?",
+  "uploadHashtags": "#DFB #WM2026 #Klopp #Nagelsmann #Bundestrainer #Deutschland #Fussball #WMAus",
+  "images": [
+    { "file": "klopp.jpg",       "search": "Jürgen Klopp" },
+    { "file": "klopp_coach.jpg", "search": "Jürgen Klopp Trainer" },
+    { "file": "nagelsmann.jpg",  "search": "Julian Nagelsmann" },
+    { "file": "nagelsmann_pk.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "fans_schock.jpg", "search": "DFB Fans Schock" },
+    { "file": "havertz.jpg",     "search": "Kai Havertz" },
+    { "file": "tah.jpg",         "search": "Jonathan Tah" },
+    { "file": "kimmich.jpg",     "search": "Joshua Kimmich" },
+    { "file": "pokal.jpg",       "search": "WM Pokal" },
+    { "file": "flagge.jpg",      "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP ALS BUNDESTRAINER?",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026",
+      "title": "DFB-Hammer nach dem Aus",
+      "image": "nagelsmann.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann_pk.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Bundestrainer · Vertrag bis 2028",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das WM-Desaster",
+      "stats": [
+        { "label": "WM-Aus in Folge", "value": "3" },
+        { "label": "Elfmeter-Aus vs. Paraguay", "value": "4:5" },
+        { "label": "K.o.-Siege seit 2014", "value": "0" }
+      ],
+      "image": "fans_schock.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp_coach.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Wunschkandidat · Ex-Liverpool · FIFA Advisor",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Elfmeter verschossen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "Phantomtor + Elfmeter verschossen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 108 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopp oder Nagelsmann?",
+      "subtitle": "Schreib deine Meinung in die Kommentare!",
+      "image": "flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
