@@ -143,3 +143,4 @@
 2026-07-02 | wm26-top3-favoriten | Top-3 WM-Favoriten ohne Deutschland, Argentinien vs Paraguay Revanche Achtelfinale, Mbappé Frankreich 3. Stern, Vinicius Jr. Brasilien 5 Sterne, Messi letzte WM (TOP-3-LISTE)
 2026-07-02 | dfb-nagelsmann-ruecktritt-nahegelegt | DFB-Gipfel Frankfurt Nagelsmann Rücktritt nahegelegt, Bedenkzeit, Präsidium bröckelt, Völler steht noch dahinter, 7 Mio. Jahresgehalt 14 Mio. Abfindung Vertrag bis 2028, drittes WM-Aus 2018/2022/2026, Entscheidung bis Anfang nächster Woche (NEWS-DRAMA)
 2026-07-02 | undav-schlaegt-wirtz-125mio | Undav WM-Joker 3 Tore 2 Vorlagen in 68 Min vs Wirtz 125 Mio. Pfund 0 Tore 360 Min, Nagelsmann Rotationsfrage, DFB-WM-Aus Sechzehntelfinale Paraguay (DUELL/VERGLEICH)
+2026-07-02 | musiala-bank-paraguay-geheimnis | Musiala auf der Bank gegen Paraguay, Nagelsmann-Geständnis Verletzungspause noch spürbar, Undav 90 Min 0 Tore, 3 Elfmeter verschossen, WM-Aus 4:5 n.E. (GEHEIMNIS)
