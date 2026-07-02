@@ -1,0 +1,101 @@
+{
+  "slug": "collina-verteidigt-tah-phantomtor",
+  "createdAt": "2026-07-02T09:35:00Z",
+  "title": "Das Phantomtor-Geheimnis: FIFA gegen Deutschland",
+  "script": "Minute 102: Jonathan Tah köpft ein – Deutschland führt 2:1. Doch nach 3 Minuten VAR-Überprüfung: Tor aberkannt. Grund: Waldemar Anton soll Paraguays Keeper Gill angerempelt haben. Nagelsmann: 'Das ist ein kompletter Skandal!' ZDF-Experte Kinhöfer: 'Definitiv kein Foul.' Und jetzt? FIFA-Schiedsrichterchef Pierluigi Collina verteidigt die Entscheidung persönlich – sie war korrekt. Deutschland scheidet aus. Elfmeter-Drama. 3 Fehlschüsse. Und die große Frage: Wer lügt – Nagelsmann oder Collina?",
+  "uploadCaption": "Minute 102 – Tah trifft. 3 Minuten VAR. Tor aberkannt. Deutschland raus. FIFA-Chef Collina sagt: alles korrekt. Nagelsmann nennt es 'kompletten Skandal'. Wer hat Recht? Die WAHRE Geschichte hinter dem Phantomtor.",
+  "uploadHashtags": "#DFB #WM2026 #Tah #VAR #Paraguay #Nagelsmann #Phantomtor #Fussball #Skandal",
+  "images": [
+    { "file": "tah_kopfball.jpg",    "search": "Jonathan Tah" },
+    { "file": "gillette_stadium.jpg", "search": "Gillette Stadium Foxborough WM 2026" },
+    { "file": "nagelsmann_pk.jpg",   "search": "Julian Nagelsmann" },
+    { "file": "tah_spielszene.jpg",  "search": "Jonathan Tah DFB Innenverteidiger" },
+    { "file": "var_screen.jpg",      "search": "VAR Videoschiedsrichter Überprüfung Fußball WM", "thematic": true },
+    { "file": "anton_dfb.jpg",       "search": "Waldemar Anton" },
+    { "file": "collina_fifa.jpg",    "search": "Pierluigi Collina FIFA Schiedsrichterchef" },
+    { "file": "havertz_jubel.jpg",   "search": "Kai Havertz" },
+    { "file": "kimmich_kap.jpg",     "search": "Joshua Kimmich" },
+    { "file": "fans_entsetzen.jpg",  "search": "DFB Fans" },
+    { "file": "dfb_team.jpg",        "search": "DFB Nationalmannschaft 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "EIN TOR. 3 MINUTEN VAR. DEUTSCHLAND RAUS.",
+      "image": "tah_kopfball.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · GEHEIMNIS",
+      "title": "Das Phantomtor",
+      "image": "gillette_stadium.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "tah_spielszene.jpg",
+      "name": "Jonathan Tah",
+      "role": "DFB-Abwehrchef · 102. Minute",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann_pk.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Bundestrainer · 'Kompletter Skandal'",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen des Skandals",
+      "stats": [
+        { "label": "Tor-Minute", "value": "102'" },
+        { "label": "VAR-Überprüfung", "value": "3 Min." },
+        { "label": "Elfmeter-Fehlschüsse", "value": "3 von 6" }
+      ],
+      "image": "var_screen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "collina_fifa.jpg",
+      "name": "Pierluigi Collina",
+      "role": "FIFA-Schiedsrichterchef · 'War korrekt'",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "anton_dfb.jpg",
+      "name": "Waldemar Anton",
+      "role": "DFB · angebliches Foul an Gill",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz_jubel.jpg",
+      "name": "Kai Havertz",
+      "role": "Offensiv · Elfmeter verschossen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich_kap.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 108 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "War das Skandal-VAR?",
+      "subtitle": "Collina oder Nagelsmann – wer hat Recht?",
+      "image": "dfb_team.jpg",
+      "weight": 1.0
+    }
+  ]
+}
