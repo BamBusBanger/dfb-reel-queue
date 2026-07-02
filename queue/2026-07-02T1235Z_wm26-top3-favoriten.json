@@ -1,0 +1,95 @@
+{
+  "slug": "wm26-top3-favoriten",
+  "createdAt": "2026-07-02T12:35:00Z",
+  "title": "WM 2026: Top 3 Favoriten – ohne Deutschland",
+  "script": "Deutschland ist raus – aber die WM läuft weiter! Wer holt jetzt den Titel? Platz 3: Brasilien. Vinicius Jr. in Weltbestform, 5 Sterne, Endrick mit 20 als Joker gegen Norwegen. Platz 2: Frankreich. Mbappé will den 3. Stern – stärkste Defensive des Turniers. Platz 1: Argentinien. Weltmeister, Messi auf seiner allerletzten WM – ABER ACHTUNG: Achtelfinale gegen Paraguay! Genau das Team, das uns per Elfmeter rausgeworfen hat. Revanche oder der nächste Schock? Wer wird Weltmeister – ohne uns?",
+  "uploadCaption": "Deutschland ist raus – aber der WM-Titel wird trotzdem vergeben! Diese 3 Teams haben die besten Chancen auf den Pokal 2026. Argentinien muss ZUERST gegen Paraguay ran – das Team, das Deutschland gerade versenkt hat. Wer holt den Titel? Kommentar rein!",
+  "uploadHashtags": "#WM2026 #Fussball #Argentinien #Frankreich #Brasilien #WorldCup2026 #DFB #Messi #Mbappe",
+  "images": [
+    { "file": "wm_pokal.jpg",       "search": "WM Pokal" },
+    { "file": "fans_entsetzen.jpg", "search": "DFB Fans Entsetzen" },
+    { "file": "messi.jpg",          "search": "Messi" },
+    { "file": "mbappe.jpg",         "search": "Kylian Mbappé Frankreich WM 2026" },
+    { "file": "vinicius.jpg",       "search": "Vinicius Jr Brasilien WM 2026" },
+    { "file": "paraguay_jubel.jpg", "search": "Paraguay WM 2026 Jubel Sieg" },
+    { "file": "fanmeile.jpg",       "search": "Fanmeile Berlin" },
+    { "file": "sofi_stadium.jpg",   "search": "SoFi Stadium" },
+    { "file": "wm_pokal_gold.jpg",  "search": "WM Pokal Gold" },
+    { "file": "fans_hoffen.jpg",    "search": "DFB Fans Hoffen" },
+    { "file": "wm_pokal_outro.jpg", "search": "WM Pokal FIFA Museum" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DEUTSCHLAND RAUS – WER HOLT DEN TITEL?",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 ACHTELFINALE",
+      "title": "Top 3 Favoriten ohne Deutschland",
+      "image": "wm_pokal.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "stats",
+      "title": "Die 3 Titelfavoriten",
+      "stats": [
+        { "label": "Platz 3", "value": "Brasilien" },
+        { "label": "Platz 2", "value": "Frankreich" },
+        { "label": "Platz 1", "value": "Argentinien" }
+      ],
+      "image": "sofi_stadium.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "vinicius.jpg",
+      "name": "Vinicius Jr.",
+      "role": "Brasilien · Platz 3 · 25 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "mbappe.jpg",
+      "name": "Kylian Mbappé",
+      "role": "Frankreich · Platz 2 · 27 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "messi.jpg",
+      "name": "Lionel Messi",
+      "role": "Argentinien · Platz 1 · letzte WM",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "paraguay_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal_gold.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fanmeile.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_hoffen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer wird Weltmeister?",
+      "subtitle": "Argentinien, Frankreich oder Brasilien?",
+      "image": "wm_pokal_outro.jpg",
+      "weight": 1.0
+    }
+  ]
+}
