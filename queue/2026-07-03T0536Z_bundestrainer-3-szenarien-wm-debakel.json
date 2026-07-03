@@ -1,0 +1,107 @@
+{
+  "slug": "bundestrainer-3-szenarien-wm-debakel",
+  "createdAt": "2026-07-03T05:36:49Z",
+  "title": "Klopp, Glasner oder Chaos? 3 DFB-Szenarien",
+  "script": "14 MILLIONEN EURO – so teuer wird Nagelsmanns Entlassung. Nach 3 WM-Aus in Folge ist das Urteil gefallen. Aber wer kommt jetzt? Szenario 1: KLOPP. Geheime Exit-Klausel bei Red Bull laut Sky – doch Boss Mintzlaff demontiert es öffentlich. Szenario 2: GLASNER. 2-facher Europacup-Sieger, sofort verfügbar, 60 Prozent günstiger. Szenario 3: CHAOS. Interimslösung ohne Vision. Alle 3 Szenarien sind möglich – welches macht euch am meisten Angst?",
+  "uploadCaption": "Nagelsmann ist Geschichte – aber wer rettet jetzt den DFB? 14 Mio. Abfindung, Klopps Streit um seine Exit-Klausel und Glasner als Geheimfavorit. 3 Szenarien nach dem 3. WM-Debakel in Folge.",
+  "uploadHashtags": "#DFB #Bundestrainer #Klopp #Glasner #Nagelsmann #WM2026 #Fussball #Deutschland",
+  "images": [
+    { "file": "fans_entsetzen.jpg",  "search": "DFB Fans WM Schock Entsetzen" },
+    { "file": "dfb_team.jpg",        "search": "DFB Teamfoto 2026" },
+    { "file": "nagelsmann.jpg",      "search": "Julian Nagelsmann" },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal" },
+    { "file": "neuendorf.jpg",       "search": "Bernd Neuendorf DFB Präsident" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "glasner.jpg",         "search": "Oliver Glasner Trainer" },
+    { "file": "dfb_krise.jpg",       "search": "DFB Neuanfang Umbruch Symbol", "thematic": true },
+    { "file": "wirtz.jpg",           "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",         "search": "Jamal Musiala" },
+    { "file": "fans_hoffen.jpg",     "search": "DFB Fans Hoffnung" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "14 MILLIONEN. NAGELSMANN RAUS.",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 • DFB-Krise",
+      "title": "3 Szenarien für den Neuanfang",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Bundestrainer · Entlassung beschlossen",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Erbe",
+      "stats": [
+        { "label": "WM-Aus in Folge", "value": "3×" },
+        { "label": "Abfindung fällig", "value": "14 Mio €" },
+        { "label": "Restvertrag", "value": "bis 2028" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "neuendorf.jpg",
+      "name": "Bernd Neuendorf",
+      "role": "DFB-Präsident · entscheidet bis Wochenende",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Szenario 1 · Exit-Klausel umstritten",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "glasner.jpg",
+      "name": "Oliver Glasner",
+      "role": "Szenario 2 · 2× Europacup · sofort frei",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "3 Szenarien im Check",
+      "stats": [
+        { "label": "Klopp sofort",     "value": "Exit-Klausel?" },
+        { "label": "Glasner sofort",   "value": "60 % günstiger" },
+        { "label": "Interimslösung",   "value": "Chaos-Option" }
+      ],
+      "image": "dfb_krise.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "22 Jahre · Liverpool · DFB-Zukunft 2028",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "22 Jahre · Bayern · DFB-Talente-Kern",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopp oder NIEMALS Klopp?",
+      "subtitle": "Kommentiert jetzt!",
+      "image": "fans_hoffen.jpg",
+      "weight": 1.0
+    }
+  ]
+}
