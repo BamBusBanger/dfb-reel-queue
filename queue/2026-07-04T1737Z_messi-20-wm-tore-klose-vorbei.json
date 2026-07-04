@@ -1,0 +1,36 @@
+{
+  "slug": "messi-20-wm-tore-klose-vorbei",
+  "createdAt": "2026-07-04T17:37:40Z",
+  "title": "Messi – 20 WM-Tore: Kloses Rekord für immer Geschichte",
+  "script": "KLOSE'S REKORD IST TOT. Lionel Messi hat das WM-Tor-Denkmal gesprengt: 20 Treffer in 5 Turnieren! Der DFB-Held Miroslav Klose brauchte 4 Weltmeisterschaften für seine 16 Tore. Messi übertraf die Marke, während Deutschland schon im Flieger nach Hause saß. Beim dramatischen 3:2 nach Verlängerung gegen Kap Verde traf er erneut ins Netz. Argentinien steht im Achtelfinale – Messi jagt Titel Nummer 2. Eine Zahl, die so schnell kein Mensch der Welt einholen wird: 20.",
+  "uploadCaption": "20 WM-Tore – Messi hat Klose pulverisiert, während Deutschland daheim zuschaut. Wer holt das jemals ein? 👇",
+  "uploadHashtags": "#Messi #WM2026 #Klose #DFB #Argentinien #WMRekord #Fussball",
+  "images": [
+    { "file": "messi_jubel.jpg",    "search": "Messi jubel" },
+    { "file": "messi_spiel.jpg",    "search": "Messi WM" },
+    { "file": "klose_ball.jpg",     "search": "Miroslav Klose" },
+    { "file": "klose_jubel.jpg",    "search": "Klose jubel DFB" },
+    { "file": "wm_pokal.jpg",       "search": "WM Pokal" },
+    { "file": "fans_entsetzen.jpg", "search": "Public Viewing Fans" },
+    { "file": "wirtz_jubel.jpg",    "search": "Florian Wirtz jubel DFB" },
+    { "file": "havertz_jubel.jpg",  "search": "Kai Havertz DFB Tor" },
+    { "file": "dfb_fans.jpg",       "search": "DFB Fans" },
+    { "file": "wm_logo.webp",       "search": "WM 2026 Logo" },
+    { "file": "fans_tribuene.jpg",  "search": "Fans Tribüne Stadion" },
+    { "file": "pokal_gold.jpg",     "search": "Pokal Gold Trophäe" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "KLOSES REKORD IST TOT.", "image": "messi_jubel.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · 4. Juli", "title": "Messi – 20 WM-Tore", "image": "wm_logo.webp", "weight": 0.7 },
+    { "type": "image", "image": "messi_spiel.jpg",    "name": "Lionel Messi",    "role": "Argentinien · 5 Turniere", "weight": 0.8 },
+    { "type": "stats", "title": "WM-Tore Rekord", "stats": [{ "label": "Klose (4 WMs)", "value": "16" }, { "label": "Messi (5 WMs)", "value": "20" }], "image": "klose_ball.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klose_jubel.jpg",    "name": "Miroslav Klose",  "role": "DFB-Legende · 16 WM-Tore", "weight": 0.8 },
+    { "type": "image", "image": "wm_pokal.jpg",       "weight": 0.8 },
+    { "type": "image", "image": "fans_entsetzen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz_jubel.jpg",    "name": "Florian Wirtz",   "role": "Deutschlands Hoffnung · WM 2030", "weight": 0.8 },
+    { "type": "image", "image": "havertz_jubel.jpg",  "name": "Kai Havertz",     "role": "DFB · WM 2026 ausgeschieden", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg",       "weight": 0.8 },
+    { "type": "image", "image": "fans_tribuene.jpg",  "weight": 0.8 },
+    { "type": "outro", "title": "Holt das JEMALS jemand ein?", "subtitle": "Schreib es in die Kommentare!", "image": "pokal_gold.jpg", "weight": 1.0 }
+  ]
+}
