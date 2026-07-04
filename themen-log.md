@@ -155,3 +155,4 @@
 2026-07-04 | klopp-ich-bin-bereit | Klopp bestätigt live bei MagentaTV Bundestrainer-Gespräche "Ich bin mittlerweile mehr als aufgetankt, ich bin bereit", Red Bull Mintzlaff Millionen-Ablöse, 14 Mio Nagelsmann-Abfindung, Plan B Streich 61, 3 WM-Aus in Folge (NEWS-DRAMA)
 2026-07-04 | klopp-streich-bundestrainer-duell | Klopp vs Streich letztes Bundestrainer-Duell, Glasner weg Nottingham 12 Mio, Klopp ~5 Mio Red-Bull-Ablöse DFB-Novum, Streich 10 Jahre Freiburg 0 € sofort frei (DUELL/VERGLEICH)
 2026-07-04 | messi-20-wm-tore-klose-vorbei | Messi 20 WM-Tore nach 3:2 n.V. gegen Kap Verde Achtelfinale, Klose-Rekord 16 weit übertroffen, DFB-Helden Wirtz/Havertz zuschauen, Argentinien jagt Titel 2 (NEWS-DRAMA)
+2026-07-04 | goretzka-transfer-top3 | Goretzka vereinslos seit 1.7., Transfer-Poker Top 3 Kandidaten: AC Milan 5 Mio/Jahr geplatzt, Juventus Wunschspieler Spalletti, Arsenal Premier League Option, 70 Länderspiele 304 Bayern-Spiele CL-Sieger 2020 (TOP-3-LISTE)
