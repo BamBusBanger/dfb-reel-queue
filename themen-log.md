@@ -153,3 +153,4 @@
 2026-07-04 | klopp-geheime-klausel-dfb | Klopp Exit-Klausel Red-Bull-Vertrag bis 2029, Romano schriftlich vs Kicker/Bild mündlich vs Mintzlaff leugnet alles, ~5 Mio Ablöse erstes DFB-Coach-Novum, Klopp sauber rauskommen, DFB-Deadline Anfang August (GEHEIMNIS)
 2026-07-04 | glasner-nottingham-dfb-plan-b-weg | Glasner unterschreibt Nottingham Forest 12 Mio Jahresgehalt bis 2029 DFB Plan B weg Klopp Red Bull blockiert Streich Hoeneß 3 Kandidaten (TOP-3-LISTE)
 2026-07-04 | klopp-ich-bin-bereit | Klopp bestätigt live bei MagentaTV Bundestrainer-Gespräche "Ich bin mittlerweile mehr als aufgetankt, ich bin bereit", Red Bull Mintzlaff Millionen-Ablöse, 14 Mio Nagelsmann-Abfindung, Plan B Streich 61, 3 WM-Aus in Folge (NEWS-DRAMA)
+2026-07-04 | klopp-streich-bundestrainer-duell | Klopp vs Streich letztes Bundestrainer-Duell, Glasner weg Nottingham 12 Mio, Klopp ~5 Mio Red-Bull-Ablöse DFB-Novum, Streich 10 Jahre Freiburg 0 € sofort frei (DUELL/VERGLEICH)
