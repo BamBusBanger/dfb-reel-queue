@@ -1,0 +1,102 @@
+{
+  "slug": "vinicius-haaland-wm-schlacht",
+  "createdAt": "2026-07-05T12:34:00Z",
+  "title": "Vinicius vs. Haaland: Das WM-Duell des Jahres",
+  "script": "BRASILIEN HAT NOCH NIE GEGEN NORWEGEN GEWONNEN – in 4 Versuchen: 0 Siege! Heute Nacht ändert sich das, oder Haaland schreibt Geschichte. 5 WM-Tore in nur 3 Spielen – Erling Haaland ist die Tormaschine dieses Turniers. Doch Vinicius Jr. schlägt zurück: 4 Tore in 4 Spielen, jedes Gruppenspiel getroffen. Und noch ein Fluch: Seit 2002 kein K.o.-Sieg Brasiliens gegen Europa. 22 Uhr, MetLife Stadium. Der Superstar-Clash des Jahres beginnt jetzt.",
+  "uploadCaption": "HEUTE NACHT das heißeste Achtelfinale der WM 2026! Haaland (5 Tore in 3 Spielen) gegen Vinicius Jr. (4 Tore in 4 Spielen) – und Brasilien hat noch NIE gegen Norwegen gewonnen. Wer bricht heute welchen Rekord? 22 Uhr MetLife Stadium!",
+  "uploadHashtags": "#WM2026 #BrasilienNorwegen #Haaland #ViniciusJunior #Brasilien #Norwegen #FIFAWorldCup #Achtelfinale #Fussball",
+  "images": [
+    { "file": "haaland.jpg",          "search": "Erling Haaland Norway World Cup 2026" },
+    { "file": "vinicius.jpg",          "search": "Vinicius Junior Brazil World Cup 2026" },
+    { "file": "metlife_innen.jpg",     "search": "MetLife Stadium" },
+    { "file": "brasilien_aktion.jpg",  "search": "Brazil World Cup 2026 Achtelfinale action" },
+    { "file": "norwegen_aktion.jpg",   "search": "Norway Norwegen World Cup 2026 Achtelfinale action" },
+    { "file": "haaland_jubel.jpg",     "search": "Erling Haaland goal celebration World Cup 2026" },
+    { "file": "vinicius_jubel.jpg",    "search": "Vinicius Junior goal celebration World Cup 2026" },
+    { "file": "pyro.jpg",              "search": "Stadium fans pyro atmosphere" },
+    { "file": "pokal.jpg",             "search": "WM Pokal" },
+    { "file": "fans_stadion.jpg",      "search": "World Cup fans stadium excitement" },
+    { "file": "statistik_fluch.jpg",   "search": "Brasilien Norwegen Statistik Fluch grafik", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "BRASILIEN HAT NOCH NIE GEGEN NORWEGEN GEWONNEN.",
+      "image": "haaland.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · ACHTELFINALE HEUTE 22 UHR",
+      "title": "Vinicius vs. Haaland",
+      "image": "metlife_innen.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "haaland.jpg",
+      "name": "Erling Haaland",
+      "role": "Norwegen · 5 WM-Tore in 3 Spielen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "vinicius.jpg",
+      "name": "Vinicius Júnior",
+      "role": "Brasilien · 4 WM-Tore in 4 Spielen",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM-Tore 2026",
+      "stats": [
+        { "label": "Haaland (NOR)", "value": "5" },
+        { "label": "Vinicius (BRA)", "value": "4" }
+      ],
+      "image": "statistik_fluch.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "norwegen_aktion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "brasilien_aktion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der Brasilien-Fluch",
+      "stats": [
+        { "label": "BRA-Siege vs Norwegen", "value": "0 von 4" },
+        { "label": "K.o.-Sieg vs Europa", "value": "zuletzt 2002" }
+      ],
+      "image": "pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "haaland_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "vinicius_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pyro.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Team Haaland oder Team Vinicius?",
+      "subtitle": "Kommentier jetzt deinen Tipp!",
+      "image": "fans_stadion.jpg",
+      "weight": 1.0
+    }
+  ]
+}
