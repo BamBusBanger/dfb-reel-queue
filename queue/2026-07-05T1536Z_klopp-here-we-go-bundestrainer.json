@@ -1,0 +1,112 @@
+{
+  "slug": "klopp-here-we-go-bundestrainer",
+  "createdAt": "2026-07-05T15:36:49Z",
+  "title": "Romano meldet fix: Klopp wird Bundestrainer!",
+  "script": "ROMANO SAGT 'HERE WE GO' – Klopp wird Bundestrainer! Die 3 größten Fakten: Erstens, Fabrizio Romano meldet die Einigung als fix – Klopp sagt dem DFB zu, Vertragsziel WM 2030. Zweitens, der DFB zahlt rund 5 Millionen Euro Ablöse an Red Bull – in der 120-jährigen DFB-Geschichte ein absolutes Novum. Drittens, Klopp fordert volle Macht: Kaderplanung, Trainerteam, fundamentale Strukturreform. DFB-Spitze fliegt diese Woche nach New York. Wird Klopp mit Wirtz, Musiala und Co. den 5. Stern holen?",
+  "uploadCaption": "ROMANO SAGT 'HERE WE GO': Klopp wird Bundestrainer! Die 3 Fakten zur historischen DFB-Verpflichtung – 5 Mio. Ablöse an Red Bull, volle Vollmachten und Vertragsziel WM 2030. Deutschland hat seinen neuen Bundestrainer!",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2026 #WM2030 #DFBTeam #Fussball #HereWeGo",
+  "images": [
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "klopp_neu.jpg",    "search": "Jürgen Klopp Bundestrainer DFB Pressekonferenz 2026" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "musiala.jpg",      "search": "Jamal Musiala" },
+    { "file": "havertz.jpg",      "search": "Kai Havertz" },
+    { "file": "pokal.jpg",        "search": "WM Pokal Gold" },
+    { "file": "fans.jpg",         "search": "DFB Fans Deutschland" },
+    { "file": "flagge.jpg",       "search": "Deutschland Flagge Berlin" },
+    { "file": "dfb_neustart.jpg", "search": "Bundestrainer Vollmacht Neustart DFB Strukturreform", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ROMANO SAGT 'HERE WE GO'!",
+      "image": "klopp_neu.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "TOP 3 FAKTEN",
+      "title": "Klopp übernimmt DFB",
+      "image": "flagge.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Neuer Bundestrainer · 59",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Fakt 1 · Romano meldet fix",
+      "stats": [
+        { "label": "Klopp-Alter", "value": "59" },
+        { "label": "Vertragsziel WM", "value": "2030" }
+      ],
+      "image": "klopp_neu.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Klopps Schlüsselspieler · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Fakt 2 · Ablöse-Novum",
+      "stats": [
+        { "label": "Ablöse an Red Bull (Mio. €)", "value": "5" },
+        { "label": "DFB-Geschichte (Jahre)", "value": "120" }
+      ],
+      "image": "dfb_neustart.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 31",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Offensiv · 27",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Fakt 3 · Klopp fordert Macht",
+      "stats": [
+        { "label": "Vollmachten gefordert", "value": "3" },
+        { "label": "Jahre bis WM 2030", "value": "4" }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "5. Stern 2030?",
+      "subtitle": "Schafft Klopp, was Löw, Flick & Nagelsmann nicht konnten?",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
