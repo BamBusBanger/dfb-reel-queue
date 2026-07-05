@@ -1,0 +1,100 @@
+{
+  "slug": "neuendorf-watzke-klopp-gipfel-usa",
+  "createdAt": "2026-07-05T19:34:00Z",
+  "title": "DFB-Gipfel in New York – Neuendorf & Watzke fliegen zu Klopp",
+  "script": "BREAKING: DFB-Bosse steigen HEUTE ins Flugzeug nach New York! Neuendorf und Watzke reisen persönlich zu Jürgen Klopp – genau wie es einst mit Klinsmann 2004 begann. Auf dem Tisch: 5 Millionen Euro Ablöse an Red Bull, Vierjahresvertrag bis WM 2030, volle Macht über Kader und Struktur. Klopp arbeitet noch als MagentaTV-Experte beim Turnier in den USA. Das 4-köpfige Geheimtreffen soll Deutschlands Fußball-Zukunft entscheiden. Wirtz, Musiala, Ouédraogo – alle warten auf ihren neuen Bundestrainer.",
+  "uploadCaption": "DFB-Bosse fliegen HEUTE nach New York zu Klopp! Neuendorf & Watzke verhandeln persönlich. 5 Mio Ablöse, Vertrag bis WM 2030 – Wie einst bei Klinsmann 2004. History wird geschrieben.",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2026 #WM2030 #Fussball #Germany",
+  "images": [
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "neuendorf.jpg",  "search": "Bernd Neuendorf DFB Präsident 2026" },
+    { "file": "watzke.jpg",     "search": "Hans-Joachim Watzke DFL Bundesliga" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "usa_flagge.jpg", "search": "USA Flagge" },
+    { "file": "metlife.jpg",    "search": "MetLife Stadium" },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "dfb_team.jpg",   "search": "DFB Team 2026" },
+    { "file": "wm_pokal.jpg",   "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DFB FLIEGT ZU KLOPP!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BREAKING NEWS",
+      "title": "Gipfeltreffen New York",
+      "image": "usa_flagge.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Wunsch-Bundestrainer · 59",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "neuendorf.jpg",
+      "name": "Bernd Neuendorf",
+      "role": "DFB-Präsident",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "watzke.jpg",
+      "name": "Hans-Joachim Watzke",
+      "role": "DFL-Chef · Klopp-Botschafter",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopp-Deal auf dem Tisch",
+      "stats": [
+        { "label": "Ablöse an Red Bull", "value": "5 Mio €" },
+        { "label": "Vertrag bis", "value": "WM 2030" },
+        { "label": "Personen im Gipfel", "value": "4" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "1.000 Tage Bundestrainer · Geschichte",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "metlife.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22 · WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 · WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Macht Klopp Deutschland wieder groß?",
+      "subtitle": "Ja oder Nein – kommentiert ↓",
+      "image": "dfb_team.jpg",
+      "weight": 1.0
+    }
+  ]
+}

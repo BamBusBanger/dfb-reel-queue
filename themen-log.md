@@ -161,3 +161,4 @@
 2026-07-05 | vinicius-haaland-wm-schlacht | Brasilien vs. Norwegen heute 22 Uhr MetLife Stadium Achtelfinale, Haaland 5 WM-Tore in 3 Spielen vs Vinicius 4 Tore in 4 Spielen, Brasilien 0 Siege in 4 Duellen mit Norwegen, kein K.o.-Sieg Brasiliens gegen Europa seit 2002 (DUELL/VERGLEICH)
 2026-07-05 | klopp-here-we-go-bundestrainer | Romano 'Here We Go' Klopp DFB-Zusage fix, 5 Mio Ablöse Red Bull DFB-Novum, volle Macht Kaderplanung Strukturreform, Vertragsziel WM 2030 (TOP-3-LISTE)
 2026-07-05 | el-mala-klopp-geheimwaffe | Said El Mala (19, Köln) 13 Tore 5 Vorlagen von Nagelsmann ignoriert kein WM-Ticket, Seitenhieb-Post, jetzt Klopp-Kandidat EM 2028 England 21 Jahre (GEHEIMNIS)
+2026-07-05 | neuendorf-watzke-klopp-gipfel-usa | Neuendorf + Watzke fliegen zu Klopp nach New York, DFB-Gipfel 4 Personen, 5 Mio Ablöse Red Bull, Vierjahresvertrag bis WM 2030, Klinsmann-2004-Parallele (NEWS-DRAMA)
