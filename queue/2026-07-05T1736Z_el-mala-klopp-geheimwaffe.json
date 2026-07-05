@@ -1,0 +1,97 @@
+{
+  "slug": "el-mala-klopp-geheimwaffe",
+  "createdAt": "2026-07-05T17:36:00Z",
+  "title": "El Mala – Klöpps geheimes Ass",
+  "script": "STOP! 13 Tore, 5 Vorlagen – und trotzdem kein WM-Ticket. Said El Mala, 19 Jahre alt, der heißeste deutsche Offensivspieler der vergangenen Saison, wurde von Julian Nagelsmann schlicht ignoriert. Kein einziger Kölner Spieler durfte zur WM. El Mala postete einen stillen Seitenhieb ins Netz – und Nagelsmann ist Geschichte. Jetzt kommt Klopp. Und Klopp liebt genau diese Spielertypen: kreativ, direkt, hungrig. Bei der EM 2028 in England wäre El Mala 21 – perfekt für Klöpps erstes großes Turnier. Deutschland hat sein nächstes Geheimnis.",
+  "uploadCaption": "Said El Mala hätte diese WM verändern können – Nagelsmann ließ ihn zuhause. Jetzt kommt Klopp. Wird er Deutschlands nächste Geheimwaffe? 🔥",
+  "uploadHashtags": "#DFB #WM2026 #Klopp #SaidElMala #Bundestrainer #EM2028 #Fussball #Deutschland",
+  "images": [
+    { "file": "el-mala.jpg",       "search": "Said El Mala" },
+    { "file": "el-mala-aktion.jpg","search": "Said El Mala Köln" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "klopp-dfb.jpg",     "search": "Jürgen Klopp Bundestrainer 2026" },
+    { "file": "nagelsmann.jpg",    "search": "Julian Nagelsmann" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "fans.jpg",          "search": "DFB Fans" },
+    { "file": "dfb-team.jpg",      "search": "Deutschland Mannschaft 2026" },
+    { "file": "em2028.jpg",        "search": "EM 2028 Wembley London" },
+    { "file": "wm-pokal.jpg",      "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER HATTE 13 TORE – UND WURDE AUSSORTIERT.",
+      "image": "el-mala.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP ÜBERNIMMT DFB",
+      "title": "Klöpps geheimes Ass",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "el-mala-aktion.jpg",
+      "name": "Said El Mala",
+      "role": "Offensiv · 19 · Köln",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Saison 2025/26",
+      "stats": [
+        { "label": "Tore", "value": "13" },
+        { "label": "Vorlagen", "value": "5" },
+        { "label": "WM-Minuten", "value": "0" }
+      ],
+      "image": "dfb-team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Ex-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23 · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp-dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "em2028.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Hätte Nagelsmann El Mala mitnehmen sollen?",
+      "subtitle": "Ja oder Nein – kommentiert! 👇",
+      "image": "wm-pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}

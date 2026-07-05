@@ -160,3 +160,4 @@
 2026-07-05 | frankreich-eliminiert-paraguay | Frankreich schlägt Paraguay 1:0 Achtelfinale, DFB-Nemesis raus, Marokko 3:0 vs Kanada, Viertelfinale 9.-12. Juli ohne Deutschland, Mbappé, Tahs Phantomtor Minute 102 (NEWS-DRAMA)
 2026-07-05 | vinicius-haaland-wm-schlacht | Brasilien vs. Norwegen heute 22 Uhr MetLife Stadium Achtelfinale, Haaland 5 WM-Tore in 3 Spielen vs Vinicius 4 Tore in 4 Spielen, Brasilien 0 Siege in 4 Duellen mit Norwegen, kein K.o.-Sieg Brasiliens gegen Europa seit 2002 (DUELL/VERGLEICH)
 2026-07-05 | klopp-here-we-go-bundestrainer | Romano 'Here We Go' Klopp DFB-Zusage fix, 5 Mio Ablöse Red Bull DFB-Novum, volle Macht Kaderplanung Strukturreform, Vertragsziel WM 2030 (TOP-3-LISTE)
+2026-07-05 | el-mala-klopp-geheimwaffe | Said El Mala (19, Köln) 13 Tore 5 Vorlagen von Nagelsmann ignoriert kein WM-Ticket, Seitenhieb-Post, jetzt Klopp-Kandidat EM 2028 England 21 Jahre (GEHEIMNIS)
