@@ -1,0 +1,96 @@
+{
+  "slug": "klopp-geheim-trio-dreamteam",
+  "createdAt": "2026-07-06T15:35:00Z",
+  "title": "Klopps 3 geheime Schattenmänner",
+  "script": "NIEMAND redet darüber. Klopp hat seinen DFB-Vertrag noch nicht unterschrieben – und hat bereits 3 Co-Trainer fix. Das Geheimnis: alle drei sitzen bei Red Bull. Nummer 1: Peter Krawietz – 808 gemeinsame Spiele, Klopps Schatten seit 18 Jahren. Nummer 2: Pepijn Lijnders – Taktik-Architekt hinter Klopps Liverpool-System, jetzt unter Guardiola bei ManCity. Nummer 3: Zsolt Löw – vorher bei Thomas Tuchel, jetzt Head of Soccer Development bei Red Bull. 3 Ablösen, 3 Genies. Die Frage: Lässt Red Bull alle ziehen?",
+  "uploadCaption": "Klopp ist fast Bundestrainer – aber sein geheimes Co-Trainer-Trio steckt noch bei Red Bull fest. 3 Männer, die Deutschland 2030 zum Weltmeister machen sollen. Kennst du alle drei?",
+  "uploadHashtags": "#DFB #Klopp #WM2030 #Bundestrainer #Fussball #WM2026 #Nationalmannschaft",
+  "images": [
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "dfb-team.jpg",     "search": "DFB Teamfoto 2026" },
+    { "file": "redbull-deal.jpg", "search": "Verhandlungstisch Taktikboard Fußball leerer Besprechungsraum", "thematic": true },
+    { "file": "krawietz.jpg",     "search": "Peter Krawietz Liverpool Trainer" },
+    { "file": "lijnders.jpg",     "search": "Pepijn Lijnders Liverpool Coach" },
+    { "file": "low.jpg",          "search": "Zsolt Löw Trainer" },
+    { "file": "wm-pokal.jpg",     "search": "WM Pokal" },
+    { "file": "flagge.jpg",       "search": "Deutschland Flagge" },
+    { "file": "dfb-fans.jpg",     "search": "DFB Fans" },
+    { "file": "jubel.jpg",        "search": "DFB Jubel" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NIEMAND redet darüber.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB 2030 | GEHEIMNIS",
+      "title": "Klopps 3 Schattenmänner",
+      "image": "dfb-team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · ab 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Red Bull hält ALLE 3 Co-Trainer",
+      "stats": [
+        { "label": "Co-Trainer geplant", "value": "3" },
+        { "label": "Red Bull-Ablösen nötig", "value": "3×" },
+        { "label": "Klopp + Krawietz Spiele", "value": "808" }
+      ],
+      "image": "redbull-deal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "krawietz.jpg",
+      "name": "Peter Krawietz",
+      "role": "Klopps Schatten · 808 Spiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "lijnders.jpg",
+      "name": "Pepijn Lijnders",
+      "role": "Liverpool-Architekt · jetzt ManCity",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "low.jpg",
+      "name": "Zsolt Löw",
+      "role": "Head Soccer Dev. · Red Bull",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm-pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Klopp 2030 den 5. Stern?",
+      "subtitle": "JA oder NEIN – kommentiere jetzt!",
+      "image": "jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}
