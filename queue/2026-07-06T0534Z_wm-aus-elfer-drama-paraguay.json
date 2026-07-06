@@ -1,0 +1,99 @@
+{
+  "slug": "wm-aus-elfer-drama-paraguay",
+  "createdAt": "2026-07-06T05:34:00Z",
+  "title": "WM-AUS! Elfmeter-Debakel gegen Paraguay",
+  "script": "ES IST VORBEI. 1:1 nach 120 Minuten – dann das Elfmeter-Grauen in Foxborough. Paraguay-Superstar Enciso trifft in der 42., Kai Havertz gleicht in der 54. aus. Dann das Undenkbare: Havertz schießt als Erster im Elfmeterschießen daneben, Tah befördert seinen über die Latte. 4:5 – das vierte WM-Debakel seit 2014. Jetzt das Geheimtreffen: Bundestrainer Nagelsmann und DFB-Chef Neuendorf beraten in Frankfurt über den Rücktritt. Jürgen Klopp wird bereits als heißester Nachfolger gehandelt.",
+  "uploadCaption": "4:5 im Elfmeterschießen. Havertz daneben, Tah über die Latte – Paraguay jubelt. Jetzt Geheimtreffen Nagelsmann & Neuendorf in Frankfurt. Rücktritt? Klopp wartet schon. #DFB #WM2026",
+  "uploadHashtags": "#DFB #WM2026 #Paraguay #Elfmeter #Nagelsmann #Klopp #WMAus #Fussball",
+  "images": [
+    { "file": "entsetzen.jpg",  "search": "DFB Fans Entsetzen" },
+    { "file": "gillette.jpg",   "search": "Gillette Stadium Foxborough WM 2026" },
+    { "file": "enciso.jpg",     "search": "Julio Enciso Paraguay World Cup 2026" },
+    { "file": "havertz.jpg",    "search": "Kai Havertz" },
+    { "file": "tah.jpg",        "search": "Jonathan Tah" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "fans.jpg",       "search": "DFB Fans" },
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "wm_pokal.jpg",   "search": "WM Pokal Gold" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ES IST VORBEI.",
+      "image": "entsetzen.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · Sechzehntelfinale Foxborough",
+      "title": "DFB Elfmeter-Albtraum",
+      "image": "gillette.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "enciso.jpg",
+      "name": "Julio Enciso",
+      "role": "Paraguay · Führungstor 42. Min",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Arsenal · Elfmeter verschossen",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Debakel in Zahlen",
+      "stats": [
+        { "label": "nach 120 Min", "value": "1:1" },
+        { "label": "Elfmeter", "value": "4:5" },
+        { "label": "WM-Debakel seit 2014", "value": "4." }
+      ],
+      "image": "tah.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Bundestrainer · Rücktritt im Raum",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Möglicher Bundestrainer-Nachfolger",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Soll Klopp der neue Bundestrainer werden?",
+      "subtitle": "Kommentiert eure Meinung!",
+      "image": "musiala.jpg",
+      "weight": 1.0
+    }
+  ]
+}
