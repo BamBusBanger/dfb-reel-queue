@@ -1,0 +1,98 @@
+{
+  "slug": "klopp-machtwechsel-erste-entscheidungen",
+  "createdAt": "2026-07-06T12:34:22Z",
+  "title": "Klopp bricht alle DFB-Regeln",
+  "script": "808 Mal war er sein Schatten – jetzt holt Klopp ihn mit zum DFB. Der neue Bundestrainer wird als Erster in der Geschichte eine Ablöse kosten: rund 5 Millionen Euro an Red Bull. Dazu bekommt er mehr Macht als alle 16 Vorgänger – voller Blankocheck über Kader, Stab und Jugendkonzept. Peter Krawietz, sein Co-Trainer aus Dortmund und Liverpool, kommt ebenfalls mit. Klopp über ihn: „Was dieser Mann auf dem Platz sieht, ist bemerkenswert." 4-4-2 für alle DFB-Jugendteams. Der Machtwechsel ist komplett.",
+  "uploadCaption": "808 Mal sein Schatten – jetzt bricht Klopp alle DFB-Regeln. Erster Bundestrainer mit Ablöse, mehr Macht als alle Vorgänger und Peter Krawietz im Gepäck. Der Umbau beginnt.",
+  "uploadHashtags": "#Klopp #DFB #Bundestrainer #WM2026 #Fussball #Nationalmannschaft #Krawietz #Machtwechsel",
+  "images": [
+    { "file": "klopp.jpg",     "search": "Jürgen Klopp" },
+    { "file": "krawietz.jpg",  "search": "Peter Krawietz" },
+    { "file": "wirtz.jpg",     "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",   "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",   "search": "Joshua Kimmich" },
+    { "file": "team.jpg",      "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "wm_pokal.jpg",  "search": "WM Pokal" },
+    { "file": "fans.jpg",      "search": "DFB Fans" },
+    { "file": "flagge.jpg",    "search": "Deutschland Flagge" },
+    { "file": "wm_logo.jpg",   "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "808 MAL Co-TRAINER. JETZT BRICHT KLOPP ALLE DFB-REGELN.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB MACHTWECHSEL",
+      "title": "Klopp – mehr Macht als alle 16 Vorgänger",
+      "image": "team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Neuer Bundestrainer · 59",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "krawietz.jpg",
+      "name": "Peter Krawietz",
+      "role": "Assistent · 808 Einsätze",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps Macht-Zahlen",
+      "stats": [
+        { "label": "Ablöse an Red Bull", "value": "~5 Mio €" },
+        { "label": "Bundestrainer-Vorgänger", "value": "16" },
+        { "label": "Krawietz-Einsätze unter Klopp", "value": "808" }
+      ],
+      "image": "wm_logo.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 108 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Klopp mit dieser Macht 2030 den 5. Stern?",
+      "subtitle": "Schreib JA oder NEIN in die Kommentare!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
