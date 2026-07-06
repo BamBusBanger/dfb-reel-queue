@@ -1,0 +1,99 @@
+{
+  "slug": "ronaldo-yamal-ibero-duell",
+  "createdAt": "2026-07-06T09:34:45Z",
+  "title": "Ronaldo vs. Yamal – Das iberische WM-Endspiel",
+  "script": "Ronaldo – 41 Jahre. Yamal – 18 Jahre. Heute Nacht, Dallas: das größte Generationenduell der WM-Geschichte. Vier Tore hat Ronaldo schon bei dieser WM – damals bei seinem allerersten Turnier-Auftritt war Yamal noch nicht einmal geboren. Spanien schlug Portugal zuletzt 2:2 nach Elfmeterschießen in der Nations League 2025. 23 Jahre Altersunterschied, eine Nacht, ein Sieger. Das iberische Endspiel läuft. Glaubst du wirklich, dass Ronaldo mit 41 noch WM-Geschichte schreibt?",
+  "uploadCaption": "Ronaldo 41 vs. Yamal 18 – Heute Nacht das iberische WM-Achtelfinale in Dallas! Als Ronaldo sein erstes WM-Turnier spielte, war Yamal noch nicht geboren 🤯 Wer schreibt Geschichte? ⚽🔥",
+  "uploadHashtags": "#WM2026 #Ronaldo #Yamal #Portugal #Spanien #WorldCup2026 #Fussball #DFB",
+  "images": [
+    { "file": "ronaldo.jpg",      "search": "Cristiano Ronaldo" },
+    { "file": "yamal.jpg",        "search": "Lamine Yamal" },
+    { "file": "att_stadium.jpg",  "search": "att_stadium" },
+    { "file": "wm_fans.jpg",      "search": "fans_tribuene" },
+    { "file": "generationen.jpg", "search": "Generationsduell Fußball alt jung Symbol", "thematic": true },
+    { "file": "portugal_team.jpg","search": "Portugal Nationalmannschaft WM 2026" },
+    { "file": "spanien_team.jpg", "search": "Spanien Nationalmannschaft WM 2026" },
+    { "file": "wm_pokal.jpg",     "search": "wm_pokal" },
+    { "file": "wm2026_mural.jpg", "search": "wm2026_mural" },
+    { "file": "jubelnde_fans.jpg","search": "jubelnde_menge" },
+    { "file": "pyro.jpg",         "search": "pyro_stimmung" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "RONALDO 41. YAMAL 18. DAS DUELL DER WM.",
+      "image": "ronaldo.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · ACHTELFINALE HEUTE NACHT",
+      "title": "Das iberische Endspiel",
+      "image": "att_stadium.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "ronaldo.jpg",
+      "name": "Cristiano Ronaldo",
+      "role": "Portugal · 41 J. · 4 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · 18 J. · Man of the Match",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Duell der Generationen",
+      "stats": [
+        { "label": "Ronaldo-Tore WM 2026", "value": "4" },
+        { "label": "Altersunterschied", "value": "23 J." },
+        { "label": "Yamal bei Ronaldos WM-Debüt", "value": "noch nicht geb." },
+        { "label": "Letztes Duell (Nations League)", "value": "2:2 n.E." }
+      ],
+      "image": "generationen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "portugal_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "spanien_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm2026_mural.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "jubelnde_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Alter Meister oder junges Wunderkind?",
+      "subtitle": "Wer gewinnt das iberische Endspiel – Ronaldo oder Yamal?",
+      "image": "pyro.jpg",
+      "weight": 1.0
+    }
+  ]
+}
