@@ -1,0 +1,101 @@
+{
+  "slug": "marokko-frankreich-rematch-viertelfinale",
+  "createdAt": "2026-07-06T19:39:00Z",
+  "title": "Marokko vs. Frankreich – das Revanche-Viertelfinale",
+  "script": "2022 zertrampelte Frankreich Marokkos WM-Traum im Halbfinale: 2:0 – alle Träume zerstört. 4 Jahre später ist Marokko zurück – und wie! 3:0 gegen Kanada souverän ins Viertelfinale. Jetzt wartet Frankreich als Revanche! Hakimi trifft auf Mbappé: beide 27, beide absolute Weltklasse, beide einst Teamkollegen bei PSG in Paris. Marokko-Coach Regragui hat noch keine Angst gezeigt. Übrigens: Deutschland schaut traurig von zu Hause zu. 2022 schrieben die Löwen Geschichte als erste Afrikaner im WM-Halbfinale überhaupt. 2026: Können sie jetzt den ganzen Weg gehen?",
+  "uploadCaption": "2022 war es Halbfinale – Frankreich 2:0. 2026 ist es Viertelfinale – und diesmal will Marokko Revanche! Hakimi gegen Mbappé, einst Teamkollegen bei PSG, jetzt Feinde auf dem Rasen. Das DFB-Team schaut zuhause zu. Wer zieht ins Halbfinale?",
+  "uploadHashtags": "#WM2026 #Marokko #Frankreich #Hakimi #Mbappe #Viertelfinale #DFB #Fussball #WorldCup2026",
+  "images": [
+    { "file": "marokko_flag.jpg",     "search": "Marokko Fans Flagge WM 2026" },
+    { "file": "marokko_jubel.jpg",    "search": "Marokko WM 2026 Jubel Spieler" },
+    { "file": "mbappe.jpg",           "search": "Kylian Mbappé" },
+    { "file": "hakimi.jpg",           "search": "Achraf Hakimi" },
+    { "file": "wm2026_logo.jpg",      "search": "WM 2026 Logo" },
+    { "file": "regragui.jpg",         "search": "Walid Regragui Marokko Trainer" },
+    { "file": "frankreich_jubel.jpg", "search": "Frankreich WM 2026 Jubel" },
+    { "file": "marokko_2022.jpg",     "search": "Marokko WM 2022 Halbfinale" },
+    { "file": "dfb_fans.jpg",         "search": "Deutschland Fans" },
+    { "file": "sofi_stadium.jpg",     "search": "SoFi Stadium Los Angeles" },
+    { "file": "fans_jubel.jpg",       "search": "Fans Jubel WM Stadion" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "2022 ZERTRAMPELT. 2026 ZURÜCK.",
+      "image": "marokko_flag.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 VIERTELFINALE",
+      "title": "MAROKKO vs FRANKREICH",
+      "image": "marokko_jubel.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "mbappe.jpg",
+      "name": "Kylian Mbappé",
+      "role": "Frankreich · 27",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "hakimi.jpg",
+      "name": "Achraf Hakimi",
+      "role": "Marokko · 27",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen",
+      "stats": [
+        { "label": "2022 Halbfinale", "value": "0:2" },
+        { "label": "2026 Achtelfinale", "value": "3:0" },
+        { "label": "Erste Afrikaner SF", "value": "2022" }
+      ],
+      "image": "wm2026_logo.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "regragui.jpg",
+      "name": "Walid Regragui",
+      "role": "Marokko · Coach",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "frankreich_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "marokko_2022.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "sofi_stadium.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "KANN MAROKKO 2022 RÄCHEN?",
+      "subtitle": "Marokko oder Frankreich? Schreib's in die Kommentare!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}

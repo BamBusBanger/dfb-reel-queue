@@ -167,3 +167,4 @@
 2026-07-06 | klopp-machtwechsel-erste-entscheidungen | Klopp erste Entscheidungen als Bundestrainer, Peter Krawietz 808 Co-Trainer-Einsätze kommt mit, ~5 Mio € Ablöse an Red Bull DFB-Novum, mehr Macht als alle 16 Vorgänger, 4-4-2 Jugendkonzept (NEWS-DRAMA)
 2026-07-06 | klopp-geheim-trio-dreamteam | Klopp DFB Co-Trainer-Trio Krawietz/Lijnders/Löw alle bei Red Bull, dreifache Ablöse, geheimes Dream-Team für WM 2030 (GEHEIMNIS)
 2026-07-06 | kane-azteca-dfb-ironie | Harry Kane 6 WM-Tore für England im Aztekenstadion (3:2 vs Mexiko, historisch), Bayerns 95-Mio-Stürmer, Erstmals England gewinnt im Azteca, DFB-Ironie Havertz 2/Woltemade 0 Tore, 3 Elfmeter-Fehlschüsse WM-Aus (TOP-3-LISTE)
+2026-07-06 | marokko-frankreich-rematch-viertelfinale | Marokko 3:0 Kanada Viertelfinale, Hakimi vs Mbappé, 2022 Halbfinale Revanche 2:0, erste Afrikaner im WM-SF, Deutschland zuhause (DUELL/VERGLEICH)
