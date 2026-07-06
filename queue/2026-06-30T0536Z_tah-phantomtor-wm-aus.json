@@ -1,0 +1,34 @@
+{
+  "slug": "tah-phantomtor-wm-aus",
+  "createdAt": "2026-06-30T05:36:02Z",
+  "title": "Das Tor, das nicht zählte",
+  "script": "In der 102. Minute jubelt Jonathan Tah – das vermeintliche 2:1 gegen Paraguay. Doch Video-Schiedsrichterin Tatiana Guzman greift ein: angebliches Foul von Waldemar Anton an Torwart Orlando Gill, Tor aberkannt. Schiedsrichter-Experten nennen es fassungslos und zu kleinlich. Es geht ins Elfmeterschießen – ausgerechnet Kai Havertz, Nick Woltemade und Tah selbst verschießen. Endstand 3:4 gegen den Außenseiter von Rang 42. Deutschlands WM ist im Sechzehntelfinale vorbei, die Serie von 11 Siegen längst Geschichte.",
+  "uploadCaption": "Ein VAR-Pfiff, drei verschossene Elfmeter – Deutschlands WM-Traum platzt gegen Paraguay. War das Tor wirklich kein Tor?",
+  "uploadHashtags": "#DFB #WM2026 #Fussball #Paraguay #VAR #Tah #Nagelsmann",
+  "images": [
+    { "file": "tah.jpg",        "search": "Jonathan Tah" },
+    { "file": "anton.jpg",      "search": "Waldemar Anton" },
+    { "file": "havertz.jpg",    "search": "Kai Havertz" },
+    { "file": "woltemade.jpg",  "search": "Nick Woltemade" },
+    { "file": "neuer.jpg",      "search": "Manuel Neuer" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich" },
+    { "file": "gillette.jpg",   "search": "Gillette Stadium Foxborough" },
+    { "file": "gill.jpg",       "search": "Orlando Gill Paraguay Torwart" },
+    { "file": "fans.jpg",       "search": "DFB Fans enttäuscht" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "EIN PFIFF BEENDET DEUTSCHLANDS WM.", "image": "gillette.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · SECHZEHNTELFINALE", "title": "Das Tor, das nicht zählte", "image": "tah.jpg", "weight": 0.7 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "Innenverteidiger · 30", "weight": 0.8 },
+    { "type": "stats", "title": "Der Moment", "stats": [{ "label": "Minute", "value": "102" }, { "label": "Tore aberkannt", "value": "1" }], "image": "anton.jpg", "weight": 0.9 },
+    { "type": "image", "image": "anton.jpg", "name": "Waldemar Anton", "role": "Innenverteidiger · 29", "weight": 0.8 },
+    { "type": "image", "image": "gill.jpg", "name": "Orlando Gill", "role": "Torwart · Paraguay", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "stats", "title": "Elfmeter-Drama", "stats": [{ "label": "Endstand", "value": "3:4" }, { "label": "Verschossen", "value": "3" }], "image": "havertz.jpg", "weight": 0.9 },
+    { "type": "image", "image": "havertz.jpg", "name": "Kai Havertz", "role": "Stürmer · 27", "weight": 0.8 },
+    { "type": "image", "image": "woltemade.jpg", "name": "Nick Woltemade", "role": "Stürmer · 24", "weight": 0.8 },
+    { "type": "image", "image": "neuer.jpg", "name": "Manuel Neuer", "role": "Torwart · 40", "weight": 0.8 },
+    { "type": "outro", "title": "Skandal-Pfiff oder faire Entscheidung?", "subtitle": "Sag deine Meinung in den Kommentaren", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}

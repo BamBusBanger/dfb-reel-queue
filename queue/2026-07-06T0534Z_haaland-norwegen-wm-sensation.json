@@ -1,0 +1,93 @@
+{
+  "slug": "haaland-norwegen-wm-sensation",
+  "createdAt": "2026-07-06T05:34:00Z",
+  "title": "Haaland schockt die Welt: Norwegen wirft Brasilien raus!",
+  "script": "6 TORE. 1 MANN. Erling Haaland schockt die Fußballwelt: Norwegen schlägt Brasilien 2:1 und steht erstmals im WM-Viertelfinale! Haaland trifft in der 79. und 90. Minute – sein 5. und 6. WM-Tor. Erstens: 6 Tore in 4 Spielen, norwegischer Rekord. Zweitens: Brasilien raus – erstmals seit 36 Jahren im Achtelfinale gescheitert. Drittens: Vinicius, Neymar, Rodrygo – alle machtlos gegen Keeper Nyland. Und das DFB-Team? Hätte im Viertelfinale auf dieses Monster gewartet. Hätte.",
+  "uploadCaption": "6 Tore in 4 Spielen. Norwegen erstmals im WM-Viertelfinale. Brasilien nach 36 Jahren im Achtelfinale raus. Das DFB-Team hätte als Nächstes auf Haaland gewartet… #WM2026 #Haaland #Norwegen #Brasilien #DFB",
+  "uploadHashtags": "#WM2026 #Haaland #Norwegen #Brasilien #DFB #Viertelfinale #Fussball",
+  "images": [
+    { "file": "haaland.jpg",  "search": "Erling Haaland World Cup 2026 goal" },
+    { "file": "metlife.jpg",  "search": "MetLife Stadium WM 2026" },
+    { "file": "nyland.jpg",   "search": "Orjan Nyland Norway goalkeeper World Cup 2026" },
+    { "file": "vinicius.jpg", "search": "Vinicius Jr Brazil World Cup 2026" },
+    { "file": "fans.jpg",     "search": "DFB Fans" },
+    { "file": "wirtz.jpg",    "search": "Florian Wirtz" },
+    { "file": "havertz.jpg",  "search": "Kai Havertz" },
+    { "file": "musiala.jpg",  "search": "Jamal Musiala" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal Gold" },
+    { "file": "kimmich.jpg",  "search": "Joshua Kimmich" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "6 TORE. 1 MANN.",
+      "image": "haaland.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · Achtelfinale",
+      "title": "Norwegen schockt Brasilien",
+      "image": "metlife.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "nyland.jpg",
+      "name": "Ørjan Nyland",
+      "role": "Norwegen · Parade vs Vinicius stoppt Brasilien",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "vinicius.jpg",
+      "name": "Vinicius Jr.",
+      "role": "Brasilien · 0 Tore · Nyland-Albtraum",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Top-3 Schock-Fakten",
+      "stats": [
+        { "label": "Haaland WM-Tore in 4 Spielen", "value": "6" },
+        { "label": "Erstes Norwegen-Viertelfinale", "value": "1." },
+        { "label": "Jahre seit BR-Achtelfinale-Aus", "value": "36" }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · schaut von der Couch zu",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Arsenal · DFB schon zu Hause",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern · WM-Traum geplatzt",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Hätte Deutschland Haaland gestoppt?",
+      "subtitle": "Kommentiert eure Meinung!",
+      "image": "kimmich.jpg",
+      "weight": 1.0
+    }
+  ]
+}

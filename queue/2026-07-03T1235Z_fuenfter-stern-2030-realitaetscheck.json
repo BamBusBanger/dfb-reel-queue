@@ -1,0 +1,106 @@
+{
+  "slug": "fuenfter-stern-2030-realitaetscheck",
+  "createdAt": "2026-07-03T12:35:00Z",
+  "title": "5. Stern: 2026 vs. 2030 – Deutschlands Realitätscheck",
+  "script": "3 WM-Pleiten in Serie – 2018, 2022, 2026. Aber STOPP: Florian Wirtz ist 22, Jamal Musiala ist 22 – bei der WM 2030 beide in Vollblüte mit 26. Lennart Karl, Bayerns 18-jähriger Shootingstar, verpasste 2026 verletzt und kehrt 2030 als 22-Jähriger zurück. Assan Ouédraogo ist gerade erst 20. Löw brauchte 8 Jahre Aufbau für Stern Nummer 4. Der neue Bundestrainer – Klopp oder Glasner? – hat genau 4 Jahre bis zur WM 2030 in Europa. Der 5. Stern kommt. Die Frage ist nur: Wann?",
+  "uploadCaption": "2026 ist Geschichte – aber 2030 kann alles ändern. Wirtz & Musiala werden erst 26, Lennart Karl erst 22 sein. Das Duell: WM-Debakel 2026 vs. Deutschlands Chance 2030.",
+  "uploadHashtags": "#DFB #WM2026 #WM2030 #Deutschland #Wirtz #Musiala #FünfterStern #Fussball #DFBTeam",
+  "images": [
+    { "file": "teamfoto.jpg",  "search": "Deutschland Teamfoto 2026" },
+    { "file": "pokal.jpg",     "search": "WM Pokal Gold" },
+    { "file": "wirtz.jpg",     "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",   "search": "Jamal Musiala" },
+    { "file": "karl.jpg",      "search": "Lennart Karl" },
+    { "file": "kimmich.jpg",   "search": "Joshua Kimmich" },
+    { "file": "woltemade.jpg", "search": "Nick Woltemade" },
+    { "file": "fans2014.jpg",  "search": "DFB Fans Fanmeile Berlin 2014" },
+    { "file": "klopp.jpg",     "search": "Jürgen Klopp" },
+    { "file": "flagge.jpg",    "search": "Deutschland Flagge" },
+    { "file": "ouedraogo.jpg", "search": "Assan Ouédraogo" },
+    { "file": "fanzone.jpg",   "search": "DFB Fans Brandenburger Tor" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 FRÜHAUS IN FOLGE – IST DEUTSCHLAND TOT?",
+      "image": "teamfoto.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 vs. WM 2030",
+      "title": "Deutschlands Realitätscheck",
+      "image": "pokal.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22 J. → 2030: 26 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 J. → 2030: 26 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen",
+      "stats": [
+        { "label": "WM-Frühaus in Folge",      "value": "3" },
+        { "label": "Wirtz & Musiala 2030",     "value": "26 J." },
+        { "label": "Karl bei WM 2030",          "value": "22 J." },
+        { "label": "Jahre bis WM 2030",         "value": "4" }
+      ],
+      "image": "karl.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 31 J. (2030: 35 J.)",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · 23 J. · 75 Mio. € · 0 WM-Min.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans2014.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "RB Leipzig · 20 J. · jüngster Debüttorschütze seit 1954",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Holt Deutschland 2030 den 5. Stern?",
+      "subtitle": "Ja oder Nein – kommentier jetzt!",
+      "image": "fanzone.jpg",
+      "weight": 1.0
+    }
+  ]
+}

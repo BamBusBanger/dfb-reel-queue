@@ -1,0 +1,105 @@
+{
+  "slug": "musiala-bank-paraguay-geheimnis",
+  "createdAt": "2026-07-02T19:34:00Z",
+  "title": "Musialas geheimes WM-Drama",
+  "script": "6 Monate Reha nach Wadenbeinbruch und Sprunggelenksluxation – Musiala feierte sein WM-Comeback gegen Curaçao, schoss sein erstes WM-Tor in Minute 47. Deutschland jauchzte. Doch gegen Paraguay im Achtelfinale saß er plötzlich auf der Bank. Nagelsmanns schonungsloses Geständnis: 'Man merkt ihm die lange Verletzungspause noch an.' Nur 1 Tor in 4 WM-Spielen. Undav startete – und brauchte 90 Minuten ohne Torschuss. Im Elfmeterschießen war Musiala noch immer Zuschauer. Das Wunderkind konnte Deutschland nicht retten. Aber hätte er das Spiel gewendet?",
+  "uploadCaption": "6 Monate Reha – und dann auf der Bank gegen Paraguay. Das bittere Geheimnis hinter Musialas WM-Albtraum.",
+  "uploadHashtags": "#DFB #WM2026 #Musiala #Fussball #Paraguay #WMAus",
+  "images": [
+    { "file": "musiala_portrait.jpg",    "search": "Jamal Musiala" },
+    { "file": "musiala_torjubel.jpg",    "search": "Jamal Musiala Torjubel DFB" },
+    { "file": "musiala_curacao.jpg",     "search": "Jamal Musiala Curaçao WM 2026" },
+    { "file": "undav_aktion.jpg",        "search": "Deniz Undav" },
+    { "file": "nagelsmann_pk.jpg",       "search": "Julian Nagelsmann Pressekonferenz DFB" },
+    { "file": "nagelsmann_portrait.jpg", "search": "Julian Nagelsmann DFB Bundestrainer" },
+    { "file": "fans_schock.jpg",         "search": "DFB Fans Entsetzen" },
+    { "file": "fans_hoffnung.jpg",       "search": "Fans public viewing Hoffnung WM" },
+    { "file": "wm_pokal.jpg",            "search": "WM Pokal" },
+    { "file": "musiala_bank.jpg",        "search": "Jamal Musiala Paraguay Bank WM 2026" },
+    { "file": "paraguay_elfmeter.jpg",   "search": "WM 2026 Deutschland Paraguay Elfmeterschießen" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER SAß AUF DER BANK.",
+      "image": "musiala_bank.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · GEHEIMNIS",
+      "title": "Musialas WM-Drama",
+      "image": "musiala_portrait.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_torjubel.jpg",
+      "name": "Jamal Musiala",
+      "role": "WM-Tor vs. Curaçao · Minute 47",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_curacao.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Musialas WM-Bilanz",
+      "stats": [
+        { "label": "Reha-Monate", "value": "6" },
+        { "label": "WM-Tore",     "value": "1" },
+        { "label": "WM-Spiele",   "value": "4" }
+      ],
+      "image": "nagelsmann_portrait.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann_pk.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Bundestrainer · \"Man merkt ihm die Verletzungspause noch an\"",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "undav_aktion.jpg",
+      "name": "Deniz Undav",
+      "role": "Startelf Paraguay · 90 Min. · 0 Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "paraguay_elfmeter.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das WM-Aus",
+      "stats": [
+        { "label": "Elfmeter verschossen", "value": "3" },
+        { "label": "Ergebnis",             "value": "4:5 n.E." }
+      ],
+      "image": "fans_schock.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans_hoffnung.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Hätte MUSIALA Deutschland gerettet?",
+      "subtitle": "Schreib's in die Kommentare 👇",
+      "image": "musiala_portrait.jpg",
+      "weight": 1.0
+    }
+  ]
+}

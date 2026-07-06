@@ -1,0 +1,33 @@
+{
+  "slug": "streich-dfb-geheimnis",
+  "createdAt": "2026-07-05T05:34:00Z",
+  "title": "Streichs geheime Bundestrainer-Chance",
+  "script": "Alle reden über KLOPP – aber einer wurde live im ZDF vor 23 Millionen Zuschauern gefragt: Christian Streich. Moderatorin Müller-Hohenstein fragte: 'Suchen Sie noch einen Job?' Das Publikum applaudierte. Streich lachte verlegen und schüttelte den Kopf. 12 Jahre Cheftrainer in Freiburg, nie abgestiegen. Ex-DFB-Präsident Keller nannte ihn 2024 'Vorbildtyp für die Nationalmannschaft'. Er kostet NULL Euro Ablöse – Klopp dagegen über 5 Millionen an Red Bull. 61 Jahre alt, sofort verfügbar. Wäre Streich der bessere Bundestrainer?",
+  "uploadCaption": "Alle reden über Klopp – aber dieser Mann wurde live auf ZDF gefragt 👀 Christian Streich als Bundestrainer? Die Fakten sprechen für sich. #DFB #Bundestrainer",
+  "uploadHashtags": "#DFB #WM2026 #Streich #Bundestrainer #Klopp #Fussball #Deutschland",
+  "images": [
+    { "file": "streich.jpg",    "search": "Christian Streich" },
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "dfb-team.jpg",   "search": "DFB Nationalmannschaft" },
+    { "file": "wm26-logo.jpg",  "search": "WM 2026 Logo" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "fans.jpg",       "search": "Deutschland Fans" },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "wm-pokal.jpg",   "search": "WM Pokal" },
+    { "file": "flagge.jpg",     "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER WURDE LIVE GEFRAGT.", "image": "streich.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 | BUNDESTRAINER", "title": "Streichs geheime Chance", "image": "dfb-team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "streich.jpg",    "name": "Christian Streich", "role": "ZDF-Experte · Ex-Freiburg-Coach", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",      "name": "Jürgen Klopp",      "role": "DFB-Wunschkandidat",            "weight": 0.8 },
+    { "type": "stats", "title": "Die Fakten", "stats": [{ "label": "Jahre Freiburg-Coach", "value": "12" }, { "label": "Ablöse", "value": "0 €" }, { "label": "Alter", "value": "61" }], "image": "wm26-logo.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb-team.jpg",   "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",        "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",       "weight": 0.8 },
+    { "type": "image", "image": "wm-pokal.jpg",    "weight": 0.8 },
+    { "type": "image", "image": "flagge.jpg",      "weight": 0.8 },
+    { "type": "outro", "title": "Klopp ODER Streich?", "subtitle": "Wen wollt ihr als Bundestrainer?", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}

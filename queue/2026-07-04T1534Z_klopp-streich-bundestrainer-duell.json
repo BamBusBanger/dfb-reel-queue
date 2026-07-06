@@ -1,0 +1,99 @@
+{
+  "slug": "klopp-streich-bundestrainer-duell",
+  "createdAt": "2026-07-04T15:34:49Z",
+  "title": "Klopp vs. Streich: Wer wird neuer Bundestrainer?",
+  "script": "Klopp oder Streich – nur einer wird neuer Bundestrainer. Glasner hat gestern bei Nottingham Forest unterschrieben, für 12 Millionen Jahresgehalt – der DFB-Plan-B ist weg. Jetzt bleiben zwei: Klopp, 59, der Weltstar aus Liverpool, aber Red Bull fordert rund 5 Millionen Ablöse – historisch erstmals für einen DFB-Coach. Streich, 61, die Freiburg-Legende mit 10 Jahren Bundesliga – sofort frei, kein einziger Euro Ablöse. Beide träumen von EM 2028 und WM 2030. Nach 3 WM-Frühaus in Folge braucht Deutschland jetzt die richtige Wahl.",
+  "uploadCaption": "Glasner ist weg – jetzt ist es ein Zweikampf: Klopp (5 Mio € Ablöse, Red Bull blockiert) vs. Streich (sofort frei, 0 €). Wer soll neuer Bundestrainer werden?",
+  "uploadHashtags": "#DFB #Bundestrainer #Klopp #Streich #WM2026 #Fussball #Deutschland",
+  "images": [
+    { "file": "dfb_flagge.jpg",              "search": "Deutschland Flagge Reichstag Berlin" },
+    { "file": "klopp.jpg",                   "search": "Jürgen Klopp" },
+    { "file": "streich.jpg",                 "search": "Christian Streich Bundestrainer 2026" },
+    { "file": "wm_pokal.jpg",                "search": "WM Pokal Gold Trophäe" },
+    { "file": "deutschland_team.jpg",        "search": "DFB Nationalmannschaft Mannschaftsfoto 2026" },
+    { "file": "klopp_redbull.jpg",           "search": "Red Bull DFB Transfer Ablöse Bundestrainer Verhandlung", "thematic": true },
+    { "file": "nagelsmann.jpg",              "search": "Julian Nagelsmann DFB Pressekonferenz" },
+    { "file": "dfb_fans.jpg",                "search": "DFB Fans Deutschland Fahnen" },
+    { "file": "public_viewing_entsetzen.jpg","search": "Public Viewing Entsetzen WM Fans Hamburg" },
+    { "file": "streich_freiburg.jpg",        "search": "Christian Streich SC Freiburg Trainer 2024" },
+    { "file": "dfb_ball.jpg",                "search": "Fußball Schwarz Rot Gold Deutschland" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP ODER STREICH – NUR EINER KANN ES WERDEN.",
+      "image": "dfb_flagge.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · Bundestrainer-Nachfolge",
+      "title": "Klopp vs. Streich",
+      "image": "deutschland_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Wunschkandidat · Red Bull bis 2029",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "streich.jpg",
+      "name": "Christian Streich",
+      "role": "Ex-Freiburg · Sofort frei",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopp: Stärken vs. Kosten",
+      "stats": [
+        { "label": "Champions-League-Titel", "value": "1" },
+        { "label": "Red Bull Ablöse", "value": "~5 Mio €" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp_redbull.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Streich: Sofort verfügbar",
+      "stats": [
+        { "label": "Jahre SC Freiburg", "value": "10" },
+        { "label": "DFB Ablöse", "value": "0 €" }
+      ],
+      "image": "streich_freiburg.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Rücktritt 3. Juli · 1.000 Tage DFB",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "public_viewing_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopp oder Streich?",
+      "subtitle": "Wer rettet den DFB – schreib's in die Kommentare!",
+      "image": "dfb_ball.jpg",
+      "weight": 1.0
+    }
+  ]
+}

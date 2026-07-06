@@ -1,0 +1,99 @@
+{
+  "slug": "dfb-nagelsmann-ruecktritt-nahegelegt",
+  "createdAt": "2026-07-02T15:40:45Z",
+  "title": "DFB-Gipfel: Nagelsmann Rücktritt nahegelegt",
+  "script": "HEUTE – DFB-Gipfel in Frankfurt. Das Ergebnis: Nagelsmann wurde der Rücktritt nahegelegt. Der 38-Jährige bekommt Bedenkzeit. Er sagt: 'Ich bin keiner, der wegläuft.' Doch das DFB-Präsidium bröckelt. Sportdirektor Rudi Völler steht noch hinter ihm. Das Problem: Nagelsmanns Vertrag läuft bis 2028 – 7 Millionen Euro pro Jahr. Eine Auflösung kostet den DFB rund 14 Millionen Euro. Drittes WM-Aus in Folge: 2018, 2022, 2026. Entscheidung fällt spätestens Anfang nächster Woche. Ist Nagelsmann noch tragbar?",
+  "uploadCaption": "BREAKING: Der DFB hat heute Nagelsmann den Rücktritt nahegelegt. Bedenkzeit erhalten, Entscheidung bis spätestens Anfang nächster Woche. 7 Mio. € Jahresgehalt, ~14 Mio. € Abfindung. Drittes WM-Aus in Folge (2018/2022/2026). Völler steht noch hinter ihm – aber das Präsidium bröckelt. Was meint ihr?",
+  "uploadHashtags": "#DFB #Nagelsmann #Bundestrainer #WM2026 #Deutschland #Fussball #DFBKrise #Ruecktritt",
+  "images": [
+    { "file": "nagelsmann.jpg",         "search": "Julian Nagelsmann" },
+    { "file": "nagelsmann_pk.jpg",      "search": "Julian Nagelsmann Pressekonferenz DFB 2026" },
+    { "file": "nagelsmann_training.jpg","search": "Julian Nagelsmann Training DFB 2026" },
+    { "file": "voeller.jpg",            "search": "Rudi Völler DFB Sportdirektor 2026" },
+    { "file": "kimmich.jpg",            "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",              "search": "Florian Wirtz" },
+    { "file": "fans_entsetzen.jpg",     "search": "DFB Fans Entsetzen" },
+    { "file": "flagge.jpg",             "search": "Deutschland Flagge" },
+    { "file": "hoeness.jpg",            "search": "Uli Hoeneß" },
+    { "file": "team.jpg",               "search": "Deutschland Nationalmannschaft 2026" },
+    { "file": "wm_pokal.jpg",           "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DFB LEGT NAGELSMANN RÜCKTRITT NAHE.",
+      "image": "nagelsmann.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BREAKING NEWS · 2. Juli 2026",
+      "title": "DFB-Gipfel – Rücktritt nahegelegt",
+      "image": "nagelsmann_pk.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann_training.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Bundestrainer · 38 J. · Vertrag bis 2028",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "voeller.jpg",
+      "name": "Rudi Völler",
+      "role": "DFB-Sportdirektor · steht noch hinter Nagelsmann",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das DFB-Dilemma",
+      "stats": [
+        { "label": "Nagelsmanns Jahresgehalt", "value": "7 Mio. €" },
+        { "label": "Abfindung bei Entlassung", "value": "~14 Mio. €" },
+        { "label": "WM-Desaster in Folge", "value": "3" }
+      ],
+      "image": "flagge.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · DFB-Krisenmodus",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB-Schlüsselspieler · Zukunft offen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "hoeness.jpg",
+      "name": "Uli Hoeneß",
+      "role": "Bayern-Ehrenpräsident",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Nagelsmann – bleiben oder gehen?",
+      "subtitle": "Kommentiert eure Meinung!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}

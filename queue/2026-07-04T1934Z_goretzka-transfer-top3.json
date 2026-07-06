@@ -1,0 +1,36 @@
+{
+  "slug": "goretzka-transfer-top3",
+  "createdAt": "2026-07-04T19:34:00Z",
+  "title": "Goretzka vereinslos: Top 3 Transfer-Kandidaten",
+  "script": "3 Topklubs kämpfen um ihn – und er ist umsonst zu haben. Leon Goretzka, 31 Jahre, 70 Länderspiele, Champions-League-Sieger 2020: Seit 1. Juli ist er vereinslos. Bayern verlängerte nicht. Bei der WM saß er 3 Spiele auf der Bank. Kandidat 1 AC Milan: 5 Millionen im Jahr – Deal geplatzt. Kandidat 2 Juventus Turin: Trainer Spalletti nennt ihn seinen Wunschspieler. Kandidat 3 Arsenal und die Premier League. Wohin zieht es Goretzka – und wem nützt er am meisten?",
+  "uploadCaption": "Leon Goretzka (31) ist vereinslos – und 3 Topklubs kämpfen um seine Unterschrift! AC Milan gescheitert, jetzt Juventus oder Arsenal? 👇 Schreib deinen Favoriten in die Kommentare!",
+  "uploadHashtags": "#Goretzka #DFB #WM2026 #Bundesliga #Transfer #ACMilan #Juventus #Arsenal #Fussball",
+  "images": [
+    { "file": "goretzka.jpg",        "search": "Leon Goretzka" },
+    { "file": "goretzka_training.jpg","search": "Leon Goretzka Training Bayern" },
+    { "file": "allianz_arena.jpg",   "search": "Allianz Arena München" },
+    { "file": "dfb_team.jpg",        "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "dfb_fans.jpg",        "search": "DFB Fans Deutschland" },
+    { "file": "ac_milan.jpg",        "search": "AC Milan San Siro" },
+    { "file": "juventus.jpg",        "search": "Juventus Allianz Stadion Turin" },
+    { "file": "arsenal.jpg",         "search": "Arsenal Emirates Stadium London" },
+    { "file": "transfer.jpg",        "search": "Fußballer Koffer Vereinslos Transfer Entscheidung", "thematic": true },
+    { "file": "wm_logo.jpg",         "search": "WM 2026 Logo" },
+    { "file": "kimmich.jpg",         "search": "Joshua Kimmich" },
+    { "file": "public_viewing.jpg",  "search": "Fans Public Viewing WM Deutschland" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "VEREINSLOS – 3 TOPKLUBS KÄMPFEN UM IHN!", "image": "goretzka.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "TRANSFER-POKER", "title": "Goretzka: Top 3 Kandidaten", "image": "allianz_arena.jpg", "weight": 0.7 },
+    { "type": "image", "image": "goretzka_training.jpg", "name": "Leon Goretzka", "role": "Mittelfeld · 31 · vereinslos seit 1.7.", "weight": 0.8 },
+    { "type": "image", "image": "dfb_team.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Goretzka bei Bayern", "stats": [{ "label": "Pflichtspiele", "value": "304" }, { "label": "Länderspiele", "value": "70" }, { "label": "CL-Titel", "value": "1 × 2020" }], "image": "dfb_fans.jpg", "weight": 0.9 },
+    { "type": "image", "image": "ac_milan.jpg", "weight": 0.8 },
+    { "type": "image", "image": "transfer.jpg", "weight": 0.8 },
+    { "type": "image", "image": "juventus.jpg", "weight": 0.8 },
+    { "type": "image", "image": "arsenal.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Transfer-Stand Juli 2026", "stats": [{ "label": "1. AC Milan", "value": "GEPLATZT" }, { "label": "2. Juventus", "value": "Wunschspieler" }, { "label": "3. Arsenal", "value": "PL-Option" }], "image": "wm_logo.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 108 Länderspiele", "weight": 0.8 },
+    { "type": "outro", "title": "Arsenal oder Juventus – wo liefert Goretzka endlich?", "subtitle": "Kommentier deinen Favoriten!", "image": "public_viewing.jpg", "weight": 1.0 }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "nagelsmann-loew-flick-vergleich",
+  "createdAt": "2026-06-30T09:36:17Z",
+  "title": "Nagelsmann: Bleibt er trotz WM-Debakel?",
+  "script": "Vertrag bis 2028 – und trotzdem ist seine Zukunft offen. Nach dem bitteren Aus gegen Paraguay schließt Julian Nagelsmann einen Rücktritt aus: „Ich bin keiner, der wegläuft.“ Doch die Geschichte warnt: Vorgänger Joachim Löw blieb nach seinem WM-Debakel noch 3 Jahre im Amt, Hansi Flick wurde schon nach 10 Monaten entlassen. Sportdirektor Rudi Völler steht hinter ihm – doch die letzte Entscheidung liegt nicht bei ihm allein. Havertz, Woltemade und Tah verschossen im Elfmeterschießen. Bleibt der Bundestrainer trotzdem?",
+  "uploadCaption": "Vertrag bis 2028, aber die Geschichte ist gegen ihn: Nagelsmann schließt nach dem Aus gegen Paraguay einen Rücktritt aus. Löw blieb 3 Jahre nach seinem Debakel, Flick nur 10 Monate. Was meint ihr?",
+  "uploadHashtags": "#DFB #WM2026 #Nagelsmann #Fussball #Paraguay",
+  "images": [
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "entsetzen.jpg", "search": "Public Viewing Fans Entsetzen" },
+    { "file": "havertz.jpg", "search": "Kai Havertz" },
+    { "file": "woltemade.jpg", "search": "Nick Woltemade" },
+    { "file": "tah.jpg", "search": "Jonathan Tah" },
+    { "file": "trikot.jpg", "search": "Deutschland Trikot WM 2026" },
+    { "file": "loew.jpg", "search": "Joachim Löw" },
+    { "file": "flick.jpg", "search": "Hansi Flick" },
+    { "file": "voeller.jpg", "search": "Rudi Völler" },
+    { "file": "stadium.jpg", "search": "Gillette Stadium Foxborough" },
+    { "file": "pokal.jpg", "search": "WM Pokal Vitrine" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "VERTRAG BIS 2028. TROTZDEM ZITTERT ER UM SEINEN JOB.", "image": "nagelsmann.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM-DEBAKEL", "title": "Bleibt Nagelsmann Bundestrainer?", "image": "entsetzen.jpg", "weight": 0.7 },
+    { "type": "image", "image": "havertz.jpg", "name": "Kai Havertz", "role": "Verschoss Elfmeter", "weight": 0.8 },
+    { "type": "image", "image": "woltemade.jpg", "name": "Nick Woltemade", "role": "Verschoss Elfmeter", "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "Verschoss Elfmeter", "weight": 0.8 },
+    { "type": "stats", "title": "Vorgänger im Vergleich", "stats": [
+      { "label": "Nagelsmann-Vertrag bis", "value": "2028" },
+      { "label": "Löw blieb nach Debakel", "value": "3 Jahre" },
+      { "label": "Flick-Entlassung nach", "value": "10 Monate" }
+    ], "image": "trikot.jpg", "weight": 0.9 },
+    { "type": "image", "image": "loew.jpg", "name": "Joachim Löw", "role": "Bundestrainer 2006–2021", "weight": 0.8 },
+    { "type": "image", "image": "flick.jpg", "name": "Hansi Flick", "role": "Bundestrainer 2021–2023", "weight": 0.8 },
+    { "type": "image", "image": "voeller.jpg", "name": "Rudi Völler", "role": "DFB-Sportdirektor", "weight": 0.8 },
+    { "type": "image", "image": "stadium.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Rücktritt oder Vertrauen?", "subtitle": "Sollte Nagelsmann nach diesem Debakel gehen – Ja oder Nein?", "image": "pokal.jpg", "weight": 1.0 }
+  ]
+}

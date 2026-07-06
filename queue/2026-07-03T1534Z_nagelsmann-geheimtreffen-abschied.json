@@ -1,0 +1,36 @@
+{
+  "slug": "nagelsmann-geheimtreffen-abschied",
+  "createdAt": "2026-07-03T15:34:00Z",
+  "title": "Das DFB-Geheimtreffen – Nagelsmanns letzter Tag",
+  "script": "3 STUNDEN. 4 DFB-Bosse. Das passierte heute früh in Frankfurt – hinter verschlossenen Türen. Nagelsmann musste sich vor Neuendorf, Watzke, Völler und Rettig erklären: Warum das dritte WM-Aus in Folge? Warum scheiterten Havertz, Woltemade und Tah im Elfmeterschießen? Der DFB bot ihm 7 Millionen für einen freiwilligen Abgang – statt der vertraglich fälligen 14 Millionen. Nach 1.000 Tagen als Bundestrainer, dem 7:1 gegen Curaçao und dem Phantomtor von Tah ist jetzt alles klar: Nagelsmann hat entschieden. Das Kapitel ist Geschichte.",
+  "uploadCaption": "Was heute Morgen in Frankfurt wirklich passiert ist – das DFB-Geheimtreffen mit Nagelsmann. 3 Stunden. 4 Bosse. 7 Millionen Angebot. Und eine endgültige Entscheidung. Was denkt ihr – verdient oder ungerecht?",
+  "uploadHashtags": "#DFB #Nagelsmann #WM2026 #Bundestrainer #Fussball #Deutschland",
+  "images": [
+    { "file": "nagelsmann_portrait.jpg", "search": "Julian Nagelsmann" },
+    { "file": "nagelsmann_pk.jpg", "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "nagelsmann_bank.jpg", "search": "Julian Nagelsmann Trainerbesprechung" },
+    { "file": "nagelsmann_training.jpg", "search": "Julian Nagelsmann Training" },
+    { "file": "nagelsmann_fahrrad.jpg", "search": "Julian Nagelsmann privat" },
+    { "file": "nagelsmann_sane.jpg", "search": "Julian Nagelsmann Sané Jubel" },
+    { "file": "neuendorf.jpg", "search": "Bernd Neuendorf DFB Präsident" },
+    { "file": "fans_entsetzen.jpg", "search": "public viewing Entsetzen WM" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal" },
+    { "file": "dfb_team.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "fans_hoffen.jpg", "search": "public viewing Fans Deutschland" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "3 STUNDEN. 4 BOSSE. EINE ENTSCHEIDUNG.", "image": "nagelsmann_portrait.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 – NACHSPIEL", "title": "Das DFB-Geheimtreffen", "image": "nagelsmann_pk.jpg", "weight": 0.7 },
+    { "type": "image", "image": "nagelsmann_bank.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer · 1.000 Tage", "weight": 0.8 },
+    { "type": "image", "image": "neuendorf.jpg", "name": "Bernd Neuendorf", "role": "DFB-Präsident", "weight": 0.8 },
+    { "type": "stats", "title": "Das Geheimtreffen", "stats": [{ "label": "Dauer", "value": "3 Std." }, { "label": "DFB-Angebot", "value": "7 Mio. €" }, { "label": "Vertrag bis", "value": "2028" }], "image": "nagelsmann_training.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann_fahrrad.jpg", "name": "Julian Nagelsmann", "role": "Abgang · Juli 2026", "weight": 0.8 },
+    { "type": "image", "image": "fans_entsetzen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann_sane.jpg", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Wunschkandidat DFB", "weight": 0.8 },
+    { "type": "image", "image": "wm_pokal.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_team.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Nagelsmann: verdient oder ungerecht?", "subtitle": "Kommentiert JA oder NEIN!", "image": "fans_hoffen.jpg", "weight": 1.0 }
+  ]
+}

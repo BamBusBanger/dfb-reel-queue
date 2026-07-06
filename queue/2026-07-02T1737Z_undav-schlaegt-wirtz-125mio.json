@@ -1,0 +1,102 @@
+{
+  "slug": "undav-schlaegt-wirtz-125mio",
+  "createdAt": "2026-07-02T17:37:00Z",
+  "title": "0 € vs 125 Mio. £ – Undav schlägt Wirtz",
+  "script": "0 EURO ABLÖSE vs 125 MILLIONEN PFUND. Das ist der Unterschied zwischen Undav und Wirtz – und trotzdem gewann der Joker dieses Duell klar. Undav: fast immer Joker, 3 Tore + 2 Vorlagen in nur 68 WM-Minuten, darunter der Doppelpack gegen die Elfenbeinküste in der 68. und 90+4. Minute. Wirtz: jedes Spiel von Anfang an, 360 Minuten, 0 Tore. Deutschland schied trotzdem aus. Hätte Nagelsmann Undav von Beginn an aufgestellt, wäre Deutschland noch im Turnier?",
+  "uploadCaption": "Der Joker schlug den 125-Millionen-Pfund-Star. Undav 3 Tore in 68 Minuten – Wirtz 0 Tore in 360 Minuten. Hätte Nagelsmann früher auf Undav gesetzt, wäre Deutschland noch im Turnier? Schreib deine Meinung in die Kommentare!",
+  "uploadHashtags": "#DFB #WM2026 #Undav #Wirtz #Nagelsmann #Fussball #Deutschland",
+  "images": [
+    { "file": "undav_aktion.jpg",   "search": "Deniz Undav" },
+    { "file": "wirtz_portrait.jpg", "search": "Florian Wirtz" },
+    { "file": "undav_training.jpg", "search": "Deniz Undav Training DFB" },
+    { "file": "wirtz_aktion.jpg",   "search": "Florian Wirtz Zweikampf" },
+    { "file": "undav_avatar.jpg",   "search": "Deniz Undav DFB Trikot" },
+    { "file": "wirtz_presse.jpg",   "search": "Florian Wirtz Presse" },
+    { "file": "nagelsmann.jpg",     "search": "Julian Nagelsmann" },
+    { "file": "fans_entsetzen.jpg", "search": "DFB Fans Entsetzen Public Viewing" },
+    { "file": "fans_hoffen.jpg",    "search": "DFB Fans Deutschland Stadion" },
+    { "file": "dfb_team.jpg",       "search": "DFB Deutschland Teamfoto 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "0 € vs 125 MILL. £. 3 TORE vs 0 TORE.",
+      "image": "undav_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DUELL WM 2026",
+      "title": "Joker schlägt Star",
+      "image": "wirtz_portrait.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_aktion.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22 J. · Liverpool · £125 Mio.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wirtz WM-Bilanz",
+      "stats": [
+        { "label": "Spiele", "value": "4" },
+        { "label": "Tore", "value": "0" },
+        { "label": "Minuten", "value": "360" }
+      ],
+      "image": "wirtz_presse.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "undav_training.jpg",
+      "name": "Deniz Undav",
+      "role": "Stürmer · 29 J. · Super-Joker",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Undav WM-Bilanz",
+      "stats": [
+        { "label": "Tore", "value": "3" },
+        { "label": "Vorlagen", "value": "2" },
+        { "label": "Minuten", "value": "68" }
+      ],
+      "image": "undav_avatar.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "undav_aktion.jpg",
+      "name": "Deniz Undav",
+      "role": "Doppelpack 68. + 90+4. Min vs Elfenbeinküste",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Bundestrainer · 3 WM-Einwechslungen Undav",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Hätte Undav von Anfang an starten sollen?",
+      "subtitle": "Ja oder Nein – kommentiere! ⬇️",
+      "image": "fans_hoffen.jpg",
+      "weight": 1.0
+    }
+  ]
+}

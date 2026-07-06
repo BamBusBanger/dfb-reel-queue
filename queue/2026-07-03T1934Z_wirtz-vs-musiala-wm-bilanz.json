@@ -1,0 +1,107 @@
+{
+  "slug": "wirtz-vs-musiala-wm-bilanz",
+  "createdAt": "2026-07-03T19:34:00Z",
+  "title": "Wirtz vs Musiala: Die WM-Abrechnung",
+  "script": "125 Millionen Pfund. 0 Tore. Florian Wirtz, Deutschlands teuerster Spieler aller Zeiten, erzielte bei der WM 2026 kein einziges Tor in 360 Minuten. Jamal Musiala? 1 Tor gegen das schwächste Team – dann die Bank. Matthäus urteilt gnadenlos: Kein Selbstvertrauen. Marktwert-Experten senken bereits die Kurse beider Stars. Das Taktikproblem: Beide wollen zentral spielen, stehen sich auf den Füßen. Das Traumduo Wusiala wurde zur größten WM-Enttäuschung. Aber sie sind erst 22. Noch 4 Jahre bis 2030.",
+  "uploadCaption": "Wirtz 0 Tore in 360 Min. Musiala 1 Tor – gegen Curaçao. Das Traumduo „Wusiala" hat die WM 2026 vergeigt. Matthäus rechnet gnadenlos ab: „Kein Selbstvertrauen." Was war das Taktikproblem und wer rettet das Duo 2030?",
+  "uploadHashtags": "#Wirtz #Musiala #Wusiala #DFB #WM2026 #Fussball #Deutschland #Nationalmannschaft",
+  "images": [
+    { "file": "wirtz_avatar.jpg",    "search": "Florian Wirtz" },
+    { "file": "musiala_avatar.jpg",  "search": "Jamal Musiala" },
+    { "file": "wirtz_jubel.jpg",     "search": "Florian Wirtz jubel dfb" },
+    { "file": "musiala_torjubel.jpg","search": "Jamal Musiala torjubel dfb" },
+    { "file": "wirtz_zweikampf.jpg", "search": "Florian Wirtz zweikampf" },
+    { "file": "musiala_aktion.jpg",  "search": "Jamal Musiala aktion" },
+    { "file": "wirtz_training.jpg",  "search": "Florian Wirtz training liverpool" },
+    { "file": "matthaeus.jpg",       "search": "Lothar Matthäus" },
+    { "file": "fans_entsetzen.jpg",  "search": "public viewing entsetzen" },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal" },
+    { "file": "wirtz_presse.jpg",    "search": "Florian Wirtz presse" },
+    { "file": "musiala_curacao.jpg", "search": "Jamal Musiala curacao aktion" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "125 MILLIONEN. 0 TORE.",
+      "image": "wirtz_avatar.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · Abrechnung",
+      "title": "Wusiala: Das Märchen ist vorbei",
+      "image": "musiala_avatar.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · Liverpool · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wirtz WM-Bilanz 2026",
+      "stats": [
+        { "label": "Tore", "value": "0" },
+        { "label": "Vorlagen", "value": "2" },
+        { "label": "Minuten", "value": "360" }
+      ],
+      "image": "wirtz_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala_torjubel.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · Bayern · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Musiala WM-Bilanz 2026",
+      "stats": [
+        { "label": "Tore", "value": "1" },
+        { "label": "Vorlagen", "value": "0" },
+        { "label": "Spiele", "value": "3" }
+      ],
+      "image": "musiala_aktion.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "matthaeus.jpg",
+      "name": "Lothar Matthäus",
+      "role": "DFB-Experte · Rekordnationalspieler",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_zweikampf.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_curacao.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_presse.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer liefert 2030 ab?",
+      "subtitle": "Wirtz oder Musiala – wer rettet das Duo?",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}

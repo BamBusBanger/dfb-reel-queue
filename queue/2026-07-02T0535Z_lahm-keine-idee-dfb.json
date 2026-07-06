@@ -1,0 +1,99 @@
+{
+  "slug": "lahm-keine-idee-dfb",
+  "createdAt": "2026-07-02T05:35:17Z",
+  "title": "Lahms Schock-Urteil: Keine Idee, keine Fortschritte",
+  "script": "NOCH NIE SO FASSUNGSLOS – das sagt Weltmeister Philipp Lahm nach dem dritten deutschen WM-Frühaus in Folge. Sein vernichtendes Urteil: 'Keine Fortschritte, keine Idee.' 2018 Vorrunden-Aus. 2022 Vorrunden-Aus. 2026 Sechzehntelfinale gegen Paraguay – 3 Elfmeter verschossen. Drei Turniere, kein einziges Viertelfinale. Lahm fordert eine Grundsatzdebatte: Wie will Deutschland Fußball spielen? Denn ohne klare Idee verbrennt man Talente wie Wirtz und Musiala. Der DFB vertagt die Entscheidung über Nagelsmann. Aber wie lange noch?",
+  "uploadCaption": "Philipp Lahm spricht Klartext! Drei WM-Frühaus in Folge – und Deutschlands Weltmeister-Kapitän ist noch nie so fassungslos gewesen. Sein Urteil: Keine Fortschritte, keine Idee. Was muss sich jetzt ändern?",
+  "uploadHashtags": "#DFB #WM2026 #Lahm #Nagelsmann #Nationalmannschaft #Fussball #Paraguay #GER",
+  "images": [
+    { "file": "lahm.jpg", "search": "Philipp Lahm" },
+    { "file": "nagelsmann_pk.jpg", "search": "Julian Nagelsmann" },
+    { "file": "team_2026.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "fans_schock.jpg", "search": "DFB Fans Entsetzen" },
+    { "file": "wm2026_logo.webp", "search": "WM 2026 Logo" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "havertz.jpg", "search": "Kai Havertz" },
+    { "file": "nagelsmann_training.jpg", "search": "Julian Nagelsmann DFB Training" },
+    { "file": "tah.jpg", "search": "Jonathan Tah" },
+    { "file": "fans_tribuene.jpg", "search": "DFB Fans Tribüne" },
+    { "file": "fans_hoffen.jpg", "search": "DFB Fans Hoffnung" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NOCH NIE SO FASSUNGSLOS.",
+      "image": "fans_schock.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "LAHM SCHLÄGT ALARM",
+      "title": "Keine Idee. Keine Fortschritte.",
+      "image": "team_2026.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "lahm.jpg",
+      "name": "Philipp Lahm",
+      "role": "Weltmeister 2014 · EM-2024-Direktor",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "3 WM-Frühaus in Folge",
+      "stats": [
+        { "label": "2018", "value": "Vorrunden-Aus" },
+        { "label": "2022", "value": "Vorrunden-Aus" },
+        { "label": "2026", "value": "Sechzehntelfinale" }
+      ],
+      "image": "wm2026_logo.webp",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann_pk.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Bundestrainer · 'Ich stehe zur Verfügung'",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · Lahms Sorge um Talente",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Offensiv · Elfmeter-Drama vs. Paraguay",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann_training.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "Abwehr · Phantom-Tor aberkannt",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_tribuene.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Nagelsmann raus oder weiter?",
+      "subtitle": "Kommentar: JA oder NEIN",
+      "image": "fans_hoffen.jpg",
+      "weight": 1.0
+    }
+  ]
+}

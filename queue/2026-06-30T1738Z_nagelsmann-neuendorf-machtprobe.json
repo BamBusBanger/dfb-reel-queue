@@ -1,0 +1,38 @@
+{
+  "slug": "nagelsmann-neuendorf-machtprobe",
+  "createdAt": "2026-06-30T17:38:00Z",
+  "title": "Nagelsmann gegen Neuendorf: Die Machtprobe",
+  "script": "Er sagt, er bleibt. Sein Chef schweigt sich aus. Julian Nagelsmann nach dem 3:4-Elfmeter-Drama gegen Paraguay: 'Ich habe einen Vertrag und stehe zur Verfügung.' DFB-Präsident Bernd Neuendorf kontert eiskalt: 'Wir werden nicht einfach zur Tagesordnung übergehen.' Krisensitzung mit Sportdirektor Rudi Völler und Geschäftsführer Andreas Rettig, noch ohne Ergebnis. Die Entscheidung über Nagelsmanns Zukunft soll bis Ende dieser Woche fallen. Drittes frühes WM-Aus in Folge nach 2018 und 2022. Wer gewinnt diese Machtprobe?",
+  "uploadCaption": "Nagelsmann will bleiben, Neuendorf schweigt: Wer entscheidet über die Zukunft des Bundestrainers? Die Krisensitzung läuft.",
+  "uploadHashtags": "#DFB #WM2026 #Nagelsmann #Fussball #Bundestrainer",
+  "images": [
+    { "file": "nagelsmann_presse.jpeg", "search": "Julian Nagelsmann" },
+    { "file": "gillette_stadium.jpg", "search": "Gillette Stadium Foxborough" },
+    { "file": "neuendorf.jpg", "search": "Bernd Neuendorf" },
+    { "file": "nagelsmann_training.jpg", "search": "Julian Nagelsmann" },
+    { "file": "kimmich_kapitaensbinde.webp", "search": "Joshua Kimmich" },
+    { "file": "voeller.jpg", "search": "Rudi Völler" },
+    { "file": "rettig.jpg", "search": "Andreas Rettig" },
+    { "file": "fans_entsetzen.jpg", "search": "DFB Fans enttäuscht" },
+    { "file": "neuer_presse.webp", "search": "Manuel Neuer" },
+    { "file": "wirtz_presse.jpeg", "search": "Florian Wirtz" },
+    { "file": "metlife_stadium.jpg", "search": "MetLife Stadium" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER WILL BLEIBEN. SEIN CHEF SCHWEIGT.", "image": "nagelsmann_presse.jpeg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM-NACHBEBEN", "title": "Nagelsmann gegen Neuendorf", "image": "gillette_stadium.jpg", "weight": 0.7 },
+    { "type": "image", "image": "neuendorf.jpg", "name": "Bernd Neuendorf", "role": "DFB-Präsident", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann_training.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer · Vertrag bis 2028", "weight": 0.8 },
+    { "type": "stats", "title": "Die Fakten", "stats": [
+        { "label": "Elfmeter-Aus", "value": "3:4" },
+        { "label": "Frühes WM-Aus in Folge", "value": "3." },
+        { "label": "Entscheidung", "value": "bis Freitag" }
+      ], "image": "kimmich_kapitaensbinde.webp", "weight": 0.9 },
+    { "type": "image", "image": "voeller.jpg", "name": "Rudi Völler", "role": "Sportdirektor", "weight": 0.8 },
+    { "type": "image", "image": "rettig.jpg", "name": "Andreas Rettig", "role": "DFB-Geschäftsführer Sport", "weight": 0.8 },
+    { "type": "image", "image": "fans_entsetzen.jpg", "weight": 0.7 },
+    { "type": "image", "image": "neuer_presse.webp", "name": "Manuel Neuer", "role": "Torwart · WM-Rekord 21 Spiele", "weight": 0.8 },
+    { "type": "image", "image": "wirtz_presse.jpeg", "name": "Florian Wirtz", "role": "Offensiv · Liverpool", "weight": 0.8 },
+    { "type": "outro", "title": "Soll Nagelsmann bleiben?", "subtitle": "Schreib's in die Kommentare", "image": "metlife_stadium.jpg", "weight": 1.0 }
+  ]
+}

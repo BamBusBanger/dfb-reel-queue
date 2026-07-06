@@ -1,0 +1,95 @@
+{
+  "slug": "glasner-nottingham-dfb-plan-b-weg",
+  "createdAt": "2026-07-04T09:34:00Z",
+  "title": "Glasner unterschreibt – DFB-Plan B ist weg",
+  "script": "Er sollte DFB-Plan B werden. Jetzt hat Oliver Glasner heute unterschrieben – bei Nottingham Forest, Vertrag bis 2029, für bis zu 12 Millionen Euro Jahresgehalt, das höchste in der Vereinsgeschichte. Plan B ist Geschichte. Gleichzeitig blockiert Red Bull Klopp-Plan A – die Ablöse für den Welttrainer ist offen. Und Christian Streich war seit 2 Jahren aus dem Profigeschäft. Wer übernimmt jetzt das Steuer? 3 Kandidaten bleiben – einer davon würde den DFB für immer verändern.",
+  "uploadCaption": "Plan B ist weg! Oliver Glasner unterschreibt heute bei Nottingham Forest – für 12 Mio. € im Jahr, Rekordgehalt in der Vereinsgeschichte. Während der DFB nach Klopp sucht, schnappt sich Forest den nächsten Kandidaten. Wer rettet jetzt Deutschland?",
+  "uploadHashtags": "#DFB #Bundestrainer #Glasner #NottinghamForest #Klopp #WM2026 #Fussball #Deutschland",
+  "images": [
+    { "file": "glasner.jpg",          "search": "Oliver Glasner Trainer" },
+    { "file": "nagelsmann.jpg",        "search": "Julian Nagelsmann" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "redBullBlock.jpg",      "search": "Red Bull DFB Blockade Symbol Fussball", "thematic": true },
+    { "file": "streich.jpg",           "search": "Christian Streich Bundestrainer" },
+    { "file": "hoeness_sebastian.jpg", "search": "Sebastian Hoeneß Trainer VfB Stuttgart" },
+    { "file": "fans.jpg",              "search": "DFB Fans Deutschland" },
+    { "file": "pokal.jpg",             "search": "WM Pokal" },
+    { "file": "teamfoto.jpg",          "search": "DFB Nationalmannschaft 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "PLAN B IST HEUTE WEG.",
+      "image": "glasner.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "4. Juli 2026 – BREAKING",
+      "title": "DFB im freien Fall",
+      "image": "nagelsmann.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "glasner.jpg",
+      "name": "Oliver Glasner",
+      "role": "Trainer · Nottingham Forest",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der Glasner-Deal",
+      "stats": [
+        { "label": "Jahresgehalt", "value": "12 Mio. €" },
+        { "label": "Vertrag bis", "value": "2029" },
+        { "label": "Trainer bei Forest", "value": "Nr. 5" }
+      ],
+      "image": "glasner.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Plan A · Red Bull blockiert",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "redBullBlock.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "streich.jpg",
+      "name": "Christian Streich",
+      "role": "Plan C · seit 2024 vereinslos",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "hoeness_sebastian.jpg",
+      "name": "Sebastian Hoeneß",
+      "role": "Wildcard · VfB Stuttgart",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopp, Streich oder Überraschung?",
+      "subtitle": "Wen willst du als Bundestrainer?",
+      "image": "teamfoto.jpg",
+      "weight": 1.0
+    }
+  ]
+}

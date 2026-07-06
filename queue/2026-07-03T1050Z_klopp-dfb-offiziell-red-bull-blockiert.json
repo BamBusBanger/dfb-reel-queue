@@ -1,0 +1,109 @@
+{
+  "slug": "klopp-dfb-offiziell-red-bull-blockiert",
+  "createdAt": "2026-07-03T10:50:00Z",
+  "title": "DFB macht Klopp-Wunsch offiziell – Red Bull blockiert",
+  "script": "Jürgen Klopp wird Bundestrainer – der DFB macht es OFFIZIELL. Nagelsmann ist nach 3 WM-Früh-Aus in Folge Geschichte. Abfindung: 14 Millionen Euro. Aber Red-Bull-Boss Mintzlaff blockiert: Er kassierte bereits 25 Millionen von Bayern für Nagelsmann – jetzt will er wieder Millionen für Klopp. Erstmals in DFB-Geschichte muss der Verband einen Bundestrainer freikaufen. Klopps Vertrag läuft bis 2029 – nur ein mündliches Gentlemen's Agreement als Ausstiegsklausel. Der neue Nike-Deal bringt 100 Millionen Euro pro Jahr bis 2034. Reicht das? Soll der DFB jeden Preis für Klopp zahlen?",
+  "uploadCaption": "DFB macht es offiziell: KLOPP soll Bundestrainer werden! Aber Red-Bull-Boss Mintzlaff fordert Millionen-Ablöse – zum ersten Mal in der DFB-Geschichte. Was sagst du dazu?",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2026 #Nagelsmann #RedBull #Fussball #WM",
+  "images": [
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "dfb_team.jpg",       "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "nagelsmann.jpg",     "search": "Julian Nagelsmann" },
+    { "file": "klopp_presse.jpg",   "search": "Jürgen Klopp Pressekonferenz" },
+    { "file": "fans_entsetzen.jpg", "search": "DFB Fans Public Viewing Entsetzen" },
+    { "file": "mintzlaff.jpg",      "search": "Oliver Mintzlaff Red Bull" },
+    { "file": "red_bull.jpg",       "search": "Red Bull Fußball Ablöse Millionen Transfer", "thematic": true },
+    { "file": "wirtz.jpg",          "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",        "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",        "search": "Joshua Kimmich" },
+    { "file": "neuer.jpg",          "search": "Manuel Neuer" },
+    { "file": "flagge.jpg",         "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DER DFB MACHT ES OFFIZIELL.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026",
+      "title": "Klopp wird Bundestrainer",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Bundestrainer 2023–2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp_presse.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Wunschkandidat DFB",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Millionen-Problem",
+      "stats": [
+        { "label": "Nagelsmann-Abfindung DFB", "value": "14 Mio. €" },
+        { "label": "Red Bull kassierte 2021 für Nagelsmann", "value": "25 Mio. €" },
+        { "label": "Nike-Deal DFB pro Jahr bis 2034", "value": "100 Mio. €" }
+      ],
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "mintzlaff.jpg",
+      "name": "Oliver Mintzlaff",
+      "role": "Red-Bull-Boss · härtester Verhandler",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "red_bull.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 22 · WM 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern München · 22 · WM 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 108 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "neuer.jpg",
+      "name": "Manuel Neuer",
+      "role": "WM-Rekordtorwart · letzte WM",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Soll der DFB jeden Preis für Klopp zahlen?",
+      "subtitle": "Kommentier jetzt!",
+      "image": "flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}

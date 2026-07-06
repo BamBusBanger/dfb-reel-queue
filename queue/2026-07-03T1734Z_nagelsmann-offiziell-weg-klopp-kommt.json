@@ -1,0 +1,105 @@
+{
+  "slug": "nagelsmann-offiziell-weg-klopp-kommt",
+  "createdAt": "2026-07-03T17:34:00Z",
+  "title": "Nagelsmann tritt zurück – Klopp-Ära beginnt?",
+  "script": "NAGELSMANN IST WEG. Offiziell. Am 3. Juli 2026 endet eine 1.000-Tage-Ära: Julian Nagelsmann tritt freiwillig zurück – für 7 Millionen Euro Abfindung, statt 14 Millionen bei Entlassung. Seine Assistenten Glück und Hübner gehen mit. 34 Spiele, 22 Siege, ein drittes WM-Frühausscheiden in Folge. Der DFB bestätigt sofort: Gespräche mit Jürgen Klopp starten jetzt. Der Ex-Liverpool-Coach hat grundsätzliche Bereitschaft signalisiert. Einziges Hindernis: Sein Red-Bull-Vertrag bis 2029 – und Mintzlaff fordert Ablöse. Gelingt dem DFB der Klopp-Deal – oder muss Glasner als Plan B ran?",
+  "uploadCaption": "Offiziell: Julian Nagelsmann verlässt den DFB. 1.000 Tage, 22 Siege, drittes WM-Frühausscheiden – und jetzt beginnt der Neustart. Klopp steht bereit. Aber schafft der DFB den Deal?",
+  "uploadHashtags": "#DFB #Nagelsmann #Klopp #WM2026 #Bundestrainer #Fussball",
+  "images": [
+    { "file": "nagelsmann.jpg",        "search": "Julian Nagelsmann" },
+    { "file": "nagelsmann_pk.jpg",     "search": "Julian Nagelsmann Pressekonferenz" },
+    { "file": "nagelsmann_training.jpg","search": "Julian Nagelsmann Training DFB" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",             "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",           "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",           "search": "Joshua Kimmich" },
+    { "file": "fans_entsetzen.jpg",    "search": "DFB Fans Entsetzen" },
+    { "file": "team.jpg",              "search": "DFB Team 2026" },
+    { "file": "pokal.jpg",             "search": "WM Pokal" },
+    { "file": "fans_jubel.jpg",        "search": "DFB Fans" },
+    { "file": "fans_fanmeile.jpg",     "search": "DFB Fans Fanmeile Berlin" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NAGELSMANN IST WEG.",
+      "image": "nagelsmann.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "3. JULI 2026",
+      "title": "Rücktritt offiziell",
+      "image": "nagelsmann_pk.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann_training.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Bundestrainer 2023–2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Bilanz",
+      "stats": [
+        { "label": "Tage im Amt", "value": "1.000" },
+        { "label": "Siege",       "value": "22"     },
+        { "label": "Abfindung",   "value": "7 Mio. €" }
+      ],
+      "image": "team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Top-Kandidat · Red Bull bis 2029",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · Liverpool · 23 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · Bayern · 23 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopp oder Glasner?",
+      "subtitle": "Wer führt Deutschland 2030 zum Titel?",
+      "image": "fans_fanmeile.jpg",
+      "weight": 1.0
+    }
+  ]
+}

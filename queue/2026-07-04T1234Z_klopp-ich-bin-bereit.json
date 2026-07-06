@@ -1,0 +1,100 @@
+{
+  "slug": "klopp-ich-bin-bereit",
+  "createdAt": "2026-07-04T12:34:00Z",
+  "title": "Klopp: Ich bin bereit!",
+  "script": "ER HAT ES GESAGT. Jürgen Klopp live bei MagentaTV: 'Ich bin mittlerweile mehr als aufgetankt. Ich bin bereit.' Nur drei Tage nach Nagelsmanns Rücktritt, drei WM-Aus in Folge — meldet sich Deutschlands Traum-Coach. 14 Millionen Euro Abfindung für Nagelsmann. Klopps Vertrag bei Red Bull läuft bis 2029. Mintzlaff fordert Millionen-Ablöse. Doch das erste öffentliche Bekenntnis ist raus. Wirtz, Musiala und Kimmich warten auf einen neuen Anführer. Plan B: Christian Streich. Kommt Klopp wirklich?",
+  "uploadCaption": "Klopp sagt öffentlich 'Ich bin bereit' – das DFB-Zeitalter Klopp hat begonnen? 3 WM-Aus in Folge, 14 Mio € Abfindung für Nagelsmann, Red Bull blockiert mit Millionen-Ablöse. Wird Klopp der neue Bundestrainer von Wirtz, Musiala & Kimmich?",
+  "uploadHashtags": "#Klopp #DFB #WM2026 #Bundestrainer #Nationalmannschaft #Wirtz #Musiala #Fussball",
+  "images": [
+    { "file": "klopp.jpg",     "search": "Jürgen Klopp" },
+    { "file": "nagelsmann.jpg","search": "Julian Nagelsmann" },
+    { "file": "wirtz.jpg",     "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",   "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",   "search": "Joshua Kimmich" },
+    { "file": "team.jpg",      "search": "DFB Mannschaft 2026" },
+    { "file": "fans.jpg",      "search": "DFB Fans" },
+    { "file": "fanzone.jpg",   "search": "DFB Fanzone Berlin" },
+    { "file": "pokal.jpg",     "search": "WM Pokal" },
+    { "file": "streich.jpg",   "search": "Christian Streich" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER HAT ES GESAGT.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB-KRISE 2026",
+      "title": "Klopp: Ich bin bereit!",
+      "image": "team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Wunsch-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Rücktritt · 3.7.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen",
+      "stats": [
+        { "label": "Nagelsmann Abfindung",   "value": "14 Mio €" },
+        { "label": "Klopp-Vertrag Red Bull",  "value": "bis 2029" },
+        { "label": "WM-Aus in Folge",         "value": "3×" }
+      ],
+      "image": "pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 108 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "streich.jpg",
+      "name": "Christian Streich",
+      "role": "Plan B · 61 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fanzone.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopp als Bundestrainer — JA oder NEIN?",
+      "subtitle": "Schreib deine Meinung in die Kommentare!",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}

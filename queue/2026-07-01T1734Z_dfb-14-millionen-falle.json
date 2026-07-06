@@ -1,0 +1,38 @@
+{
+  "slug": "dfb-14-millionen-falle",
+  "createdAt": "2026-07-01T17:35:00Z",
+  "title": "Die 14-Millionen-Euro-Falle",
+  "script": "Der DFB steckt in seiner eigenen Falle – und die kostet 14 Millionen Euro. 2024 bauten die Bosse eine Reißleinenklausel in Nagelsmanns Vertrag ein – konzipiert nur für ein Vorrunden-Aus. Doch Deutschland schied erst im Sechzehntelfinale aus. Gilt die Klausel? Juristen sind uneins. Nagelsmanns Jahresgehalt: 7 Millionen Euro. Vertragslaufzeit: 2 Jahre bis zur EM 2028. Mögliche Abfindung: 14 Millionen. Nagelsmann lehnt Rücktritt ab – er würde auf alles verzichten. Klopp holen? Kostet noch mehr. Der DFB muss zahlen – egal wie er entscheidet.",
+  "uploadCaption": "Diese Klausel sollte den DFB absichern – jetzt ist sie seine teuerste Falle. Nagelsmann lehnt Rücktritt ab, Entlassung kostet bis zu 14 Mio. €, und Klopp ist auch nicht umsonst. Der DFB sitzt in der Klemme.",
+  "uploadHashtags": "#DFB #WM2026 #Nagelsmann #Bundestrainer #Fussball #WM",
+  "images": [
+    { "file": "nagelsmann_pk.jpg",       "search": "Julian Nagelsmann" },
+    { "file": "geld_falle.jpg",          "search": "Fußball Abfindung Millionen Vertragsfalle", "thematic": true },
+    { "file": "nagelsmann_training.jpg", "search": "Julian Nagelsmann DFB Training" },
+    { "file": "team.jpg",                "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "kimmich.jpg",             "search": "Joshua Kimmich" },
+    { "file": "havertz.jpg",             "search": "Kai Havertz" },
+    { "file": "woltemade.jpg",           "search": "Nick Woltemade" },
+    { "file": "neuendorf.jpg",           "search": "Bernd Neuendorf DFB Präsident 2026" },
+    { "file": "klopp.jpg",               "search": "Jürgen Klopp" },
+    { "file": "fans.jpg",                "search": "DFB Fans Deutschland" },
+    { "file": "flagge.jpg",              "search": "Deutschland Flagge schwarz rot gold" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "DER DFB STECKT IN SEINER EIGENEN FALLE.", "image": "nagelsmann_pk.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026", "title": "Die 14-Millionen-Euro-Falle", "image": "geld_falle.jpg", "weight": 0.7 },
+    { "type": "image", "image": "nagelsmann_training.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer · Vertrag bis EM 2028", "weight": 0.8 },
+    { "type": "image", "image": "team.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Das Dilemma in Zahlen", "stats": [
+        { "label": "Mögliche Abfindung", "value": "14 Mio. €" },
+        { "label": "Jahresgehalt",        "value": "7 Mio. €" },
+        { "label": "Restvertrag",         "value": "2 Jahre" }
+      ], "image": "kimmich.jpg", "weight": 0.9 },
+    { "type": "image", "image": "havertz.jpg",    "name": "Kai Havertz",    "role": "Arsenal · verschossener Elfmeter", "weight": 0.8 },
+    { "type": "image", "image": "woltemade.jpg",  "name": "Nick Woltemade", "role": "75 Mio. € · verschossener Elfmeter", "weight": 0.8 },
+    { "type": "image", "image": "neuendorf.jpg",  "name": "Bernd Neuendorf","role": "DFB-Präsident", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",      "name": "Jürgen Klopp",   "role": "Wunschlösung · Red-Bull-Vertrag bis 2029", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Euer Urteil?", "subtitle": "Nagelsmann entlassen oder weitermachen?", "image": "flagge.jpg", "weight": 1.0 }
+  ]
+}

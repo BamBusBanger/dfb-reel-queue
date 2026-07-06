@@ -1,0 +1,107 @@
+{
+  "slug": "nachfolger-kandidaten-top3",
+  "createdAt": "2026-07-01T09:34:00Z",
+  "title": "Top 3: Nagelsmann-Nachfolger – Wer rettet den DFB?",
+  "script": "3 Namen, 1 Aufgabe – den DFB retten. Nach 3 WM-Aus in Folge entscheidet der Verband diese Woche über Nagelsmanns Zukunft. Kandidat Nummer 3: Christian Streich – 10 Jahre Freiburg-Maestro, seit 2024 vereinslos. Nummer 2: Oliver Glasner – 2 Europapokal-Titel in 4 Jahren, zuletzt Conference-League-Triumph 2026 mit Crystal Palace. Und Nummer 1: Jürgen Klopp – 59 Jahre, 18 Monate ohne Club, Deutschlands heißeste Traineroption. Die Entscheidung fällt noch diese Woche.",
+  "uploadCaption": "Der DFB sucht einen neuen Bundestrainer! Nach dem WM-Aus gegen Paraguay wird über Klopp, Glasner und Streich diskutiert. Wer soll den deutschen Fußball retten?",
+  "uploadHashtags": "#DFB #Bundestrainer #Klopp #WM2026 #Fussball #Nationalmannschaft #Nagelsmann #Glasner #Streich",
+  "images": [
+    { "file": "nagelsmann_pk.jpg",    "search": "Julian Nagelsmann" },
+    { "file": "wm2026_logo.jpg",      "search": "WM 2026 Logo" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp 2026" },
+    { "file": "glasner.jpg",          "search": "Oliver Glasner 2026" },
+    { "file": "streich.jpg",          "search": "Christian Streich SC Freiburg" },
+    { "file": "fans_entsetzen.jpg",   "search": "DFB Fans Entsetzen" },
+    { "file": "wirtz_jubel.jpg",      "search": "Florian Wirtz" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal" },
+    { "file": "fans_hoffen.jpg",      "search": "DFB Fans" },
+    { "file": "trainersuche.jpg",     "search": "DFB Bundestrainer Suche Entscheidung", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DER DFB SUCHT EINEN RETTER.",
+      "image": "nagelsmann_pk.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · NACH DEM AUS",
+      "title": "Top 3: Nagelsmann-Nachfolger",
+      "image": "wm2026_logo.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann_pk.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Bundestrainer · Vertrag bis 2028",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "streich.jpg",
+      "name": "Christian Streich",
+      "role": "#3 Kandidat · 61 Jahre · seit 2024 frei",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "glasner.jpg",
+      "name": "Oliver Glasner",
+      "role": "#2 Kandidat · 51 Jahre · 2 Europapokal-Titel",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Glasner in Zahlen",
+      "stats": [
+        { "label": "Europa League 2022", "value": "✓" },
+        { "label": "Conference League 2026", "value": "✓" },
+        { "label": "Europapokal-Titel in 4 Jahren", "value": "2×" }
+      ],
+      "image": "glasner.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "#1 Favorit · 59 Jahre · 18 Monate ohne Club",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopp in Zahlen",
+      "stats": [
+        { "label": "Bundesliga-Titel (BVB)", "value": "2×" },
+        { "label": "Champions League (LFC)", "value": "1×" },
+        { "label": "Premier-League-Titel", "value": "1×" }
+      ],
+      "image": "klopp.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "trainersuche.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopp, Glasner oder Streich?",
+      "subtitle": "Wen willst DU als neuen Bundestrainer?",
+      "image": "fans_hoffen.jpg",
+      "weight": 1.0
+    }
+  ]
+}

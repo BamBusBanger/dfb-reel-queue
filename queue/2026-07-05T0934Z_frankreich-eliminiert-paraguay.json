@@ -1,0 +1,109 @@
+{
+  "slug": "frankreich-eliminiert-paraguay",
+  "createdAt": "2026-07-05T09:34:00Z",
+  "title": "Paraguay ist raus – Gerechtigkeit für Deutschland?",
+  "script": "PARAGUAY IST RAUS! Das Team, das Deutschland im Elfmeterschießen 3:4 aus dem Turnier geworfen hat – mit Tahs gestohlenem Phantomtor in Minute 102 und 3 verschossenen DFB-Elfmetern – liegt jetzt selbst besiegt: Frankreich schlug Paraguay souverän 1:0 im Achtelfinale. Gleichzeitig schockte Marokko den Co-Gastgeber Kanada mit 3:0. Das Viertelfinale ohne Deutschland findet vom 9. bis 12. Juli statt. Mbappé & Co. marschieren ins Halbfinale – während DFB-Fans bitter von der Couch zuschauen. Hätte Deutschland Frankreich geschlagen?",
+  "uploadCaption": "Paraguay ist raus! Frankreich schlug das Team, das Deutschland 3:4 im Elfmeterschießen eliminierte, mit 1:0 aus dem Turnier. Tahs Phantomtor, 3 verschossene Elfmeter – und jetzt das. Ist das Gerechtigkeit?",
+  "uploadHashtags": "#WM2026 #DFB #Paraguay #Frankreich #Achtelfinale #Gerechtigkeit #Fussball #Mbappe #Marokko",
+  "images": [
+    { "file": "tah_phantom.jpg",        "search": "Jonathan Tah" },
+    { "file": "havertz_elfer.jpg",      "search": "Kai Havertz" },
+    { "file": "frankreich_paraguay.jpg","search": "France Paraguay World Cup 2026 round of 16" },
+    { "file": "fans_entsetzen.jpg",     "search": "DFB Fans Entsetzen" },
+    { "file": "wirtz_dfb.jpg",          "search": "Florian Wirtz" },
+    { "file": "kimmich_kapitan.jpg",    "search": "Joshua Kimmich" },
+    { "file": "marokko_kanada.jpg",     "search": "Morocco Canada World Cup 2026" },
+    { "file": "mbappe.jpg",             "search": "Kylian Mbappé" },
+    { "file": "wm_pokal.jpg",           "search": "WM Pokal" },
+    { "file": "fans_tribuene.jpg",      "search": "Deutschland Fans Stadion" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "PARAGUAY IST RAUS!",
+      "image": "tah_phantom.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · ACHTELFINALE",
+      "title": "Gerechtigkeit für Deutschland?",
+      "image": "frankreich_paraguay.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "tah_phantom.jpg",
+      "name": "Jonathan Tah",
+      "role": "Phantomtor Minute 102 – vom VAR gestohlen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz_elfer.jpg",
+      "name": "Kai Havertz",
+      "role": "Elfmeter verschossen vs. Paraguay",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Paraguay-Trauma",
+      "stats": [
+        { "label": "Deutschlands Aus",     "value": "3:4 n.E." },
+        { "label": "Tahs Tor (VAR-Raub)", "value": "Minute 102" },
+        { "label": "Verschossene Elfer",   "value": "3" }
+      ],
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "frankreich_paraguay.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "mbappe.jpg",
+      "name": "Kylian Mbappé",
+      "role": "Frankreich · 1:0 vs. Paraguay · Viertelfinale",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Viertelfinale 9.–12. Juli",
+      "stats": [
+        { "label": "Frankreich schlug Paraguay", "value": "1:0" },
+        { "label": "Marokko schlug Kanada",      "value": "3:0" },
+        { "label": "Deutschland schaut",          "value": "von Couch" }
+      ],
+      "image": "marokko_kanada.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich_kapitan.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · schaut von zu Hause zu",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_dfb.jpg",
+      "name": "Florian Wirtz",
+      "role": "125 Mio. Transfer · WM-Viertelfinale verpasst",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_tribuene.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Hätte Deutschland Frankreich geschlagen?",
+      "subtitle": "Kommentiert eure Meinung!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}

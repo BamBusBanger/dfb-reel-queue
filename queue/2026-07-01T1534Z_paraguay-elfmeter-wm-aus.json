@@ -1,0 +1,36 @@
+{
+  "slug": "paraguay-elfmeter-wm-aus",
+  "createdAt": "2026-07-01T15:34:00Z",
+  "title": "3 Fehlschüsse – WM-AUS gegen Paraguay",
+  "script": "3 Fehlschüsse – und Deutschland fliegt raus! Im Sechzehntelfinale verliert die DFB-Elf in Foxborough 1:1 n.V. – dann 3:4 im Elfmeterschießen gegen Paraguay. Paraguay-Keeper Orlando Gill war der Held: Er parierte die Elfmeter von Havertz und Woltemade. Jonathan Tah schoss den sechsten deutschen Versuch hoch auf die Tribüne. Neuer hielt zwar einmal – Balbudena scheiterte – es reichte nicht. Drittes WM-Turnier, drittes frühes Aus: 2018 Gruppenphase, 2022 Gruppenphase, 2026 Sechzehntelfinale. Ist Nagelsmanns Zeit beim DFB vorbei?",
+  "uploadCaption": "WM-AUS im Elfmeter-Drama! 3 Fehlschüsse – und Deutschlands Traum ist vorbei. Havertz und Woltemade scheitern an Gill, Tah schießt drüber. 3:4 nach Elfmeterschießen gegen Paraguay. Das dritte WM-Frühaus in Folge.",
+  "uploadHashtags": "#DFB #WM2026 #Deutschland #Paraguay #Elfmeterschießen #Fussball #WMAus",
+  "images": [
+    { "file": "foxborough.jpg", "search": "Gillette Stadium Foxborough WM 2026" },
+    { "file": "team.jpg", "search": "Deutschland Teamfoto 2026" },
+    { "file": "havertz.jpg", "search": "Kai Havertz" },
+    { "file": "woltemade.jpg", "search": "Nick Woltemade" },
+    { "file": "tah.png", "search": "Jonathan Tah" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "gill.jpg", "search": "Orlando Gill Paraguay WM 2026" },
+    { "file": "neuer.jpg", "search": "Manuel Neuer Parade DFB" },
+    { "file": "fans.jpg", "search": "DFB Fans Entsetzen" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "havertz_jubel.jpg", "search": "Kai Havertz Torjubel DFB" },
+    { "file": "fans_hoffen.jpg", "search": "DFB Fans public viewing" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "3 FEHLSCHÜSSE – WM-AUS!", "image": "foxborough.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · Sechzehntelfinale", "title": "Deutschland 3:4 i.E.", "image": "team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "havertz.jpg", "name": "Kai Havertz", "role": "Tor 54. · Elfmeter von Gill gehalten", "weight": 0.8 },
+    { "type": "image", "image": "woltemade.jpg", "name": "Nick Woltemade", "role": "Elfmeter: von Gill gehalten", "weight": 0.8 },
+    { "type": "image", "image": "tah.png", "name": "Jonathan Tah", "role": "Elfmeter: über die Latte", "weight": 0.8 },
+    { "type": "stats", "title": "Elfmeter-Bilanz", "stats": [{ "label": "DFB-Fehlschüsse", "value": "3" }, { "label": "Gill-Paraden", "value": "2" }, { "label": "Neuer-Parade", "value": "1" }], "image": "kimmich.jpg", "weight": 0.9 },
+    { "type": "image", "image": "gill.jpg", "name": "Orlando Gill", "role": "Paraguay-Torwart · 2 Paraden", "weight": 0.8 },
+    { "type": "image", "image": "neuer.jpg", "name": "Manuel Neuer", "role": "Parade Balbudena · reichte nicht", "weight": 0.8 },
+    { "type": "image", "image": "havertz_jubel.jpg", "name": "Kai Havertz", "role": "Torschütze 54. · »Ich kann mich nur entschuldigen«", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Bundestrainer · Zukunft offen", "weight": 0.8 },
+    { "type": "outro", "title": "Nagelsmann – weitermachen?", "subtitle": "Kommentiert eure Meinung!", "image": "fans_hoffen.jpg", "weight": 1.0 }
+  ]
+}
