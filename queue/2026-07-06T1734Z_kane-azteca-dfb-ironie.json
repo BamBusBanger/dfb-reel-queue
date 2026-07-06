@@ -1,0 +1,32 @@
+{
+  "slug": "kane-azteca-dfb-ironie",
+  "createdAt": "2026-07-06T17:34:00Z",
+  "title": "Kanes WM-Gala – 3 bittere Fakten für den DFB",
+  "script": "6 Tore bei dieser WM – und kein einziger zählt für Deutschland! Harry Kane, Bayerns 95-Millionen-Euro-Stürmer, schoss England im legendären Aztekenstadion ins Viertelfinale: 3:2 gegen Co-Gastgeber Mexiko. Bellingham trifft doppelt, Kane verwandelt den Elfmeter. Historisch: England gewinnt erstmals überhaupt im Azteca. Kanes 6 WM-Tore – mehr als jeder DFB-Stürmer schaffte. Havertz 2 Tore, Woltemade 0 Tore und ein verschossener Elfmeter. Deutschland flog nach 3 Elfmeter-Fehlschüssen nach Hause. Wäre Kane Deutscher – würden wir jetzt auch noch jubeln?",
+  "uploadCaption": "6 WM-Tore für England – keiner für Deutschland. Bayerns 95-Mio-Stürmer Harry Kane macht im legendären Aztekenstadion Geschichte, während Deutschland schon zu Hause ist. Die bitterste Ironie der WM 2026.",
+  "uploadHashtags": "#HarryKane #WM2026 #DFB #BayernMünchen #England #Fussball #Weltmeisterschaft2026",
+  "images": [
+    { "file": "kane_aktion.jpg",    "search": "Harry Kane World Cup 2026" },
+    { "file": "kane_england.jpg",   "search": "Harry Kane England" },
+    { "file": "bellingham.jpg",     "search": "Jude Bellingham" },
+    { "file": "azteca.jpg",         "search": "Azteka Stadion" },
+    { "file": "england_jubel.jpg",  "search": "England World Cup 2026 celebration" },
+    { "file": "havertz.jpg",        "search": "Kai Havertz" },
+    { "file": "woltemade.jpg",      "search": "Nick Woltemade" },
+    { "file": "musiala.jpg",        "search": "Jamal Musiala" },
+    { "file": "fans_entsetzen.jpg", "search": "DFB Fans public viewing" },
+    { "file": "wm_pokal.jpg",       "search": "WM Pokal" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "6 WM-TORE – KEINER FÜR DEUTSCHLAND.", "image": "kane_aktion.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026", "title": "Kanes WM-Gala – 3 bittere Fakten", "image": "azteca.jpg", "weight": 0.7 },
+    { "type": "image", "image": "kane_england.jpg",   "name": "Harry Kane",      "role": "Bayern München · 6 WM-Tore · England", "weight": 0.8 },
+    { "type": "image", "image": "bellingham.jpg",     "name": "Jude Bellingham", "role": "2 Tore vs. Mexiko · England", "weight": 0.8 },
+    { "type": "stats", "title": "Kane vs. DFB-Stürmer", "stats": [{ "label": "Kane WM-Tore", "value": "6" }, { "label": "Bayern-Ablöse 2023", "value": "95 Mio €" }, { "label": "Havertz WM-Tore", "value": "2" }], "image": "england_jubel.jpg", "weight": 0.9 },
+    { "type": "image", "image": "havertz.jpg",        "name": "Kai Havertz",     "role": "DFB-Stürmer · 2 WM-Tore", "weight": 0.8 },
+    { "type": "image", "image": "woltemade.jpg",      "name": "Nick Woltemade",  "role": "75 Mio € · 0 WM-Tore · Elfmeter verschossen", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg",        "name": "Jamal Musiala",   "role": "DFB Offensiv · 1 WM-Tor", "weight": 0.8 },
+    { "type": "image", "image": "fans_entsetzen.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wäre Kane Deutscher – wären wir noch dabei?", "subtitle": "Kommentar & Meinung ↓", "image": "wm_pokal.jpg", "weight": 1.0 }
+  ]
+}
