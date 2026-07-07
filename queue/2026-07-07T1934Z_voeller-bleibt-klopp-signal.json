@@ -1,0 +1,40 @@
+{
+  "slug": "voeller-bleibt-klopp-signal",
+  "createdAt": "2026-07-07T19:34:00Z",
+  "title": "Völler bleibt – Klopps stärkstes Signal",
+  "script": "OHNE Rudi Völler gibt es KEINEN Jürgen Klopp als Bundestrainer – und Völler BLEIBT. Nach Nagelsmanns Rücktritt am 3. Juli war sein Abgang erwartet, stattdessen sendet der DFB ein klares Signal: Der Plan steht. Klopp in 5 Wochen – spätestens Anfang August – offiziell präsentiert. Erstmals in der Geschichte zahlt der DFB Ablöse für einen Bundestrainer: 5 Millionen Euro an Red Bull. DFB-Boss Watzke: über 50 Prozent Wahrscheinlichkeit. 4 Jahre Vertrag bis WM 2030. Eine neue Ära beginnt – glaubst du, Klopp oder Streich hätte mehr Erfolg?",
+  "uploadCaption": "Rudi Völler BLEIBT beim DFB – und das ist das stärkste Signal für Jürgen Klopp als neuen Bundestrainer! Der DFB-Countdown läuft: In 5 Wochen soll Klopp offiziell präsentiert werden. Erstmals zahlt der DFB Ablöse für einen Trainer – 5 Mio. € an Red Bull. Watzke sagt: über 50 % Wahrscheinlichkeit. Was denkst du?",
+  "uploadHashtags": "#DFB #Klopp #Völler #Bundestrainer #WM2026 #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "flagge.jpg",     "search": "Deutschland Flagge" },
+    { "file": "team.jpg",       "search": "DFB Team 2026" },
+    { "file": "voeller.jpg",    "search": "Rudi Völler DFB" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "pokal.jpg",      "search": "WM Pokal" },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich" },
+    { "file": "havertz.jpg",    "search": "Kai Havertz" },
+    { "file": "fans.jpg",       "search": "DFB Fans" },
+    { "file": "wm_logo.jpg",    "search": "WM 2026" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "OHNE IHN KEIN KLOPP.", "image": "flagge.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "NEWS · DFB", "title": "Klopp-Countdown: 5 Wochen", "image": "team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "voeller.jpg",    "name": "Rudi Völler",       "role": "DFB-Sportdirektor · bleibt im Amt",  "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Rücktritt · 3. Juli 2026",           "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",      "name": "Jürgen Klopp",      "role": "Wunsch-Bundestrainer · 59 Jahre",   "weight": 0.8 },
+    { "type": "stats", "title": "Klopp-Countdown", "stats": [
+        { "label": "Ablöse Red Bull",   "value": "5 Mio. €" },
+        { "label": "DFB-Deadline",      "value": "August 2026" },
+        { "label": "Watzke-Prognose",   "value": "> 50 %" }
+      ], "image": "pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg",   "name": "Florian Wirtz", "role": "Klopps Schlüsselspieler · 22 J.", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "Klopps Hoffnungsträger · 22 J.", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "DFB-Kapitän · 108 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "havertz.jpg", "name": "Kai Havertz",   "role": "Führungsspieler · 3 WM-Tore",   "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",    "weight": 0.8 },
+    { "type": "outro", "title": "Klopp oder Streich?", "subtitle": "Wer rettet den DFB? ⬇️", "image": "wm_logo.jpg", "weight": 1.0 }
+  ]
+}

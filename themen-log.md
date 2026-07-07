@@ -173,3 +173,4 @@
 2026-07-07 | drei-wm-stars-dfb-spiegel | Yamal 18J. Haaland 7 Tore Mbappé Elfmeter vs DFB-Versagen, Klopp Hausaufgaben WM-Viertelfinale (TOP-3-LISTE)
 2026-07-07 | musiala-vs-yamal-generation-duell | Musiala (22, 1 Tor in 4 WM-Spielen, Bank gegen Paraguay) vs Yamal (18, WM-Tor, 2× Man of Match, Spanien im Viertelfinale), 4 Jahre Altersunterschied Welten dazwischen, Klopp 4 Jahre bis WM 2030 (DUELL/VERGLEICH)
 2026-07-07 | klopp-drei-forderungen-dfb-ja | Klopp 3 Forderungen volle Kader-Kontrolle + Krawietz/Lijnders/Löw + Einfluss alle Altersklassen U15 bis A-Team, DFB sofort einverstanden, 5 Mio Ablöse Red Bull DFB-Novum, Matthäus "letztes Wort", Vertrag bis 2030 (GEHEIMNIS)
+2026-07-07 | voeller-bleibt-klopp-signal | Rudi Völler bleibt DFB-Sportdirektor nach Nagelsmann-Rücktritt, stärkstes Signal für Klopp-Deal, 5-Wochen-Countdown bis August, erstmals DFB zahlt Ablöse 5 Mio. Red Bull, Watzke über 50% Wahrscheinlichkeit, Klopp Vertrag bis WM 2030 (NEWS-DRAMA)
