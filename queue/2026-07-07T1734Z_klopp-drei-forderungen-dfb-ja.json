@@ -1,0 +1,38 @@
+{
+  "slug": "klopp-drei-forderungen-dfb-ja",
+  "createdAt": "2026-07-07T17:34:00Z",
+  "title": "Klopps 3 Forderungen – DFB sagte SOFORT ja",
+  "script": "3 BEDINGUNGEN – der DFB sagte SOFORT ja. Klopp fordert als Bundestrainer erstens volle Kader-Kontrolle – Schluss mit alten Seilschaften. Zweitens: sein bewährtes Trainer-Trio Krawietz, Lijnders und Löw kommt mit – allesamt noch bei Red Bull. Drittens: Einfluss auf ALLE deutschen Altersklassen von der U15 an. Dafür zahlt der DFB erstmals in seiner Geschichte eine Ablöse: rund 5 Millionen Euro. Matthäus fordert: Er muss das letzte Wort haben. Umbau für WM 2030. Ist das zu viel Macht – oder genau richtig?",
+  "uploadCaption": "Klopp stellt dem DFB 3 Bedingungen – und der DFB sagt sofort ja. Was er wirklich fordert und was das für die Nationalmannschaft bedeutet. #DFB #Klopp #WM2026 #WM2030",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2030 #WM2026 #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "klopp.jpg",       "search": "Jürgen Klopp" },
+    { "file": "dfb-team.jpg",    "search": "DFB Team 2026" },
+    { "file": "nagelsmann.jpg",  "search": "Julian Nagelsmann" },
+    { "file": "matthaeus.jpg",   "search": "Lothar Matthäus" },
+    { "file": "krawietz.jpg",    "search": "Peter Krawietz trainer" },
+    { "file": "lijnders.jpg",    "search": "Pepijn Lijnders trainer" },
+    { "file": "pokal.jpg",       "search": "WM Pokal" },
+    { "file": "wirtz.jpg",       "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",     "search": "Jamal Musiala" },
+    { "file": "fans.jpg",        "search": "DFB Fans" },
+    { "file": "wm_logo.jpg",     "search": "FIFA WM 2026 Logo" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "3 BEDINGUNGEN. DFB: SOFORT JA.", "image": "klopp.jpg",      "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2030", "title": "Klopps 3 Forderungen", "image": "dfb-team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Abgang · 7 Mio Jahresgehalt · zurückgetreten", "weight": 0.8 },
+    { "type": "image", "image": "matthaeus.jpg",  "name": "Lothar Matthäus",   "role": "Rekordnationalspieler · Experte", "weight": 0.8 },
+    { "type": "image", "image": "krawietz.jpg",   "name": "Peter Krawietz",    "role": "Co-Trainer · 808 gemeinsame Spiele", "weight": 0.8 },
+    { "type": "image", "image": "lijnders.jpg",   "name": "Pepijn Lijnders",   "role": "Co-Trainer · Red Bull bis 2029", "weight": 0.8 },
+    { "type": "stats", "title": "Klopps Forderungen", "stats": [
+        { "label": "DFB-Ablöse an Red Bull", "value": "5 Mio €" },
+        { "label": "Klopp-Vertrag bis", "value": "2030" },
+        { "label": "Forderungen sofort akzeptiert", "value": "3" }
+      ], "image": "pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg",   "name": "Florian Wirtz",  "role": "Offensiv · 22 · Kern für 2030", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala",  "role": "Offensiv · 22 · Kern für 2030", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",    "weight": 0.8 },
+    { "type": "outro", "title": "Zu viel Macht?", "subtitle": "Oder genau das, was der DFB braucht?", "image": "wm_logo.jpg", "weight": 1.0 }
+  ]
+}

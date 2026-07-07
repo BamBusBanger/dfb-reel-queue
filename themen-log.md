@@ -172,3 +172,4 @@
 2026-07-07 | kane-haaland-miami-bundesliga-wahnsinn | Kane Bayern 6 WM-Tore, Haaland Norwegen 7 WM-Tore 1. WM, WM-QF 11.7. Miami Hard Rock Stadium, Norwegen erstmals VF, 13 Tore zusammen vs DFB 9 Tore Elfmeter-Aus, Klopp plant Antwort (NEWS-DRAMA)
 2026-07-07 | drei-wm-stars-dfb-spiegel | Yamal 18J. Haaland 7 Tore Mbappé Elfmeter vs DFB-Versagen, Klopp Hausaufgaben WM-Viertelfinale (TOP-3-LISTE)
 2026-07-07 | musiala-vs-yamal-generation-duell | Musiala (22, 1 Tor in 4 WM-Spielen, Bank gegen Paraguay) vs Yamal (18, WM-Tor, 2× Man of Match, Spanien im Viertelfinale), 4 Jahre Altersunterschied Welten dazwischen, Klopp 4 Jahre bis WM 2030 (DUELL/VERGLEICH)
+2026-07-07 | klopp-drei-forderungen-dfb-ja | Klopp 3 Forderungen volle Kader-Kontrolle + Krawietz/Lijnders/Löw + Einfluss alle Altersklassen U15 bis A-Team, DFB sofort einverstanden, 5 Mio Ablöse Red Bull DFB-Novum, Matthäus "letztes Wort", Vertrag bis 2030 (GEHEIMNIS)
