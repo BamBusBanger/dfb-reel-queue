@@ -169,3 +169,4 @@
 2026-07-06 | kane-azteca-dfb-ironie | Harry Kane 6 WM-Tore für England im Aztekenstadion (3:2 vs Mexiko, historisch), Bayerns 95-Mio-Stürmer, Erstmals England gewinnt im Azteca, DFB-Ironie Havertz 2/Woltemade 0 Tore, 3 Elfmeter-Fehlschüsse WM-Aus (TOP-3-LISTE)
 2026-07-06 | marokko-frankreich-rematch-viertelfinale | Marokko 3:0 Kanada Viertelfinale, Hakimi vs Mbappé, 2022 Halbfinale Revanche 2:0, erste Afrikaner im WM-SF, Deutschland zuhause (DUELL/VERGLEICH)
 2026-07-07 | ronaldo-wm-abschied-16-ballkontakte | Ronaldo WM-Abschied Portugal 0:1 Spanien Merino-Joker 90+1, 41 Jahre 5. WM-Turnier 0 Titel, nur 16 Ballkontakte letztes Spiel 27. WM-Match, 10 WM-Tore vs Klose 16 DFB-Rekord, weinte nach Abpfiff (GEHEIMNIS)
+2026-07-07 | kane-haaland-miami-bundesliga-wahnsinn | Kane Bayern 6 WM-Tore, Haaland Norwegen 7 WM-Tore 1. WM, WM-QF 11.7. Miami Hard Rock Stadium, Norwegen erstmals VF, 13 Tore zusammen vs DFB 9 Tore Elfmeter-Aus, Klopp plant Antwort (NEWS-DRAMA)

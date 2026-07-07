@@ -1,0 +1,105 @@
+{
+  "slug": "kane-haaland-miami-bundesliga-wahnsinn",
+  "createdAt": "2026-07-07T09:41:00Z",
+  "title": "Kane vs. Haaland: Das Viertelfinale, das DFB-Fans nur träumen können",
+  "script": "13 TORE – OHNE DEN DFB! Zwei Bundesliga-Bomber kämpfen am 11. Juli in Miami um das WM-Halbfinale: Harry Kane, Bayerns 95-Millionen-Mann, mit 6 Toren für England. Erling Haaland – in seiner ERSTEN WM überhaupt – mit 7 Toren. Norwegen steht zum ersten Mal in der WM-Geschichte im Viertelfinale! Zusammen: 13 Tore in 5 Spielen. Deutschland? 9 Tore – dann Elfmeter-Aus gegen Paraguay. Klopp sitzt in New York und plant: Wer wird Deutschlands Antwort auf Haaland und Kane?",
+  "uploadCaption": "Zwei Bundesliga-Bomber kämpfen ums WM-Halbfinale – Kane (6 Tore, Bayern München) vs. Haaland (7 Tore, Norwegen erstmals VF) am 11. Juli in Miami. Deutschland schaut zu, Klopp plant bereits. Wer wird Deutschlands Haaland?",
+  "uploadHashtags": "#DFB #WM2026 #Kane #Haaland #England #Norwegen #Viertelfinale #Klopp #Bayern #Bundesliga",
+  "images": [
+    { "file": "haaland.jpg",        "search": "Erling Haaland Norway World Cup 2026" },
+    { "file": "harry_kane.jpg",     "search": "Harry Kane England World Cup 2026" },
+    { "file": "hard_rock_miami.jpg","search": "Hard Rock Stadium Miami World Cup 2026" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "woltemade.jpg",      "search": "Nick Woltemade" },
+    { "file": "havertz.jpg",        "search": "Kai Havertz" },
+    { "file": "musiala.jpg",        "search": "Jamal Musiala" },
+    { "file": "fans_hoffen.jpg",    "search": "DFB Fans public viewing" },
+    { "file": "dfb_fans.jpg",       "search": "Deutschland Fans WM Stadion" },
+    { "file": "wm_pokal.jpg",       "search": "WM Pokal FIFA" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "13 TORE – OHNE DEN DFB.",
+      "image": "haaland.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · Viertelfinale 11. Juli · Miami",
+      "title": "Kane vs. Haaland",
+      "image": "hard_rock_miami.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "harry_kane.jpg",
+      "name": "Harry Kane",
+      "role": "England · Bayern München · 6 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "haaland.jpg",
+      "name": "Erling Haaland",
+      "role": "Norwegen · 7 WM-Tore · 1. WM ever",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen des Wahnsinns",
+      "stats": [
+        { "label": "Tore zusammen", "value": "13" },
+        { "label": "Norw. WM-Viertelfinale", "value": "1. Mal" },
+        { "label": "DFB WM-Tore gesamt", "value": "9" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Neuer Bundestrainer · plant WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "DFB-Star · 2 WM-Tore in 4 Spielen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "75 Mio. € Stürmer · 0 WM-Minuten",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "DFB · 1 WM-Tor · Klopps Hoffnung",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_hoffen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer wird Deutschlands Haaland?",
+      "subtitle": "Kommentier jetzt!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
