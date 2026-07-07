@@ -1,0 +1,98 @@
+{
+  "slug": "ronaldo-wm-abschied-16-ballkontakte",
+  "createdAt": "2026-07-07T05:48:00Z",
+  "title": "Ronaldo weint – Ende einer WM-Ära",
+  "script": "NUR 16 BALLKONTAKTE in Ronaldos letztem WM-Spiel aller Zeiten. Mit 41 Jahren bestritt er sein 5. WM-Turnier — und geht ohne Titel. Joker Mikel Merino stand nur 5 Minuten auf dem Platz, als er Spanien in der 90+1. Minute ins Viertelfinale schoss. Ronaldo weinte am Boden. Dabei: 10 WM-Tore in 27 Spielen — weit hinter Deutschlands Klose mit 16. Die Welt schaut zu, die Deutschen kennen das Gefühl: Raus in der K.o.-Runde, Tränen — und das bittere WM-Erwachen.",
+  "uploadCaption": "16 Ballkontakte. 5 Turniere. 0 Titel. Ronaldos WM-Abschied gegen Spanien (0:1) ist einer der dramatischsten Momente dieser WM 2026. Merinos Joker-Tor in der 90+1. Minute macht es noch grausamer. #Ronaldo #WM2026 #Portugal #Spanien",
+  "uploadHashtags": "#Ronaldo #WM2026 #Portugal #Spanien #DFB #Fussball #Klose #Abschied",
+  "images": [
+    { "file": "ronaldo.jpg", "search": "Cristiano Ronaldo WM 2026 Portugal" },
+    { "file": "merino.jpg", "search": "Mikel Merino Spanien WM 2026" },
+    { "file": "klose.jpg", "search": "Miroslav Klose", "library": "spieler/miroslav_klose_jubel_dfb_01.jpg" },
+    { "file": "messi.jpg", "search": "Lionel Messi", "library": "spieler/messi_jubel_01.jpeg" },
+    { "file": "yamal.jpg", "search": "Lamine Yamal Spanien WM 2026" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal", "library": "pokal/wm_pokal_vitrine_01.jpg" },
+    { "file": "fans.jpg", "search": "DFB Fans Fanzone", "library": "fans/fanzone_brandenburger_tor_01.jpg" },
+    { "file": "dfb_team.jpg", "search": "Deutschland Teamfoto 2026", "library": "team/deutschland-teamfoto-2026-hochkant.jpg" },
+    { "file": "traenen.jpg", "search": "Legende Abschied WM Nacht symbolisch tränen", "thematic": true },
+    { "file": "wm_logo.jpg", "search": "WM 2026 Logo", "library": "symbole/wm2026_logo_01.webp" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NUR 16 BALLKONTAKTE – Ronaldos letztes WM-Spiel",
+      "image": "ronaldo.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM-ABSCHIED",
+      "title": "Ronaldo weint – 5 Turniere, 0 Titel",
+      "image": "traenen.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "ronaldo.jpg",
+      "name": "Cristiano Ronaldo",
+      "role": "Portugal · 41 J. · 5. WM-Turnier",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "merino.jpg",
+      "name": "Mikel Merino",
+      "role": "Joker · Siegtor 90+1 Minute",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Ronaldo WM-Bilanz",
+      "stats": [
+        { "label": "WM-Tore", "value": "10" },
+        { "label": "Klose-Rekord DFB", "value": "16" },
+        { "label": "WM-Titel in 5 Turnieren", "value": "0" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klose.jpg",
+      "name": "Miroslav Klose",
+      "role": "DFB-Legende · 16 WM-Tore · Weltrekord",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "messi.jpg",
+      "name": "Lionel Messi",
+      "role": "Argentinien · 20 WM-Tore · 1 Titel",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · 19 Jahre · WM-Viertelfinale",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "War Ronaldo je der beste WM-Spieler?",
+      "subtitle": "Ja oder Nein – kommentier!",
+      "image": "wm_logo.jpg",
+      "weight": 1.0
+    }
+  ]
+}
