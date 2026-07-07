@@ -1,0 +1,109 @@
+{
+  "slug": "musiala-vs-yamal-generation-duell",
+  "createdAt": "2026-07-07T15:34:44Z",
+  "title": "Musiala vs. Yamal – Das WM-Duell der Generationen",
+  "script": "4 Jahre jünger – und schon in einer völlig anderen Welt. Lamine Yamal, gerade 18, führt Spanien souverän ins WM-Viertelfinale: WM-Tor, Assists, mehrfach Man of the Match. Jamal Musiala, 22, sitzt beim entscheidenden Spiel gegen Paraguay auf der Bank. Deutschland scheidet im Elfmeterschießen aus. Musiala: 1 Tor in 4 Spielen, nie wirklich in Topform. Yamal: nächste Runde, Europa staunt. Klopp hat 4 Jahre Zeit bis WM 2030. Reicht das für Deutschland?",
+  "uploadCaption": "Yamal (18) steht im WM-Viertelfinale. Musiala (22) saß gegen Paraguay auf der Bank. 4 Jahre Altersunterschied – und Welten dazwischen. Was macht Klopp jetzt daraus?",
+  "uploadHashtags": "#DFB #WM2026 #Musiala #Yamal #Spanien #Fussball #Deutschland #Klopp #WM2030",
+  "images": [
+    { "file": "musiala.jpg",           "search": "Jamal Musiala" },
+    { "file": "yamal_wm.jpg",          "search": "Lamine Yamal WM 2026" },
+    { "file": "musiala_curacao.jpg",   "search": "Jamal Musiala curacao aktion" },
+    { "file": "yamal_aktion.jpg",      "search": "Lamine Yamal Spanien" },
+    { "file": "musiala_jubel.jpg",     "search": "Jamal Musiala torjubel DFB" },
+    { "file": "dfb_fans_trauer.jpg",   "search": "DFB Fans public viewing Entsetzen" },
+    { "file": "yamal_spanien.jpg",     "search": "Lamine Yamal Spanien 2026" },
+    { "file": "spanien.jpg",           "search": "Spanien WM 2026 Viertelfinale" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",             "search": "Florian Wirtz jubel DFB" },
+    { "file": "deutschland_fans.jpg",  "search": "Deutschland Fans Stadion" },
+    { "file": "wm_logo.jpg",           "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "4 JAHRE JÜNGER – UND SCHON IN EINER ANDEREN WELT.",
+      "image": "musiala.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · DUELL",
+      "title": "Musiala vs. Yamal",
+      "image": "yamal_wm.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_curacao.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern München · 22 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "yamal_aktion.jpg",
+      "name": "Lamine Yamal",
+      "role": "FC Barcelona · 18 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Musiala WM 2026",
+      "stats": [
+        { "label": "WM-Tore", "value": "1" },
+        { "label": "Spiele", "value": "4" },
+        { "label": "Aus", "value": "Sechzehntelfinale" }
+      ],
+      "image": "musiala_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans_trauer.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Yamal WM 2026",
+      "stats": [
+        { "label": "WM-Tor", "value": "1+" },
+        { "label": "Man of Match", "value": "2×" },
+        { "label": "Runde", "value": "Viertelfinale" }
+      ],
+      "image": "yamal_spanien.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "spanien.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer · Ziel WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 22 Jahre · 0 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Musiala oder Yamal – wer ist 2030 der bessere Spieler?",
+      "subtitle": "Schreib's in die Kommentare!",
+      "image": "wm_logo.jpg",
+      "weight": 1.0
+    }
+  ]
+}

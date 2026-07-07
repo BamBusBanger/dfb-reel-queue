@@ -171,3 +171,4 @@
 2026-07-07 | ronaldo-wm-abschied-16-ballkontakte | Ronaldo WM-Abschied Portugal 0:1 Spanien Merino-Joker 90+1, 41 Jahre 5. WM-Turnier 0 Titel, nur 16 Ballkontakte letztes Spiel 27. WM-Match, 10 WM-Tore vs Klose 16 DFB-Rekord, weinte nach Abpfiff (GEHEIMNIS)
 2026-07-07 | kane-haaland-miami-bundesliga-wahnsinn | Kane Bayern 6 WM-Tore, Haaland Norwegen 7 WM-Tore 1. WM, WM-QF 11.7. Miami Hard Rock Stadium, Norwegen erstmals VF, 13 Tore zusammen vs DFB 9 Tore Elfmeter-Aus, Klopp plant Antwort (NEWS-DRAMA)
 2026-07-07 | drei-wm-stars-dfb-spiegel | Yamal 18J. Haaland 7 Tore Mbappé Elfmeter vs DFB-Versagen, Klopp Hausaufgaben WM-Viertelfinale (TOP-3-LISTE)
+2026-07-07 | musiala-vs-yamal-generation-duell | Musiala (22, 1 Tor in 4 WM-Spielen, Bank gegen Paraguay) vs Yamal (18, WM-Tor, 2× Man of Match, Spanien im Viertelfinale), 4 Jahre Altersunterschied Welten dazwischen, Klopp 4 Jahre bis WM 2030 (DUELL/VERGLEICH)
