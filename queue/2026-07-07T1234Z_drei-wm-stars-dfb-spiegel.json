@@ -1,0 +1,111 @@
+{
+  "slug": "drei-wm-stars-dfb-spiegel",
+  "createdAt": "2026-07-07T12:34:00Z",
+  "title": "3 WM-Stars zeigen Klopp was beim DFB fehlt",
+  "script": "3 Spieler zeigen beim WM-Viertelfinale, was dem DFB fehlt. Nummer 1: Lamine Yamal – 18 Jahre alt, geboren 2007. Während Florian Wirtz 360 Minuten spielte und kein einziges Tor schoss, eliminierte Yamal mit 18 Jahren Cristiano Ronaldo. Nummer 2: Erling Haaland – 7 Tore in nur 4 WM-Spielen. Nummer 3: Kylian Mbappé – schoss den Elfmeter der zählt und stoppte DFB-Bezwinger Paraguay. Deutschland verschoss dagegen gleich 3 Elfmeter. Klopp, hier sind deine Hausaufgaben.",
+  "uploadCaption": "3 Weltklasse-Spieler. 3 bittere DFB-Lektionen. Klopp übernimmt jetzt – wird er die Antworten finden?",
+  "uploadHashtags": "#DFB #WM2026 #Klopp #Yamal #Haaland #Mbappe #Fussball #Deutschland",
+  "images": [
+    { "file": "yamal.jpg",     "search": "Lamine Yamal" },
+    { "file": "klopp.jpg",     "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",     "search": "Florian Wirtz" },
+    { "file": "haaland.jpg",   "search": "Erling Haaland" },
+    { "file": "havertz.jpg",   "search": "Kai Havertz" },
+    { "file": "mbappe.jpg",    "search": "Kylian Mbappé" },
+    { "file": "woltemade.jpg", "search": "Nick Woltemade" },
+    { "file": "fans.jpg",      "search": "DFB Fans Entsetzen" },
+    { "file": "pokal.jpg",     "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 STARS. 3 DFB-LEKTIONEN.",
+      "image": "yamal.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026",
+      "title": "Der DFB-Spiegel",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · 18 Jahre · eliminierte Ronaldo",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Lektion 1 – Kreativität",
+      "stats": [
+        { "label": "Yamal: Alter", "value": "18" },
+        { "label": "Wirtz WM-Tore", "value": "0" }
+      ],
+      "image": "wirtz.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB · 360 Min · 0 Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "haaland.jpg",
+      "name": "Erling Haaland",
+      "role": "Norwegen · 7 WM-Tore in 4 Spielen",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Lektion 2 – Torgefahr",
+      "stats": [
+        { "label": "Haaland allein", "value": "7 Tore" },
+        { "label": "DFB gesamt", "value": "11 Tore" }
+      ],
+      "image": "havertz.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "mbappe.jpg",
+      "name": "Kylian Mbappé",
+      "role": "Frankreich · stoppt DFB-Bezwinger Paraguay",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Lektion 3 – Nervenstärke",
+      "stats": [
+        { "label": "Mbappé Elfmeter", "value": "1/1 ✓" },
+        { "label": "DFB Fehlschüsse", "value": "3" }
+      ],
+      "image": "woltemade.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Neuer Bundestrainer · Aufgabe: 2028",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wann spielt Deutschland wieder auf diesem Niveau?",
+      "subtitle": "Schreib's in die Kommentare ↓",
+      "image": "pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
