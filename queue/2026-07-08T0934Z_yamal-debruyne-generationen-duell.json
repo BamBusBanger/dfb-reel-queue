@@ -1,0 +1,96 @@
+{
+  "slug": "yamal-debruyne-generationen-duell",
+  "createdAt": "2026-07-08T09:34:00Z",
+  "title": "Yamal (18) vs. De Bruyne (35) – Duell der Generationen",
+  "script": "17 Jahre Altersunterschied – eine WM, eine Chance. Lamine Yamal, gerade 18, ist das Staunen dieser WM: Spanien seit 35 Spielen ungeschlagen, kein Gegentor kassiert. Kevin De Bruyne, 35, spielt wahrscheinlich sein letztes großes Turnier – und begann gegen die USA nicht mal in der Startelf. Freitag, 21 Uhr, Los Angeles. Wunderkind gegen Abschied. Und Klopp schaut ganz genau hin: Denn Said El Mala, 19, soll Deutschlands Antwort auf Yamal werden. Wer gewinnt das Duell der Generationen?",
+  "uploadCaption": "17 Jahre Unterschied, eine WM, ein Sieger. Yamal (18) vs. De Bruyne (35) – Freitag 21 Uhr in Los Angeles ist das Viertelfinale der Generationen. Und Klopp studiert schon den Fahrplan: Said El Mala (19) soll Deutschlands Yamal werden. Wer macht das Rennen?",
+  "uploadHashtags": "#WM2026 #Yamal #DeBruyne #Spanien #Belgien #DFB #Klopp #ElMala #Viertelfinale #FIFA",
+  "images": [
+    { "file": "yamal.jpg",                       "search": "Lamine Yamal Spanien WM 2026" },
+    { "file": "debruyne.jpg",                    "search": "Kevin De Bruyne Belgien WM 2026" },
+    { "file": "wm2026_logo_01.webp",             "search": "WM 2026 Logo" },
+    { "file": "sofi_stadium_01.jpg",             "search": "SoFi Stadium Los Angeles" },
+    { "file": "wm_pokal_vitrine_01.jpg",         "search": "WM Pokal Gold" },
+    { "file": "juergen_klopp_01.jpg",            "search": "Jürgen Klopp" },
+    { "file": "el_mala.jpg",                     "search": "Said El Mala FC Köln" },
+    { "file": "belgien_fans.jpg",                "search": "Belgien Fans WM 2026" },
+    { "file": "fans_tribuene_euro12_01.jpg",     "search": "Fans Tribüne Stadion" },
+    { "file": "deutschland_flagge_bodensee_01.jpg", "search": "Deutschland Flagge schwarz rot gold" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "17 JAHRE UNTERSCHIED. EINE WM.",
+      "image": "yamal.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 | Viertelfinale 10.7. Los Angeles",
+      "title": "Duell der Generationen",
+      "image": "wm2026_logo_01.webp",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · 18 · Rechtsaußen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "debruyne.jpg",
+      "name": "Kevin De Bruyne",
+      "role": "Belgien · 35 · Letztes WM-Turnier",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Zahlen zum Duell",
+      "stats": [
+        { "label": "Spanien ungeschlagen", "value": "35 Spiele" },
+        { "label": "Belgien-Serie", "value": "18 Spiele" },
+        { "label": "Altersunterschied", "value": "17 Jahre" }
+      ],
+      "image": "sofi_stadium_01.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "belgien_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal_vitrine_01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "juergen_klopp_01.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer · beobachtet genau",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "el_mala.jpg",
+      "name": "Said El Mala",
+      "role": "FC Köln · 19 · Deutschlands Yamal?",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_tribuene_euro12_01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Stoppt Belgien das Wunderkind?",
+      "subtitle": "Schreib deinen Tipp in die Kommentare!",
+      "image": "deutschland_flagge_bodensee_01.jpg",
+      "weight": 1.0
+    }
+  ]
+}
