@@ -1,0 +1,101 @@
+{
+  "slug": "u17-goldgeneration-klopp",
+  "createdAt": "2026-07-08T15:34:00Z",
+  "title": "Deutschlands geheime Goldgeneration",
+  "script": "Während die WM 2026 läuft, hütet Deutschland sein größtes Geheimnis. 2023 holte das DFB-U17 erstmals in seiner Geschichte den Weltmeistertitel – in Indonesien, vor fast niemandem. Assan Ouédraogo, Said El Mala, Paris Brunner: Alle bei WM 2026 ohne eine einzige Spielminute. Nagelsmann übersah sie. Klopp nicht. Bei der WM 2030 sind sie 23 bis 25 Jahre alt – genau die richtige Zeit. Wirtz und Musiala dann 26. Und plötzlich ergibt der Plan Sinn.",
+  "uploadCaption": "Deutschlands geheime Goldgeneration. 2023 erstmals U17-Weltmeister – bei WM 2026: 0 Spielminuten. Aber WM 2030? Da sind sie Prime-Age. Klopp weiß es.",
+  "uploadHashtags": "#DFB #WM2026 #Klopp #WM2030 #Goldgeneration #Ouedraogo #ElMala #Fussball #Deutschland #Nationalmannschaft",
+  "images": [
+    { "file": "teamfoto.jpg",   "search": "DFB Team 2026" },
+    { "file": "u17sieger.jpg",  "search": "U17 Weltmeisterschaft Pokal Jubel Jugendfussball Titelgewinn", "thematic": true },
+    { "file": "ouedraogo.jpg",  "search": "Assan Ouédraogo" },
+    { "file": "el-mala.jpg",    "search": "Said El Mala FC Köln" },
+    { "file": "brunner.jpg",    "search": "Paris Brunner Borussia Dortmund" },
+    { "file": "pokal.jpg",      "search": "WM Pokal" },
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "fans.jpg",       "search": "DFB Fans" },
+    { "file": "dfb-flagge.jpg", "search": "Deutschland Flagge Schwarz Rot Gold" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DEUTSCHLANDS GEHEIMSTE WAFFE IST 20 JAHRE JUNG.",
+      "image": "teamfoto.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2030",
+      "title": "Die Gold-Generation",
+      "image": "u17sieger.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Mittelfeld · 20 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "el-mala.jpg",
+      "name": "Said El Mala",
+      "role": "Sturm · 19 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "brunner.jpg",
+      "name": "Paris Brunner",
+      "role": "Sturm · 20 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "U17-WM 2023 – Klopps Goldgeneration",
+      "stats": [
+        { "label": "Erster U17-WM-Titel DFB-Geschichte", "value": "2023" },
+        { "label": "WM-Minuten 2026 (Ouédraogo/El Mala)", "value": "0" },
+        { "label": "Alter bei WM 2030", "value": "23–25 J." }
+      ],
+      "image": "pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Neuer Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Dein Urteil:",
+      "subtitle": "Ist die Goldgeneration Deutschlands Geheimplan für WM 2030?",
+      "image": "dfb-flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
