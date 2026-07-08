@@ -1,0 +1,103 @@
+{
+  "slug": "klopp-rekordgehalt-bundestrainer",
+  "createdAt": "2026-07-08T19:35:00Z",
+  "title": "Klopp kostet mehr als alle vor ihm",
+  "script": "Zehn bis zwölf Millionen Euro pro Jahr. So viel will der DFB für Jürgen Klopp bezahlen – mehr als doppelt so viel wie Nagelsmann mit 4,8 Millionen. Dazu erstmals überhaupt eine Ablöse: fünf Millionen Euro an Red Bull. Lothar Matthäus nennt das Gesamtpaket eines, das Kopfschmerzen bereitet. Drei WM-Frühaus in Folge, 14 Millionen Abfindung für Nagelsmann, jetzt nochmal fünf Millionen Ablöse und fast zwölf Millionen Jahresgehalt. Ist Klopp dieses historische Investment wert?",
+  "uploadCaption": "10–12 Mio. €/Jahr + 5 Mio. Ablöse an Red Bull – Klopp wird der teuerste Bundestrainer aller Zeiten. Erstmals in DFB-Geschichte zahlt der Verband Transfergeld für einen Trainer. Matthäus warnt vor dem Monster-Paket. Euer Urteil?",
+  "uploadHashtags": "#Klopp #DFB #Bundestrainer #WM2026 #WM2030 #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "klopp.jpg",       "search": "Jürgen Klopp" },
+    { "file": "nagelsmann.jpg",  "search": "Julian Nagelsmann" },
+    { "file": "matthaeus.jpg",   "search": "Lothar Matthäus" },
+    { "file": "wirtz.jpg",       "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg",     "search": "Joshua Kimmich" },
+    { "file": "pokal.jpg",       "search": "WM Pokal" },
+    { "file": "fans.jpg",        "search": "DFB Fans" },
+    { "file": "dfbteam.jpg",     "search": "Deutschland Team 2026" },
+    { "file": "vertrag.jpg",     "search": "Bundestrainer Millionenvertrag Koffer", "thematic": true },
+    { "file": "stadion.jpg",     "search": "MetLife Stadium" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "10–12 MILLIONEN EURO PRO JAHR.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB-BUNDESTRAINER",
+      "title": "Klopp: Monster-Gehalt",
+      "image": "nagelsmann.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Neuer Bundestrainer · ab 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Ex-Bundestrainer · 4,8 Mio €/Jahr",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Was Klopp den DFB kostet",
+      "stats": [
+        { "label": "Klopp Jahresgehalt", "value": "10–12 Mio €" },
+        { "label": "Nagelsmann Jahresgehalt", "value": "4,8 Mio €" },
+        { "label": "Red-Bull-Ablöse", "value": "5 Mio €" }
+      ],
+      "image": "pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "matthaeus.jpg",
+      "name": "Lothar Matthäus",
+      "role": "Rekordnationalspieler · Warnung",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "vertrag.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB-Star · 22 J. · Klopp-Schützling",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 108 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfbteam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Ist Klopp das Geld wert?",
+      "subtitle": "JA oder NEIN – kommentiert!",
+      "image": "stadion.jpg",
+      "weight": 1.0
+    }
+  ]
+}
