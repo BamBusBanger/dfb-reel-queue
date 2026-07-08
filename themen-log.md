@@ -178,3 +178,4 @@
 2026-07-08 | yamal-debruyne-generationen-duell | Lamine Yamal (18) vs Kevin De Bruyne (35) WM-Viertelfinale 10.7. Los Angeles, Spanien 35 Spiele ungeschlagen vs Belgien 4:1 vs USA, 17 Jahre Altersunterschied, De Bruyne letztes WM nicht in Startelf, Klopp-Perspektive: El Mala (19) als Deutschlands Yamal (DUELL/VERGLEICH)
 2026-07-08 | messi-aegypten-comeback-wahnsinn | Messi Comeback 0:2 gegen Ägypten 3:2, Elfmeter gehalten, Romero 79./Messi 83./Fernández 90+2, 8 Turniertore WM-Topscorer, erstes 0:2-Knockout-Comeback WM-Geschichte (NEWS-DRAMA)
 2026-07-08 | u17-goldgeneration-klopp | U17-Weltmeister 2023 erstmals DFB-Geschichte, Ouédraogo/El Mala/Brunner 0 WM-Minuten 2026, Prime-Age 23-25 bei WM 2030, Klopp Goldgeneration als Geheimplan (GEHEIMNIS)
+2026-07-08 | topscorer-rennen-messi-haaland-mbappe | WM Topscorer-Rennen vor QF: Messi 8 Tore, Haaland 7, Mbappé 7, Goldener Schuh Thriller, Kane 6, Klopp schaut zu (TOP-3-LISTE)

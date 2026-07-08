@@ -1,0 +1,100 @@
+{
+  "slug": "topscorer-rennen-messi-haaland-mbappe",
+  "createdAt": "2026-07-08T17:34:00Z",
+  "title": "Goldener Schuh Thriller: Messi 8, Haaland 7, Mbappé 7",
+  "script": "8 Tore. Messi führt den Goldenen-Schuh-Kampf – aber Haaland und Mbappé lauern mit je 7! Haaland schoss Brasilien mit 2 Treffern sensationell aus dem Turnier. Mbappé? 7 Tore, aber 1 Elfmeter – der FIFA-Gleichstand-Malus kostet ihn vielleicht den Goldenen Schuh. Und Harry Kane trifft ausgerechnet auf Haaland persönlich in Miami. 4 Superstars, 1 Trophäe – während Klopp von zuhause zuschaut und für 2030 Hausaufgaben macht.",
+  "uploadCaption": "Messi führt mit 8 Toren – aber Haaland und Mbappé machen Druck! Wer holt den Goldenen Schuh der WM 2026? Der Thriller beginnt jetzt im Viertelfinale. Dein Tipp in die Kommentare!",
+  "uploadHashtags": "#WM2026 #GoldenerSchuh #Messi #Haaland #Mbappe #Topscorer #DFB #Klopp #Fussball #WorldCup2026",
+  "images": [
+    { "file": "messi_jubel.jpg",   "search": "Lionel Messi" },
+    { "file": "miami_stadion.jpg", "search": "Hard Rock Stadium Miami" },
+    { "file": "messi_spiel.jpg",   "search": "Lionel Messi Argentinien" },
+    { "file": "haaland.jpg",       "search": "Erling Haaland WM 2026" },
+    { "file": "mbappe.jpg",        "search": "Kylian Mbappé WM 2026" },
+    { "file": "kane.jpg",          "search": "Harry Kane WM 2026" },
+    { "file": "wm_pokal.jpg",      "search": "WM Pokal" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "fans.jpg",          "search": "Fußball Fans WM Tribüne" },
+    { "file": "goldener_schuh.jpg","search": "Goldener Schuh Trophäe Fußball", "thematic": true },
+    { "file": "wm_logo.jpg",       "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "8 TORE. MESSI FÜHRT. DOCH DER KRIMI BEGINNT JETZT.",
+      "image": "messi_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 VIERTELFINALE",
+      "title": "Goldener Schuh Thriller",
+      "image": "miami_stadion.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "messi_spiel.jpg",
+      "name": "Lionel Messi",
+      "role": "Argentinien · 8 Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "haaland.jpg",
+      "name": "Erling Haaland",
+      "role": "Norwegen · 7 Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "mbappe.jpg",
+      "name": "Kylian Mbappé",
+      "role": "Frankreich · 7 Tore (1 Elfer)",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kane.jpg",
+      "name": "Harry Kane",
+      "role": "England · 6 Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Topscorer vor dem Viertelfinale",
+      "stats": [
+        { "label": "Messi",   "value": "8" },
+        { "label": "Haaland", "value": "7" },
+        { "label": "Mbappé",  "value": "7" },
+        { "label": "Kane",    "value": "6" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer ab 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "goldener_schuh.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer holt den Goldenen Schuh?",
+      "subtitle": "Messi, Haaland oder Mbappé – dein Tipp!",
+      "image": "wm_logo.jpg",
+      "weight": 1.0
+    }
+  ]
+}
