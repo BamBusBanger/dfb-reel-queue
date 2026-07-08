@@ -1,0 +1,100 @@
+{
+  "slug": "klopp-baustellen-wm-2030",
+  "createdAt": "2026-07-08T05:35:00Z",
+  "title": "Klopps 3 Baustellen bis WM 2030",
+  "script": "3 WM-Frühaus in Folge. Das darf 2030 nicht noch mal passieren – und Klopp weiß genau wo er anfängt. Baustelle 1: Talentförderung – Karl, Ouédraogo, El Mala, alle unter 20, das stärkste Generationen-Trio seit Jahrzehnten. Baustelle 2: Wirtz und Musiala, je 22 Jahre alt, endlich die taktische Freiheit, die sie verdienen. Baustelle 3: Hochpressing à la Liverpool – 96 Kilometer Laufleistung als neue DFB-DNA. Klopp hat Vollmacht über alle Altersklassen, U15 bis A-Team. 4 Jahre, 1 Ziel: Stern Nummer 5.",
+  "uploadCaption": "3 WM-Frühaus. 3 Baustellen. 4 Jahre Zeit. Klopp hat einen Plan – und diesmal könnte er aufgehen. Was denkst du?",
+  "uploadHashtags": "#Klopp #DFB #WM2026 #WM2030 #Bundestrainer #DFBTeam #Fussball",
+  "images": [
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "team.jpg",            "search": "DFB Team 2026" },
+    { "file": "karl.jpg",            "search": "Lennart Karl" },
+    { "file": "ouedraogo.jpg",       "search": "Assan Ouédraogo" },
+    { "file": "wirtz.jpg",           "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",         "search": "Jamal Musiala" },
+    { "file": "el_mala.jpg",         "search": "Said El Mala" },
+    { "file": "pressingtraining.jpg","search": "taktisches Hochpressing Übung Mannschaft", "thematic": true },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal" },
+    { "file": "fans.jpg",            "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 FRÜHAUS. KLOPP ÄNDERT ALLES.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2030",
+      "title": "Klopps 3 Baustellen",
+      "image": "team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Neuer Bundestrainer · Vertrag bis 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die bittere Bilanz",
+      "stats": [
+        { "label": "WM-Frühaus in Folge", "value": "3×" },
+        { "label": "Jahre bis WM 2030", "value": "4" },
+        { "label": "Vollmacht Kaderentscheidungen", "value": "100%" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "karl.jpg",
+      "name": "Lennart Karl",
+      "role": "Baustelle 1: Talent · 18 Jahre · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Baustelle 1: Talent · 20 Jahre · RB Leipzig",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "el_mala.jpg",
+      "name": "Said El Mala",
+      "role": "Baustelle 1: Talent · 19 Jahre · 13 Tore · 1. FC Köln",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Baustelle 2: Freiheit · 22 Jahre · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Baustelle 2: Freiheit · 22 Jahre · FC Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pressingtraining.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Klopp den 5. Stern?",
+      "subtitle": "Oder wieder Viertelfinale 2030?",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
