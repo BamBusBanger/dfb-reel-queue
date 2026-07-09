@@ -1,0 +1,36 @@
+{
+  "slug": "klopp-schattenkader-3-neue",
+  "createdAt": "2026-07-09T19:34:00Z",
+  "title": "Klopps 3 Geheim-Kandidaten",
+  "script": "Diese 3 Spieler hat Nagelsmann bei der WM nie nominiert – und Klopp wird sie SOFORT anrufen. Erstens: Rocco Reitz, 24, Gladbach – kein einziges A-Länderspiel, Top-10 Bundesliga-Sprints, das perfekte Pressing-Profil. Zweitens: Yann Bisseck, 25, Inter Mailand – Weltklasse-Innenverteidiger, von Nagelsmann komplett ignoriert. Drittens: Kevin Schade, 24, Brentford – Premier-League-Power im Liverpool-Stil. Klopp-Debüt: 24. September, Nations League gegen die Niederlande. Wen würde Klopp als ERSTES anrufen?",
+  "uploadCaption": "Klopp wird sofort das Telefon in die Hand nehmen. Diese 3 Spieler lagen bei Nagelsmann KOMPLETT unter dem Radar – und passen wie die Faust aufs Auge zum neuen Bundestrainer. Debüt 24.09. Nations League vs. Niederlande. Wen würdest du noch nominieren?",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2026 #Fussball #RoccoReitz #Bisseck #KevinSchade",
+  "images": [
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "dfb-team.jpg", "search": "DFB Team 2026 Deutschland" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "klopp-schattencasting.jpg", "search": "geheimes Notizbuch Spielerliste schwarz-rot-gold", "thematic": true },
+    { "file": "rocco-reitz.jpg", "search": "Rocco Reitz Gladbach" },
+    { "file": "flagge.jpg", "search": "Deutschland Flagge Berlin" },
+    { "file": "bisseck.jpg", "search": "Yann Bisseck Inter Mailand" },
+    { "file": "schade.jpg", "search": "Kevin Schade Brentford" },
+    { "file": "fanzone.jpg", "search": "Fanzone Brandenburger Tor 2024" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "fans.jpg", "search": "Deutschland Fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "3 SPIELER, DIE KLOPP SOFORT ANRUFEN WIRD!", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPPS SCHATTENKADER", "title": "3 Geheim-Kandidaten", "image": "dfb-team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "1.000 Tage · WM-Aus", "weight": 0.8 },
+    { "type": "image", "image": "klopp-schattencasting.jpg", "weight": 0.8 },
+    { "type": "image", "image": "rocco-reitz.jpg", "name": "Rocco Reitz", "role": "Gladbach · 24 J. · 0 A-Spiele", "weight": 0.8 },
+    { "type": "stats", "title": "#1 Rocco Reitz", "stats": [{ "label": "A-Länderspiele", "value": "0" }, { "label": "BL Sprints", "value": "Top 10" }], "image": "flagge.jpg", "weight": 0.9 },
+    { "type": "image", "image": "bisseck.jpg", "name": "Yann Bisseck", "role": "Inter Mailand · 25 J. · nie nominiert", "weight": 0.8 },
+    { "type": "image", "image": "schade.jpg", "name": "Kevin Schade", "role": "Brentford · 24 J. · Liverpool-Profil", "weight": 0.8 },
+    { "type": "stats", "title": "Klopp-Debüt", "stats": [{ "label": "Datum", "value": "24.09." }, { "label": "Gegner", "value": "Niederlande" }], "image": "fanzone.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "125 Mio. · Liverpool · Klopp kennt ihn", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · bleibt gesetzt", "weight": 0.8 },
+    { "type": "outro", "title": "Wen würde KLOPP zuerst anrufen?", "subtitle": "Kommentier deinen Favoriten ⬇️", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
