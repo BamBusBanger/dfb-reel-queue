@@ -1,0 +1,101 @@
+{
+  "slug": "messi-vs-xhaka-viertelfinale",
+  "createdAt": "2026-07-09T12:34:00Z",
+  "title": "Messi vs. Xhaka – WM-Viertelfinale 12. Juli",
+  "script": "Er ist 39 Jahre alt – und das könnte sein letztes WM-Turnier sein. Lionel Messi: 8 Tore in diesem Turnier, amtierender Weltmeister. Sein Gegner am 12. Juli in Kansas City: die Schweiz, die zum ersten Mal seit 72 Jahren im Viertelfinale steht. Angeführt von Granit Xhaka, 33, Arsenal-Kapitän. 4:3 im Elfmeterschießen gegen Kolumbien – und sogar argentinische Medien warnen: Die Schweiz ist ein harter Brocken. David gegen Goliath – aber wer spielt welche Rolle?",
+  "uploadCaption": "MESSI vs. XHAKA – Das WM-Duell des Jahres! Am 12. Juli trifft Argentinien in Kansas City auf die Schweiz. Messi, 39, mit 8 WM-Toren – sein letztes Turnier? Die Nati erstmals seit 72 Jahren unter den Top 8! Argentinische Medien warnen bereits: Die Schweiz ist ein harter Brocken.",
+  "uploadHashtags": "#WM2026 #Messi #Schweiz #Xhaka #Argentinien #Viertelfinale #FifaWorldCup2026 #Fussball #KansasCity",
+  "images": [
+    { "file": "messi_jubel.jpg",        "search": "Lionel Messi" },
+    { "file": "xhaka_schweiz.jpg",      "search": "Granit Xhaka Schweiz WM 2026" },
+    { "file": "messi_spiel.jpg",        "search": "Lionel Messi WM 2026 Argentinien" },
+    { "file": "argentinien_action.jpg", "search": "Argentinien WM 2026 Viertelfinale" },
+    { "file": "fans_argentinien.jpg",   "search": "Argentinien Fans WM 2026" },
+    { "file": "schweiz_elfmeter.jpg",   "search": "Schweiz Kolumbien Elfmeter WM 2026" },
+    { "file": "schweiz_team.jpg",       "search": "Schweiz Nationalmannschaft WM 2026" },
+    { "file": "fans_schweiz.jpg",       "search": "Schweiz Fans WM 2026" },
+    { "file": "kansas_city_wm.jpg",     "search": "Kansas City Stadium FIFA World Cup 2026" },
+    { "file": "schweiz_kobel.jpg",      "search": "Gregor Kobel Schweiz WM 2026" },
+    { "file": "wm_pokal.jpg",           "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER IST 39. MESSIS LETZTE CHANCE.",
+      "image": "messi_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · Viertelfinale",
+      "title": "MESSI vs. XHAKA",
+      "image": "kansas_city_wm.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "messi_spiel.jpg",
+      "name": "Lionel Messi",
+      "role": "Argentinien · 39 J. · 8 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "xhaka_schweiz.jpg",
+      "name": "Granit Xhaka",
+      "role": "Schweiz · 33 J. · Arsenal-Kapitän",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Argentinien",
+      "stats": [
+        { "label": "WM-Tore (Messi)", "value": "8" },
+        { "label": "Comeback vs. Ägypten", "value": "3:2" },
+        { "label": "Titelverteidiger seit", "value": "2022" }
+      ],
+      "image": "argentinien_action.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans_argentinien.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "schweiz_elfmeter.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Schweiz",
+      "stats": [
+        { "label": "Jahre WM-Wartezeit", "value": "72" },
+        { "label": "Elfmeter vs. Kolumbien", "value": "4:3" },
+        { "label": "Viertelfinale am", "value": "12. Juli" }
+      ],
+      "image": "schweiz_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans_schweiz.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "schweiz_kobel.jpg",
+      "name": "Gregor Kobel",
+      "role": "Schweiz · Torwart · 120 Min. kein Gegentor",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Kann die Nati Messi stoppen?",
+      "subtitle": "Tippe dein Ergebnis in die Kommentare!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}

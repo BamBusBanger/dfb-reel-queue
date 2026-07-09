@@ -182,3 +182,4 @@
 2026-07-08 | klopp-rekordgehalt-bundestrainer | Klopp Rekordgehalt 10-12 Mio €/Jahr DFB-Novum, Nagelsmann Vergleich 4,8 Mio, Red-Bull-Ablöse 5 Mio erstmals DFB-Geschichte, Matthäus Warnung Kopfschmerzen-Paket (NEWS-DRAMA)
 2026-07-09 | klopp-vorstellung-red-bull-sonntag | Klopp-Vorstellung verzögert Red Bull blockiert, Neuendorf verhandelt heute USA, Sonntags-Entscheidung ~5 Mio Ablöse 12 Mio Gehalt Vertrag bis WM 2030 (NEWS-DRAMA)
 2026-07-09 | schweiz-72-jahre-wunder-xhaka | Schweiz erstmals seit 72 Jahren (1954) im WM-Viertelfinale, Granit Xhaka Arsenal-Kapitän 33, BVB-Keeper Kobel 120 Min kein Gegentor, 4:3 Elfmeter-Krimi vs. Kolumbien Vancouver, jetzt Messi 39/8 Turniertore am 12.7., DFB schaut zu Hause zu (GEHEIMNIS)
+2026-07-09 | messi-vs-xhaka-viertelfinale | Messi 39 J. 8 Tore vs Xhaka/Schweiz 72 Jahre WM-Pause, 4:3 Elfmeter vs Kolumbien, argentinische Medien warnen, VF 12.7. Kansas City (DUELL/VERGLEICH)
