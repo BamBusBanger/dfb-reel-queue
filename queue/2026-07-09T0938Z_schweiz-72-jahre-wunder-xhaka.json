@@ -1,0 +1,92 @@
+{
+  "slug": "schweiz-72-jahre-wunder-xhaka",
+  "createdAt": "2026-07-09T09:38:32Z",
+  "title": "72 Jahre Warten: Schweiz schreibt WM-Geschichte",
+  "script": "72 JAHRE! So lange hat die Schweiz auf diesen Moment gewartet. Erstmals seit 1954 steht das Nachbarland im WM-Viertelfinale – während Deutschland zu Hause sitzt. Arsenal-Kapitän Granit Xhaka, 33, verwandelte als Erster den entscheidenden Elfmeter im dramatischen 4:3 gegen Kolumbien nach 120 torlosen Minuten. BVB-Keeper Gregor Kobel und die Latte retteten den Schweizer Traum. Xhaka danach: 'Ziel Nummer eins ist erreicht.' Am 12. Juli um 03 Uhr wartet Lionel Messi – 39 Jahre alt, 8 Turniertore, der beste WM-Torschütze der Geschichte. Kann das kleine Land die Legende stoppen?",
+  "uploadCaption": "Das Nachbarland schockiert die Fußballwelt: 72 Jahre Wartezeit, ein Elfmeter-Krimi und jetzt Messi. Während Deutschland zu Hause sitzt, schreibt die Schweiz WM-Geschichte! Kann Xhaka Messi stoppen? 👇",
+  "uploadHashtags": "#WM2026 #Schweiz #Xhaka #Kobel #Messi #Viertelfinale #DFB #Fussball #WM",
+  "images": [
+    { "file": "xhaka.jpg",               "search": "Granit Xhaka Switzerland captain 2026" },
+    { "file": "kobel.jpg",               "search": "Gregor Kobel goalkeeper BVB Dortmund" },
+    { "file": "schweiz-elfmeter.jpg",    "search": "Schweiz Kolumbien Elfmeter WM 2026 Vancouver" },
+    { "file": "schweiz-fans.jpg",        "search": "Schweiz Fans WM 2026 Jubel" },
+    { "file": "messi.jpg",               "search": "Messi" },
+    { "file": "dfb-fans-entsetzen.jpg",  "search": "DFB Fans Entsetzen" },
+    { "file": "wm-pokal.jpg",            "search": "WM Pokal" },
+    { "file": "vancouver-stadion.jpg",   "search": "BC Place Vancouver WM 2026 Stadium" },
+    { "file": "argentinien-schweiz.jpg", "search": "Argentinien Schweiz WM 2026 Viertelfinale" },
+    { "file": "schweiz-trikot.jpg",      "search": "Schweiz Nationalmannschaft Trikot WM 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "72 JAHRE!",
+      "image": "xhaka.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 Viertelfinale",
+      "title": "Das Schweizer Wunder",
+      "image": "schweiz-elfmeter.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "xhaka.jpg",
+      "name": "Granit Xhaka",
+      "role": "Arsenal-Kapitän · 33 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kobel.jpg",
+      "name": "Gregor Kobel",
+      "role": "BVB-Torwart · 27 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen des Wunders",
+      "stats": [
+        { "label": "Jahre ohne WM-Viertelfinale", "value": "72" },
+        { "label": "Elfmeter-Krimi vs. Kolumbien", "value": "4:3" },
+        { "label": "Minuten ohne Gegentor (Kobel)", "value": "120" }
+      ],
+      "image": "schweiz-elfmeter.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "schweiz-fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "messi.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-fans-entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm-pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "argentinien-schweiz.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Xhaka stoppt Messi?",
+      "subtitle": "JA oder NEIN ↓",
+      "image": "vancouver-stadion.jpg",
+      "weight": 1.0
+    }
+  ]
+}
