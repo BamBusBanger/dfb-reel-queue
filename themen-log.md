@@ -180,3 +180,4 @@
 2026-07-08 | u17-goldgeneration-klopp | U17-Weltmeister 2023 erstmals DFB-Geschichte, Ouédraogo/El Mala/Brunner 0 WM-Minuten 2026, Prime-Age 23-25 bei WM 2030, Klopp Goldgeneration als Geheimplan (GEHEIMNIS)
 2026-07-08 | topscorer-rennen-messi-haaland-mbappe | WM Topscorer-Rennen vor QF: Messi 8 Tore, Haaland 7, Mbappé 7, Goldener Schuh Thriller, Kane 6, Klopp schaut zu (TOP-3-LISTE)
 2026-07-08 | klopp-rekordgehalt-bundestrainer | Klopp Rekordgehalt 10-12 Mio €/Jahr DFB-Novum, Nagelsmann Vergleich 4,8 Mio, Red-Bull-Ablöse 5 Mio erstmals DFB-Geschichte, Matthäus Warnung Kopfschmerzen-Paket (NEWS-DRAMA)
+2026-07-09 | klopp-vorstellung-red-bull-sonntag | Klopp-Vorstellung verzögert Red Bull blockiert, Neuendorf verhandelt heute USA, Sonntags-Entscheidung ~5 Mio Ablöse 12 Mio Gehalt Vertrag bis WM 2030 (NEWS-DRAMA)

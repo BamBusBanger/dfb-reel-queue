@@ -1,0 +1,40 @@
+{
+  "slug": "klopp-vorstellung-red-bull-sonntag",
+  "createdAt": "2026-07-09T05:34:00Z",
+  "title": "Klopp-Vorstellung: Red Bull blockiert – Sonntag entscheidet alles",
+  "script": "Alle warten auf IHN – aber es hakt! Jürgen Klopp ist sich mit dem DFB einig: neuer Bundestrainer bis zur WM 2030, Jahresgehalt bis zu 12 Millionen Euro. Das Problem heißt Red Bull. Chef Oliver Mintzlaff sitzt auf Klopps Vertrag bis 2029 und fordert mindestens 5 Millionen Euro Ablöse – erstmals in der Geschichte des DFB. Am Sonntag treffen sich Neuendorf und Red Bull erneut in den USA. Dann entscheidet sich, ob Klopp Deutschlands Trainer-Legende der Zukunft wird.",
+  "uploadCaption": "Klopp ist DER Mann – aber Red Bull blockiert noch! Sonntag fällt die Entscheidung: 5 Mio. Ablöse, 12 Mio. Gehalt, Vertrag bis WM 2030. Kommt er oder nicht?",
+  "uploadHashtags": "#Klopp #Bundestrainer #DFB #WM2026 #WM2030 #RedBull #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "klopp_pk.jpg",          "search": "Jürgen Klopp Bundestrainer Pressekonferenz 2026" },
+    { "file": "klopp_new_york.jpg",    "search": "Jürgen Klopp MagentaTV WM 2026" },
+    { "file": "nagelsmann.jpg",        "search": "Julian Nagelsmann" },
+    { "file": "redbull_blockade.jpg",  "search": "Vertragsblockade Stempel Deal Ablöse Fußball", "thematic": true },
+    { "file": "pokal.jpg",             "search": "WM Pokal" },
+    { "file": "fans.jpg",              "search": "DFB Fans" },
+    { "file": "team.jpg",              "search": "DFB Team 2026" },
+    { "file": "wm_logo.jpg",           "search": "WM 2026 Logo" },
+    { "file": "flagge.jpg",            "search": "Deutschland Flagge" },
+    { "file": "fans_hoffen.jpg",       "search": "Fans Public Viewing hoffen Spannung" },
+    { "file": "fans_tribuene.jpg",     "search": "Deutsche Fans Tribüne Stadion" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER KOMMT – ABER WANN?", "image": "klopp_pk.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "NEWS", "title": "Klopp-Unterschrift: Red Bull blockiert", "image": "wm_logo.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp.jpg",          "name": "Jürgen Klopp", "role": "Bundestrainer-Wunsch des DFB", "weight": 0.8 },
+    { "type": "stats", "title": "Klopp-Deal in Zahlen", "stats": [
+        { "label": "Jahresgehalt", "value": "12 Mio. €" },
+        { "label": "Red-Bull-Ablöse", "value": "~5 Mio. €" },
+        { "label": "Vertrag bis", "value": "WM 2030" }
+      ], "image": "team.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann.jpg",     "name": "Julian Nagelsmann", "role": "Rücktritt 3.7. · 14 Mio. Abfindung", "weight": 0.8 },
+    { "type": "image", "image": "redbull_blockade.jpg", "weight": 0.8 },
+    { "type": "image", "image": "klopp_new_york.jpg", "name": "Jürgen Klopp", "role": "MagentaTV-Experte · New York", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",           "weight": 0.8 },
+    { "type": "image", "image": "flagge.jpg",         "weight": 0.8 },
+    { "type": "image", "image": "pokal.jpg",          "weight": 0.8 },
+    { "type": "image", "image": "fans_hoffen.jpg",    "weight": 0.8 },
+    { "type": "outro", "title": "Wird Klopp 2030 Weltmeister mit Deutschland?", "subtitle": "JA oder NEIN – Kommentar!", "image": "fans_tribuene.jpg", "weight": 1.0 }
+  ]
+}
