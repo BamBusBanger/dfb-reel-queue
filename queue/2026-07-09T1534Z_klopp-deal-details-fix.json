@@ -1,0 +1,36 @@
+{
+  "slug": "klopp-deal-details-fix",
+  "createdAt": "2026-07-09T15:34:00Z",
+  "title": "Klopp-Deal enthüllt: 3 Knaller-Details",
+  "script": "Die Sensation: Jürgen Klopp wird Bundestrainer – und kostet NICHTS! Der DFB zahlt KEINEN Cent Ablöse an Red Bull. Klopp bleibt einfach Markenbotschafter – das war der Knackpunkt, jetzt gelöst. Die 3 Enthüllungen: Erstens: 0 Euro Ablöse statt befürchteter 5 Millionen. Zweitens: Co-Trainer Peter Krawietz kommt fix – sein wichtigster Vertrauter aus 808 gemeinsamen Spielen. Drittens: Klopps Debüt steht – 24. September, Nations League gegen die Niederlande. 10 bis 12 Millionen Euro Jahresgehalt, Vertrag bis WM 2030. Ist Klopp wirklich der richtige Bundestrainer?",
+  "uploadCaption": "KEIN EINZIGER EURO ABLÖSE! Jürgen Klopp wird Bundestrainer – und der größte Streitpunkt mit Red Bull ist Geschichte. Die 3 größten Enthüllungen zum Mega-Deal. Was denkst du?",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2026 #Fussball #Deutschland #Nationalmannschaft",
+  "images": [
+    { "file": "klopp_action.jpg",   "search": "Jürgen Klopp" },
+    { "file": "klopp_dfb.jpg",      "search": "Jürgen Klopp DFB Bundestrainer 2026" },
+    { "file": "krawietz.jpg",       "search": "Peter Krawietz DFB Co-Trainer 2026" },
+    { "file": "redbull_deal.jpg",   "search": "DFB Red Bull Bundestrainer Verhandlung Symbol", "thematic": true },
+    { "file": "wirtz.jpg",          "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",        "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",        "search": "Joshua Kimmich" },
+    { "file": "dfb_team.jpg",       "search": "Deutschland Nationalmannschaft 2026" },
+    { "file": "fans.jpg",           "search": "DFB Fans Stadion" },
+    { "file": "nl_flagge.jpg",      "search": "Niederlande Nationalmannschaft Fahne Nations League" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "KLOPP KOMMT – UND KOSTET NICHTS!", "image": "klopp_action.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB-DEAL ENTHÜLLT", "title": "Klopps 3 Knaller-Details", "image": "dfb_team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp_dfb.jpg",  "name": "Jürgen Klopp", "role": "Neuer Bundestrainer · 59 J.", "weight": 0.8 },
+    { "type": "image", "image": "krawietz.jpg",   "name": "Peter Krawietz", "role": "Co-Trainer · 808 Einsätze", "weight": 0.8 },
+    { "type": "stats", "title": "Der Klopp-Deal im Check", "stats": [
+        { "label": "Red-Bull-Ablöse", "value": "0 €" },
+        { "label": "Jahresgehalt",    "value": "10–12 Mio." },
+        { "label": "Debüt",           "value": "24.09.2026" }
+      ], "image": "redbull_deal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg",   "name": "Florian Wirtz",   "role": "Klopps Schlüsselspieler · 22 J.", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala",   "role": "Klopps Wunderkind · 22 J.",      "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich",  "role": "Kapitän · 108 Länderspiele",     "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",    "weight": 0.8 },
+    { "type": "outro", "title": "Klopp – dein Traum-Bundestrainer?", "subtitle": "Schreib's in die Kommentare!", "image": "nl_flagge.jpg", "weight": 1.0 }
+  ]
+}
