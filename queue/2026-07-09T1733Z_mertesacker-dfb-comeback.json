@@ -1,0 +1,96 @@
+{
+  "slug": "mertesacker-dfb-comeback",
+  "createdAt": "2026-07-09T17:33:00Z",
+  "title": "Mertesacker kehrt zum DFB zurück",
+  "script": "PER MERTESACKER KEHRT ZURÜCK! Der WM-Held von 2014 bietet sich beim DFB als neuer Geschäftsführer an – Nachfolger von Andreas Rettig, der Ende 2026 geht. Mit 41 Jahren, 7 Jahren als Arsenal Academy Director und dem WM-Titel 2014 im Gepäck. Sein Zitat: 'Dem deutschen Fußball mal was zurückgeben.' Klopp ohne Ablöse als Bundestrainer, Völler bleibt als Sportdirektor, Mertesacker als Geschäftsführer – das DFB-Führungstrio für WM 2030 nimmt Form an. Braucht der DFB Mertesacker?",
+  "uploadCaption": "Der WM-Held von 2014 kehrt zurück! Per Mertesacker bietet sich beim DFB als Geschäftsführer an. Klopp ohne Ablöse als Bundestrainer, Völler bleibt als Sportdirektor – das DFB-Dream-Team für WM 2030 nimmt Form an.",
+  "uploadHashtags": "#DFB #WM2026 #Mertesacker #Klopp #Bundestrainer #Fussball #WM2030",
+  "images": [
+    { "file": "mertesacker.jpg",         "search": "Per Mertesacker 2026" },
+    { "file": "klopp.jpg",               "search": "Jürgen Klopp" },
+    { "file": "dfb_team.jpg",            "search": "DFB Team 2026" },
+    { "file": "dfb_pokal.jpg",           "search": "WM Pokal 2014" },
+    { "file": "dfb_fans.jpg",            "search": "DFB Fans Deutschland" },
+    { "file": "wm2026_logo.jpg",         "search": "WM 2026 Logo" },
+    { "file": "voeller.jpg",             "search": "Rudi Völler DFB" },
+    { "file": "mertesacker_arsenal.jpg", "search": "Per Mertesacker Arsenal Academy Director" },
+    { "file": "deutschland_flagge.jpg",  "search": "Deutschland Flagge" },
+    { "file": "wm2026_mural.jpg",        "search": "WM 2026 Mural USA" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER WILL ZURÜCK!",
+      "image": "mertesacker.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026",
+      "title": "Mertesacker kehrt heim",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "mertesacker.jpg",
+      "name": "Per Mertesacker",
+      "role": "WM-Sieger 2014 · 41 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das DFB-Dream-Team 2030",
+      "stats": [
+        { "label": "Jahre Arsenal Academy Director", "value": "7" },
+        { "label": "Klopp-Ablöse an Red Bull", "value": "0 €" },
+        { "label": "WM-Titel (Mertesacker)", "value": "2014" }
+      ],
+      "image": "wm2026_mural.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "mertesacker_arsenal.jpg",
+      "name": "Per Mertesacker",
+      "role": "Arsenal Academy Director · 2018–2025",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "voeller.jpg",
+      "name": "Rudi Völler",
+      "role": "DFB-Sportdirektor",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm2026_logo.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Braucht der DFB Mertesacker?",
+      "subtitle": "Kommentier's!",
+      "image": "deutschland_flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
