@@ -1,0 +1,40 @@
+{
+  "slug": "tuchel-klopp-deutsches-trainer-duell",
+  "createdAt": "2026-07-10T09:34:00Z",
+  "title": "Ein Deutscher führt England – Tuchel vs. Klopp",
+  "script": "Ein Deutscher führt England zur WM! Thomas Tuchel, 52, aus Krumbach in Bayern, ist der ERSTE Deutsche, der England bei einem Weltmeisterschaft-Turnier trainiert. Morgen 23 Uhr in Miami gegen Norwegen kämpft er mit Harry Kane und Co. – während Klopp gleichzeitig den DFB übernimmt. Tuchel holte Champions League 2021 mit Chelsea und Bundesliga-Titel 2023 mit Bayern. Jetzt kämpft er mit England um den ersten Titel seit 60 Jahren. Zwei Deutsche, zwei Nationen – und die größte Ironie: Deutschland ist im Achtelfinale raus, England steht im Viertelfinale.",
+  "uploadCaption": "Während Deutschland im Achtelfinale ausschied, führt ein Bayer England ins WM-Viertelfinale. Thomas Tuchel – der erste Deutsche als England-Trainer bei einer WM. Und Klopp hat gerade den DFB übernommen. Was für eine Ironie! 🏆🇩🇪",
+  "uploadHashtags": "#DFB #WM2026 #Tuchel #Klopp #England #Norwegen #Kane #Haaland #Bundestrainer #Fussball",
+  "images": [
+    { "file": "tuchel.jpg",        "search": "Thomas Tuchel England Trainer WM 2026" },
+    { "file": "kane.jpg",          "search": "Harry Kane England WM 2026" },
+    { "file": "england_team.jpg",  "search": "England Nationalmannschaft WM 2026" },
+    { "file": "hard_rock.jpg",     "search": "Hard Rock Stadium Miami WM 2026" },
+    { "file": "england_jubel.jpg", "search": "England WM 2026 Jubel Sieg Achtelfinale" },
+    { "file": "haaland.jpg",       "search": "Erling Haaland Norwegen WM 2026" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "fans.jpg",          "search": "DFB Fans" },
+    { "file": "wm_pokal.jpg",      "search": "WM Pokal" },
+    { "file": "trainer_duell.jpg", "search": "Fußball Trainer Taktikboard Duell Strategie", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "EIN DEUTSCHER FÜHRT ENGLAND!", "image": "england_jubel.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · VIERTELFINALE MORGEN 23 UHR", "title": "Tuchel & Klopp – Zwei Deutsche, zwei Nationen", "image": "hard_rock.jpg", "weight": 0.7 },
+    { "type": "image", "image": "tuchel.jpg",       "name": "Thomas Tuchel",  "role": "England-Trainer · erster Deutscher je bei WM · 52 J.", "weight": 0.8 },
+    { "type": "image", "image": "kane.jpg",          "name": "Harry Kane",     "role": "England · 6 WM-Tore · Bayern München", "weight": 0.8 },
+    { "type": "stats", "title": "Zahlen des Duells", "stats": [
+        { "label": "Haaland WM-Tore",    "value": "7" },
+        { "label": "Kane WM-Tore",       "value": "6" },
+        { "label": "England ohne Titel", "value": "60 Jahre" }
+    ], "image": "england_team.jpg", "weight": 0.9 },
+    { "type": "image", "image": "haaland.jpg",       "name": "Erling Haaland", "role": "Norwegen · 7 WM-Tore · Gegner morgen Miami", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",         "name": "Jürgen Klopp",   "role": "Neuer DFB-Bundestrainer · Debüt Sept. 2026", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",         "name": "Florian Wirtz",  "role": "DFB · Klopps Trumpfkarte 2030", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg",       "name": "Jamal Musiala",  "role": "DFB · 22 J. · WM 2030", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",           "weight": 0.8 },
+    { "type": "image", "image": "wm_pokal.jpg",       "weight": 0.8 },
+    { "type": "outro", "title": "Schafft Tuchel mit England den WM-Titel?", "subtitle": "Ja oder Nein – kommentiert jetzt!", "image": "trainer_duell.jpg", "weight": 1.0 }
+  ]
+}
