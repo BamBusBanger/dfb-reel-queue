@@ -1,0 +1,91 @@
+{
+  "slug": "klopp-signal-iduna-heimkehr",
+  "createdAt": "2026-07-10T19:34:15Z",
+  "title": "Klopp kehrt heim – als Bundestrainer",
+  "script": "ER KEHRT HEIM – als Bundestrainer! Kaum jemand weiß: Jürgen Klopps allererstes Pflichtspiel als DFB-Chefcoach findet am 22. August im Signal Iduna Park statt – BVB gegen Bayern! 7 Jahre, 2 Bundesliga-Meisterschaften: Klopp und Dortmund sind Legende. Vertrag bis WM 2030, rund 7 Millionen Euro pro Jahr. Erstes Länderspiel: 24. September gegen die Niederlande. Doch zuerst kommt die Heimkehr ins gelb-schwarze Wohnzimmer. Werden die BVB-Fans ihren alten Trainer als Deutschland-Boss feiern – oder ihn auspfeifen?",
+  "uploadCaption": "Kaum jemand weiß es: Jürgen Klopps erstes Spiel als Bundestrainer findet am 22. August im Signal Iduna Park statt – BVB vs. Bayern. 7 Jahre BVB, 2 Meistertitel, eine Liebesgeschichte. Jetzt kommt er als Chef von Deutschland zurück. Was sagst du? 🖤💛🦅",
+  "uploadHashtags": "#DFB #Klopp #BVB #Dortmund #SignalIdunapark #Bundestrainer #WM2030 #Fussball",
+  "images": [
+    { "file": "klopp_dfb.jpg",          "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg",        "search": "Signal Iduna Park Dortmund" },
+    { "file": "klopp_bvb_trainer.jpg",   "search": "Klopp BVB Dortmund Trainer Jubel" },
+    { "file": "bvb_fans.jpg",            "search": "BVB Fans Signal Iduna Park Dortmund" },
+    { "file": "klopp_meister_2012.jpg",  "search": "Klopp Dortmund Meisterschaft 2012 Pokal" },
+    { "file": "klopp_bank.jpg",          "search": "Klopp Trainerbank Jubel Coaching" },
+    { "file": "supercup_konzept.jpg",    "search": "Bundestrainer betritt leeres Stadion Supercup Nacht dramatisch", "thematic": true },
+    { "file": "klopp_interview.jpg",     "search": "Jürgen Klopp Pressekonferenz Bundestrainer DFB 2026" },
+    { "file": "dfb_team.jpg",            "search": "DFB Team 2026" },
+    { "file": "dfb_fans.jpg",            "search": "DFB Fans" },
+    { "file": "wm_pokal.jpg",            "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER KEHRT HEIM – ALS BUNDESTRAINER.",
+      "image": "klopp_dfb.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB 2026",
+      "title": "Klopps Heimkehr: Signal Iduna Park",
+      "image": "signal_iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp_bvb_trainer.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Neuer DFB-Bundestrainer · bis 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "bvb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopp & Dortmund",
+      "stats": [
+        { "label": "Jahre als BVB-Trainer", "value": "7" },
+        { "label": "Bundesliga-Titel", "value": "2" },
+        { "label": "Gehalt pro Jahr", "value": "~7 Mio. €" }
+      ],
+      "image": "klopp_meister_2012.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp_bank.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "supercup_konzept.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp_interview.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "BVB-Fans: Jubel oder Pfeifkonzert?",
+      "subtitle": "Schreib deine Meinung! 👇",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
