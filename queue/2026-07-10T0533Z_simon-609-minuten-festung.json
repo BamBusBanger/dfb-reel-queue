@@ -1,0 +1,110 @@
+{
+  "slug": "simon-609-minuten-festung",
+  "createdAt": "2026-07-10T05:33:57Z",
+  "title": "Simóns WM-Festung – 609 Minuten kein Gegentor",
+  "script": "609 Minuten. So lange hat Unai Simón kein einziges WM-Tor kassiert – und damit den 36 Jahre alten Weltrekord des Italieners Walter Zenga aus dem Turnier 1990 gebrochen. Spanien steht mit makellosen 5 Spielen und 0 Gegentoren im Viertelfinale. Heute Nacht muss Kevin De Bruyne mit Belgien die Festung knacken. Und zum bitteren DFB-Vergleich: Neuer kassierte 4 Gegentore in 4 Spielen – dann war Deutschland im Elfmeterschießen raus. Hätte Simón im DFB-Tor alles verändert?",
+  "uploadCaption": "609 Minuten kein Gegentor – Unai Simón schreibt WM-Geschichte und bricht den 36 Jahre alten Weltrekord von Walter Zenga. Heute Nacht muss Belgien die Festung knacken. Zum Vergleich: Neuer kassierte 4 Gegentore in 4 Spielen, dann war Deutschland raus. Eine bittere Frage für alle DFB-Fans.",
+  "uploadHashtags": "#WM2026 #UnaiSimon #Spanien #Belgien #Viertelfinale #WM2026VF #Rekord #DFB #Neuer #Fussball",
+  "images": [
+    { "file": "simon.jpg",        "search": "Unai Simón Spanien WM 2026" },
+    { "file": "sofi_stadium.jpg", "search": "SoFi Stadium" },
+    { "file": "zenga.jpg",        "search": "Walter Zenga WM 1990 Italien" },
+    { "file": "yamal.jpg",        "search": "Lamine Yamal" },
+    { "file": "debruyne.jpg",     "search": "Kevin De Bruyne" },
+    { "file": "neuer.jpg",        "search": "Manuel Neuer" },
+    { "file": "wm_pokal.jpg",     "search": "WM Pokal" },
+    { "file": "fans.jpg",         "search": "DFB Fans" },
+    { "file": "festung.jpg",      "search": "Torwart WM unschlagbar Festung Tor", "thematic": true },
+    { "file": "spanien_flag.jpg", "search": "Spanien Flagge WM 2026" },
+    { "file": "fanmeile.jpg",     "search": "DFB Fanmeile" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "609 MINUTEN. KEIN EINZIGES TOR.",
+      "image": "simon.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 VIERTELFINALE",
+      "title": "Simóns Festung",
+      "image": "sofi_stadium.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "simon.jpg",
+      "name": "Unai Simón",
+      "role": "Spanien · Torwart · WM-Rekordhalter",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM-Weltrekord 2026",
+      "stats": [
+        { "label": "Minuten ohne Gegentor", "value": "609" },
+        { "label": "WM-Spiele kein Gegentor", "value": "5" },
+        { "label": "Alter Rekord Zenga (1990)", "value": "517 Min" }
+      ],
+      "image": "festung.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "zenga.jpg",
+      "name": "Walter Zenga",
+      "role": "Italien · WM 1990 · 517 Min Rekord gebrochen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · 18 Jahre · Europameister",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "debruyne.jpg",
+      "name": "Kevin De Bruyne",
+      "role": "Belgien · 35 Jahre · letzte WM",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "spanien_flag.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "DFB-Vergleich",
+      "stats": [
+        { "label": "Simón Gegentore WM 2026", "value": "0" },
+        { "label": "Neuer Gegentore WM 2026", "value": "4" },
+        { "label": "DFB ausgeschieden", "value": "Runde 16" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "neuer.jpg",
+      "name": "Manuel Neuer",
+      "role": "Deutschland · 4 Gegentore · WM-Aus Elfmeterschießen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Hätte Simón im DFB-Tor alles verändert?",
+      "subtitle": "Kommentiert eure Meinung 👇",
+      "image": "fanmeile.jpg",
+      "weight": 1.0
+    }
+  ]
+}
