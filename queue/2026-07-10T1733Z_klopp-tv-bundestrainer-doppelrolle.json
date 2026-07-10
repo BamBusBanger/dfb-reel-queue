@@ -1,0 +1,34 @@
+{
+  "slug": "klopp-tv-bundestrainer-doppelrolle",
+  "createdAt": "2026-07-10T17:33:58Z",
+  "title": "Klopp: TV-Experte & Bundestrainer gleichzeitig – 3 Fakten",
+  "script": "Bundestrainer und TV-Experte gleichzeitig – geht das? Jürgen Klopp macht es vor! Fakt eins: MagentaTV-CEO bestätigt – Klopp ist beim WM-Finale am 19. Juli als Experte dabei. Fakt zwei: Als designierter Bundestrainer analysiert er live seine künftigen WM-2030-Gegner Messi, Yamal und Haaland. Fakt drei: Sein DFB-Jahresgehalt von 10 bis 12 Millionen Euro – mehr als je ein Bundestrainer verdient hat. Während er für 5 Millionen Euro Red-Bull-Ablöse verhandelt, sitzt er noch im TV-Studio. Ist das genial oder ein Interessenkonflikt?",
+  "uploadCaption": "Jürgen Klopp macht BEIDE Jobs gleichzeitig: Als designierter Bundestrainer kommentiert er weiter für MagentaTV bis zum WM-Finale am 19. Juli – und analysiert dabei live seine künftigen DFB-Gegner Messi, Yamal und Haaland. 3 Fakten über die kurioseste Doppelrolle des Jahres.",
+  "uploadHashtags": "#Klopp #DFB #WM2026 #Bundestrainer #MagentaTV #Fussball #WM2030",
+  "images": [
+    { "file": "klopp_magentatv.jpg",  "search": "Jürgen Klopp MagentaTV WM 2026" },
+    { "file": "klopp_portrait.jpg",   "search": "Jürgen Klopp" },
+    { "file": "tv_studio.jpg",        "search": "TV broadcast studio spotlight professional", "thematic": true },
+    { "file": "pokal.jpg",            "search": "WM Pokal" },
+    { "file": "musiala.jpg",          "search": "Jamal Musiala" },
+    { "file": "wirtz.jpg",            "search": "Florian Wirtz" },
+    { "file": "team.jpg",             "search": "DFB Team 2026" },
+    { "file": "nagelsmann.jpg",       "search": "Julian Nagelsmann" },
+    { "file": "fans.jpg",             "search": "DFB Fans" },
+    { "file": "wm2030.jpg",           "search": "Fußball WM 2030 Europa Trophäe Zukunft", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "KLOPP MACHT BEIDES GLEICHZEITIG.", "image": "klopp_magentatv.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026", "title": "Klopps verrückte Doppelrolle: 3 Fakten", "image": "klopp_portrait.jpg", "weight": 0.7 },
+    { "type": "stats", "title": "Fakt 1: Bis WM-Finale dabei", "stats": [{ "label": "MagentaTV-Einsatz", "value": "19. Juli" }, { "label": "CEO-Bestätigung", "value": "100 % fix" }], "image": "tv_studio.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp_magentatv.jpg", "name": "Jürgen Klopp", "role": "MagentaTV-Experte & Bundestrainer in spe", "weight": 0.8 },
+    { "type": "stats", "title": "Fakt 2: Gegner-Scout im TV", "stats": [{ "label": "WM-2030-Rivalen live analysiert", "value": "Messi · Yamal · Haaland" }], "image": "team.jpg", "weight": 0.9 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "DFB-Zukunft · 22 J.", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",   "name": "Florian Wirtz", "role": "DFB-Schlüssel · 22 J.", "weight": 0.8 },
+    { "type": "stats", "title": "Fakt 3: Rekordgehalt", "stats": [{ "label": "DFB-Jahresgehalt", "value": "10–12 Mio. €" }, { "label": "Red-Bull-Ablöse", "value": "~5 Mio. €" }], "image": "pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Vorgänger · 7 Mio. Abfindung", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wm2030.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Genial oder Interessenkonflikt?", "subtitle": "Darf ein künftiger Bundestrainer die WM-Gegner live kommentieren?", "image": "klopp_portrait.jpg", "weight": 1.0 }
+  ]
+}
