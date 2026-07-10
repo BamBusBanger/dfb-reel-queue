@@ -1,0 +1,115 @@
+{
+  "slug": "mbappe-elfmeter-lehre-dfb",
+  "createdAt": "2026-07-10T15:34:10Z",
+  "title": "Mbappé dreht Elfmeter-Drama – DFB schaut zu",
+  "script": "Kylian Mbappé verschoss in der 39. Minute einen Elfmeter – und saß danach nicht auf der Bank. Er traf in der 60., Dembélé in der 66.: Frankreich 2:0 Marokko, WM-Halbfinale am 14. Juli in Dallas! Das ist die Lektion für den DFB: 3 verschossene Elfmeter in Foxborough – Havertz, Tah, Woltemade – und das Turnier war vorbei. Mbappé zeigt, wie Turniermentalität geht: Fehler kurz schütteln, dann entscheiden. Klopp schaut gerade zu – und hat seine erste riesige Hausaufgabe für WM 2030.",
+  "uploadCaption": "Mbappé verschoss den Elfmeter – und traf trotzdem 2:0 ins Halbfinale. Genau die Mentalität, die dem DFB fehlt. Klopp, übernehmen Sie!",
+  "uploadHashtags": "#DFB #WM2026 #Mbappe #Frankreich #Klopp #Elfmeter #Deutschland #Fussball #WM",
+  "images": [
+    { "file": "mbappe.jpg",       "search": "Kylian Mbappé" },
+    { "file": "mbappe_tor.jpg",   "search": "Mbappé Frankreich WM 2026" },
+    { "file": "frankreich_hf.jpg","search": "Frankreich WM 2026 Halbfinale" },
+    { "file": "havertz.jpg",      "search": "Kai Havertz" },
+    { "file": "tah.jpg",          "search": "Jonathan Tah" },
+    { "file": "woltemade.jpg",    "search": "Nick Woltemade" },
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "musiala.jpg",      "search": "Jamal Musiala" },
+    { "file": "fans_entsetzen.jpg","search": "DFB Fans Entsetzen" },
+    { "file": "dfb_fans.jpg",     "search": "Deutschland Fans" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "fanzone.jpg",      "search": "DFB Fanzone Berlin" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ELFMETER VERSCHOSSEN – UND TROTZDEM 2:0.",
+      "image": "mbappe.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · 9. Juli",
+      "title": "Mbappés Lektion für den DFB",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "mbappe_tor.jpg",
+      "name": "Kylian Mbappé",
+      "role": "Frankreich · 8 WM-Tore · Halbfinale",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Frankreich 2:0 Marokko",
+      "stats": [
+        { "label": "Elfmeter verschossen (39.)", "value": "Mbappé" },
+        { "label": "Tor Mbappé",                "value": "60." },
+        { "label": "Tor Dembélé",               "value": "66." }
+      ],
+      "image": "frankreich_hf.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Elfmeter verschossen · WM-Aus",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "Elfmeter verschossen · WM-Aus",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "Elfmeter verschossen · WM-Aus",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "DFB vs. Mentalität",
+      "stats": [
+        { "label": "DFB Elfmeter-Fehlschüsse", "value": "3" },
+        { "label": "Frankreich Fehlschüsse",   "value": "1" },
+        { "label": "DFB schied aus in Runde",  "value": "1" }
+      ],
+      "image": "dfb_fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · schaut zu Hause zu",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Neuer Bundestrainer · WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 · WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Hätte Mbappé das DFB-Elfmeterschießen gedreht?",
+      "subtitle": "Deine Meinung in den Kommentaren!",
+      "image": "fanzone.jpg",
+      "weight": 1.0
+    }
+  ]
+}
