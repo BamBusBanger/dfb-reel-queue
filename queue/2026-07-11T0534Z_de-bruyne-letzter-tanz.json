@@ -1,0 +1,96 @@
+{
+  "slug": "de-bruyne-letzter-tanz",
+  "createdAt": "2026-07-11T05:34:00Z",
+  "title": "De Bruynes letzter Tanz – nie Weltmeister",
+  "script": "Er war 10 Jahre der beste Spielmacher der Welt – und trotzdem kein Weltmeister. Kevin De Bruyne, 35: Belgien scheitert 2:1 an Spanien, Merino trifft in der 88. Minute. De Bruyne, Lukaku, Courtois – 4 WM-Turniere, 2× FIFA-Weltfußballer, 0 Titel. Klopp übernimmt jetzt den DFB und sieht es live: Ein Jahrzehnt Weltklasse reicht nicht, wenn der Moment fehlt. Wirtz und Musiala haben 4 Jahre bis 2030. Die Uhr tickt.",
+  "uploadCaption": "Kevin De Bruyne – 10 Jahre bester Spielmacher der Welt, 4 WM-Turniere und trotzdem nie Weltmeister. Belgiens goldene Generation ist jetzt Geschichte. Klopp und der DFB wissen, was Wirtz und Musiala bis 2030 brauchen.",
+  "uploadHashtags": "#DeBruyne #Belgien #WM2026 #DFB #Klopp #Fussball #WM2030 #Wirtz #Musiala",
+  "images": [
+    { "file": "de_bruyne.jpg",  "search": "Kevin De Bruyne" },
+    { "file": "belgien_vf.jpg", "search": "Belgien Spanien WM 2026 Viertelfinale" },
+    { "file": "merino.jpg",     "search": "Mikel Merino Spanien WM 2026" },
+    { "file": "wm_pokal.jpg",   "search": "WM Pokal" },
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp DFB" },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "dfb_fans.jpg",   "search": "DFB Public Viewing" },
+    { "file": "hard_rock.jpg",  "search": "Hard Rock Stadium Miami WM 2026" },
+    { "file": "lukaku.jpg",     "search": "Romelu Lukaku Belgien WM 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "10 JAHRE DER BESTE – NIE WELTMEISTER.",
+      "image": "de_bruyne.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · VIERTELFINALE",
+      "title": "De Bruynes letzter Tanz",
+      "image": "belgien_vf.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "de_bruyne.jpg",
+      "name": "Kevin De Bruyne",
+      "role": "Belgien · 35 · Kapitän",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "De Bruynes WM-Bilanz",
+      "stats": [
+        { "label": "WM-Turniere", "value": "4" },
+        { "label": "FIFA Weltfußballer", "value": "2×" },
+        { "label": "WM-Titel", "value": "0" }
+      ],
+      "image": "de_bruyne.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "merino.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "belgien_vf.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer ab 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Hat De Bruyne mehr verdient?",
+      "subtitle": "Oder ist das eben Fußball?",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
