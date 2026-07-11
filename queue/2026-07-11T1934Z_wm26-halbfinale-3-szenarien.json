@@ -1,0 +1,109 @@
+{
+  "slug": "wm26-halbfinale-3-szenarien",
+  "createdAt": "2026-07-11T19:34:00Z",
+  "title": "WM 2026: 3 mögliche Finale – welches wird es?",
+  "script": "3 WM-Halbfinalisten stehen fest – nur einer entscheidet sich heute Nacht! Szenario 1: Das Traumfinale – Frankreich gegen Spanien, die EM-2024-Revanche. Mbappé mit 8 Toren trifft auf Lamine Yamal, gerade mal 18 Jahre alt. Szenario 2: Das Tore-Festival – Messi kämpft um seinen 3. WM-Stern, Haaland mit 7 Toren will seinen ersten. Szenario 3: Die große Sensation – England nach 60 Jahren Warten ODER die Schweiz nach 72 Jahren. Am 19. Juli entscheidet das MetLife Stadium – Klopp studiert schon genau.",
+  "uploadCaption": "Welches WM-Finale 2026 wird das Traumfinale? 🏆 Nur noch 2 Halbfinale trennen uns vom Finale am 19. Juli im MetLife Stadium! Frankreich vs. Spanien – EM-Revanche! Oder Messi (8 Tore) vs. Haaland (7 Tore) – der Torjäger-Clash der Geschichte! Schreib dein Wunschfinale in die Kommentare! 👇",
+  "uploadHashtags": "#WM2026 #WorldCup2026 #Messi #Haaland #Mbappe #Yamal #Halbfinale #Finale #MetLife #DFB #Fussball",
+  "images": [
+    { "file": "messi_jubel.jpg",    "search": "Lionel Messi" },
+    { "file": "metlife_aussen.jpg", "search": "MetLife Stadium New York WM Finale" },
+    { "file": "mbappe.jpg",         "search": "Kylian Mbappé France World Cup 2026" },
+    { "file": "yamal.jpg",          "search": "Lamine Yamal Spain World Cup 2026" },
+    { "file": "messi_spiel.jpg",    "search": "Lionel Messi Argentina" },
+    { "file": "haaland.jpg",        "search": "Erling Haaland Norway World Cup 2026" },
+    { "file": "fans.jpg",           "search": "DFB Fans WM" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "wm_pokal.jpg",       "search": "WM Pokal FIFA" },
+    { "file": "metlife_innen.jpg",  "search": "MetLife Stadium innen WM 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 HALBFINALE. NUR EIN FINALE.",
+      "image": "messi_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026",
+      "title": "3 mögliche Finale – welches willst du?",
+      "image": "metlife_aussen.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "mbappe.jpg",
+      "name": "Kylian Mbappé",
+      "role": "Frankreich · 8 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · 18 Jahre · Man of Match",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Szenario 1: Das Traumfinale",
+      "stats": [
+        { "label": "Frankreich vs. Spanien", "value": "EM-Revanche!" },
+        { "label": "Mbappé", "value": "8 Tore" },
+        { "label": "Yamal", "value": "18 J." }
+      ],
+      "image": "mbappe.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "messi_spiel.jpg",
+      "name": "Lionel Messi",
+      "role": "Argentinien · 8 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "haaland.jpg",
+      "name": "Erling Haaland",
+      "role": "Norwegen · 7 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Szenario 2: Das Tore-Festival",
+      "stats": [
+        { "label": "Messi", "value": "8 Tore" },
+        { "label": "Haaland", "value": "7 Tore" },
+        { "label": "Zusammen", "value": "15 Tore" }
+      ],
+      "image": "haaland.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "designierter DFB-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Welches Finale willst du?",
+      "subtitle": "Messi vs. Haaland ODER Frankreich vs. Spanien?",
+      "image": "metlife_innen.jpg",
+      "weight": 1.0
+    }
+  ]
+}
