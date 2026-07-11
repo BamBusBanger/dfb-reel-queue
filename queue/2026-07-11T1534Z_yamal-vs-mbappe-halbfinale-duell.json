@@ -1,0 +1,101 @@
+{
+  "slug": "yamal-vs-mbappe-halbfinale-duell",
+  "createdAt": "2026-07-11T15:34:20Z",
+  "title": "Yamal vs. Mbappé – 5:0 und das WM-Halbfinale",
+  "script": "5 zu 0 – Yamal hat noch NIE ein K.o.-Spiel gegen Mbappé verloren! Euro-2024-Halbfinale, Nations League, dreimal El Clásico – immer gewann der 18-Jährige. Jetzt das sechste Duell: WM-Halbfinale, 14. Juli, Dallas. Mbappé ist Turnier-Topscorer mit 8 Toren und 3 Vorlagen – der beste WM seiner Karriere. Yamal kontert mit 17 kreierten Chancen – Turnierbestwert aller Spieler, mit gerade mal 18 Jahren. Und Klopp schaut zu: Denn 2030 wartet WM in Europa.",
+  "uploadCaption": "5:0 – Yamal hat gegen Mbappé noch NIE in einem K.o.-Spiel verloren! Bricht der Fluch im WM-Halbfinale am 14. Juli in Dallas? Wer gewinnt dieses Generationenduell?",
+  "uploadHashtags": "#WM2026 #Yamal #Mbappé #Spanien #Frankreich #Halbfinale #Weltmeisterschaft #DFB",
+  "images": [
+    { "file": "yamal_wm.jpg",         "search": "Lamine Yamal" },
+    { "file": "mbappe_wm.jpg",        "search": "Kylian Mbappé" },
+    { "file": "yamal_jubel.jpg",      "search": "Lamine Yamal goal celebration" },
+    { "file": "mbappe_jubel.jpg",     "search": "Kylian Mbappé France World Cup 2026 goal" },
+    { "file": "att_stadium_01.jpg",   "search": "AT&T Stadium Dallas" },
+    { "file": "wm_pokal_vitrine_01.jpg", "search": "WM Pokal" },
+    { "file": "fans_tribuene_euro12_01.jpg", "search": "Fans Tribüne" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "duell_grafik.jpg",     "search": "Spanien Frankreich Duell Generationen Halbfinale", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "5:0 – YAMAL HAT NOCH NIE GEGEN MBAPPÉ VERLOREN!",
+      "image": "yamal_wm.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · HALBFINALE 14. JULI",
+      "title": "Yamal vs. Mbappé",
+      "image": "att_stadium_01.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "yamal_jubel.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · 18 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "mbappe_wm.jpg",
+      "name": "Kylian Mbappé",
+      "role": "Frankreich · 27 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "K.o.-Duell-Bilanz",
+      "stats": [
+        { "label": "Yamal vs. Mbappé K.o.", "value": "5:0" },
+        { "label": "Altersunterschied", "value": "9 Jahre" }
+      ],
+      "image": "duell_grafik.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "mbappe_jubel.jpg",
+      "name": "Kylian Mbappé",
+      "role": "Turnier-Topscorer · 8 Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Mbappé WM 2026",
+      "stats": [
+        { "label": "Tore", "value": "8" },
+        { "label": "Vorlagen", "value": "3" }
+      ],
+      "image": "wm_pokal_vitrine_01.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans_tribuene_euro12_01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "yamal_wm.jpg",
+      "name": "Lamine Yamal",
+      "role": "17 Chancen kreiert · Turnierbestwert",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer · WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Bricht Mbappé den Yamal-Fluch?",
+      "subtitle": "Oder schreibt der 18-Jährige Geschichte?",
+      "image": "mbappe_jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}
