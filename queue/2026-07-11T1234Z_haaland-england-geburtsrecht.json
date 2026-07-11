@@ -1,0 +1,108 @@
+{
+  "slug": "haaland-england-geburtsrecht",
+  "createdAt": "2026-07-11T12:34:00Z",
+  "title": "Haalands geheimes England-Geburtsrecht",
+  "script": "England kämpft heute Abend gegen den gefährlichsten Stürmer der WM – und hätte ihn fast selbst aufgezogen! Erling Haaland, 7 WM-Tore in 4 Spielen, wurde am 21. Juli 2000 in Leeds geboren. Sein Vater Alfie spielte damals für Leeds United. Haaland war berechtigt, für England zu spielen – britischer Staatsbürger, in England geboren. Doch er wählte Norwegen. 3 Jahre in Leeds, ein Leben lang Norwegen. Heute Abend bereut das Tuchel. Und Jürgen Klopp studiert jeden Schuss für 2030.",
+  "uploadCaption": "7 WM-Tore gegen das Land, in dem er geboren wurde. Haaland wäre britischer Staatsbürger – hätte für England spielen können. Die Geschichte, die England heute Abend nicht schlafen lässt.",
+  "uploadHashtags": "#Haaland #England #Norwegen #WM2026 #Viertelfinale #DFB #Klopp #WM2030 #Leeds",
+  "images": [
+    { "file": "haaland_hook.jpg",      "search": "Erling Haaland Norway WM 2026" },
+    { "file": "alfie_haaland.jpg",     "search": "Alfie Haaland Leeds United Premier League" },
+    { "file": "leeds_stadium.jpg",     "search": "Elland Road Leeds United Stadium England" },
+    { "file": "hard_rock_miami.jpg",   "search": "Hard Rock Stadium Miami" },
+    { "file": "kane_england.jpg",      "search": "Harry Kane England WM 2026" },
+    { "file": "haaland_jubel.jpg",     "search": "Erling Haaland Tor WM 2026 Jubel" },
+    { "file": "tuchel_england.jpg",    "search": "Thomas Tuchel England Nationaltrainer 2026" },
+    { "file": "klopp_dfb.jpg",         "search": "Jürgen Klopp" },
+    { "file": "wm_pokal.jpg",          "search": "WM Pokal" },
+    { "file": "norwegen_flagge.jpg",   "search": "Norway flag WM 2026" },
+    { "file": "dfb_fans.jpg",          "search": "DFB Fans" },
+    { "file": "england_fans.jpg",      "search": "England Fans WM 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ENGLAND HÄTTE IHN HABEN KÖNNEN.",
+      "image": "haaland_hook.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · VIERTELFINALE",
+      "title": "Haalands geheimes Geburtsrecht",
+      "image": "hard_rock_miami.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "haaland_jubel.jpg",
+      "name": "Erling Haaland",
+      "role": "Norwegen · 7 WM-Tore · WM-Topscorer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "alfie_haaland.jpg",
+      "name": "Alfie Haaland",
+      "role": "Leeds United · Erlings Vater",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Haalands England-Connection",
+      "stats": [
+        { "label": "Geburtsort", "value": "Leeds, England" },
+        { "label": "Geburtsdatum", "value": "21.7.2000" },
+        { "label": "WM-Tore 2026", "value": "7" },
+        { "label": "Jahre in England", "value": "3" }
+      ],
+      "image": "leeds_stadium.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "haaland_hook.jpg",
+      "name": "Erling Haaland",
+      "role": "Hätte für England spielen können",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "norwegen_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kane_england.jpg",
+      "name": "Harry Kane",
+      "role": "England · 6 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tuchel_england.jpg",
+      "name": "Thomas Tuchel",
+      "role": "England-Nationaltrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp_dfb.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Neuer DFB-Bundestrainer · plant 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Hättest du Haaland lieber im englischen Trikot gesehen?",
+      "subtitle": "Kommentar hinterlassen",
+      "image": "england_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
