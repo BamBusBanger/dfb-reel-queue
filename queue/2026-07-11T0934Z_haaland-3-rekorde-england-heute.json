@@ -1,0 +1,107 @@
+{
+  "slug": "haaland-3-rekorde-england-heute",
+  "createdAt": "2026-07-11T09:34:04Z",
+  "title": "3 WM-Rekorde – Haaland greift HEUTE an",
+  "script": "NUR EIN SPIELER IN DER WM-GESCHICHTE traf öfter als Haaland bei seiner ersten WM. Gerd Müller 1970: 10 Tore in 6 Spielen. Haaland 2026: bereits 7 in 4. Heute Nacht 23 Uhr Miami – drei Rekorde stehen auf dem Spiel. Erstens: 1 weiteres Tor macht ihn zum WM-Topscorer. Zweitens: 3 Tore knacken Müllers 56-Jahre-alten Einzelturnier-Rekord. Drittens: Ein Sieg bedeutet Norwegens erstes WM-Halbfinale der Geschichte. Klopp sitzt vor dem TV – und studiert schon seinen WM-2030-Gegner.",
+  "uploadCaption": "Heute Nacht 23 Uhr: Erling Haaland steht vor einem WM-Abend der Geschichte. 7 Tore in nur 4 Spielen – nur Gerd Müller schaffte das je bei seiner WM-Premiere. Und Klopp schaut live zu. Sein WM-2030-Gegner ist in Bestform. 🔥",
+  "uploadHashtags": "#WM2026 #Haaland #Norwegen #England #GerdMüller #DFB #Klopp #WM2030",
+  "images": [
+    { "file": "haaland.jpg",      "search": "Erling Haaland WM 2026" },
+    { "file": "miami_stad.jpg",   "search": "Hard Rock Stadium Miami WM 2026" },
+    { "file": "mueller_gerd.jpg", "search": "Gerd Müller WM 1970 Deutschland" },
+    { "file": "klose.jpg",        "search": "Miroslav Klose DFB" },
+    { "file": "topscorer.jpg",    "search": "Goldener Fussballer Pokal" },
+    { "file": "kane.jpg",         "search": "Harry Kane England WM 2026" },
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "wm_pokal.jpg",     "search": "WM Pokal" },
+    { "file": "fans.jpg",         "search": "DFB Fans" },
+    { "file": "norwegen_flag.jpg","search": "Norwegen Flagge WM 2026" },
+    { "file": "wm_logo.jpg",      "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NUR 1 SPIELER TRAF JE ÖFTER BEI SEINER ERSTEN WM.",
+      "image": "haaland.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · HEUTE NACHT 23 UHR",
+      "title": "3 Rekorde – Haaland greift an",
+      "image": "miami_stad.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "stats",
+      "title": "Der Müller-Vergleich",
+      "stats": [
+        { "label": "Gerd Müller 1970 (6 Sp.)", "value": "10 Tore" },
+        { "label": "Haaland 2026 (4 Sp.)",     "value": "7 Tore" }
+      ],
+      "image": "mueller_gerd.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "haaland.jpg",
+      "name": "Erling Haaland",
+      "role": "Norwegen · 7 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klose.jpg",
+      "name": "Miroslav Klose",
+      "role": "WM-Allzeitrekord · 16 Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM-Topscorer 2026",
+      "stats": [
+        { "label": "Messi",   "value": "8 Tore" },
+        { "label": "Haaland", "value": "7 Tore" },
+        { "label": "Kane",    "value": "6 Tore" }
+      ],
+      "image": "topscorer.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kane.jpg",
+      "name": "Harry Kane",
+      "role": "England · 6 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "norwegen_flag.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer · ab 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Bricht Haaland heute den Müller-Rekord?",
+      "subtitle": "Ja oder Nein? Kommentar rein! 👇",
+      "image": "wm_logo.jpg",
+      "weight": 1.0
+    }
+  ]
+}
