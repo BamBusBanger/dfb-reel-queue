@@ -1,0 +1,96 @@
+{
+  "slug": "england-60-jahre-trauma",
+  "createdAt": "2026-07-11T17:34:00Z",
+  "title": "60 Jahre England-Trauma – endet es heute Nacht?",
+  "script": "60 JAHRE! England wartet so lange auf seinen zweiten WM-Stern – und ausgerechnet ein DEUTSCHER soll ihn holen! Thomas Tuchel greift heute Nacht mit Kane (6 WM-Tore) gegen Haalands Norwegen (7 WM-Tore) an. Hard Rock Stadium Miami, 23 Uhr. Das Irre: Klopp sitzt als designierter Bundestrainer im TV-Studio und studiert seine WM-2030-Gegner live. Wird England nach 60 Jahren Trauma heute Geschichte schreiben?",
+  "uploadCaption": "60 Jahre England-Trauma – endet es heute Nacht? 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ein Deutscher (Tuchel) führt England mit Kane (6 Tore) gegen Haaland (7 Tore). Hard Rock Stadium Miami, 23 Uhr. Klopp schaut als designierter Bundestrainer zu – und studiert schon die WM-2030-Gegner. England oder Norwegen? Kommentiert!",
+  "uploadHashtags": "#WM2026 #England #Norwegen #Kane #Haaland #Tuchel #Klopp #DFB #Bundestrainer #Viertelfinale",
+  "images": [
+    { "file": "fans_england.jpg",   "search": "England fans World Cup 2026" },
+    { "file": "kane.jpg",           "search": "Harry Kane England WM 2026" },
+    { "file": "haaland.jpg",        "search": "Erling Haaland WM 2026" },
+    { "file": "tuchel.jpg",         "search": "Thomas Tuchel England coach WM 2026" },
+    { "file": "miami_stadium.jpg",  "search": "Hard Rock Stadium Miami WM 2026" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "wm_pokal.jpg",       "search": "WM Pokal" },
+    { "file": "fans_hoffen.jpg",    "search": "public viewing fans Spannung WM" },
+    { "file": "wm_logo.jpg",        "search": "WM 2026 Logo" },
+    { "file": "deutschland_fans.jpg","search": "Deutschland Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "60 JAHRE ENGLAND-TRAUMA – ENDET ES HEUTE?",
+      "image": "fans_england.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · Viertelfinale · 23 Uhr Miami",
+      "title": "England vs. Norwegen",
+      "image": "miami_stadium.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "kane.jpg",
+      "name": "Harry Kane",
+      "role": "England · 6 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "haaland.jpg",
+      "name": "Erling Haaland",
+      "role": "Norwegen · 7 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Duell",
+      "stats": [
+        { "label": "Jahre ohne WM-Titel (England)", "value": "60" },
+        { "label": "Kane WM-Tore", "value": "6" },
+        { "label": "Haaland WM-Tore", "value": "7" }
+      ],
+      "image": "wm_logo.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "tuchel.jpg",
+      "name": "Thomas Tuchel",
+      "role": "England-Trainer · aus Hamburg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_hoffen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "England oder Norwegen?",
+      "subtitle": "Wem gönnt ihr das Halbfinale – kommentiert!",
+      "image": "fans_england.jpg",
+      "weight": 1.0
+    }
+  ]
+}
