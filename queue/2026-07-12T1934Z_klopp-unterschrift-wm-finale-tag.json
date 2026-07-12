@@ -1,0 +1,99 @@
+{
+  "slug": "klopp-unterschrift-wm-finale-tag",
+  "createdAt": "2026-07-12T19:34:00Z",
+  "title": "Klopp unterschreibt am Tag des WM-Finals",
+  "script": "ER UNTERSCHREIBT AM TAG DES WM-FINALS! DFB bestätigt jetzt offiziell: Grundsätzliche Einigung mit Jürgen Klopp. Nach dem New-York-Gipfel mit Präsident Neuendorf und Vize-Präsident Watzke sind die wesentlichen Eckpunkte klar. 10 bis 12 Millionen Euro Jahresgehalt – neuer DFB-Rekord. Noch diese Woche trifft der DFB Red-Bull-Chef Mintzlaff, und am 19. Juli – genau dem Tag des WM-Finals an MetLife – soll der Vertrag bis 2030 unterschrieben werden. Klopps Debüt als Bundestrainer: 24. September gegen die Niederlande. 4 Jahre bis zur WM 2030 in Europa. Glaubt ihr, Klopp schafft den fünften Stern?",
+  "uploadCaption": "OFFIZIELL: Klopp wird Bundestrainer! DFB bestätigt Einigung nach New-York-Gipfel. 10-12 Mio. Euro Jahresgehalt, Vertragsunterzeichnung am Tag des WM-Finals (19.7.), Debüt 24.9. gegen die Niederlande. Wer soll in seine erste Startelf?",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2026 #WM2030 #Fussball #Deutschland #Nationalmannschaft",
+  "images": [
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "metlife.jpg",    "search": "MetLife Stadium" },
+    { "file": "pokal.jpg",      "search": "WM Pokal" },
+    { "file": "fans.jpg",       "search": "DFB Fans" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich" },
+    { "file": "wm_logo.jpg",    "search": "WM 2026 Logo" },
+    { "file": "neuendorf.jpg",  "search": "Bernd Neuendorf DFB Präsident 2026" },
+    { "file": "vertrag.jpg",    "search": "Bundestrainer Vertragsunterzeichnung Fussball", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER UNTERSCHREIBT AM TAG DES WM-FINALS!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB OFFIZIELL",
+      "title": "Klopp wird Bundestrainer",
+      "image": "wm_logo.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Klopp-Zahlen",
+      "stats": [
+        { "label": "Jahresgehalt",  "value": "12 Mio. €" },
+        { "label": "Unterschrift",  "value": "19. Juli" },
+        { "label": "Debüt",         "value": "24. Sept." },
+        { "label": "Vertrag bis",   "value": "WM 2030" }
+      ],
+      "image": "vertrag.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "neuendorf.jpg",
+      "name": "Bernd Neuendorf",
+      "role": "DFB-Präsident",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "metlife.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 31",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Holt Klopp den 5. Stern 2030?",
+      "subtitle": "Ja oder Nein – kommentiert!",
+      "image": "pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
