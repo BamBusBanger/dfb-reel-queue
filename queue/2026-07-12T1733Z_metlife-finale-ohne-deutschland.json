@@ -1,0 +1,34 @@
+{
+  "slug": "metlife-finale-ohne-deutschland",
+  "createdAt": "2026-07-12T17:33:00Z",
+  "title": "MetLife: Das WM-Final-Stadion, das Deutschland gebrochen hat",
+  "script": "DIESES STADION HAT DEUTSCHLAND GEBROCHEN – am 19. Juli krönt es einen neuen Weltmeister. MetLife Stadium, East Rutherford, New Jersey: 82.500 Plätze, das größte WM-Finalstadion der Geschichte. Hier verlor Deutschland am 25. Juni 1:2 gegen Ecuador – Sanés Blitztreffer nach 109 Sekunden reichte nicht, die 11-Spiele-Siegersträhne war gerissen. Vier Tage später: Elfmeter-Aus gegen Paraguay. Designierter Bundestrainer Klopp beobachtet das Finale live – und plant die Revanche für WM 2030. Wer hebt am 19. Juli den Pokal?",
+  "uploadCaption": "MetLife Stadium hat Deutschlands WM 2026 gebrochen. Jetzt krönt es am Sonntag einen neuen Weltmeister – ohne uns. Klopp plant die Revanche für 2030.",
+  "uploadHashtags": "#WM2026 #DFB #MetLife #WMFinale #Deutschland #Klopp #WM2030 #Fußball",
+  "images": [
+    { "file": "metlife_aussen.jpg", "search": "MetLife Stadium" },
+    { "file": "metlife_innen.jpg", "search": "MetLife Stadium WM 2026" },
+    { "file": "sane.jpg", "search": "Leroy Sané" },
+    { "file": "fans_schock.jpg", "search": "DFB Fans" },
+    { "file": "pokal.jpg", "search": "WM Pokal" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "finale_ki.jpg", "search": "WM Finale Nacht Stadion Pokal Zeremonie Konfetti", "thematic": true },
+    { "file": "pyro.jpg", "search": "WM Stimmung Pyro Fans" },
+    { "file": "dfb_fans.jpg", "search": "Deutschland Fans Fußball" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "DIESES STADION HAT DEUTSCHLAND GEBROCHEN.", "image": "metlife_aussen.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM-FINALE · 19. JULI 2026", "title": "MetLife – ohne DFB", "image": "metlife_innen.jpg", "weight": 0.7 },
+    { "type": "image", "image": "sane.jpg", "name": "Leroy Sané", "role": "Tor nach 109 Sek. · trotzdem 1:2", "weight": 0.8 },
+    { "type": "stats", "title": "Deutschlands schlimmster WM-Abend", "stats": [{ "label": "Endstand Ecuador", "value": "1:2" }, { "label": "Siege-Serie gerissen", "value": "11" }, { "label": "Sek. bis Sané-Tor", "value": "109" }], "image": "fans_schock.jpg", "weight": 0.9 },
+    { "type": "image", "image": "pokal.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "DFB · Hoffnung 2030", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "DFB · Hoffnung 2030", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Designierter Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "finale_ki.jpg", "weight": 0.8 },
+    { "type": "image", "image": "pyro.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "War das DFB-Aus verdient?", "subtitle": "Ja oder Nein – Kommentar 👇", "image": "dfb_fans.jpg", "weight": 1.0 }
+  ]
+}
