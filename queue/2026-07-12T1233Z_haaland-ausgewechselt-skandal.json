@@ -1,0 +1,96 @@
+{
+  "slug": "haaland-ausgewechselt-skandal",
+  "createdAt": "2026-07-12T12:33:00Z",
+  "title": "Haaland in der 106. Minute rausgenommen – WM-Eklat in Miami",
+  "script": "7 Tore in 6 Spielen – doch Solbakken nahm Haaland in der 106. Minute vom Platz. Norwegen lag 1:2 zurück, 14 Minuten blieben noch. Ohne Haaland. Ein Ex-NFL-Star nannte es die absolut schrecklichste Entscheidung der WM. Dann verhöhnte England den Torjäger auf Social Media. Danach kritisierte der eigene Trainer seinen Star öffentlich. Norwegen ist raus. Haaland weint. Und Jürgen Klopp, Deutschlands neuer Bundestrainer, schaut genau hin – denn 2030 wartet die Revanche.",
+  "uploadCaption": "7 Tore, trotzdem rausgenommen. Der Haaland-Eklat beim WM-Viertelfinale in Miami – Solbakken rechtfertigt seinen schockierenden Wechsel, England feiert, und Klopp notiert sich alles.",
+  "uploadHashtags": "#WM2026 #Haaland #Norwegen #DFB #Klopp #WorldCup2026 #Fussball",
+  "images": [
+    { "file": "haaland_jubel.jpg",        "search": "Erling Haaland Jubel WM 2026" },
+    { "file": "miami.jpg",               "search": "Hard Rock Stadium Miami WM" },
+    { "file": "haaland_norwegen.jpg",    "search": "Erling Haaland Norwegen WM 2026" },
+    { "file": "solbakken.jpg",           "search": "Ståle Solbakken Norwegen Trainer 2026" },
+    { "file": "haaland_ausgewechselt.jpg", "search": "Erling Haaland ausgewechselt England WM 2026" },
+    { "file": "bellingham.jpg",          "search": "Jude Bellingham England WM 2026" },
+    { "file": "fans_entsetzen.jpg",      "search": "fans public viewing entsetzen emotion" },
+    { "file": "klopp.jpg",               "search": "Jürgen Klopp" },
+    { "file": "fans_hoffen.jpg",         "search": "fans public viewing hoffen spannung" },
+    { "file": "fans_jubel.jpg",          "search": "fans jubel stadion schwarz-weiss" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "7 TORE. TROTZDEM RAUSGENOMMEN.",
+      "image": "haaland_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · Miami",
+      "title": "Der Haaland-Eklat",
+      "image": "miami.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "haaland_norwegen.jpg",
+      "name": "Erling Haaland",
+      "role": "Norwegen · 7 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "solbakken.jpg",
+      "name": "Ståle Solbakken",
+      "role": "Norwegen-Trainer",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "106. Minute – Wechsel",
+      "stats": [
+        { "label": "Tore Haaland WM", "value": "7" },
+        { "label": "Spielstand", "value": "1:2" },
+        { "label": "Minuten vor Schluss", "value": "14" }
+      ],
+      "image": "miami.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "haaland_ausgewechselt.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "bellingham.jpg",
+      "name": "Jude Bellingham",
+      "role": "England · 2 Tore (45./93.)",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter DFB-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_hoffen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Richtige Entscheidung?",
+      "subtitle": "Hättet ihr Haaland rausgenommen? Kommentiert! ↓",
+      "image": "fans_jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}
