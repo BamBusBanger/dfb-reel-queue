@@ -1,0 +1,34 @@
+{
+  "slug": "bellingham-maradona-echo-halbfinale",
+  "createdAt": "2026-07-12T05:36:00Z",
+  "title": "Bellingham bricht Maradona-Rekord – und der Fluch kehrt zurück",
+  "script": "Nur einer schaffte das vor ihm – Diego Maradona, 1986. Jude Bellingham traf gegen Norwegen zweimal: 45. und 93. Minute, 2:1, England im Halbfinale. Genau wie Maradona 1986, der England damals mit Hand Gottes und Tor des Jahrhunderts eliminierte. Und jetzt? 40 Jahre später wartet Argentinien im Halbfinale am 15. Juli in Atlanta auf England. Messi, der 1986 noch nicht mal geboren war, führt die Albiceleste nach 3:1 n.V. gegen die Schweiz. Klopp studiert als designierter Bundestrainer die WM-2030-Gegner live. Bellingham oder Messi – wer bricht den Fluch?",
+  "uploadCaption": "40 Jahre nach Maradonas Hand Gottes: Argentinien vs. England im WM-Halbfinale! Bellingham kopiert Maradonas Rekord aus dem selben Turnier – und jetzt wartet der Fluch. Klopp schaut als neuer Bundestrainer live zu. WM 2026 Halbfinale, 15. Juli in Atlanta. 🏆",
+  "uploadHashtags": "#WM2026 #WM26 #Halbfinale #Bellingham #Messi #Argentinien #England #Maradona #DFB #Klopp #FIFA #Fussball",
+  "images": [
+    { "file": "bellingham_aktion.jpg", "search": "Jude Bellingham WM 2026" },
+    { "file": "bellingham_jubel.jpg", "search": "Jude Bellingham Jubel Tor England" },
+    { "file": "maradona_1986.jpg", "search": "Diego Maradona Hand Gottes England 1986" },
+    { "file": "messi_jubel.jpg", "search": "Lionel Messi" },
+    { "file": "alvarez_tor.jpg", "search": "Julián Alvarez Argentinien WM 2026" },
+    { "file": "klopp_tv.jpg", "search": "Jürgen Klopp" },
+    { "file": "atlanta_stadion.jpg", "search": "Mercedes-Benz Stadium Atlanta WM 2026" },
+    { "file": "wm_pokal.jpg", "search": "wm pokal" },
+    { "file": "dfb_fans.jpg", "search": "fans deutschland" },
+    { "file": "geist_1986.jpg", "search": "Argentinien England WM Halbfinale Fluch 1986 dramatisch Schatten", "thematic": true },
+    { "file": "wm26_logo.jpg", "search": "wm2026 logo" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "NUR EINER VOR IHM. MARADONA. 1986!", "image": "bellingham_aktion.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 HALBFINALE", "title": "Der Maradona-Fluch kehrt zurück", "image": "geist_1986.jpg", "weight": 0.7 },
+    { "type": "image", "image": "bellingham_jubel.jpg", "name": "Jude Bellingham", "role": "Mittelfeld · Real Madrid · 23", "weight": 0.8 },
+    { "type": "image", "image": "maradona_1986.jpg", "name": "Diego Maradona", "role": "VF 1986 · 2 Tore vs England", "weight": 0.8 },
+    { "type": "stats", "title": "Bellingham bricht Maradona-Rekord", "stats": [{ "label": "WM-Tore 2026", "value": "6" }, { "label": "Doppelpacks im K.o.", "value": "2" }, { "label": "Letzter davor", "value": "Maradona 1986" }], "image": "wm_pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "messi_jubel.jpg", "name": "Lionel Messi", "role": "Argentinien · 8 WM-Tore · 38 J.", "weight": 0.8 },
+    { "type": "image", "image": "alvarez_tor.jpg", "name": "Julián Alvarez", "role": "Traumtor 112' · 3:1 n.V. vs Schweiz", "weight": 0.8 },
+    { "type": "stats", "title": "Das Halbfinale – 15. Juli · Atlanta", "stats": [{ "label": "Argentinien", "value": "3:1 n.V." }, { "label": "England", "value": "2:1 n.V." }, { "label": "Anstoß", "value": "15. Juli Atlanta" }], "image": "atlanta_stadion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp_tv.jpg", "name": "Jürgen Klopp", "role": "DFB-Bundestrainer (designiert)", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Bellingham oder Messi?", "subtitle": "Glaubst du an Maradonas Geist – oder schlägt England den Fluch 2026?", "image": "wm26_logo.jpg", "weight": 1.0 }
+  ]
+}
