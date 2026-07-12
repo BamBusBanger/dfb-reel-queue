@@ -1,0 +1,34 @@
+{
+  "slug": "kane-messi-hf-atlanta",
+  "createdAt": "2026-07-12T11:17:00Z",
+  "title": "Kane vs Messi – WM-Halbfinale Atlanta",
+  "script": "8 Tore gegen 60 Jahre Trauma! Lionel Messi, 39 Jahre, 8 WM-Tore – amtierender Weltmeister und WM-Topscorer 2026. Er will den zweiten Stern. Auf der anderen Seite: Harry Kane, 31, Bayerns 95-Millionen-Transfer, 6 WM-Tore – Englands Rekordtorschütze. Doch Kane hat in seiner gesamten Karriere KEINEN einzigen Titel gewonnen. England wartet seit 1966 – 60 Jahre lang. Mittwoch, 15. Juli, Atlanta – das Duell der Generationen entscheidet. Wer schreibt Geschichte?",
+  "uploadCaption": "Messi gegen Kane – das WM-Halbfinale am 15. Juli in Atlanta! 39 gegen 31 Jahre. 8 gegen 6 WM-Tore. Messis zweiter Stern oder Englands erster Titel seit 1966 – wer gewinnt dieses Generationen-Duell?",
+  "uploadHashtags": "#WM2026 #Messi #Kane #ArgentinienEngland #Halbfinale #WorldCup2026 #Fussball #FIFA #DFB",
+  "images": [
+    { "file": "messi_jubel.jpg",       "search": "Lionel Messi" },
+    { "file": "kane.jpg",              "search": "Harry Kane England WM 2026" },
+    { "file": "messi_spiel.jpg",       "search": "Lionel Messi Argentinien" },
+    { "file": "pokal.jpg",             "search": "WM Pokal" },
+    { "file": "england_fans.jpg",      "search": "England WM 2026 Fans" },
+    { "file": "argentinien_fans.jpg",  "search": "Argentinien WM 2026 Fans" },
+    { "file": "atlanta.jpg",           "search": "Mercedes-Benz Stadium Atlanta WM 2026" },
+    { "file": "wm_logo.jpg",           "search": "WM 2026 Logo" },
+    { "file": "fans_entsetzen.jpg",    "search": "Public Viewing Entsetzen WM" },
+    { "file": "fans_jubel.jpg",        "search": "WM Fans Jubel Stadion" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "8 TORE. 60 JAHRE TRAUMA.", "image": "messi_jubel.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM-HALBFINALE · 15. JULI · ATLANTA", "title": "MESSI vs KANE", "image": "wm_logo.jpg", "weight": 0.7 },
+    { "type": "image", "image": "messi_jubel.jpg",      "name": "Lionel Messi",  "role": "Argentinien · 39 J. · 8 WM-Tore", "weight": 0.8 },
+    { "type": "image", "image": "kane.jpg",             "name": "Harry Kane",    "role": "England · 31 J. · 6 WM-Tore",     "weight": 0.8 },
+    { "type": "stats", "title": "Messi bei WM 2026", "stats": [{ "label": "WM-Tore", "value": "8" }, { "label": "WM-Topscorer", "value": "#1" }, { "label": "Alter", "value": "39" }], "image": "messi_spiel.jpg", "weight": 0.9 },
+    { "type": "image", "image": "argentinien_fans.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Kane & England", "stats": [{ "label": "WM-Tore 2026", "value": "6" }, { "label": "Jahre ohne WM-Titel", "value": "60" }, { "label": "Titel in Karriere", "value": "0" }], "image": "kane.jpg", "weight": 0.9 },
+    { "type": "image", "image": "england_fans.jpg",     "weight": 0.8 },
+    { "type": "image", "image": "pokal.jpg",            "weight": 0.8 },
+    { "type": "image", "image": "atlanta.jpg",          "weight": 0.8 },
+    { "type": "image", "image": "fans_entsetzen.jpg",   "weight": 0.8 },
+    { "type": "outro", "title": "Wer schreibt die Geschichte?", "subtitle": "Messis 2. WM-Stern oder Englands 1. Titel seit 1966?", "image": "fans_jubel.jpg", "weight": 1.0 }
+  ]
+}
