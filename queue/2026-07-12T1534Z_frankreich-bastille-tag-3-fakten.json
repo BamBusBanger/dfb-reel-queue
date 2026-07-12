@@ -1,0 +1,112 @@
+{
+  "slug": "frankreich-bastille-tag-3-fakten",
+  "createdAt": "2026-07-12T15:34:00Z",
+  "title": "Frankreich am Bastille-Tag: 3 WM-Fakten",
+  "script": "14. Juli – Frankreichs Nationalfeiertag. NOCH NIE spielte die Équipe Tricolore am Bastille-Tag bei einer WM! Drei Fakten, die alles erklären: Erstens – Frankreich gewann alle 6 WM-Spiele, erzielte 16 Tore. Mbappé steht bei 8 Toren und 3 Vorlagen – und will den 3. Stern. Zweitens – Spanien schlug Frankreich in den letzten BEIDEN Halbfinals: EM 2024 und Nations League 2025. Kann Mbappé den Fluch brechen? Drittens – Klopp schaut live zu. Er nimmt Notizen für 2030. Frankreich oder Spanien – wer steht im Finale?",
+  "uploadCaption": "14. Juli, Bastille-Tag – und das WM-Halbfinale Frankreich vs. Spanien! 3 Fakten, die du kennen musst. Und Klopp schaut live zu... 👀 #WM2026 #DFB #Klopp",
+  "uploadHashtags": "#WM2026 #DFB #Frankreich #Spanien #Mbappe #Yamal #Klopp #Halbfinale #BastilleDay",
+  "images": [
+    { "file": "mbappe.jpg",         "search": "Kylian Mbappé WM 2026" },
+    { "file": "yamal.jpg",          "search": "Lamine Yamal Spanien WM 2026" },
+    { "file": "att_dallas.jpg",     "search": "ATT Stadium Dallas" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "wm_pokal.jpg",       "search": "WM Pokal" },
+    { "file": "fans.jpg",           "search": "DFB Fans" },
+    { "file": "wm26_logo.jpg",      "search": "WM 2026" },
+    { "file": "metlife.jpg",        "search": "MetLife Stadium" },
+    { "file": "public_viewing.jpg", "search": "Public Viewing" },
+    { "file": "bastille.jpg",       "search": "Bastille Day Paris Eiffel Tower fireworks" },
+    { "file": "france_flag.jpg",    "search": "Frankreich Flagge Nationalfeiertag" },
+    { "file": "spain_flag.jpg",     "search": "Spanien Flagge WM 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DER BASTILLE-TAG VERÄNDERT ALLES.",
+      "image": "bastille.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · 14. Juli",
+      "title": "3 WM-Fakten zum Halbfinale",
+      "image": "wm26_logo.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "mbappe.jpg",
+      "name": "Kylian Mbappé",
+      "role": "Frankreich · 8 Tore · 3 Vorlagen",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FAKT 1 – DAS MASCHINE",
+      "stats": [
+        { "label": "Frankreich Siege WM 2026", "value": "6/6" },
+        { "label": "Tore erzielt", "value": "16" },
+        { "label": "Mbappé Tore", "value": "8" }
+      ],
+      "image": "att_dallas.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · 18 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "france_flag.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FAKT 2 – DER FLUCH",
+      "stats": [
+        { "label": "Spanien schlug Frankreich im HF", "value": "2×" },
+        { "label": "EM 2024 Halbfinale", "value": "2:1 ESP" },
+        { "label": "Nations League 2025 HF", "value": "ESP gewinnt" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter DFB-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "public_viewing.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FAKT 3 – KLOPP LERNT",
+      "stats": [
+        { "label": "Klopp-DFB-Debüt Nations League", "value": "24.09." },
+        { "label": "Klopp-Ziel WM", "value": "2030" }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "spain_flag.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Frankreich oder Spanien?",
+      "subtitle": "Wer steht im Finale am 19.7.?",
+      "image": "metlife.jpg",
+      "weight": 1.0
+    }
+  ]
+}
