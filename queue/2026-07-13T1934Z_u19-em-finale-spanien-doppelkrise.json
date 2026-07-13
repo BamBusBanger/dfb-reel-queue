@@ -1,0 +1,44 @@
+{
+  "slug": "u19-em-finale-spanien-doppelkrise",
+  "createdAt": "2026-07-13T19:34:00Z",
+  "title": "U19 verliert EM-Finale – DFB-Doppelkrise",
+  "script": "DFB-Schock in Doppelpackung! Erst flog die A-Nationalmannschaft am 29. Juni im Elfmeterschießen gegen Paraguay raus – jetzt hat Spanien auch unsere U19 im EM-Finale 0:2 bezwungen. Wrexham, 11. Juli: Minute 44, Minute 48 – beide Tore kurz vor und nach der Pause. Spanien gewann alle 5 Spiele mit sensationellen 19:0 Toren und holte seinen 10. U19-EM-Titel. Deutschland? Titellos auf BEIDEN Ebenen. Klopp startet erst in 83 Tagen – ist das genug für den Doppelwiederaufbau?",
+  "uploadCaption": "DFB-Doppelkrise 2026: Erst WM-Aus im Elfmeterschießen gegen Paraguay (29.6.), jetzt U19-EM-Finale 0:2 gegen Spanien in Wrexham (11.7.). Hugo Lopez (44.) und Mario Rivas (48.) schossen Deutschland ab. Spanien: 19 Tore, 0 Gegentore in 5 Spielen – perfektes Turnier, 10. Titel. Klopp, der Retter, startet erst in 83 Tagen. Was glaubst du – echte Krise oder Startschuss für den Wiederaufbau?",
+  "uploadHashtags": "#DFB #U19EM #WM2026 #Spanien #Klopp #Nationalmannschaft #Nachwuchs #Doppelkrise",
+  "images": [
+    { "file": "entsetzen.jpg",      "search": "DFB Fans Entsetzen" },
+    { "file": "teamfoto.jpg",       "search": "Deutschland Teamfoto 2026" },
+    { "file": "onyeka.jpg",         "search": "Ibrahim Onyeka DFB U19 Kapitän 2026" },
+    { "file": "spanien_u19.jpg",    "search": "Spanien U19 EM Finale 2026 Wrexham Jubel" },
+    { "file": "flagge.jpg",         "search": "deutschland flagge" },
+    { "file": "dfbfans.jpg",        "search": "Deutschland Fans Fahnen" },
+    { "file": "wirtz.jpg",          "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",        "search": "Jamal Musiala" },
+    { "file": "pokal.jpg",          "search": "WM Pokal Gold" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "u19_zukunft.jpg",    "search": "DFB Nachwuchs Zukunft Wiederaufbau 2030", "thematic": true },
+    { "file": "pyro.jpg",           "search": "Fans Pyro Stadion Stimmung" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "DFB-DOPPELKRISE!", "image": "entsetzen.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "11.7.2026 · Wrexham", "title": "U19-EM-Finale: 0:2 gegen Spanien", "image": "teamfoto.jpg", "weight": 0.7 },
+    { "type": "image", "image": "onyeka.jpg", "name": "Ibrahim Onyeka", "role": "U19-Kapitän · 18", "weight": 0.8 },
+    { "type": "stats", "title": "Spaniens perfektes Turnier", "stats": [
+        { "label": "Tore in 5 Spielen", "value": "19" },
+        { "label": "Gegentore", "value": "0" },
+        { "label": "EM-Titel U19 gesamt", "value": "10" }
+      ], "image": "spanien_u19.jpg", "weight": 0.9 },
+    { "type": "image", "image": "flagge.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "DFB-Jahr 2026 in Zahlen", "stats": [
+        { "label": "WM-Aus Elfmeter vs. Paraguay", "value": "29.6." },
+        { "label": "U19-Finale verloren vs. Spanien", "value": "11.7." },
+        { "label": "Tage bis Klopp-Debüt", "value": "83" }
+      ], "image": "dfbfans.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Offensiv · 23", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "Offensiv · 23", "weight": 0.8 },
+    { "type": "image", "image": "pokal.jpg", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Designierter Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "u19_zukunft.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Krise oder Wendepunkt?", "subtitle": "Was glaubst du? Schreib's in die Kommentare! 👇", "image": "pyro.jpg", "weight": 1.0 }
+  ]
+}
