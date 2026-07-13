@@ -1,0 +1,109 @@
+{
+  "slug": "klopp-wirtz-nie-trainiert",
+  "createdAt": "2026-07-13T15:34:00Z",
+  "title": "DFB-Paradox: Klopp trainierte Wirtz NIE",
+  "script": "Klopp wird Bundestrainer – und soll den Wirtz-Code knacken. Aber hier kommt die Bombe: Wirtz spielt bei KLOPPS Liverpool – und die beiden haben NIE zusammengearbeitet! Klopp verließ Liverpool im Mai 2024. Wirtz kam erst 13 Monate später. Wirtz selbst bestätigte: „Habe nicht mit Klopp gesprochen." 125 Millionen Euro. 0 WM-Tore in 360 Minuten. Klopp nannte ihn trotzdem „once-in-a-century talent." Das erste echte Training zusammen? Erst am 24. September 2026. Glaubst du, Klopp knackt dann den Code?",
+  "uploadCaption": "Das verrückte DFB-Paradox: Wirtz spielt bei KLOPPS Liverpool – die beiden haben aber NIE zusammen trainiert. Klopp verließ den Klub im Mai 2024, Wirtz kam erst 13 Monate später. Jetzt soll Klopp als Bundestrainer lösen, was 125 Millionen Euro bisher nicht gebracht haben: 0 WM-Tore in 360 Minuten. Klopp selbst nannte ihn „once-in-a-century talent" – ohne ihn je auf dem Platz gehabt zu haben. Erstes Training zusammen: 24. September 2026 gegen die Niederlande.",
+  "uploadHashtags": "#Wirtz #Klopp #DFB #WM2026 #Liverpool #Bundestrainer #WM2030 #Musiala #Fussball",
+  "images": [
+    { "file": "wirtz_jubel.jpg",         "search": "Florian Wirtz" },
+    { "file": "klopp_dfb.jpg",           "search": "Jürgen Klopp" },
+    { "file": "wirtz_training.jpg",      "search": "Florian Wirtz Liverpool" },
+    { "file": "anfield_stadium.jpg",     "search": "Anfield Liverpool FC Stadium" },
+    { "file": "wm2026_logo.jpg",         "search": "WM 2026 Logo" },
+    { "file": "wirtz_portrait.jpg",      "search": "Florian Wirtz" },
+    { "file": "musiala_dfb.jpg",         "search": "Jamal Musiala" },
+    { "file": "havertz_dfb.jpg",         "search": "Kai Havertz" },
+    { "file": "fans_dfb.jpg",            "search": "DFB Fans Deutschland" },
+    { "file": "klopp_wirtz_timeline.jpg","search": "Zeitstrahl Klopp-Abgang Liverpool Mai 2024 Wirtz-Ankunft Juli 2025 Bundestrainer DFB Infografik", "thematic": true },
+    { "file": "fans_tribuene.jpg",       "search": "DFB Fans Stadion Tribüne" },
+    { "file": "fans_outro.jpg",          "search": "DFB Fans Berlin Fanzone" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER HAT IHN NIE TRAINIERT.",
+      "image": "wirtz_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB-PARADOX",
+      "title": "Klopp & Wirtz – Niemals zusammen",
+      "image": "klopp_dfb.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_training.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 125 Mio. € · seit Juli 2025",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "anfield_stadium.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "DAS PARADOX",
+      "stats": [
+        { "label": "Klopp verließ Liverpool", "value": "Mai 2024" },
+        { "label": "Wirtz kam zu Liverpool", "value": "Juli 2025" },
+        { "label": "Monate dazwischen", "value": "13" }
+      ],
+      "image": "wm2026_logo.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz_portrait.jpg",
+      "name": "Florian Wirtz",
+      "role": "WM 2026: 0 Tore · 360 Min.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_dfb.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz_dfb.jpg",
+      "name": "Kai Havertz",
+      "role": "Stürmer · Arsenal",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "ERSTES TRAINING ZUSAMMEN",
+      "stats": [
+        { "label": "Klopp-Debüt als Bundestrainer", "value": "24. Sep. 2026" },
+        { "label": "Gegner", "value": "Niederlande" },
+        { "label": "Wirtz WM-Tore 2026", "value": "0" }
+      ],
+      "image": "klopp_wirtz_timeline.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans_tribuene.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopp knackt den Wirtz-Code?",
+      "subtitle": "Ja oder Nein – kommentier jetzt!",
+      "image": "fans_outro.jpg",
+      "weight": 1.0
+    }
+  ]
+}
