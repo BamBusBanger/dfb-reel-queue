@@ -1,0 +1,117 @@
+{
+  "slug": "yamal-19-klopp-hausaufgaben",
+  "createdAt": "2026-07-13T05:34:00Z",
+  "title": "Yamal wird HEUTE 19 – Klopps Hausaufgaben",
+  "script": "Er wird HEUTE 19 – und spielt MORGEN WM-Halbfinale. Lamine Yamal, Spaniens Jungstar, kreierte mit 17 Torchancen in nur 5 WM-Spielen mehr als jeder andere Spieler. Das ist Fakt 1. Fakt 2: Florian Wirtz ist 3 Jahre älter – blieb aber in 360 WM-Minuten ohne Tor. Spanien kassierte in 6 Spielen nur 1 Gegentor. Deutschland: zum dritten Mal in Folge WM-Aus. Fakt 3: Klopp übernimmt – doch Yamal ist 2030 erst 23. Vier Jahre. Die Uhr tickt.",
+  "uploadCaption": "Lamine Yamal wird HEUTE 19 – und spielt MORGEN WM-Halbfinale gegen Frankreich. 3 Fakten warum Klopp jetzt keine Zeit verlieren darf. Was muss Deutschland bis 2030 ändern?",
+  "uploadHashtags": "#WM2026 #Yamal #Klopp #DFB #Wirtz #Musiala #Halbfinale #Spanien #Deutschland #WM2030",
+  "images": [
+    { "file": "yamal_portrait.jpg", "search": "Lamine Yamal Spain World Cup 2026" },
+    { "file": "yamal_action.jpg", "search": "Lamine Yamal WM Halbfinale 2026" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "ouedraogo.jpg", "search": "Assan Ouédraogo" },
+    { "file": "spanien_jubel.jpg", "search": "Spain World Cup 2026 celebration" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "fans_trauer.jpg", "search": "DFB Fans Entsetzen public viewing" },
+    { "file": "att_stadion.jpg", "search": "AT&T Stadium Dallas" },
+    { "file": "wirtz_jubel.jpg", "search": "Florian Wirtz jubel DFB" },
+    { "file": "pokal.jpg", "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER WIRD HEUTE 19 – UND SPIELT MORGEN WM-HALBFINALE.",
+      "image": "yamal_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026",
+      "title": "3 Fakten die Klopp wachhalten",
+      "image": "att_stadion.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "yamal_action.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · 19 Jahre – heute",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FAKT 1 – DER MASSSTAB",
+      "stats": [
+        { "label": "WM-Chancen kreiert", "value": "17" },
+        { "label": "Platz 1 aller WM-Spieler", "value": "Nr. 1" },
+        { "label": "Alter heute", "value": "19" }
+      ],
+      "image": "spanien_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 22 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern München · 22 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FAKT 2 – DER GRABEN",
+      "stats": [
+        { "label": "Wirtz WM-Tore 2026", "value": "0 in 360 Min." },
+        { "label": "Spaniens Gegentore WM", "value": "1 in 6 Spielen" },
+        { "label": "DFB WM-Aus in Folge", "value": "3" }
+      ],
+      "image": "fans_trauer.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Klopps Kandidat · 20 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FAKT 3 – DIE UHR TICKT",
+      "stats": [
+        { "label": "Klopps Zeit bis WM 2030", "value": "4 Jahre" },
+        { "label": "Yamal dann", "value": "23 Jahre alt" },
+        { "label": "Wirtz dann", "value": "26 Jahre alt" }
+      ],
+      "image": "wirtz_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "outro",
+      "title": "Holt Wirtz bis 2030 Yamals Niveau ein?",
+      "subtitle": "Kommentar schreiben",
+      "image": "pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
