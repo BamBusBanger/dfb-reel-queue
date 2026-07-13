@@ -1,0 +1,107 @@
+{
+  "slug": "simon-vs-mbappe-hf-duell",
+  "createdAt": "2026-07-13T12:34:00Z",
+  "title": "Simón vs. Mbappé – Unmöglich gegen Unaufhaltsam",
+  "script": "649 Minuten – so lange blieb Unai Simóns Tor bei dieser WM kein einziges Mal bezwungen. WM-Rekord. Morgen um 21 Uhr stürmt Kylian Mbappé in Dallas an: 11 Tore in WM-K.o.-Spielen – sein eigener Allzeit-Rekord. Spanien: 6 Spiele, nur 1 Gegentor. Frankreich: 6 Siege in 6 Spielen, kein Rückschlag. 94.000 Fans sehen im AT&T Stadium das Unmögliche gegen das Unaufhaltsame. Klopp schaut genau hin – diese Duelle definieren die WM 2030.",
+  "uploadCaption": "649 Minuten kein Gegentor vs. 11 KO-Tore – WM-Halbfinale des Jahres! Simón trifft auf Mbappé. Morgen 21 Uhr in Dallas. Wer setzt sich durch? 🔥⚽",
+  "uploadHashtags": "#WM2026 #FussballWM #Spanien #Frankreich #Mbappe #UnaiSimon #Yamal #Halbfinale #WorldCup2026 #DFB",
+  "images": [
+    { "file": "att_stadium.jpg",      "search": "AT&T Stadium Dallas" },
+    { "file": "wm2026_logo.jpg",      "search": "WM 2026 Logo" },
+    { "file": "simon.jpg",            "search": "Unai Simón WM 2026" },
+    { "file": "mbappe.jpg",           "search": "Kylian Mbappé WM 2026" },
+    { "file": "yamal.jpg",            "search": "Lamine Yamal Spanien WM 2026" },
+    { "file": "spanien_team.jpg",     "search": "Spanien WM 2026 Team" },
+    { "file": "dembele.jpg",          "search": "Ousmane Dembélé WM 2026" },
+    { "file": "frankreich_hf.jpg",    "search": "Frankreich WM 2026 Halbfinale" },
+    { "file": "fans_tribuene.jpg",    "search": "fans tribuene" },
+    { "file": "fans_hoffen.jpg",      "search": "public viewing" },
+    { "file": "pyro_fans.jpg",        "search": "pyro fans stadion" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "649 MINUTEN. 1 GEGENTOR. MORGEN KOMMT MBAPPÉ.",
+      "image": "wm2026_logo.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM-HALBFINALE · 14. JULI · DALLAS",
+      "title": "SIMÓN vs. MBAPPÉ",
+      "image": "att_stadium.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "simon.jpg",
+      "name": "Unai Simón",
+      "role": "Spanien · Torwart · 27",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "mbappe.jpg",
+      "name": "Kylian Mbappé",
+      "role": "Frankreich · Kapitän · 27",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "SIMÓNS FESTUNG",
+      "stats": [
+        { "label": "Minuten kein Gegentor (WM-Rekord)", "value": "649" },
+        { "label": "Zenga-Rekord 1990 gebrochen (517 Min)", "value": "✓" },
+        { "label": "Gegentore in 6 WM-Spielen", "value": "1" }
+      ],
+      "image": "spanien_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · Offensiv · 19",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "MBAPPÉS FEUERWERK",
+      "stats": [
+        { "label": "Tore in KO-Spielen (WM-Karriere-Rekord)", "value": "11" },
+        { "label": "Tore bei WM 2026", "value": "8" },
+        { "label": "Frankreich-Siege in 6 Spielen", "value": "6/6" }
+      ],
+      "image": "dembele.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "frankreich_hf.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_tribuene.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_hoffen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pyro_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "KNACKT MBAPPÉ DIE FESTUNG?",
+      "subtitle": "Frankreich oder Spanien? Tipp in die Kommentare!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
