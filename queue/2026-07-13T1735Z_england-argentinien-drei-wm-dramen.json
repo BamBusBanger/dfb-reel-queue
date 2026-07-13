@@ -1,0 +1,110 @@
+{
+  "slug": "england-argentinien-drei-wm-dramen",
+  "createdAt": "2026-07-13T17:35:00Z",
+  "title": "3 WM-Dramen: England vs. Argentinien",
+  "script": "3 WM-DRAMEN die das Halbfinale England gegen Argentinien ERKLÄREN! 1986: Maradona schlägt England erst mit der Hand Gottes und dann mit dem Tor des Jahrhunderts – 2:1 für Argentinien. 1998: Michael Owen brilliert mit nur 18 Jahren, dann Beckhams Rote Karte und Elfmeter-Drama. England raus. 2002: Beckham nimmt Rache – Elfmeter, 1:0. Jetzt 2026: Messi mit 39 Jahren und 8 WM-Toren gegen Bellingham – er hat schon 2 KO-Tore. Mittwoch 21 Uhr Atlanta. Wer schreibt die Geschichte?",
+  "uploadCaption": "3 WM-Dramen in 40 Jahren – jetzt das ERSTE Halbfinale überhaupt! England vs. Argentinien, Mittwoch 21 Uhr Atlanta. 1986 Hand Gottes, 1998 Beckham Rote Karte, 2002 Beckham Rache. Was passiert diesmal? #WM2026 #England #Argentinien #Messi #Bellingham #Halbfinale",
+  "uploadHashtags": "#WM2026 #England #Argentinien #Messi #Bellingham #Halbfinale #WorldCup2026 #FifaWorldCup",
+  "images": [
+    { "file": "maradona86.jpg",  "search": "Diego Maradona Hand of God 1986 World Cup England" },
+    { "file": "atlanta.jpg",     "search": "Mercedes-Benz Stadium Atlanta World Cup 2026" },
+    { "file": "messi.jpg",       "search": "Lionel Messi" },
+    { "file": "owen98.jpg",      "search": "Michael Owen goal Argentina 1998 World Cup" },
+    { "file": "beckham98.jpg",   "search": "David Beckham red card Argentina 1998 World Cup" },
+    { "file": "bellingham.jpg",  "search": "Jude Bellingham England World Cup 2026" },
+    { "file": "beckham02.jpg",   "search": "David Beckham penalty England Argentina 2002 World Cup" },
+    { "file": "kane.jpg",        "search": "Harry Kane England World Cup 2026" },
+    { "file": "wm_pokal.jpg",    "search": "WM Pokal" },
+    { "file": "fans.jpg",        "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 WM-DRAMEN!",
+      "image": "maradona86.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · Halbfinale 15.7.",
+      "title": "England vs. Argentinien",
+      "image": "atlanta.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "messi.jpg",
+      "name": "Lionel Messi",
+      "role": "Topscorer · 8 Tore · 39 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Drama 1: 1986 Mexiko QF",
+      "stats": [
+        { "label": "Hand Gottes", "value": "2:1" },
+        { "label": "Maradona Tore", "value": "2" },
+        { "label": "Titel danach", "value": "ARG" }
+      ],
+      "image": "maradona86.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "owen98.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Drama 2: 1998 Frankreich",
+      "stats": [
+        { "label": "Owen Alter", "value": "18 J." },
+        { "label": "Beckham Rote Karte", "value": "Aus" },
+        { "label": "Elfmeter", "value": "ARG weiter" }
+      ],
+      "image": "beckham98.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "bellingham.jpg",
+      "name": "Jude Bellingham",
+      "role": "England · 2 KO-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Drama 3: 2002 Japan",
+      "stats": [
+        { "label": "Beckham-Elfmeter", "value": "1:0 ENG" },
+        { "label": "Rache nach", "value": "4 Jahren" }
+      ],
+      "image": "beckham02.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kane.jpg",
+      "name": "Harry Kane",
+      "role": "England · 6 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beckham02.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Messi oder Bellingham?",
+      "subtitle": "Wer schreibt Mittwoch die Geschichte?",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
