@@ -1,0 +1,107 @@
+{
+  "slug": "klopp-vorstellung-knackpunkte",
+  "createdAt": "2026-07-13T09:34:00Z",
+  "title": "Warum Klopp NOCH IMMER nicht unterschreibt",
+  "script": "DFB hat Klopp gewählt – aber WARUM unterschreibt er noch immer nicht? Hinter den Kulissen tobt ein Millionen-Poker: Red Bull verlangt mindestens 5 Millionen Euro Ablöse. DFB macht das nächste Mega-Zugeständnis: Klopp darf als Bundestrainer WEITER für Red Bull werben. Red-Bull-Chef Mintzlaff sagt erst Anfang dieser Woche ja oder nein. Von Nagelsmanns Rücktritt am 3. Juli bis zu Klopps Nations-League-Debüt am 24. September vergehen 83 Tage Deutschland ohne Chef. Wer gibt zuerst nach?",
+  "uploadCaption": "WARUM unterschreibt Klopp noch immer nicht?! Hinter den Kulissen tobt ein Millionen-Poker zwischen DFB und Red Bull. 83 Tage ohne Bundestrainer – und die Zeit läuft. Der Deal MUSS diese Woche kommen!",
+  "uploadHashtags": "#Klopp #DFB #WM2026 #Bundestrainer #RedBull #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "klopp_portrait.jpg", "search": "Jürgen Klopp" },
+    { "file": "dfb_team.jpg",        "search": "DFB Team 2026" },
+    { "file": "klopp_dfb.jpg",       "search": "Jürgen Klopp DFB Bundestrainer 2026" },
+    { "file": "nagelsmann.jpg",      "search": "Julian Nagelsmann" },
+    { "file": "klopp_deal.jpg",      "search": "Bundestrainer Vertragspoker Millionen Fussball", "thematic": true },
+    { "file": "mintzlaff.jpg",       "search": "Oliver Mintzlaff Red Bull 2026" },
+    { "file": "kimmich.jpg",         "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",           "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",         "search": "Jamal Musiala" },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal" },
+    { "file": "dfb_fans.jpg",        "search": "DFB Fans" },
+    { "file": "klopp_outro.jpg",     "search": "Klopp DFB Pressekonferenz Bundestrainer" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "WARUM UNTERSCHREIBT KLOPP NOCH IMMER NICHT?",
+      "image": "klopp_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "NEWS-DRAMA",
+      "title": "Der Millionen-Poker",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp_dfb.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter Bundestrainer · 59",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Rücktritt 3. Juli 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der Klopp-Poker",
+      "stats": [
+        { "label": "Red Bull Ablöse-Forderung", "value": "5 Mio €" },
+        { "label": "Klopp-Jahresgehalt DFB",    "value": "10–12 Mio €" },
+        { "label": "Tage ohne Bundestrainer",    "value": "83" }
+      ],
+      "image": "klopp_deal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "mintzlaff.jpg",
+      "name": "Oliver Mintzlaff",
+      "role": "Red Bull CEO · Klopps aktueller Chef",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele · wartet",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB-Zukunft · 0 WM-Tore · braucht Klopp",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "DFB-Hoffnung · 22 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer blinzelt zuerst?",
+      "subtitle": "Klopp oder Red Bull – wer gibt nach?",
+      "image": "klopp_outro.jpg",
+      "weight": 1.0
+    }
+  ]
+}
