@@ -1,0 +1,94 @@
+{
+  "slug": "elfath-messi-verschwoerung-hf",
+  "createdAt": "2026-07-14T15:34:00Z",
+  "title": "Elfath: Messis Lieblings-Schiri leitet England-Argentinien!",
+  "script": "England zittert vor dem WM-Halbfinale! Schiedsrichter Ismail Elfath pfeift morgen Argentinien gegen England – und 3 Fakten lassen englische Fans ausrasten. Erstens: Elfath pfiff Messi bei Inter Miami 4 Mal – 4 Mal gewann Messi, 0 Niederlagen. Zweitens: 2 Argentinien-Spiele, 2 krasse Kontroversen – aberkanntes Tor gegen Ägypten, Rote Karte gegen die Schweiz. Drittens: Messi soll Elfath nach dem 3:2-Comeback direkt angesprochen haben. Die FIFA streitet alles ab. Aber England glaubt an keine Zufälle. Morgen 21 Uhr Atlanta.",
+  "uploadCaption": "🚨 Schiri-Alarm vor dem WM-Halbfinale! Ismail Elfath pfeift England vs. Argentinien – und seine Messi-Bilanz lässt englische Fans explodieren. 4 Spiele. 4 Messi-Siege. 0 Niederlagen. Alles Zufall? 👇 Kommentar rein!",
+  "uploadHashtags": "#WM2026 #England #Argentinien #Messi #Elfath #Schiedsrichter #Halbfinale #Fussball #FIFA #WorldCup2026",
+  "images": [
+    { "file": "elfath.jpg", "search": "Ismail Elfath Referee FIFA 2026" },
+    { "file": "messi.jpg", "search": "Lionel Messi" },
+    { "file": "kane.jpg", "search": "Harry Kane England WM 2026" },
+    { "file": "bellingham.jpg", "search": "Jude Bellingham England 2026" },
+    { "file": "argentina_wm.jpg", "search": "Argentinien WM 2026 Spieler" },
+    { "file": "schiri_symbol.jpg", "search": "Schiedsrichter Pfeife Kontroverse WM Symbol", "thematic": true },
+    { "file": "atlanta.jpg", "search": "Mercedes-Benz Stadium Atlanta WM 2026" },
+    { "file": "fans_entsetzen.jpg", "search": "fans entsetzen public-viewing" },
+    { "file": "pokal.jpg", "search": "WM Pokal" },
+    { "file": "collina.jpg", "search": "Pierluigi Collina FIFA Schiedsrichterchef" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 SCHIRI-FAKTEN, die England das Blut gefrieren lassen!",
+      "image": "elfath.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · HALBFINALE",
+      "title": "Elfath – Messis Lieblings-Schiri?",
+      "image": "messi.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "stats",
+      "title": "Elfaths Messi-Bilanz (Inter Miami)",
+      "stats": [
+        { "label": "Spiele gepfiffen", "value": "4" },
+        { "label": "Messi-Siege", "value": "4" },
+        { "label": "Elfath-Niederlagen", "value": "0" }
+      ],
+      "image": "elfath.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kane.jpg",
+      "name": "Harry Kane",
+      "role": "England Kapitän · 6 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "bellingham.jpg",
+      "name": "Jude Bellingham",
+      "role": "England Stürmer · 6 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "argentina_wm.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "schiri_symbol.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "collina.jpg",
+      "name": "Pierluigi Collina",
+      "role": "FIFA-Schiedsrichterchef",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "atlanta.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Ist das alles Zufall?",
+      "subtitle": "Schreib es in die Kommentare!",
+      "image": "pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
