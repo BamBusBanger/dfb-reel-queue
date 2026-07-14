@@ -1,0 +1,108 @@
+{
+  "slug": "deschamps-de-la-fuente-trainer-duell",
+  "createdAt": "2026-07-14T12:37:00Z",
+  "title": "Gewitter vs. Uhrwerk – WM-Halbfinale der Trainer",
+  "script": "NUR EINER KOMMT INS FINALE! Didier Deschamps – einziger Mensch der Geschichte, der als Spieler UND Trainer Weltmeister wurde – schickt heute Frankreichs Gewitter-Fußball in den Ring: 6 Spiele, 6 Siege, 16 Tore, 112 Schüsse. Dagegen Spaniens Uhrwerk unter Luis de la Fuente: 35 Spiele ungeschlagen, Simón-Weltrekord 649 Minuten ohne Gegentor, Yamal mit 19 Jahren als Dirigent. Jürgen Klopp schaut heute Abend live zu – und nimmt Notizen für WM 2030. Auf welches System setzt Deutschland?",
+  "uploadCaption": "GEWITTER gegen UHRWERK – das größte Trainer-Duell des Turniers! Deschamps (WM-Sieger 1998 & 2018) gegen De la Fuente (35 Spiele ungeschlagen). Wessen System überlebt die Nacht? Klopp schaut ganz genau hin – für WM 2030.",
+  "uploadHashtags": "#WM2026 #FrankreichSpanien #Deschamps #DeLaFuente #Mbappe #Yamal #Klopp #DFB #FussballWM #Halbfinale",
+  "images": [
+    { "file": "mbappe.jpg",         "search": "Kylian Mbappé WM 2026" },
+    { "file": "att_stadium.jpg",    "search": "AT&T Stadium Dallas" },
+    { "file": "deschamps.jpg",      "search": "Didier Deschamps" },
+    { "file": "frankreich_team.jpg","search": "Frankreich Nationalmannschaft WM 2026" },
+    { "file": "yamal.jpg",          "search": "Lamine Yamal WM 2026" },
+    { "file": "de_la_fuente.jpg",   "search": "Luis de la Fuente Trainer Spanien" },
+    { "file": "spanien_team.jpg",   "search": "Spanien Nationalmannschaft WM 2026" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "wm_pokal.jpg",       "search": "WM Pokal FIFA" },
+    { "file": "fans_jubel.jpg",     "search": "Jubelnde Fans WM Stadion" },
+    { "file": "pyro_fans.jpg",      "search": "Pyro Fans Tribüne Stimmung" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NUR EINER KOMMT INS FINALE.",
+      "image": "mbappe.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM-HALBFINALE · 14. JULI · 21 UHR",
+      "title": "Frankreich vs. Spanien",
+      "image": "att_stadium.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "deschamps.jpg",
+      "name": "Didier Deschamps",
+      "role": "Frankreich · WM-Sieger als Spieler (1998) & Trainer (2018)",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Frankreich – das Gewitter",
+      "stats": [
+        { "label": "Spiele / Siege",  "value": "6 / 6" },
+        { "label": "Tore",            "value": "16:2" },
+        { "label": "WM-Schüsse",      "value": "112" }
+      ],
+      "image": "frankreich_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "mbappe.jpg",
+      "name": "Kylian Mbappé",
+      "role": "8 WM-Tore · Topscorer (mit Messi)",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "de_la_fuente.jpg",
+      "name": "Luis de la Fuente",
+      "role": "Spanien · EM-Sieger 2024 · 35 Spiele ungeschlagen",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Spanien – das Uhrwerk",
+      "stats": [
+        { "label": "Ohne Niederlage", "value": "35 Spiele" },
+        { "label": "WM-Gegentore",   "value": "1" },
+        { "label": "Simón-Rekord",   "value": "649 Min." }
+      ],
+      "image": "spanien_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "19 J. · 17 Chancen kreiert (WM-Bestwert)",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Gewitter oder Uhrwerk?",
+      "subtitle": "Kommentier deinen Tipp für heute Nacht!",
+      "image": "pyro_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
