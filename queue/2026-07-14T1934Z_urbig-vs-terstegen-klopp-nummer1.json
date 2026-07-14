@@ -1,0 +1,106 @@
+{
+  "slug": "urbig-vs-terstegen-klopp-nummer1",
+  "createdAt": "2026-07-14T19:34:00Z",
+  "title": "Klops Torwart-Casting: Urbig vs. ter Stegen",
+  "script": "Neuer ist weg – und NIEMAND hat seinen Platz. Klopp steht vor dem größten Torwart-Casting der DFB-Geschichte. 4 Kandidaten: Nübel wechselt zu Besiktas. Baumann ist 36 – keine Zukunft bis 2030. Ter Stegen: 8 Jahre Neuers Schatten, verletzt und degradiert, wechselt zu Ajax für 2 Millionen statt 20. Und dann ist da Jonas Urbig – 22 Jahre, Bayern, 6 Zu-Null in nur 14 Bundesligaspielen. Matthäus fordert: Urbig rein! Klopp muss JETZT entscheiden. Debüt: 24. September.",
+  "uploadCaption": "Neuer ist weg – wer hütet jetzt das deutsche Tor? Klopp hat 4 Kandidaten und nur 1 Platz. Das größte DFB-Torwart-Casting der Geschichte beginnt! 🧤",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #Urbig #TerStegen #WM2030 #Nationalmannschaft #Torwart",
+  "images": [
+    { "file": "neuer.jpg",     "search": "Manuel Neuer" },
+    { "file": "nuebel.jpg",    "search": "Alexander Nübel" },
+    { "file": "baumann.jpg",   "search": "Oliver Baumann" },
+    { "file": "terstegen.jpg", "search": "Marc-André ter Stegen" },
+    { "file": "urbig.jpg",     "search": "Jonas Urbig" },
+    { "file": "klopp.jpg",     "search": "Jürgen Klopp" },
+    { "file": "pokal.jpg",     "search": "WM Pokal" },
+    { "file": "fans.jpg",      "search": "DFB Fans" },
+    { "file": "teamfoto.jpg",  "search": "DFB Nationalmannschaft 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NEUER IST WEG – WER SCHÜTZT DAS DEUTSCHE TOR?",
+      "image": "neuer.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 → 2030",
+      "title": "Klops Torwart-Casting",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "nuebel.jpg",
+      "name": "Alexander Nübel",
+      "role": "Torwart · 29 · Besiktas Istanbul",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "baumann.jpg",
+      "name": "Oliver Baumann",
+      "role": "Torwart · 36 · Hoffenheim",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "terstegen.jpg",
+      "name": "Marc-André ter Stegen",
+      "role": "Torwart · 34 · Ajax Amsterdam",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "ter Stegen – der Absturz",
+      "stats": [
+        { "label": "Gehalt bei Barça", "value": "20 Mio. €" },
+        { "label": "Gehalt bei Ajax", "value": "2 Mio. €" },
+        { "label": "Jahre in Neuers Schatten", "value": "8" }
+      ],
+      "image": "terstegen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "urbig.jpg",
+      "name": "Jonas Urbig",
+      "role": "Torwart · 22 · FC Bayern München",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Urbig – die Zukunft?",
+      "stats": [
+        { "label": "Alter", "value": "22" },
+        { "label": "Zu-Null in 14 BL-Spielen", "value": "6" },
+        { "label": "WM-Aufgebot 2026", "value": "ja" }
+      ],
+      "image": "urbig.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer wird Klops Nummer 1?",
+      "subtitle": "Urbig oder ter Stegen – kommentiere!",
+      "image": "teamfoto.jpg",
+      "weight": 1.0
+    }
+  ]
+}
