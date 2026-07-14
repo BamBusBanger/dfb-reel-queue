@@ -1,0 +1,105 @@
+{
+  "slug": "dfb-weltrangliste-absturz",
+  "createdAt": "2026-07-14T17:33:00Z",
+  "title": "Deutschland fällt aus FIFA Top 10",
+  "script": "Historischer Absturz! Deutschland rutscht nach 3 WM-Frühaus in Folge auf FIFA-Platz 12 ab – erstmals seit Jahren nicht mehr unter den Top 10 der Welt! 2014 war Deutschland nach dem Weltmeistertitel noch FIFA-Nummer 1. Jetzt: Platz 12. Das hat Konsequenzen: Bei der Auslosung für die EM 2028 droht aus Topf 2 bereits in der Gruppe Frankreich, Spanien oder Argentinien. Wirtz, Musiala, Havertz – Weltklasse auf dem Papier, aber nicht gut genug für die K.o.-Runde. Jetzt soll Jürgen Klopp das Ruder herumreißen. Ist Platz 12 der Tiefpunkt?",
+  "uploadCaption": "Deutschland ist aus den FIFA Top 10 gefallen! Platz 12 nach dem dritten WM-Frühaus in Folge. Von Weltmeister und FIFA-Nummer 1 (2014) zu Platz 12 (2026). Was bedeutet das für die EM 2028 und Klopps Comeback-Plan?",
+  "uploadHashtags": "#DFB #WM2026 #FIFARanking #Deutschland #Klopp #Nationalmannschaft #EM2028 #Fussball",
+  "images": [
+    { "file": "schock-fans.jpg",       "search": "DFB Fans Schock public viewing" },
+    { "file": "wm-ranking-absturz.jpg","search": "FIFA Weltrangliste Deutschland Platz 12 Top 10 Absturz 2026", "thematic": true },
+    { "file": "tah.png",               "search": "Jonathan Tah" },
+    { "file": "wm-pokal.jpg",          "search": "WM Pokal FIFA" },
+    { "file": "paraguay-jubel.jpg",    "search": "Paraguay WM 2026 Elfmeterschießen Jubel Foxborough" },
+    { "file": "kimmich.png",           "search": "Joshua Kimmich" },
+    { "file": "wirtz.png",             "search": "Florian Wirtz" },
+    { "file": "musiala.png",           "search": "Jamal Musiala" },
+    { "file": "havertz.png",           "search": "Kai Havertz" },
+    { "file": "deutschland-flagge.jpg","search": "Deutschland Flagge" },
+    { "file": "dfb-fans.jpg",          "search": "DFB Fans Deutschland" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DEUTSCHLAND NICHT MEHR TOP 10!",
+      "image": "schock-fans.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "FIFA WELTRANGLISTE 2026",
+      "title": "Absturz auf Platz 12",
+      "image": "wm-ranking-absturz.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "tah.png",
+      "name": "Jonathan Tah",
+      "role": "Innenverteidiger · Phantomtor Minute 102",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der freie Fall",
+      "stats": [
+        { "label": "FIFA-Rang 2014", "value": "#1" },
+        { "label": "FIFA-Rang 2026", "value": "#12" },
+        { "label": "WM-Frühaus in Folge", "value": "3×" }
+      ],
+      "image": "wm-pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "paraguay-jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.png",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 108 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.png",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 125 Mio. € · 0 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.png",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 Jahre · 1 WM-Tor",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.png",
+      "name": "Kai Havertz",
+      "role": "Sturm · Elfmeter verschossen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland-flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Ist Platz 12 der Tiefpunkt?",
+      "subtitle": "Schreibt es in die Kommentare!",
+      "image": "klopp.jpg",
+      "weight": 1.0
+    }
+  ]
+}
