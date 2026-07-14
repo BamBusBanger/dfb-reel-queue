@@ -1,0 +1,101 @@
+{
+  "slug": "wm2030-europa-heimvorteil",
+  "createdAt": "2026-07-14T05:34:00Z",
+  "title": "Deutschlands geheimes Heimspiel 2030",
+  "script": "3 WM-Aus in Folge – und doch hat Deutschland 2030 einen Vorteil, über den kaum jemand spricht. Die WM 2030 findet in Spanien, Portugal und Marokko statt – 14 Stadien allein in Europa. Kein Jetlag, Fans reisen mit dem Zug, vertraute Atmosphäre. Und noch etwas: 3 von 4 deutschen WM-Titeln wurden in Europa geholt. Klopp weiß das. Wirtz und Musiala wären 2030 erst 26 – ihr absolutes Prime-Alter. Der 5. Stern wartet auf dem eigenen Kontinent.",
+  "uploadCaption": "3 WM-Aus in Folge. Aber Klopp lächelt. Warum? Die WM 2030 findet in Spanien und Portugal statt – und das ist kein Zufall. Was kaum jemand weiß 👇",
+  "uploadHashtags": "#DFB #WM2030 #Klopp #Wirtz #Musiala #Fussball #Deutschland #WM2026 #5Sterne",
+  "images": [
+    { "file": "fans.jpg",          "search": "DFB Fans" },
+    { "file": "wm_pokal.jpg",      "search": "WM Pokal" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "bernabeu.jpg",      "search": "Santiago Bernabeu WM 2030 Spielort" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "tah.jpg",           "search": "Jonathan Tah" },
+    { "file": "wm2030_konzept.jpg","search": "WM 2030 Spanien Portugal Marokko Trophäe Finale", "thematic": true },
+    { "file": "ouedraogo.jpg",     "search": "Assan Ouédraogo" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich" },
+    { "file": "flagge.jpg",        "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 WM-AUS IN FOLGE – ABER KLOPP LÄCHELT.",
+      "image": "fans.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2030",
+      "title": "Deutschlands geheimes Heimspiel",
+      "image": "wm_pokal.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "bernabeu.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22 → 26 bei WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 → 26 bei WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps geheimes Kalkül",
+      "stats": [
+        { "label": "DFB-Titel in Europa geholt", "value": "3 von 4" },
+        { "label": "Europäische WM-Stadien 2030", "value": "14" },
+        { "label": "Alter von Wirtz & Musiala 2030", "value": "26" }
+      ],
+      "image": "wm2030_konzept.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "Abwehrchef · 29 bei WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Nachwuchs · 24 bei WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 35 bei WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "5. Stern in Spanien?",
+      "subtitle": "Glaubst du daran – ja oder nein?",
+      "image": "flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
