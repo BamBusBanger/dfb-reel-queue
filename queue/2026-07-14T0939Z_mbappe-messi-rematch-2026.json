@@ -1,0 +1,32 @@
+{
+  "slug": "mbappe-messi-rematch-2026",
+  "createdAt": "2026-07-14T09:39:12Z",
+  "title": "Messi vs. Mbappé – Das Rematch-Finale möglich?",
+  "script": "HEUTE NACHT entscheidet sich das WM-Finale der Geschichte! Kylian Mbappé führt Frankreich mit 8 Toren ins Halbfinale gegen Spanien – 6 Siege, 16:2 Tore, 36 Spiele ungeschlagen. Auf der anderen Seite wartet bereits Messi mit ebenfalls 8 Toren. Wenn Frankreich heute gewinnt und Argentinien morgen England schlägt – gibt es das REMATCH des 2022-Finales! Damals: Mbappé Hattrick, Messi 2 Tore, 3:3 nach Verlängerung, Elfmeter-Krimi. 2026: Das Finale am 19. Juli im MetLife Stadium, New York. Wer schreibt die Geschichte?",
+  "uploadCaption": "Heute Nacht entscheidet sich alles – Mbappé oder Messi im WM-Finale? Frankreich trifft um 21 Uhr auf Spanien in Dallas (94.000 Fans). Bei einem Sieg und einem Argentinien-Erfolg morgen: das WM-Rematch 2022 – 19. Juli MetLife Stadium! Mbappé: 8 Tore. Messi: 8 Tore. Gleichstand im Torjägerrennen. Wer holt die Krone?",
+  "uploadHashtags": "#WM2026 #WorldCup2026 #Mbappe #Messi #FrankreichSpanien #Halbfinale #Fussball #FIFA #Frankreich #Argentinien",
+  "images": [
+    { "file": "mbappe.jpg",      "search": "Kylian Mbappé WM 2026" },
+    { "file": "att_stadium.jpg", "search": "AT&T Stadium Dallas" },
+    { "file": "messi.jpg",       "search": "Lionel Messi" },
+    { "file": "yamal.jpg",       "search": "Lamine Yamal WM 2026" },
+    { "file": "pokal.jpg",       "search": "WM Pokal" },
+    { "file": "finale2022.jpg",  "search": "WM 2022 Finale Argentinien Frankreich" },
+    { "file": "metlife.jpg",     "search": "MetLife Stadium WM Finale" },
+    { "file": "fans.jpg",        "search": "WM Fans Jubel Stadion" },
+    { "file": "wm2026_logo.jpg", "search": "WM 2026 Logo" },
+    { "file": "fans_hoffen.jpg", "search": "Public Viewing Fans WM" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "HEUTE NACHT: DAS FINALE DER GÄNSEHAUT?", "image": "att_stadium.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · HALBFINALE", "title": "Frankreich vs. Spanien · Dallas, 21 Uhr", "image": "wm2026_logo.jpg", "weight": 0.7 },
+    { "type": "image", "image": "mbappe.jpg",    "name": "Kylian Mbappé", "role": "Frankreich · 8 WM-Tore 2026", "weight": 0.8 },
+    { "type": "image", "image": "messi.jpg",     "name": "Lionel Messi",  "role": "Argentinien · 8 WM-Tore 2026", "weight": 0.8 },
+    { "type": "stats", "title": "WM-Topscorer – Gleichstand!", "stats": [{ "label": "Mbappé", "value": "8 Tore" }, { "label": "Messi", "value": "8 Tore" }], "image": "pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "yamal.jpg",     "name": "Lamine Yamal", "role": "Spanien · 19 J. · 17 Chancen kreiert", "weight": 0.8 },
+    { "type": "image", "image": "finale2022.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",       "weight": 0.8 },
+    { "type": "image", "image": "metlife.jpg",    "weight": 0.8 },
+    { "type": "outro", "title": "Messi oder Mbappé?", "subtitle": "Wer gewinnt das WM-Finale 2026? Kommentiert!", "image": "fans_hoffen.jpg", "weight": 1.0 }
+  ]
+}
