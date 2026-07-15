@@ -1,0 +1,104 @@
+{
+  "slug": "messi-england-21-jahre-erstmals",
+  "createdAt": "2026-07-15T12:34:00Z",
+  "title": "Messi vs. England: Das erste Mal nach 21 Jahren",
+  "script": "39 Jahre alt. 21 Jahre als Argentinier. Und NOCH NIE gegen England gespielt! Heute Nacht ändert sich das: Atlanta, 21 Uhr, Messi gegen Kane. Argentinien will das Unmögliche – als erster WM-Titelverteidiger seit Brasilien 1962, seit sage und schreibe 64 Jahren, den Pokal nochmals holen. 8 Tore in diesem Turnier. 10 WM-Assists – absoluter Weltrekord. 32 WM-Einsätze. Wirtz dagegen: 360 WM-Minuten, null Tore. Klopp schaut live zu und hat seinen Stift gezückt. Verteidigt Argentinien heute die Krone?",
+  "uploadCaption": "39 Jahre. 21 Karrierejahre als Argentinier. Und NIE gegen England – bis HEUTE NACHT! Messi jagt das nächste Wunder: WM-Titelverteidigung, zuletzt gelang das Brasilien 1962 vor 64 Jahren. 8 Tore, 10 Assists (Weltrekord), 32 WM-Spiele. Klopp schaut zu. Geschichte wird heute geschrieben – oder nicht.",
+  "uploadHashtags": "#Messi #WM2026 #EnglandArgentinien #DFB #Klopp #Fussball #WM #FIFAWorldCup #Atlanta",
+  "images": [
+    { "file": "messi_spiel.jpg",   "search": "Lionel Messi Vor dem Spiel" },
+    { "file": "wm2026logo.jpg",    "search": "WM 2026 Logo" },
+    { "file": "messi_jubel.jpg",   "search": "Lionel Messi Jubel" },
+    { "file": "kane.jpg",          "search": "Harry Kane England WM 2026" },
+    { "file": "wm_pokal.jpg",      "search": "WM Pokal" },
+    { "file": "argentina.jpg",     "search": "Argentinien WM 2026 Messi Halbfinale" },
+    { "file": "fanmeile.jpg",      "search": "Deutschland Fanmeile WM" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "dfb_fans.jpg",      "search": "Deutschland Fans WM Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "21 KARRIERE-JAHRE. NIE GEGEN ENGLAND. BIS HEUTE NACHT.",
+      "image": "messi_spiel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · HEUTE NACHT 21 UHR ATLANTA",
+      "title": "Messis erstes Duell mit England",
+      "image": "wm2026logo.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "messi_jubel.jpg",
+      "name": "Lionel Messi",
+      "role": "Argentinien · 39 J. · 8 WM-Tore 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kane.jpg",
+      "name": "Harry Kane",
+      "role": "England · 31 J. · 6 WM-Tore 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Messi – WM-Rekorde 2026",
+      "stats": [
+        { "label": "Tore dieses Turnier", "value": "8" },
+        { "label": "Karriere-Assists WM (Rekord)", "value": "10" },
+        { "label": "WM-Einsätze gesamt", "value": "32" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "argentina.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "64 Jahre ohne WM-Titelverteidigung",
+      "stats": [
+        { "label": "Letzte Titelverteidigung", "value": "Brasilien 1962" },
+        { "label": "Jahre her", "value": "64" }
+      ],
+      "image": "fanmeile.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter DFB-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB · 22 J. · 0 WM-Tore 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "DFB · 22 J. · 1 WM-Tor 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Dein Urteil!",
+      "subtitle": "Verteidigt Argentinien heute den WM-Titel?",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
