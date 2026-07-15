@@ -1,0 +1,36 @@
+{
+  "slug": "oyarzabal-englands-albtraum",
+  "createdAt": "2026-07-15T05:34:02Z",
+  "title": "Oyarzabals Schicksal: England zittert",
+  "script": "DIESER MANN lässt England nicht schlafen. Mikel Oyarzabal schoss England in der 119. Minute im EM-Finale 2024 das Herz raus – 2:1 in Berlin. Jetzt, WM 2026: 5 WM-Tore, stellt Spaniens Rekord von David Villa (2010) und Butragueno (1986) ein. 22. Minute, Elfmeter gegen Frankreich – Spanien steht im WM-Finale. Heute Abend spielt England gegen Argentinien. Wenn England gewinnt, wartet im Finale wieder: Oyarzabal. Jürgen Klopp, Notizblock gezückt – auch er lernt von Spanien fürs DFB-Comeback 2030.",
+  "uploadCaption": "Schicksal oder Zufall? Oyarzabal schoss England im EM-Finale 2024 das Herz raus – und steht jetzt im WM-Finale 2026. Wenn England heute Argentinien schlägt, wartet derselbe Mann wieder. Klopp schaut zu.",
+  "uploadHashtags": "#WM2026 #Oyarzabal #Spanien #England #WMFinale #EM2024 #DFB #Fussball",
+  "images": [
+    { "file": "oyarzabal_em2024.jpg",   "search": "Mikel Oyarzabal EM 2024 Finale Tor England Berlin" },
+    { "file": "spanien_jubel.jpg",       "search": "Spanien WM 2026 Halbfinale Frankreich Jubel" },
+    { "file": "oyarzabal_wm2026.jpg",   "search": "Mikel Oyarzabal WM 2026 Spanien" },
+    { "file": "att_stadium_dallas.jpg", "search": "AT&T Stadium Dallas" },
+    { "file": "yamal_hf.jpg",           "search": "Lamine Yamal WM 2026 Spanien" },
+    { "file": "simon_span.jpg",         "search": "Unai Simon WM 2026 Spanien Torwart" },
+    { "file": "england_fans.jpg",       "search": "England Fans WM 2026 Halbfinale" },
+    { "file": "metlife_innen.jpg",      "search": "MetLife Stadium WM 2026 Finale" },
+    { "file": "klopp.jpg",              "search": "Jürgen Klopp" },
+    { "file": "wm_pokal.jpg",           "search": "WM Pokal" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "DIESER MANN.", "image": "oyarzabal_em2024.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026", "title": "Oyarzabals Schicksal", "image": "spanien_jubel.jpg", "weight": 0.7 },
+    { "type": "image", "image": "oyarzabal_wm2026.jpg", "name": "Mikel Oyarzabal", "role": "Spanien · 5 WM-Tore 2026", "weight": 0.8 },
+    { "type": "stats", "title": "Oyarzabal 2026", "stats": [
+        { "label": "WM-Tore", "value": "5" },
+        { "label": "EM-Finale-Tor 2024", "value": "119. Min" },
+        { "label": "Elfmeter vs FRA", "value": "22. Min" }
+      ], "image": "att_stadium_dallas.jpg", "weight": 0.9 },
+    { "type": "image", "image": "yamal_hf.jpg",     "name": "Lamine Yamal", "role": "Spanien · 19 Jahre", "weight": 0.8 },
+    { "type": "image", "image": "simon_span.jpg",   "name": "Unai Simón",   "role": "Spanien · WM-Rekord-Keeper", "weight": 0.8 },
+    { "type": "image", "image": "england_fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "metlife_innen.jpg","weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",        "weight": 0.8 },
+    { "type": "outro", "title": "England heute Abend:", "subtitle": "Kommt ihr ins Finale – oder weicht ihr Oyarzabal lieber aus?", "image": "wm_pokal.jpg", "weight": 1.0 }
+  ]
+}
