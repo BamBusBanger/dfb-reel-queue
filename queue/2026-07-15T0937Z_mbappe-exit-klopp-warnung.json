@@ -1,0 +1,114 @@
+{
+  "slug": "mbappe-exit-klopp-warnung",
+  "createdAt": "2026-07-15T09:37:00Z",
+  "title": "Mbappé raus – 3 WM-Warnungen für Klopp",
+  "script": "MBAPPÉ IST RAUS – und Klopp hat jede Sekunde aufgepasst. Frankreichs 36 Spiele ungeschlagen endeten heute Nacht mit null zu zwei gegen Spanien. Drei knallharte Warnungen für das neue Deutschland: Erstens, auch starke Serien enden – Deutschland hatte nur elf Siege in Folge. Zweitens, Superstars allein gewinnen keine WM – Mbappé erzielte im Halbfinale null Tore. Drittens, Spaniens Keeper Simón stand 739 Minuten ungeschlagen – Klopp braucht eine Defensiv-Revolution. Vier Jahre bis WM 2030. Bringt Klopp Deutschland zur Weltspitze zurück?",
+  "uploadCaption": "FRANKREICH RAUS! 3 schonungslose WM-Warnungen aus Mbappés Scheitern – die Klopp unbedingt kennen muss ⚠️⚽",
+  "uploadHashtags": "#DFB #WM2026 #Klopp #Mbappe #Frankreich #Spanien #WM2030 #Bundestrainer #Fussball",
+  "images": [
+    { "file": "fans_entsetzen.jpg",  "search": "DFB Fans Entsetzen" },
+    { "file": "wm2026logo.webp",     "search": "WM 2026 Logo" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "frankreich_hf.jpg",   "search": "Frankreich WM 2026 Halbfinale" },
+    { "file": "mbappe.jpg",          "search": "Kylian Mbappé" },
+    { "file": "flagge.jpg",          "search": "Deutschland Flagge" },
+    { "file": "simon.jpg",           "search": "Unai Simón WM 2026 Spanien" },
+    { "file": "pokal.jpg",           "search": "WM-Pokal 2026" },
+    { "file": "wirtz.jpg",           "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",         "search": "Jamal Musiala" },
+    { "file": "fans_jubel.jpg",      "search": "DFB Fans Jubel" },
+    { "file": "teamfoto.jpg",        "search": "DFB Teamfoto 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "MBAPPÉ IST RAUS. Klopp hat aufgepasst.",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · Halbfinale",
+      "title": "3 Warnungen für Deutschland",
+      "image": "wm2026logo.webp",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter Bundestrainer · WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Warnung 1: Serien enden immer",
+      "stats": [
+        { "label": "Frankreich ungeschlagen", "value": "36 Spiele" },
+        { "label": "Halbfinale-Ergebnis", "value": "0:2 vs. Spanien" }
+      ],
+      "image": "frankreich_hf.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "mbappe.jpg",
+      "name": "Kylian Mbappé",
+      "role": "Frankreich · 8 Turniertore",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Warnung 2: Stars allein reichen nicht",
+      "stats": [
+        { "label": "Mbappé Halbfinale-Tore", "value": "0" },
+        { "label": "Schüsse aufs Tor HF", "value": "1" }
+      ],
+      "image": "flagge.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "simon.jpg",
+      "name": "Unai Simón",
+      "role": "Spanien · WM-Rekordkeeper",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Warnung 3: Defensive entscheidet",
+      "stats": [
+        { "label": "Simón ungeschlagen seit", "value": "739 Min." },
+        { "label": "Spanien Gegentore WM gesamt", "value": "1" }
+      ],
+      "image": "pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22 · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 · Bayern München",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Klopp, was Nagelsmann nie gelang?",
+      "subtitle": "Kommentar hinterlassen & folgen für WM 2030",
+      "image": "teamfoto.jpg",
+      "weight": 1.0
+    }
+  ]
+}
