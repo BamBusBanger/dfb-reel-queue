@@ -1,0 +1,97 @@
+{
+  "slug": "bellingham-musiala-klopp-hausaufgabe",
+  "createdAt": "2026-07-15T15:34:00Z",
+  "title": "Bellingham vs Musiala: Klopps Hausaufgabe",
+  "script": "Jude Bellingham: 6 Tore, WM-Halbfinale HEUTE gegen Argentinien. Jamal Musiala: 1 Tor, WM-Aus in der Elfmeterrunde. Beide 23 Jahre alt. Beide für die Weltbühne gemacht — doch einer dominiert, einer enttäuscht. Klopp kennt Bellingham noch aus gemeinsamer BVB-Zeit. Jetzt hat er genau 4 Jahre, Musiala zur gleichen Maschine zu formen. WM-Legende Lahm erschreckt alle: In seiner DFB-Achse für 2030 fehlt Musiala komplett. Die WM 2030 wartet — wer spielt Klopps Nummer 10?",
+  "uploadCaption": "Bellingham: 6 Tore. Musiala: 1 Tor. Beide 23 Jahre alt. Klopp hat 4 Jahre — wer ist seine Nr. 10 bei der WM 2030?",
+  "uploadHashtags": "#DFB #WM2026 #Bellingham #Musiala #Klopp #WM2030 #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "bellingham.jpg",    "search": "Jude Bellingham England WM 2026" },
+    { "file": "bellingham_aktion.jpg", "search": "Jude Bellingham Tor WM 2026" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "musiala_jubel.jpg", "search": "Jamal Musiala Torjubel DFB" },
+    { "file": "musiala_aktion.jpg","search": "Jamal Musiala WM Aktion Curacao" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp DFB" },
+    { "file": "dortmund.jpg",      "search": "Signal Iduna Park Dortmund" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz DFB" },
+    { "file": "dfb_fans.jpg",      "search": "DFB Fans WM" },
+    { "file": "wm_pokal.jpg",      "search": "WM Pokal" },
+    { "file": "dfb_2030.jpg",      "search": "DFB WM 2030 Zukunft Planung", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "BELLINGHAM: 6 TORE. MUSIALA: 1 TOR.",
+      "image": "bellingham.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 | GENERATIONEN-DUELL",
+      "title": "Klopps Hausaufgabe",
+      "image": "musiala.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "bellingham_aktion.jpg",
+      "name": "Jude Bellingham",
+      "role": "England Nr. 10 · 23 J. · 6 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_jubel.jpg",
+      "name": "Jamal Musiala",
+      "role": "DFB Nr. 10 · 23 J. · 1 WM-Tor",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM 2026 Bilanz",
+      "stats": [
+        { "label": "Bellingham Tore", "value": "6" },
+        { "label": "Musiala Tore",    "value": "1" },
+        { "label": "Klopp-Debüt in",  "value": "71 Tagen" }
+      ],
+      "image": "klopp.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala_aktion.jpg",
+      "name": "Jamal Musiala",
+      "role": "Gegen Paraguay: kein Einsatz",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dortmund.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB 2030 · 23 J. · 0 WM-Tore · 360 Min.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Musiala als Klopps Nr. 10 für 2030 — oder braucht der DFB einen Bellingham-Typ?",
+      "subtitle": "Meinung in den Kommentaren ↓",
+      "image": "dfb_2030.jpg",
+      "weight": 1.0
+    }
+  ]
+}
