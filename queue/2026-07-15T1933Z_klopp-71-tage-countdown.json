@@ -1,0 +1,40 @@
+{
+  "slug": "klopp-71-tage-countdown",
+  "createdAt": "2026-07-15T19:33:00Z",
+  "title": "71 Tage bis Klopps DFB-Debüt",
+  "script": "71 TAGE! So lang hat Jürgen Klopp noch bis zu seinem ersten DFB-Länderspiel – am 24. September auswärts gegen die Niederlande in der Nations League. Diese Woche soll endlich der Vertrag unterschrieben werden: Klopp und Red-Bull-Chef Mintzlaff treffen sich persönlich am Rande des WM-Finales am 19. Juli in New York. Klopp bekommt volle Kader-Kontrolle, zwischen 10 und 12 Millionen Euro Jahresgehalt – und dann gleich den ersten Test. Sein 2030-Kern: Wirtz, Musiala, Ouédraogo. Und der 5. Stern als Ziel.",
+  "uploadCaption": "Jürgen Klopp hat 71 Tage bis zu seinem ersten DFB-Spiel – und der Zeitplan ist eng. Vertrag, Kader, Gegner – alles klar? 🇩🇪⏱️",
+  "uploadHashtags": "#Klopp #DFB #Bundestrainer #WM2026 #WM2030 #Nationalmannschaft #Fussball #NationsLeague",
+  "images": [
+    { "file": "klopp.jpg",       "search": "Jürgen Klopp" },
+    { "file": "team.jpg",        "search": "DFB Team 2026" },
+    { "file": "countdown.jpg",   "search": "Countdown Neustart Fußball Stadion symbolisch leer", "thematic": true },
+    { "file": "niederlande.jpg", "search": "Netherlands national football team 2026" },
+    { "file": "wirtz.jpg",       "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",     "search": "Jamal Musiala" },
+    { "file": "ouedraogo.jpg",   "search": "Assan Ouédraogo" },
+    { "file": "kimmich.jpg",     "search": "Joshua Kimmich" },
+    { "file": "fans.jpg",        "search": "DFB Fans" },
+    { "file": "pokal.jpg",       "search": "WM Pokal Gold" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "71 TAGE BIS ZUM NEUSTART.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB 2026", "title": "Klopp-Countdown läuft", "image": "team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp.jpg",       "name": "Jürgen Klopp",    "role": "Neuer Bundestrainer · 59", "weight": 0.8 },
+    { "type": "stats", "title": "Der Zeitplan",
+      "stats": [
+        { "label": "Debüt",      "value": "24.09.2026" },
+        { "label": "Gegner",     "value": "Niederlande" },
+        { "label": "Jahresgehalt", "value": "10–12 Mio. €" }
+      ],
+      "image": "countdown.jpg", "weight": 0.9 },
+    { "type": "image", "image": "niederlande.jpg",  "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",        "name": "Florian Wirtz",   "role": "Offensiv · 22", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg",      "name": "Jamal Musiala",   "role": "Offensiv · 22", "weight": 0.8 },
+    { "type": "image", "image": "ouedraogo.jpg",    "name": "Assan Ouédraogo", "role": "Mittelfeld · 20", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",      "name": "Joshua Kimmich",  "role": "Kapitän · 31", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",         "weight": 0.8 },
+    { "type": "image", "image": "pokal.jpg",        "weight": 0.8 },
+    { "type": "outro", "title": "Schafft Klopp den Umbruch?", "subtitle": "5. Stern 2030 – realistisch oder Wunschdenken?", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
