@@ -1,0 +1,34 @@
+{
+  "slug": "klopp-muenchen-gipfel-durchbruch",
+  "createdAt": "2026-07-15T17:34:00Z",
+  "title": "Klopp-Durchbruch: DFB trifft Red Bull in München",
+  "script": "HEUTE MORGEN in München: DFB-Bosse Neuendorf und Watzke saßen mit Red-Bull-Chef Mintzlaff am Tisch – und erzielten den DURCHBRUCH. Die geheime Einigung: Klopp bleibt offizieller Red-Bull-Markenbotschafter. Dazu: DFB spielt Länderspiele im Red-Bull-Stadion Leipzig. Kein Transfergeld! Ursprünglich forderte Red Bull 5 Millionen Euro Ablöse – jetzt 0 Euro. 10 bis 12 Millionen Jahresgehalt, Vertrag bis WM 2030. Nur noch ein Gespräch fehlt: Klopp und Mintzlaff persönlich in Amerika. Klappt das, unterschreibt Klopp noch VOR dem WM-Finale am 19. Juli.",
+  "uploadCaption": "BREAKING: Der DFB-Red-Bull-Gipfel in München hat den Durchbruch gebracht! Klopp bleibt Markenbotschafter, der DFB spielt in Leipzig – und statt 5 Millionen Ablöse zahlt der DFB gar nichts. Jürgen Klopp wird Bundestrainer!",
+  "uploadHashtags": "#Klopp #Bundestrainer #DFB #RedBull #WM2030 #Fussball #DFBTeam #NieMehrImmer",
+  "images": [
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "muenchen.jpg", "search": "München DFB Treffen" },
+    { "file": "neuendorf.jpg", "search": "Bernd Neuendorf DFB Präsident" },
+    { "file": "mintzlaff.jpg", "search": "Oliver Mintzlaff Red Bull" },
+    { "file": "rb_leipzig.jpg", "search": "Red Bull Arena Leipzig Stadion" },
+    { "file": "geheimgipfel.jpg", "search": "Geheimtreffen Gipfeltreffen Konzept", "thematic": true },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "DFB-GEHEIMGIPFEL IN MÜNCHEN – heute Morgen!", "image": "geheimgipfel.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "BREAKING", "title": "Klopp-Durchbruch", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Designierter Bundestrainer · 59", "weight": 0.8 },
+    { "type": "image", "image": "neuendorf.jpg", "name": "Bernd Neuendorf", "role": "DFB-Präsident", "weight": 0.8 },
+    { "type": "image", "image": "mintzlaff.jpg", "name": "Oliver Mintzlaff", "role": "Red Bull Global Soccer", "weight": 0.8 },
+    { "type": "stats", "title": "Die geheime Einigung", "stats": [{ "label": "Ablöse Red Bull", "value": "0 €" }, { "label": "DFB spielt in", "value": "Leipzig" }], "image": "muenchen.jpg", "weight": 0.9 },
+    { "type": "image", "image": "rb_leipzig.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Klopp-Kandidat · 22", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "Klopp-Kandidat · 22", "weight": 0.8 },
+    { "type": "stats", "title": "Klopp-Plan", "stats": [{ "label": "Klopp-Gehalt/Jahr", "value": "10–12 Mio. €" }, { "label": "Vertrag bis", "value": "WM 2030" }], "image": "wm_pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Klopp als DFB-Coach & Red-Bull-Gesicht?", "subtitle": "Korrekt oder Konflikt? Kommentar!", "image": "dfb_fans.jpg", "weight": 1.0 }
+  ]
+}
