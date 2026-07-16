@@ -1,0 +1,112 @@
+{
+  "slug": "finale-rekorde-top3",
+  "createdAt": "2026-07-16T15:34:00Z",
+  "title": "3 Rekorde beim WM-Finale 19.7.",
+  "script": "HEUTE NACHT bricht das WM-Finale Geschichte! 3 historische Rekorde stehen auf dem Spiel. Erstens: Spanien-Torwart Simón will mit einem 7. Clean Sheet den absoluten WM-Torwart-Rekord aller Zeiten brechen – 6 von 7 Spielen schon zu null! Zweitens: Argentinien jagt den Back-to-Back-WM-Titel – zuletzt schaffte das Brasilien vor 64 Jahren! Und drittens: Messi mit 39 Jahren und 21 WM-Karrieretoren – ist es sein letztes WM-Spiel? Klopp schaut live zu und studiert seine WM-2030-Gegner. Kann Deutschland 2030 Geschichte schreiben?",
+  "uploadCaption": "HEUTE NACHT bricht das WM-Finale 3 Rekorde auf einmal! Simón jagt den Clean-Sheet-Rekord, Argentinien will Back-to-Back – zuletzt schaffte das Brasilien vor 64 Jahren. Und Messi mit 39: Ist es sein letztes Spiel? Klopp schaut zu und plant schon WM 2030.",
+  "uploadHashtags": "#WM2026 #Finale #Spanien #Argentinien #Messi #Klopp #DFB #WM2030 #Fussball #Rekord",
+  "images": [
+    { "file": "metlife_innen.jpg",       "search": "MetLife Stadium innen" },
+    { "file": "wm2026_logo.jpg",         "search": "WM 2026 Logo" },
+    { "file": "simon.jpg",               "search": "Unai Simón Spain goalkeeper 2026" },
+    { "file": "metlife_aussen.jpg",      "search": "MetLife Stadium außen" },
+    { "file": "messi_jubel.jpg",         "search": "Lionel Messi" },
+    { "file": "messi_spiel.jpg",         "search": "Messi Argentina World Cup 2026 final" },
+    { "file": "yamal.jpg",               "search": "Lamine Yamal Spain 2026" },
+    { "file": "wm_pokal_vitrine.jpg",    "search": "WM Pokal" },
+    { "file": "klopp.jpg",               "search": "Jürgen Klopp" },
+    { "file": "dfb_fans.jpg",            "search": "DFB Fans Deutschland" },
+    { "file": "wm_pokal_staender.jpg",   "search": "WM Pokal Gold" },
+    { "file": "deutschland_flagge.jpg",  "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 REKORDE – HEUTE NACHT",
+      "image": "metlife_innen.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 FINALE · 19. JULI",
+      "title": "3 Historische Rekorde",
+      "image": "wm2026_logo.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "simon.jpg",
+      "name": "Unai Simón",
+      "role": "Spanien · Torwart · Rekord-Keeper",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Rekord 1: Clean-Sheet-König",
+      "stats": [
+        { "label": "Zu-Null-Spiele WM 2026", "value": "6/7" },
+        { "label": "Minuten ohne Gegentor", "value": "649" }
+      ],
+      "image": "metlife_aussen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "messi_jubel.jpg",
+      "name": "Lionel Messi",
+      "role": "Argentinien · 39 J. · 21 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Rekord 2: Back-to-Back-WM-Titel",
+      "stats": [
+        { "label": "Letzter Titelverteidiger", "value": "Brasilien 1962" },
+        { "label": "Jahre her", "value": "64" }
+      ],
+      "image": "messi_spiel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · 19 J. · 17 Torchancen kreiert",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Rekord 3: Messis letztes WM-Spiel?",
+      "stats": [
+        { "label": "Alter im Finale", "value": "39 Jahre" },
+        { "label": "WM-Karrieretore (Rekord)", "value": "21" }
+      ],
+      "image": "wm_pokal_vitrine.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter DFB-Bundestrainer · MagentaTV",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal_staender.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Deutschland 2030 den Titel?",
+      "subtitle": "Klopp studiert heute live seine 2030-Gegner",
+      "image": "deutschland_flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
