@@ -1,0 +1,105 @@
+{
+  "slug": "klopp-finale-fluch-spanien-argentinien",
+  "createdAt": "2026-07-16T09:34:00Z",
+  "title": "Klopps Finale-Fluch: DFB verlor gegen BEIDE WM-Giganten",
+  "script": "Beide WM-Finalisten haben Deutschland schon besiegt – und das ist Geschichte. Spanien: WM 2010 Halbfinale 0:1, Puyols Kopfball in Durban. Argentinien: WM-Finale 1986 in Mexiko 3:2 – Maradona triumphiert. Jetzt spielen BEIDE am Sonntag, dem 19. Juli, im MetLife Stadium um den WM-Titel. Klopp übernimmt in 71 Tagen und muss BEIDE studieren: Yamal (19 Jahre), Alvarez (24), Simón (nur 1 Gegentor in 7 WM-Spielen). Wird Klopp 2030 in Europa die Revanche schaffen?",
+  "uploadCaption": "🇩🇪 Deutschland verlor gegen BEIDE WM-Finalisten – Spanien 0:1 WM 2010 UND Argentinien 2:3 WM-Finale 1986. Am Sonntag (19.7.) spielen diese Giganten im MetLife Stadium um den Titel – ohne DFB. Klopp übernimmt in 71 Tagen und muss beide für WM 2030 in Europa knacken. Yamal (19), Alvarez (24), Simón (1 Gegentor in 7 Spielen). Die Hausaufgaben beginnen JETZT. Wer wird Weltmeister – Spanien oder Argentinien? 👇",
+  "uploadHashtags": "#DFB #WM2026 #Finale #Klopp #WM2030 #Spanien #Argentinien #Fussball #Messi #Yamal",
+  "images": [
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",             "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",           "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",           "search": "Joshua Kimmich" },
+    { "file": "fans_schock.jpg",       "search": "DFB Fans Enttäuschung WM" },
+    { "file": "wm_pokal.jpg",          "search": "WM Pokal" },
+    { "file": "wm_pokal_museum.jpg",   "search": "WM Pokal FIFA Museum" },
+    { "file": "spanien_finale.jpg",    "search": "Spanien WM Finale 2026" },
+    { "file": "argentinien_finale.jpg","search": "Argentinien WM Finale 2026" },
+    { "file": "dfb_teamfoto.jpg",      "search": "DFB Team 2026" },
+    { "file": "havertz.jpg",           "search": "Kai Havertz" },
+    { "file": "fans_hoffen.jpg",       "search": "DFB Fans WM" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "BEIDE WM-FINALISTEN HABEN DEUTSCHLAND SCHON BESIEGT.",
+      "image": "fans_schock.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 FINALE",
+      "title": "Klopps Finale-Fluch",
+      "image": "dfb_teamfoto.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter Bundestrainer · Debüt in 71 Tagen",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "DFB vs. Finalisten – Bilanz",
+      "stats": [
+        { "label": "vs Spanien WM 2010 HF", "value": "0:1" },
+        { "label": "vs Argentinien WM 1986 Finale", "value": "2:3" },
+        { "label": "Simón: Gegentore in 7 Spielen", "value": "nur 1" }
+      ],
+      "image": "wm_pokal_museum.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "spanien_finale.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22 Jahre · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "argentinien_finale.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 Jahre · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Stürmer · Arsenal",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 108 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Revanche 2030?",
+      "subtitle": "Schafft Klopp, was Nagelsmann verpasst hat?",
+      "image": "fans_hoffen.jpg",
+      "weight": 1.0
+    }
+  ]
+}
