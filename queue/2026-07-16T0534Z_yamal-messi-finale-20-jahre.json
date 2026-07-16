@@ -1,0 +1,105 @@
+{
+  "slug": "yamal-messi-finale-20-jahre",
+  "createdAt": "2026-07-16T05:34:00Z",
+  "title": "Yamal (19) vs. Messi (39) – 20 Jahre WM-Finale",
+  "script": "20 Jahre Altersunterschied im WM-Finale – unfassbar! Lamine Yamal, 19: 17 Torchancen kreiert, schoss Frankreich mit 2:0 raus. Lionel Messi, 39: 21 WM-Karrieretore – Weltrekord – plus 2 Assists im Halbfinale gegen England. Als Messi 2010 den WM-Pokal in die Höhe streckte, war Yamal gerade mal 3 Jahre alt. Messi will Titel Nummer 2 – vielleicht sein letztes WM-Turnier. Und Jürgen Klopp schaut als designierter Bundestrainer genau hin: Das sind seine WM-2030-Gegner. Sonntag, 19. Juli, MetLife Stadium.",
+  "uploadCaption": "Yamal (19) vs. Messi (39) – 20 Jahre Altersunterschied im WM-Finale! Als Messi 2010 den Pokal hob, war Yamal 3 Jahre alt. Wer gewinnt am 19. Juli das WM-Finale? Schreib's in die Kommentare!",
+  "uploadHashtags": "#WM2026 #Finale #Yamal #Messi #Spanien #Argentinien #DFB #Klopp #WM2030 #Fussball",
+  "images": [
+    { "file": "yamal_hook.jpg",         "search": "Lamine Yamal" },
+    { "file": "yamal.jpg",              "search": "Lamine Yamal WM 2026" },
+    { "file": "messi_jubel.jpg",        "search": "Lionel Messi" },
+    { "file": "messi_wm.jpg",           "search": "Lionel Messi WM 2026 Finale" },
+    { "file": "metlife_aussen.jpg",     "search": "MetLife Stadium" },
+    { "file": "metlife_innen.jpg",      "search": "MetLife Stadium innen" },
+    { "file": "wirtz.jpg",              "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",            "search": "Jamal Musiala" },
+    { "file": "klopp.jpg",              "search": "Jürgen Klopp" },
+    { "file": "wm_pokal.jpg",           "search": "WM Pokal" },
+    { "file": "spanien_argentinien.jpg","search": "Spanien Argentinien WM 2026 Finale" },
+    { "file": "fans.jpg",               "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "20 JAHRE ALTERSUNTERSCHIED IM WM-FINALE.",
+      "image": "yamal_hook.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM-FINALE · 19. JULI 2026",
+      "title": "Yamal vs. Messi",
+      "image": "metlife_aussen.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · 19 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "messi_jubel.jpg",
+      "name": "Lionel Messi",
+      "role": "Argentinien · 39 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "DUELL DER GENERATIONEN",
+      "stats": [
+        { "label": "Altersunterschied", "value": "20 Jahre" },
+        { "label": "Yamal Torchancen kreiert", "value": "17" },
+        { "label": "Messi WM-Karrieretore", "value": "21" }
+      ],
+      "image": "messi_wm.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer (ab 24.09.)",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "metlife_innen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB · Klopps WM-2030-Kader",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "DFB · Klopps WM-2030-Kader",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "spanien_argentinien.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer gewinnt das WM-Finale?",
+      "subtitle": "Spanien oder Argentinien – kommentier jetzt!",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
