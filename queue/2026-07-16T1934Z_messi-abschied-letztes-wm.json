@@ -1,0 +1,99 @@
+{
+  "slug": "messi-abschied-letztes-wm",
+  "createdAt": "2026-07-16T19:34:00Z",
+  "title": "Messis letztes WM-Spiel",
+  "script": "Messis letztes WM-Spiel. Der 39-Jährige tritt am 19. Juli zum sechsten und allerletzten Mal bei einer Weltmeisterschaft an. 21 WM-Tore, 32 WM-Spiele – beide Male Weltrekord. Er hat Miroslav Kloses legendäre Marke von 16 Toren gesprengt, Argentinien 2022 zum Titel geführt – und will jetzt das Back-to-Back gegen Spaniens Lamine Yamal. Klopp analysiert live im MetLife Stadium als designierter Bundestrainer. Für Wirtz und Musiala lautet die Frage: Was können sie von der größten WM-Karriere der Geschichte lernen?",
+  "uploadCaption": "Das WM-Finale am 19. Juli ist Messis letztes WM-Spiel. Der 39-Jährige tritt nach 21 Toren, 32 Spielen und 6 Turnieren – alle WM-Weltrekorde – für immer von der größten Fußball-Bühne ab. Klopp, Wirtz und die neue DFB-Generation schauen live zu. Wer holt den Titel 2026?",
+  "uploadHashtags": "#Messi #WM2026 #DFB #WMFinale #MetLife #Argentinien #Klopp #Fussball #WM2026Finale #Legende",
+  "images": [
+    { "file": "messi_jubel.jpg",      "search": "Messi Jubel" },
+    { "file": "metlife.jpg",          "search": "MetLife Stadium" },
+    { "file": "messi_wm26.jpg",       "search": "Lionel Messi WM 2026 Finale" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal" },
+    { "file": "klose.jpg",            "search": "Miroslav Klose DFB" },
+    { "file": "neuer.jpg",            "search": "Manuel Neuer" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",            "search": "Florian Wirtz" },
+    { "file": "dfb_fans.jpg",         "search": "DFB Fans" },
+    { "file": "argentinien_wm26.jpg", "search": "Argentinien WM 2026 Jubel" },
+    { "file": "metlife_aussen.jpg",   "search": "MetLife Stadium Außen" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "MESSIS LETZTES WM-SPIEL.",
+      "image": "messi_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 FINALE · 19. JULI",
+      "title": "Messis letzter Tanz",
+      "image": "metlife.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "messi_wm26.jpg",
+      "name": "Lionel Messi",
+      "role": "Argentinien · 39 Jahre · 6. WM",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Messis WM-Weltrekorde",
+      "stats": [
+        { "label": "WM-Tore",     "value": "21" },
+        { "label": "WM-Spiele",   "value": "32" },
+        { "label": "WM-Turniere", "value": "6"  }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klose.jpg",
+      "name": "Miroslav Klose",
+      "role": "WM-Rekord bis 2026 · 16 Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "neuer.jpg",
+      "name": "Manuel Neuer",
+      "role": "DFB · Letzte WM 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter DFB-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB Zukunft · 22 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "argentinien_wm26.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Messi oder Yamal?",
+      "subtitle": "Wer holt den WM-Titel 2026?",
+      "image": "metlife_aussen.jpg",
+      "weight": 1.0
+    }
+  ]
+}
