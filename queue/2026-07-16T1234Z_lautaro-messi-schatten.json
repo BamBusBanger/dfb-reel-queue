@@ -1,0 +1,109 @@
+{
+  "slug": "lautaro-messi-schatten",
+  "createdAt": "2026-07-16T12:34:00Z",
+  "title": "Lautaro: Messis geheime Waffe im WM-Finale",
+  "script": "Während alle auf Messi starren, macht ER das WM-Finale möglich! 90. Minute plus 2 – Lautaro Martínez köpft ein. Assist: Messi. England: ausgeschieden. Argentinien: WM-Finale! Dabei kennt kaum einer diesen Mann wirklich: 17 Tore als Italiens Serie-A-Topschütze 2025/26. 5 Tore und Goldener Schuh bei der Copa America 2024. Jetzt der WM-Halbfinale-Held. Während Messi mit 21 WM-Toren Weltrekorde bricht, erledigt Lautaro still die Drecksarbeit. Am 19. Juli wartet Spanien im Finale. Wer wird Argentiniens echter Held?",
+  "uploadCaption": "90+2 Minuten. Ein Kopfball. Messis Vorlage. England ausgeschieden. Lautaro Martínez hat Argentinien ins WM-Finale geschossen – und kaum jemand redet über ihn. 17 Serie-A-Tore, Goldener Schuh Copa America 2024. Am 19. Juli trifft er auf Spanien. Wer ist der echte Held dieser argentinischen WM?",
+  "uploadHashtags": "#Lautaro #LautaroMartinez #Argentinien #WM2026 #WMFinale #Messi #InterMilan #DFB #Klopp2030 #MetLife",
+  "images": [
+    { "file": "lautaro_portrait.jpg", "search": "Lautaro Martínez" },
+    { "file": "lautaro_header.jpg", "search": "Lautaro Martínez Tor Argentina England 2026" },
+    { "file": "messi_2026.jpg", "search": "Lionel Messi WM 2026" },
+    { "file": "inter_lautaro.jpg", "search": "Lautaro Martínez Inter Milan" },
+    { "file": "copa_2024.jpg", "search": "Copa America 2024 Argentinien Jubel" },
+    { "file": "argentina_semifinal.jpg", "search": "Argentinien England Halbfinale 2026 Jubel" },
+    { "file": "metlife.jpg", "search": "MetLife Stadium New York" },
+    { "file": "pokal.jpg", "search": "WM Pokal Gold" },
+    { "file": "spanien_wm2026.jpg", "search": "Spanien WM 2026 Finale" },
+    { "file": "fans_jubel.jpg", "search": "fans jubel stadion" },
+    { "file": "klopp_tv.jpg", "search": "Jürgen Klopp" },
+    { "file": "dfb_fans.jpg", "search": "Deutschland Fans WM" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "WÄHREND ALLE AUF MESSI SCHAUEN…",
+      "image": "lautaro_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · HALBFINALE",
+      "title": "90+2 – ENGLAND BEGRABEN",
+      "image": "argentina_semifinal.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "lautaro_header.jpg",
+      "name": "Lautaro Martínez",
+      "role": "Stürmer · 27 · Inter Milan",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "inter_lautaro.jpg",
+      "name": "Lautaro Martínez",
+      "role": "Inter Milan · Serie-A-Topschütze 2025/26",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "LAUTARO IN ZAHLEN",
+      "stats": [
+        { "label": "Serie-A-Tore 2025/26", "value": "17" },
+        { "label": "Copa-America-Tore 2024", "value": "5" },
+        { "label": "WM-Siegtor vs England", "value": "90+2'" }
+      ],
+      "image": "copa_2024.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "messi_2026.jpg",
+      "name": "Lionel Messi",
+      "role": "Topscorer · 8 WM-Tore · 21 Karrieretore (Weltrekord)",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "metlife.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM-FINALE · 19. JULI",
+      "stats": [
+        { "label": "Anstoß", "value": "21 Uhr" },
+        { "label": "Stadion", "value": "MetLife Stadium" },
+        { "label": "Messis WM-Rekordtore", "value": "21" }
+      ],
+      "image": "spanien_wm2026.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp_tv.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter DFB-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Messis oder LAUTAROS WM?",
+      "subtitle": "Wer wird Argentiniens wahrer Matchwinner?",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
