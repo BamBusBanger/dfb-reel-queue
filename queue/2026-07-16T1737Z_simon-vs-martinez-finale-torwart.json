@@ -1,0 +1,103 @@
+{
+  "slug": "simon-vs-martinez-finale-torwart",
+  "createdAt": "2026-07-16T17:37:00Z",
+  "title": "Simón vs. Martínez – Torwart-Duell des Jahrhunderts",
+  "script": "WELCHER TORWART GEWINNT DAS WM-FINALE? Spaniens Unai Simón: 739 Minuten kein Gegentor – historischer WM-Rekord, 6 weiße Westen in 6 Spielen. Argentiniens Emiliano 'Dibu' Martínez: Im WM 2022 hielt er 2 Elfmeter gegen die Niederlande und wurde Weltmeister. Am 19. Juli prallen beide im MetLife Stadium aufeinander. Simón ist die Mauer – Martínez ist der Elfmeter-Killer. Klopp schaut live zu und nimmt Notizen für die WM 2030. Wer setzt sich durch?",
+  "uploadCaption": "SIMÓN vs. MARTÍNEZ – Das größte Torwart-Duell der WM-Geschichte! 739 Minuten ohne Gegentor gegen den Elfmeter-Killer von 2022. WM-Finale 19. Juli MetLife Stadium. 🧤🏆",
+  "uploadHashtags": "#WM2026 #Fussball #WMFinale #Spanien #Argentinien #Simon #Martinez #Torwart #DFB #Klopp",
+  "images": [
+    { "file": "simon.jpg",           "search": "Unai Simón" },
+    { "file": "martinez.jpg",        "search": "Emiliano Martínez" },
+    { "file": "metlife_aussen.jpg",  "search": "metlife" },
+    { "file": "metlife_innen.jpg",   "search": "metlife innen" },
+    { "file": "wm_pokal.jpg",        "search": "wm_pokal" },
+    { "file": "fans_hoffen.jpg",     "search": "public-viewing hoffen" },
+    { "file": "wm_logo.jpg",         "search": "wm2026 logo" },
+    { "file": "jubel_fans.jpg",      "search": "jubelnde menge stadion" },
+    { "file": "argentinien_jubel.jpg","search": "Argentinien WM 2026" },
+    { "file": "spanien_jubel.jpg",   "search": "Spanien WM 2026" },
+    { "file": "usa_flagge.jpg",      "search": "usa flagge wm26" },
+    { "file": "deutschland_fans.jpg","search": "deutschland fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "WELCHER TORWART GEWINNT DAS WM-FINALE?",
+      "image": "metlife_aussen.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM-FINALE · 19. JULI · METLIFE STADIUM",
+      "title": "SIMÓN vs. MARTÍNEZ",
+      "image": "wm_logo.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "simon.jpg",
+      "name": "Unai Simón",
+      "role": "Spanien · Torwart · 27 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "SIMÓN – WM-REKORD",
+      "stats": [
+        { "label": "Minuten ohne Gegentor", "value": "739" },
+        { "label": "Clean Sheets WM 2026", "value": "6/6" }
+      ],
+      "image": "metlife_innen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "martinez.jpg",
+      "name": "Emiliano 'Dibu' Martínez",
+      "role": "Argentinien · Torwart · 32 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "MARTÍNEZ – ELFMETER-KILLER",
+      "stats": [
+        { "label": "Elfmeter-Paraden WM 2022 K.o.-Runde", "value": "2" },
+        { "label": "WM-Titel", "value": "2022 ⭐" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "spanien_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "argentinien_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "jubel_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_hoffen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "usa_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Simón ODER Martínez?",
+      "subtitle": "Wer ist der bessere WM-Torwart? Kommentar!",
+      "image": "deutschland_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
