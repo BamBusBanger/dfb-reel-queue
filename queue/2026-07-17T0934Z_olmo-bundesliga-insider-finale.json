@@ -1,0 +1,107 @@
+{
+  "slug": "olmo-bundesliga-insider-finale",
+  "createdAt": "2026-07-17T09:34:15Z",
+  "title": "Dani Olmo – Deutschlands Ex-Bundesliga-Insider im WM-Finale",
+  "script": "4 Jahre und über 60 Bundesliga-Spiele für RB Leipzig: Dani Olmo spricht fließend Deutsch und kennt die Bundesliga von innen wie kein anderer Spanier. Als Nagelsmann ihn 2020 nach Leipzig holte, traf er auf Wirtz, Kimmich und Tah als direkte Bundesliga-Rivalen. Jetzt steht Olmo im WM-Finale am 19. Juli als Spaniens Nummer 10 gegen Argentinien – er assistierte bereits beim 2:0-Halbfinale gegen Frankreich. Spanien ließ in 7 WM-Spielen nur 1 Gegentor zu. Klopp analysiert Olmo bereits als designierter Bundestrainer für WM 2030. Wird der Ex-Bundesligastar sein größter Albtraum?",
+  "uploadCaption": "Dieser Mann spielte 4 Jahre in der Bundesliga gegen unsere Stars – jetzt steht Dani Olmo als Spaniens Nummer 10 im WM-Finale! 🤯 Klopp studiert ihn schon für 2030. Ist der Ex-RB-Leipzig-Star die größte Bedrohung für den DFB?",
+  "uploadHashtags": "#DFB #WM2026 #DaniOlmo #Bundesliga #Spanien #WMFinale #Klopp #WM2030 #Fussball",
+  "images": [
+    { "file": "olmo-finale.jpg",    "search": "Dani Olmo Spanien WM 2026 Finale" },
+    { "file": "metlife.jpg",        "search": "MetLife Stadium" },
+    { "file": "olmo-leipzig.jpg",   "search": "Dani Olmo RB Leipzig Bundesliga" },
+    { "file": "kimmich.jpg",        "search": "Joshua Kimmich" },
+    { "file": "tah.jpg",            "search": "Jonathan Tah" },
+    { "file": "spanien-finale.jpg", "search": "Spanien Nationalmannschaft WM 2026 Finale" },
+    { "file": "nagelsmann.jpg",     "search": "Julian Nagelsmann" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",          "search": "Florian Wirtz" },
+    { "file": "dfb-fans.jpg",       "search": "DFB Fans" },
+    { "file": "wm-pokal.jpg",       "search": "WM Pokal" },
+    { "file": "argentina-finale.jpg", "search": "Argentinien WM 2026 Finale" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER SPIELTE 4 JAHRE IN DER BUNDESLIGA – JETZT IM WM-FINALE GEGEN UNS!",
+      "image": "olmo-finale.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM-FINALE · 19. JULI · METLIFE STADIUM",
+      "title": "Dani Olmo – Deutschlands Ex-Insider",
+      "image": "metlife.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "olmo-leipzig.jpg",
+      "name": "Dani Olmo",
+      "role": "Spanien · Ex-RB Leipzig 2020–24 · Nr. 10",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Holte Olmo 2020 nach Leipzig · formte ihn zum WM-Star",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 108 Länderspiele · Olmos BL-Rivale",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "DFB-Abwehrchef · Ex-Bundesliga-Rivale von Olmo",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Olmos Bundesliga-Akte bei RB Leipzig",
+      "stats": [
+        { "label": "BL-Spiele", "value": "63" },
+        { "label": "Jahre in Deutschland", "value": "4,5" },
+        { "label": "Spaniens WM-Gegentore", "value": "1" }
+      ],
+      "image": "spanien-finale.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB-Schlüsselspieler 2030 · Klopps Plan A",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer ab 24.9. · analysiert Olmo für 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm-pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wird Olmo Klopps Albtraum 2030?",
+      "subtitle": "Ja oder Nein? Kommentar ⬇️",
+      "image": "argentina-finale.jpg",
+      "weight": 1.0
+    }
+  ]
+}
