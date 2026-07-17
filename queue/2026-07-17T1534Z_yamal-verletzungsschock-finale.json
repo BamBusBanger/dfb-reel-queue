@@ -1,0 +1,101 @@
+{
+  "slug": "yamal-verletzungsschock-finale",
+  "createdAt": "2026-07-17T15:34:32Z",
+  "title": "Yamal verletzt vor dem WM-Finale?",
+  "script": "SCHOCK vor dem WM-FINALE! Lamine Yamal – 19 Jahre, 17 Torchancen kreiert, bester Spieler des Turniers – trainierte nur INDIVIDUELL. Knöchelprobleme nach dem Halbfinale gegen Frankreich. Dazu fehlt Porro mit Oberschenkelzerrung. Trainer De la Fuente: nur Vorsichtsmaßnahme. Doch ohne Yamal bricht Spaniens Angriff ein. Argentinien rieb sich die Hände: Messi, Álvarez – 4 Tore im Turnier –, der Weltmeister wartet. Finale Sonntag, 21 Uhr, MetLife Stadium. Klopp schaut live – und macht sich Notizen für 2030.",
+  "uploadCaption": "VERLETZT? Spaniens Superstar Lamine Yamal bangt um seinen Einsatz im WM-Finale! 17 Torchancen kreiert – mehr als jeder andere Spieler bei dieser WM. Und jetzt das. Alles zum Final-Krimi vor dem größten Spiel des Jahres.",
+  "uploadHashtags": "#WM2026 #Yamal #SpanienArgentinien #WMFinale #Fussball #DFB #Klopp #WM2026Finale",
+  "images": [
+    { "file": "wm_logo.jpg",       "search": "WM 2026 Logo" },
+    { "file": "yamal.jpg",         "search": "Lamine Yamal" },
+    { "file": "yamal_verletzt.jpg","search": "Lamine Yamal individuell Training WM 2026 Knöchel" },
+    { "file": "porro.jpg",         "search": "Pedro Porro Spanien WM 2026" },
+    { "file": "de_la_fuente.jpg",  "search": "Luis de la Fuente Spanien Trainer WM 2026" },
+    { "file": "metlife.jpg",       "search": "MetLife Stadium" },
+    { "file": "alvarez.jpg",       "search": "Julian Alvarez Argentinien WM 2026" },
+    { "file": "messi.jpg",         "search": "Lionel Messi" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "fans_jubel.jpg",    "search": "WM Finale Fans Jubel" },
+    { "file": "fans_hoffen.jpg",   "search": "WM Public Viewing Spannung" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "SCHOCK VOR DEM FINALE!",
+      "image": "wm_logo.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · Finale in 2 Tagen",
+      "title": "Yamal verletzt?!",
+      "image": "yamal.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "yamal_verletzt.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · 19 J. · Knöchelprobleme",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "porro.jpg",
+      "name": "Pedro Porro",
+      "role": "Spanien · Rechtsverteidiger · Zerrung",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Yamals WM-Turnier",
+      "stats": [
+        { "label": "Torchancen kreiert", "value": "17" },
+        { "label": "Tore + Assists", "value": "8" },
+        { "label": "WM-Spiele", "value": "7" }
+      ],
+      "image": "metlife.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "de_la_fuente.jpg",
+      "name": "Luis de la Fuente",
+      "role": "Spanien · Trainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "messi.jpg",
+      "name": "Lionel Messi",
+      "role": "Argentinien · 21 WM-Karrieretore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "alvarez.jpg",
+      "name": "Julián Álvarez",
+      "role": "Argentinien · 4 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter DFB-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Spielt Yamal?",
+      "subtitle": "Schreib es in die Kommentare!",
+      "image": "fans_hoffen.jpg",
+      "weight": 1.0
+    }
+  ]
+}

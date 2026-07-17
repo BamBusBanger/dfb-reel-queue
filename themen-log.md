@@ -230,3 +230,4 @@
 2026-07-17 | wm-finale-zuschauer-rekord-ohne-dfb | TV-Quoten WM-Finale ohne DFB, 13,7 Mio ARD Argentinien-HF, 12,69 Mio ZDF-Rekord Spanien-HF (ohne Deutschland), 15-18 Mio Finale-Prognose, 3 Gründe Messi-Abschied/Yamal/Klopp-Hausaufgabe (TOP-3-LISTE)
 2026-07-17 | olmo-bundesliga-insider-finale | Dani Olmo Ex-RB Leipzig 4,5 Jahre 63 BL-Spiele WM-Finale Spanien vs Argentinien 19.7. MetLife, Nagelsmann-Schüler, Klopp analysiert für DFB 2030, Spanien nur 1 Gegentor in 7 Spielen (GEHEIMNIS)
 2026-07-17 | ouedraogo-el-mala-klopp-duell | Ouédraogo (20, RB Leipzig) vs El Mala (19, FC Köln) Klopp-WM-2030-Duell, beide 0 WM-Minuten 2026, El-Mala-Transfer-Poker Köln fordert 50 Mio Klopp schiebt Leipzig-Wechsel an BVB zittert U17-Weltmeister 2023 (DUELL/VERGLEICH)
+2026-07-17 | yamal-verletzungsschock-finale | Yamal Knöchelprobleme Porro Zerrung Spanien beide nur individuell trainiert WM-Finale 19.7. MetLife Klopp Notizen 2030 (NEWS-DRAMA)
