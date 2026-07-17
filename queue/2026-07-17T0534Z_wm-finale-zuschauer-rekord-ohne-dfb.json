@@ -1,0 +1,103 @@
+{
+  "slug": "wm-finale-zuschauer-rekord-ohne-dfb",
+  "createdAt": "2026-07-17T05:34:40Z",
+  "title": "WM-Finale ohne Deutschland: 3 Gründe warum 15 Millionen zuschauen",
+  "script": "13 Komma 7 Millionen! Deutschland ist raus, aber die Deutschen schauen trotzdem – und brechen Rekorde. Das Halbfinale Argentinien gegen England: 13,7 Millionen ARD-Zuschauer. Spanien gegen Frankreich: 12,69 Millionen – REKORD für Spiele ohne Deutschland. Das WM-Finale am Sonntag auf ZDF könnte 15 bis 18 Millionen knacken. Warum? Erstens: Messis letztes Spiel aller Zeiten. Zweitens: Yamal gegen Messi – 20 Jahre Altersunterschied, ein Finale der Generationen. Drittens: Klopp schaut live zu und studiert Deutschlands Gegner von WM 2030. Deutschland ist raus. Aber Deutschland schaut hin.",
+  "uploadCaption": "Deutschland raus – die Quoten brechen trotzdem alle Rekorde! 12,69 Mio. ZDF-Rekord im Halbfinale ohne DFB. Beim WM-Finale Spanien vs. Argentinien am Sonntag könnten 15–18 Mio. einschalten. Klopp schaut live zu. Das sind die 3 Gründe.",
+  "uploadHashtags": "#WM2026 #DFB #WMFinale #Messi #Yamal #Klopp #Spanien #Argentinien #Deutschland #Fussball",
+  "images": [
+    { "file": "public_viewing_fanpark.jpg",   "search": "Public Viewing WM Fanpark" },
+    { "file": "wm2026_logo.webp",             "search": "WM 2026 Logo" },
+    { "file": "public_viewing_entsetzen.jpg", "search": "Public Viewing Deutschland WM" },
+    { "file": "metlife_aussen.jpg",           "search": "MetLife Stadium New York" },
+    { "file": "messi_jubel.jpg",              "search": "Lionel Messi" },
+    { "file": "fanmeile.jpg",                 "search": "Fanmeile Berlin WM" },
+    { "file": "yamal.jpg",                    "search": "Lamine Yamal" },
+    { "file": "klopp.jpg",                    "search": "Jürgen Klopp" },
+    { "file": "metlife_innen.jpg",            "search": "MetLife Stadium WM Finale innen" },
+    { "file": "wirtz.png",                    "search": "Florian Wirtz" },
+    { "file": "jubel_menge.jpg",              "search": "WM Zuschauer Jubel" },
+    { "file": "public_viewing_hoffen.jpg",    "search": "Public Viewing Deutschland hoffen" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "13,7 MILLIONEN – OBWOHL DEUTSCHLAND RAUS IST!",
+      "image": "public_viewing_fanpark.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 FINALE",
+      "title": "3 Gründe warum 15 Millionen zuschauen",
+      "image": "wm2026_logo.webp",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "public_viewing_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "TV-Quoten WM 2026",
+      "stats": [
+        { "label": "7:1 vs Curaçao (ARD)", "value": "23,4 Mio." },
+        { "label": "HF Argentinien vs England (ARD)", "value": "13,7 Mio." },
+        { "label": "HF Spanien vs Frankreich – ZDF-Rekord", "value": "12,69 Mio." }
+      ],
+      "image": "metlife_aussen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "messi_jubel.jpg",
+      "name": "Lionel Messi",
+      "role": "39 J. · letztes WM-Spiel",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fanmeile.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "19 J. · Spanien · 17 Chancen kreiert",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "metlife_innen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.png",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · WM 2030 mit 26 Jahren",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "jubel_menge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schaust du das Finale?",
+      "subtitle": "DFB-Boykott oder doch einschalten?",
+      "image": "public_viewing_hoffen.jpg",
+      "weight": 1.0
+    }
+  ]
+}
