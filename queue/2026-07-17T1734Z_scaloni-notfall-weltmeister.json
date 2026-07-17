@@ -1,0 +1,97 @@
+{
+  "slug": "scaloni-notfall-weltmeister",
+  "createdAt": "2026-07-17T17:34:30Z",
+  "title": "Scaloni: Vom Ausgelachten zur WM-Legende",
+  "script": "ER WURDE 2018 AUSGELACHT – heute steht er im zweiten WM-Finale! Lionel Scaloni: null Erfahrung, kein Cheftrainer-Posten, nur ein Notfall-Interimstrip. Maradona schimpfte öffentlich: 'Katastrophe.' Heute, 7 Jahre später: 3 Titel, über 100 Spiele. Argentiniens erfolgreichster Coach der Geschichte. Und sein Finale-Gegner am 19. Juli im MetLife Stadium? Luis de la Fuente – sein ehemaliger Mentor bei Spaniens Jugendteams. Argentinien jagt das Back-to-Back – erstmals seit Brasilien 1962, vor 64 Jahren. Schlägt der Schüler seinen Meister?",
+  "uploadCaption": "2018 wollte ihn niemand – heute führt Scaloni Argentinien ins zweite WM-Finale in Folge. Und sein Gegner am 19. Juli? Sein eigener ehemaliger Trainer und Mentor. Eure Prognose in die Kommentare! 🏆🇦🇷",
+  "uploadHashtags": "#WM2026 #Finale #Scaloni #Argentinien #Spanien #Messi #Fussball #MetLife",
+  "images": [
+    { "file": "scaloni_portrait.jpg",  "search": "Lionel Scaloni" },
+    { "file": "scaloni_aktion.jpg",    "search": "Lionel Scaloni Argentina Trainer 2026" },
+    { "file": "maradona.jpg",          "search": "Diego Maradona" },
+    { "file": "argentina_2022.jpg",    "search": "Argentinien WM 2022 Weltmeister" },
+    { "file": "de_la_fuente.jpg",      "search": "Luis de la Fuente" },
+    { "file": "messi_jubel.jpg",       "search": "messi jubel" },
+    { "file": "metlife_aussen.jpg",    "search": "MetLife Stadium" },
+    { "file": "wm_pokal.jpg",          "search": "WM Pokal" },
+    { "file": "fans_jubel.jpg",        "search": "fans jubel stadion" },
+    { "file": "argentina_fans.jpg",    "search": "Argentinien Fans WM 2026" },
+    { "file": "metlife_innen.jpg",     "search": "MetLife Stadium innen" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER WURDE 2018 AUSGELACHT – heute steht er im zweiten WM-Finale!",
+      "image": "scaloni_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "GEHEIMNIS DES FINALES",
+      "title": "Scaloni: Vom Nobody zur Legende",
+      "image": "wm_pokal.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "scaloni_aktion.jpg",
+      "name": "Lionel Scaloni",
+      "role": "Argentinien-Coach · 46 · 3 Titel",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "maradona.jpg",
+      "name": "Diego Maradona",
+      "role": "Legende · WM-Sieger 1986",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Scalonis Bilanz",
+      "stats": [
+        { "label": "Titel als Coach", "value": "3" },
+        { "label": "Spiele", "value": "100+" },
+        { "label": "Jahre im Amt", "value": "7" }
+      ],
+      "image": "argentina_2022.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "de_la_fuente.jpg",
+      "name": "Luis de la Fuente",
+      "role": "Spaniens Coach · 63 · Scalonis Ex-Mentor",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "messi_jubel.jpg",
+      "name": "Lionel Messi",
+      "role": "Stürmer · 39 · 21 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "metlife_aussen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "argentina_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schlägt der Schüler seinen Meister?",
+      "subtitle": "Prognose in die Kommentare ⬇️",
+      "image": "metlife_innen.jpg",
+      "weight": 1.0
+    }
+  ]
+}

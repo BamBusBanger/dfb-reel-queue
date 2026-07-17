@@ -231,3 +231,4 @@
 2026-07-17 | olmo-bundesliga-insider-finale | Dani Olmo Ex-RB Leipzig 4,5 Jahre 63 BL-Spiele WM-Finale Spanien vs Argentinien 19.7. MetLife, Nagelsmann-Schüler, Klopp analysiert für DFB 2030, Spanien nur 1 Gegentor in 7 Spielen (GEHEIMNIS)
 2026-07-17 | ouedraogo-el-mala-klopp-duell | Ouédraogo (20, RB Leipzig) vs El Mala (19, FC Köln) Klopp-WM-2030-Duell, beide 0 WM-Minuten 2026, El-Mala-Transfer-Poker Köln fordert 50 Mio Klopp schiebt Leipzig-Wechsel an BVB zittert U17-Weltmeister 2023 (DUELL/VERGLEICH)
 2026-07-17 | yamal-verletzungsschock-finale | Yamal Knöchelprobleme Porro Zerrung Spanien beide nur individuell trainiert WM-Finale 19.7. MetLife Klopp Notizen 2030 (NEWS-DRAMA)
+2026-07-17 | scaloni-notfall-weltmeister | Scaloni 2018 Notfall-Interimstrainer null Erfahrung Maradona-Kritik 'Katastrophe', 7 Jahre 3 Titel 100 Spiele, Finale-Gegner De la Fuente sein ehemaliger Mentor, Back-to-Back erstmals seit Brasilien 1962 (GEHEIMNIS)
