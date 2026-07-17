@@ -1,0 +1,96 @@
+{
+  "slug": "ouedraogo-el-mala-klopp-duell",
+  "createdAt": "2026-07-17T12:36:00Z",
+  "title": "Ouédraogo vs El Mala – Klopps WM-2030-Duell",
+  "script": "2 Deutsche unter 21 – 0 WM-Minuten 2026. Jetzt macht Klopp sie zum Herzstück seines 2030-Plans. Assan Ouédraogo: 20 Jahre, RB Leipzig, Debüt-Tor nach 102 Sekunden, U17-Weltmeister 2023. Said El Mala: 19 Jahre, 13 Tore und 5 Vorlagen im Bundesliga-Debüt – Nagelsmann ließ ihn zu Hause. Und jetzt? Klopp schiebt persönlich El Malas Wechsel zu RB Leipzig an. Köln fordert 50 Millionen Euro. Der BVB zittert. Beide könnten 2030 das Herz des DFB schlagen. Wer wird der Größere?",
+  "uploadCaption": "Klopp baut die ZUKUNFT! Ouédraogo & El Mala – 2 Teenager, 0 WM-Minuten 2026, aber JETZT schon Deutschlands größte Hoffnung für WM 2030. Klopp mischt persönlich im Transfer-Poker mit – Köln fordert 50 Mio €, der BVB zittert! Wer wird der Größere?",
+  "uploadHashtags": "#DFB #WM2030 #Klopp #ElMala #Ouédraogo #Bundesliga #WM2026 #Fussball #DFBZukunft",
+  "images": [
+    { "file": "ouedraogo.jpg",          "search": "Assan Ouédraogo" },
+    { "file": "el-mala.jpg",            "search": "Said El Mala" },
+    { "file": "ouedraogo-rbleipzig.jpg","search": "Assan Ouédraogo RB Leipzig" },
+    { "file": "el-mala-koeln.jpg",      "search": "Said El Mala FC Köln" },
+    { "file": "klopp.jpg",              "search": "Jürgen Klopp" },
+    { "file": "rb-leipzig.jpg",         "search": "RB Leipzig Bundesliga" },
+    { "file": "u17-wm.jpg",             "search": "Deutschland U17 Weltmeister 2023" },
+    { "file": "dfb-fans.jpg",           "search": "DFB Fans" },
+    { "file": "wm-pokal.jpg",           "search": "WM Pokal" },
+    { "file": "transfer-symbol.jpg",    "search": "Fußball Transfer Duell Bundesliga Poker", "thematic": true },
+    { "file": "wm2030.jpg",             "search": "WM 2030 Fußball Zukunft Europa Symbol", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "2 TEENS – KLOPPS GEHEIMPLAN 2030!",
+      "image": "ouedraogo.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DUELL/VERGLEICH",
+      "title": "Ouédraogo vs El Mala",
+      "image": "el-mala.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo-rbleipzig.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Mittelfeld · 20 J. · RB Leipzig",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "el-mala-koeln.jpg",
+      "name": "Said El Mala",
+      "role": "Angriff · 19 J. · FC Köln",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen",
+      "stats": [
+        { "label": "Ouédraogo: Debüt-Tor nach", "value": "102 Sek." },
+        { "label": "El Mala: Tore Bundesliga-Debüt", "value": "13" },
+        { "label": "El Mala: Vorlagen", "value": "5" },
+        { "label": "Köln fordert", "value": "50 Mio €" }
+      ],
+      "image": "transfer-symbol.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter DFB-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "rb-leipzig.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "u17-wm.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm-pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer wird der Größere?",
+      "subtitle": "Ouédraogo oder El Mala – kommentiere!",
+      "image": "wm2030.jpg",
+      "weight": 1.0
+    }
+  ]
+}
