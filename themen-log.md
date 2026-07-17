@@ -232,3 +232,4 @@
 2026-07-17 | ouedraogo-el-mala-klopp-duell | Ouédraogo (20, RB Leipzig) vs El Mala (19, FC Köln) Klopp-WM-2030-Duell, beide 0 WM-Minuten 2026, El-Mala-Transfer-Poker Köln fordert 50 Mio Klopp schiebt Leipzig-Wechsel an BVB zittert U17-Weltmeister 2023 (DUELL/VERGLEICH)
 2026-07-17 | yamal-verletzungsschock-finale | Yamal Knöchelprobleme Porro Zerrung Spanien beide nur individuell trainiert WM-Finale 19.7. MetLife Klopp Notizen 2030 (NEWS-DRAMA)
 2026-07-17 | scaloni-notfall-weltmeister | Scaloni 2018 Notfall-Interimstrainer null Erfahrung Maradona-Kritik 'Katastrophe', 7 Jahre 3 Titel 100 Spiele, Finale-Gegner De la Fuente sein ehemaliger Mentor, Back-to-Back erstmals seit Brasilien 1962 (GEHEIMNIS)
+2026-07-17 | pedri-unsichtbarer-motor-finale | Pedri Spaniens unsichtbarer Motor WM-Finale, 22 Jahre Platz 1 Balleroberungen Angriffsdrittel aller WM-Spieler, 7 Spiele nur 1 Gegentor, Klopp-Hausaufgabe Musiala/Wirtz-Vergleich 4 Jahre bis WM 2030 (TOP-3-LISTE)
