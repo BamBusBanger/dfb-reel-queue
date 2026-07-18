@@ -1,0 +1,105 @@
+{
+  "slug": "halbzeitshow-wm-finale-premiere",
+  "createdAt": "2026-07-18T05:34:09Z",
+  "title": "WM-Halbzeitshow: Die erste in 96 Jahren",
+  "script": "HEUTE NACHT schreibt die FIFA Geschichte – zum ersten Mal in 96 Jahren WM-Tradition gibt es eine Halbzeitshow beim Finale. 5 Megastars auf einer Bühne: Shakira – sie sang 2010 Waka Waka in Südafrika – plus Madonna, Justin Bieber, BTS und Coldplay. Kuratiert von Chris Martin selbst, dauert die Show genau 11 Minuten. Die Halbzeitpause verlängert sich auf 25 bis 30 Minuten statt der üblichen 15. Klopp schaut heute als Deutschlands designierter Bundestrainer zu. Aber: Gehört eine Halbzeitshow wirklich in den Fußball?",
+  "uploadCaption": "Die WM 2026 macht Geschichte: Beim Finale Spanien vs. Argentinien gibt es erstmals überhaupt eine Halbzeitshow – Shakira, Madonna, Justin Bieber, BTS und Coldplay live im MetLife Stadium! 96 Jahre WM-Tradition gebrochen. Morgen, 19. Juli, 21 Uhr MESZ.",
+  "uploadHashtags": "#WM2026 #WorldCupFinal #Halbzeitshow #Shakira #Madonna #JustinBieber #BTS #Coldplay #Fussball #MetLifeStadium #DFB #Argentinien #Spanien",
+  "images": [
+    { "file": "metlife_innen.jpg",   "search": "MetLife Stadium innen" },
+    { "file": "metlife_aussen.jpg",  "search": "MetLife Stadium WM-Finale außen" },
+    { "file": "shakira.jpg",         "search": "Shakira Waka Waka WM 2010" },
+    { "file": "madonna.jpg",         "search": "Madonna live concert 2026" },
+    { "file": "bieber.jpg",          "search": "Justin Bieber concert stadium 2026" },
+    { "file": "chris_martin.jpg",    "search": "Chris Martin Coldplay" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "fans_public.jpg",     "search": "Public Viewing Deutschland Fans" },
+    { "file": "pokal.jpg",           "search": "WM Pokal" },
+    { "file": "wm_logo.jpg",         "search": "FIFA World Cup 2026" },
+    { "file": "fans_hoffen.jpg",     "search": "DFB Fans Stadion Public Viewing" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "HEUTE NACHT verändert sich der Fußball für immer.",
+      "image": "metlife_innen.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 FINALE",
+      "title": "Die 1. Halbzeitshow der WM-Geschichte",
+      "image": "wm_logo.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen",
+      "stats": [
+        { "label": "Jahre WM ohne Show", "value": "96" },
+        { "label": "Minuten Halbzeitshow", "value": "11" },
+        { "label": "Megastars auf der Bühne", "value": "5" }
+      ],
+      "image": "metlife_aussen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "shakira.jpg",
+      "name": "Shakira",
+      "role": "Waka Waka WM 2010 · kehrt zurück",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "madonna.jpg",
+      "name": "Madonna",
+      "role": "Pop-Ikone · 67 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "bieber.jpg",
+      "name": "Justin Bieber",
+      "role": "Popstar · 32 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "chris_martin.jpg",
+      "name": "Chris Martin",
+      "role": "Coldplay · Show-Kurator",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_public.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Was sich ändert",
+      "stats": [
+        { "label": "Normale Halbzeitpause", "value": "15 Min." },
+        { "label": "Pause mit Show", "value": "25-30 Min." },
+        { "label": "FIFA Charity-Ziel", "value": "100 Mio. $" }
+      ],
+      "image": "pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "outro",
+      "title": "Super Bowl oder WM?",
+      "subtitle": "Soll Fußball eine Halbzeitshow haben – JA oder NEIN?",
+      "image": "fans_hoffen.jpg",
+      "weight": 1.0
+    }
+  ]
+}
