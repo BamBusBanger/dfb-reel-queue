@@ -236,3 +236,4 @@
 2026-07-18 | halbzeitshow-wm-finale-premiere | WM 2026 Finale Halbzeitshow Premiere, 96 Jahre Tradition gebrochen, Shakira Madonna Bieber BTS Coldplay Chris Martin, 11 Minuten MetLife Stadium (NEWS-DRAMA)
 2026-07-18 | wm-ringe-premiere-finale | FIFA Championship Rings erstmals in 94 Jahren WM-Geschichte, 2.026 Ringe, 30 fürs Sieger-Team, 1.996 für Fans, DFB-Bezug Elfmeter-Aus Havertz/Tah/Woltemade, Klopp 2030 (GEHEIMNIS)
 2026-07-18 | alvarez-vs-oyarzabal-finale-duell | Álvarez 26 Atlético 4 WM-Tore 2022 QF-Tor vs Schweiz vs Oyarzabal 28 Real Sociedad 5 WM-Tore 2026 Spaniens Rekordschütze EM-2024-Finale-Tor Min 119, Sturm-Duell im WM-Finale 19. Juli MetLife Stadium 21 Uhr (DUELL/VERGLEICH)
+2026-07-18 | trump-wm-pokal-finale-top3 | Trump übergibt WM-Pokal MetLife Stadium, erstes Mal US-Präsident bei Pokalübergabe, Messi Inter Miami Florida, Yamal 19 J. oder Messi 39 J. bekommt Pokal, Infantino bestätigt, Klopp studiert live (TOP-3-LISTE)

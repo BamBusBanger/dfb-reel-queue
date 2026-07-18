@@ -1,0 +1,109 @@
+{
+  "slug": "trump-wm-pokal-finale-top3",
+  "createdAt": "2026-07-18T15:34:00Z",
+  "title": "Trump übergibt morgen den WM-Pokal – Top 3 Fakten",
+  "script": "Morgen, 19. Juli, MetLife Stadium: Donald Trump übergibt den WM-Pokal – das erste Mal in der Geschichte! Fakt Nummer 1: Noch NIE stand ein amtierender US-Präsident bei der WM-Pokalübergabe – FIFA-Chef Infantino hat es offiziell bestätigt. Fakt Nummer 2: Messi spielt seit 2023 bei Inter Miami in Trumps Heimatstadt Florida! Fakt Nummer 3: Kein Entgehen – entweder Messi mit 39 Jahren oder Yamal mit 19 Jahren bekommt den goldenen Pokal aus Trumps Händen. Klopp schaut live zu. WM 2030 – Deutschland ist zurück!",
+  "uploadCaption": "Donald Trump übergibt morgen den WM-Pokal 🏆 Diese 3 Fakten zum WM-Finale 2026 wusstest du nicht! Messi oder Yamal – wer kriegt ihn aus Trumps Händen?",
+  "uploadHashtags": "#WM2026 #WMFinale #Trump #Messi #Yamal #Argentinien #Spanien #Klopp #DFB #Fussball",
+  "images": [
+    { "file": "metlife_aussen.jpg", "search": "MetLife Stadium New Jersey" },
+    { "file": "wm_pokal_gold.jpg", "search": "WM Pokal Gold" },
+    { "file": "trump.jpg", "search": "Donald Trump FIFA World Cup 2026" },
+    { "file": "infantino.jpg", "search": "Gianni Infantino FIFA 2026" },
+    { "file": "messi.jpg", "search": "Lionel Messi" },
+    { "file": "metlife_innen.jpg", "search": "MetLife Stadium Finale 2026" },
+    { "file": "yamal.jpg", "search": "Lamine Yamal Spain 2026 World Cup" },
+    { "file": "wm_pokal_vitrine.jpg", "search": "WM Pokal Vitrine" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "fans.jpg", "search": "Deutschland Fans" },
+    { "file": "wm_logo.jpg", "search": "WM 2026 Logo" },
+    { "file": "wm_pokal_museum.jpg", "search": "WM Pokal FIFA Museum" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "TRUMP ÜBERGIBT MORGEN DEN WM-POKAL!",
+      "image": "metlife_aussen.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 FINALE",
+      "title": "Top 3 Fakten die kaum jemand kennt",
+      "image": "wm_pokal_gold.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "trump.jpg",
+      "name": "Donald Trump",
+      "role": "US-Präsident",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FAKT #1 – PREMIERE",
+      "stats": [
+        { "label": "Noch NIE in der WM-Geschichte", "value": "US-Präsident übergibt den Pokal" }
+      ],
+      "image": "infantino.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "messi.jpg",
+      "name": "Lionel Messi",
+      "role": "Argentinien-Kapitän · 39 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FAKT #2 – TRUMP & MESSI",
+      "stats": [
+        { "label": "Messi wechselte 2023 zu Inter Miami", "value": "Trumps Florida-Heimatstadt" }
+      ],
+      "image": "metlife_innen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · 19 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FAKT #3 – KEIN ENTGEHEN",
+      "stats": [
+        { "label": "Trump übergibt dem Weltmeister", "value": "Messi ODER Yamal" }
+      ],
+      "image": "wm_pokal_vitrine.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_logo.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Messi oder Yamal?",
+      "subtitle": "Wer hebt morgen den Pokal? Schreibt's unten rein! 👇",
+      "image": "wm_pokal_museum.jpg",
+      "weight": 1.0
+    }
+  ]
+}
