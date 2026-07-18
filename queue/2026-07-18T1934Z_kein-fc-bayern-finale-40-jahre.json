@@ -1,0 +1,34 @@
+{
+  "slug": "kein-fc-bayern-finale-40-jahre",
+  "createdAt": "2026-07-18T19:34:00Z",
+  "title": "40 Jahre Bayern im WM-Finale – heute vorbei",
+  "script": "Weißt du, was 40 Jahre lang bei JEDER WM galt? Immer stand mindestens ein Bayern-Spieler im Finale. 1982, 1990, 2006, 2014, 2022. Immer. Heute Nacht im MetLife Stadium: KEIN EINZIGER. Harry Kane mit England im Halbfinale raus. Olise und Upamecano mit Frankreich ausgeschieden. Und Neuer, Kimmich, Musiala schauen zuhause zu. 11 Turniere in Folge – 40 Jahre. Auf einen Schlag Geschichte. Ist das auch ein Zeichen, wohin der DFB treibt?",
+  "uploadCaption": "40 Jahre lang stand immer mindestens ein Bayern-Spieler im WM-Finale. Heute Nacht im MetLife Stadium: KEIN EINZIGER. Kane mit England raus. Olise und Upamecano mit Frankreich ausgeschieden. Neuer, Kimmich, Musiala zuhause auf dem Sofa. 11 Turniere – 40 Jahre – Geschichte. Und der DFB treibt mit.",
+  "uploadHashtags": "#WM2026 #FCBayern #WMFinale #MetLife #Spanien #Argentinien #DFB #Messi #Yamal",
+  "images": [
+    { "file": "allianz_arena_aussen.jpg", "search": "Allianz Arena" },
+    { "file": "metlife_aussen.jpg", "search": "MetLife Stadium" },
+    { "file": "neuer.png", "search": "Manuel Neuer" },
+    { "file": "kimmich.png", "search": "Joshua Kimmich" },
+    { "file": "musiala.png", "search": "Jamal Musiala" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal" },
+    { "file": "kane_wm2026.jpg", "search": "Harry Kane Bayern Munich WM 2026" },
+    { "file": "olise_wm2026.jpg", "search": "Michael Olise Bayern Munich WM 2026" },
+    { "file": "metlife_innen.jpg", "search": "MetLife Stadium Finale innen" },
+    { "file": "fans_entsetzen.jpg", "search": "DFB Fans entsetzen" },
+    { "file": "allianz_arena_nacht.jpg", "search": "Allianz Arena Nacht München" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "40 JAHRE. HEUTE VORBEI.", "image": "allianz_arena_aussen.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM-FINALE 2026 – 19. JULI", "title": "Kein Bayern-Spieler im Finale", "image": "metlife_aussen.jpg", "weight": 0.7 },
+    { "type": "image", "image": "neuer.png", "name": "Manuel Neuer", "role": "Bayern München · WM-Aus Achtelfinale", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.png", "name": "Joshua Kimmich", "role": "Bayern München · WM-Aus Achtelfinale", "weight": 0.8 },
+    { "type": "image", "image": "musiala.png", "name": "Jamal Musiala", "role": "Bayern München · WM-Aus Achtelfinale", "weight": 0.8 },
+    { "type": "stats", "title": "FC Bayern im WM-Finale", "stats": [{ "label": "Turniere in Serie (1982–2022)", "value": "11" }, { "label": "Jahre ohne Unterbrechung", "value": "40" }, { "label": "Bayern-Spieler heute Nacht", "value": "0" }], "image": "wm_pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kane_wm2026.jpg", "name": "Harry Kane", "role": "Bayern München · HF-Aus mit England", "weight": 0.8 },
+    { "type": "image", "image": "olise_wm2026.jpg", "name": "Michael Olise", "role": "Bayern München · HF-Aus mit Frankreich", "weight": 0.8 },
+    { "type": "image", "image": "metlife_innen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans_entsetzen.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Bayern 2030 zurück?", "subtitle": "Ja oder Nein – Kommentar!", "image": "allianz_arena_nacht.jpg", "weight": 1.0 }
+  ]
+}
