@@ -1,0 +1,40 @@
+{
+  "slug": "alvarez-vs-oyarzabal-finale-duell",
+  "createdAt": "2026-07-18T12:34:00Z",
+  "title": "Álvarez vs Oyarzabal – Das verborgene Finale-Duell",
+  "script": "Nicht Messi. Nicht Yamal. DIESE zwei Spieler entscheiden das WM-Finale morgen! Julián Álvarez, 26 Jahre, Atlético Madrid: 4 Tore bei der WM 2022 – dann schoss er Argentinien im Viertelfinale gegen die Schweiz ins Finale. Mikel Oyarzabal, 28 Jahre, Real Sociedad: 5 Tore bei dieser WM – Spaniens WM-Rekordschütze – plus das Siegtor im EM-2024-Finale in Minute 119 gegen England. Beide spielen im Schatten der Stars. Beide sind der echte Schlüssel zum Pokal. MetLife Stadium, 21 Uhr. Wer trifft morgen – Álvarez oder Oyarzabal?",
+  "uploadCaption": "Vergiss Messi vs Yamal – DAS ist das eigentliche Duell im WM-Finale morgen! Julián Álvarez (4 WM-Tore 2022 + QF-Held 2026) vs Mikel Oyarzabal (5 Tore = Spaniens WM-Rekordschütze + EM-2024-Finale-Tor Min. 119). MetLife Stadium, 19. Juli, 21 Uhr. ⚽🔥",
+  "uploadHashtags": "#WM2026 #Fussball #Finale #SpanienArgentinien #JulianAlvarez #MikelOyarzabal #Messi #Yamal #MetLifeStadium",
+  "images": [
+    { "file": "wm2026_logo.jpg",     "search": "WM 2026 Logo" },
+    { "file": "alvarez.jpg",          "search": "Julián Álvarez Argentina 2026 World Cup" },
+    { "file": "oyarzabal.jpg",        "search": "Mikel Oyarzabal Spain 2026 World Cup" },
+    { "file": "messi_jubel.jpg",      "search": "Messi" },
+    { "file": "yamal.jpg",            "search": "Lamine Yamal Spain 2026" },
+    { "file": "metlife_innen.jpg",    "search": "MetLife Stadium" },
+    { "file": "metlife_aussen.jpg",   "search": "MetLife Stadium WM Finale" },
+    { "file": "pokal.jpg",            "search": "WM Pokal" },
+    { "file": "fans_spannung.jpg",    "search": "Fans Public Viewing WM" },
+    { "file": "argentina_team.jpg",   "search": "Argentina World Cup 2026 final team" },
+    { "file": "spain_team.jpg",       "search": "Spain World Cup 2026 final team" },
+    { "file": "wm2026_mural.jpg",     "search": "WM 2026 Mural USA" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "NICHT MESSI. NICHT YAMAL.", "image": "wm2026_logo.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM-FINALE · 19. JULI · METLIFE STADIUM", "title": "Álvarez vs Oyarzabal", "image": "metlife_innen.jpg", "weight": 0.7 },
+    { "type": "image", "image": "alvarez.jpg",       "name": "Julián Álvarez",  "role": "Stürmer · 26 · Atlético Madrid",  "weight": 0.8 },
+    { "type": "image", "image": "oyarzabal.jpg",     "name": "Mikel Oyarzabal", "role": "Stürmer · 28 · Real Sociedad",    "weight": 0.8 },
+    { "type": "stats", "title": "Das Duell in Zahlen", "stats": [
+        { "label": "Álvarez – WM-Tore 2022",           "value": "4"   },
+        { "label": "Oyarzabal – WM-Tore 2026",         "value": "5"   },
+        { "label": "Oyarzabals EM-Finale-Tor Minute",  "value": "119" }
+      ], "image": "pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "argentina_team.jpg", "weight": 0.8 },
+    { "type": "image", "image": "messi_jubel.jpg",    "name": "Lionel Messi",   "role": "39 · Letztes WM-Turnier",         "weight": 0.8 },
+    { "type": "image", "image": "yamal.jpg",           "name": "Lamine Yamal",  "role": "19 · Spaniens Jungstar",          "weight": 0.8 },
+    { "type": "image", "image": "spain_team.jpg",      "weight": 0.8 },
+    { "type": "image", "image": "fans_spannung.jpg",   "weight": 0.8 },
+    { "type": "image", "image": "wm2026_mural.jpg",    "weight": 0.8 },
+    { "type": "outro", "title": "Álvarez oder Oyarzabal?", "subtitle": "Wer trifft das Finale-Tor? Kommentar!", "image": "metlife_aussen.jpg", "weight": 1.0 }
+  ]
+}
