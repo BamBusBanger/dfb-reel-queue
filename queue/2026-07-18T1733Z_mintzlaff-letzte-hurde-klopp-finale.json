@@ -1,0 +1,99 @@
+{
+  "slug": "mintzlaff-letzte-hurde-klopp-finale",
+  "createdAt": "2026-07-18T17:33:50Z",
+  "title": "Mintzlaff blockiert noch! Klopps letzte Nacht",
+  "script": "NUR NOCH EINER STEHT IM WEG. Morgen 18:30 Uhr sitzt Jürgen Klopp beim WM-Finale auf dem MagentaTV-Sofa — neben den Weltmeistern Thomas Müller und Mats Hummels. Gleichzeitig ist Red-Bull-Chef Oliver Mintzlaff im MetLife Stadium. DESSEN persönliche Freigabe fehlt noch. 5 Millionen Euro Ablöse oder null — das ist die letzte offene Frage vor Klopps 10-bis-12-Millionen-Bundestrainer-Vertrag bis 2030. Nach dem Schlusspfiff soll verhandelt werden. Deutschlands Zukunft wartet auf eine Unterschrift. Soll der DFB die 5 Millionen einfach zahlen?",
+  "uploadCaption": "Klopp sitzt morgen neben Müller & Hummels beim WM-Finale — und danach unterschreibt er? Nur Mintzlaff steht noch im Weg! 5 Mio. € Ablöse oder doch kostenlos? Das Finale ist das Finale für den DFB.",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2026 #WM2030 #Nationalmannschaft #Mintzlaff",
+  "images": [
+    { "file": "metlife_aussen.jpg",    "search": "MetLife Stadium" },
+    { "file": "wm_pokal.jpg",          "search": "WM Pokal" },
+    { "file": "mueller.jpg",           "search": "Thomas Müller MagentaTV 2026" },
+    { "file": "hummels.jpg",           "search": "Mats Hummels WM Experte 2026" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "metlife_innen.jpg",     "search": "MetLife Stadium innen WM 2026" },
+    { "file": "mintzlaff.jpg",         "search": "Oliver Mintzlaff Red Bull" },
+    { "file": "dfb_fans.jpg",          "search": "DFB Fans Deutschland" },
+    { "file": "brandenburger_tor.jpg", "search": "DFB Fanzone Brandenburger Tor" },
+    { "file": "wirtz.jpg",             "search": "Florian Wirtz" },
+    { "file": "fanmeile_2014.jpg",     "search": "DFB Fanmeile Berlin 2014" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NUR NOCH EINER STEHT IM WEG.",
+      "image": "metlife_aussen.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026",
+      "title": "Klopps letzte Nacht",
+      "image": "wm_pokal.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "mueller.jpg",
+      "name": "Thomas Müller",
+      "role": "2014 Weltmeister · TV-Experte",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "hummels.jpg",
+      "name": "Mats Hummels",
+      "role": "2014 Weltmeister · TV-Experte",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer in spe · ab 24.9.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der Klopp-Deal",
+      "stats": [
+        { "label": "Jahresgehalt", "value": "10–12 Mio €" },
+        { "label": "Red-Bull-Ablöse", "value": "5 Mio €" },
+        { "label": "Vertrag bis", "value": "2030" }
+      ],
+      "image": "metlife_innen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "mintzlaff.jpg",
+      "name": "Oliver Mintzlaff",
+      "role": "Red-Bull-CEO · letztes Hindernis",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "brandenburger_tor.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB-Zukunft · 22 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Soll der DFB zahlen?",
+      "subtitle": "5 Mio. für Klopp — oder zu teuer?",
+      "image": "fanmeile_2014.jpg",
+      "weight": 1.0
+    }
+  ]
+}
