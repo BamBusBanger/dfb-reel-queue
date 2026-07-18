@@ -234,3 +234,4 @@
 2026-07-17 | scaloni-notfall-weltmeister | Scaloni 2018 Notfall-Interimstrainer null Erfahrung Maradona-Kritik 'Katastrophe', 7 Jahre 3 Titel 100 Spiele, Finale-Gegner De la Fuente sein ehemaliger Mentor, Back-to-Back erstmals seit Brasilien 1962 (GEHEIMNIS)
 2026-07-17 | pedri-unsichtbarer-motor-finale | Pedri Spaniens unsichtbarer Motor WM-Finale, 22 Jahre Platz 1 Balleroberungen Angriffsdrittel aller WM-Spieler, 7 Spiele nur 1 Gegentor, Klopp-Hausaufgabe Musiala/Wirtz-Vergleich 4 Jahre bis WM 2030 (TOP-3-LISTE)
 2026-07-18 | halbzeitshow-wm-finale-premiere | WM 2026 Finale Halbzeitshow Premiere, 96 Jahre Tradition gebrochen, Shakira Madonna Bieber BTS Coldplay Chris Martin, 11 Minuten MetLife Stadium (NEWS-DRAMA)
+2026-07-18 | wm-ringe-premiere-finale | FIFA Championship Rings erstmals in 94 Jahren WM-Geschichte, 2.026 Ringe, 30 fürs Sieger-Team, 1.996 für Fans, DFB-Bezug Elfmeter-Aus Havertz/Tah/Woltemade, Klopp 2030 (GEHEIMNIS)

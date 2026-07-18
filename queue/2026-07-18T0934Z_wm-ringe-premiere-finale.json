@@ -1,0 +1,38 @@
+{
+  "slug": "wm-ringe-premiere-finale",
+  "createdAt": "2026-07-18T09:34:19Z",
+  "title": "WM-Ringe: Erstmals Gold-Ringe für den WM-Sieger",
+  "script": "Heute Nacht werden nicht nur WM-Sieger gekürt – heute Nacht bekommen sie zum ERSTEN MAL in der 94-jährigen WM-Geschichte GOLD-RINGE. Inspiriert vom NFL Super Bowl. Genau 2.026 individuell nummerierte Ringe werden produziert. Nur 30 gehen ans Sieger-Team – Kapitän und Coach bekommen nach dem Abpfiff sofort erste Ringe. Und die restlichen 1.996? Für Fans weltweit kaufbar! Deutschland flog im Elfmeterschießen raus – Havertz, Tah, Woltemade ohne Ring. Klopp braucht 2030 seinen ersten Anlauf. Hättest du dir diesen Ring als DFB-Fan gekauft?",
+  "uploadCaption": "Zum ERSTEN Mal in 94 Jahren WM-Geschichte: Der Sieger heute Nacht bekommt GOLD-RINGE! 2.026 Ringe, nur 30 fürs Team – 1.996 können Fans weltweit kaufen. Deutschland scheiterte leider im Elfmeterschießen. Klopp braucht 2030 seinen ersten Anlauf. Hättest du dir als Fan einen Ring gekauft? Kommentiert!",
+  "uploadHashtags": "#WM2026 #DFB #ChampionshipRing #WM2030 #Klopp #FifaWorldCup #Spanien #Argentinien #Fussball #Gold",
+  "images": [
+    { "file": "wm_pokal.jpg", "search": "WM Pokal" },
+    { "file": "ring_foto.jpg", "search": "FIFA World Cup 2026 championship ring" },
+    { "file": "ring_gold.jpg", "search": "goldener WM-Siegerring Meisterschale Trophäe", "thematic": true },
+    { "file": "wm_logo.jpg", "search": "WM 2026 Logo" },
+    { "file": "metlife.jpg", "search": "MetLife Stadium" },
+    { "file": "havertz.jpg", "search": "Kai Havertz" },
+    { "file": "tah.jpg", "search": "Jonathan Tah" },
+    { "file": "woltemade.jpg", "search": "Nick Woltemade" },
+    { "file": "fans_dfb.jpg", "search": "Deutschland Fans" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "dfb_flagge.jpg", "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ERSTMALS RINGE FÜR DEN WM-SIEGER!", "image": "wm_pokal.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 | GEHEIMNIS", "title": "Die Ring-Revolution", "image": "ring_foto.jpg", "weight": 0.7 },
+    { "type": "image", "image": "ring_gold.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen", "stats": [
+      { "label": "Ringe insgesamt", "value": "2.026" },
+      { "label": "Für das Sieger-Team", "value": "30" },
+      { "label": "Für Fans weltweit kaufbar", "value": "1.996" }
+    ], "image": "wm_logo.jpg", "weight": 0.9 },
+    { "type": "image", "image": "metlife.jpg", "weight": 0.8 },
+    { "type": "image", "image": "havertz.jpg", "name": "Kai Havertz", "role": "Elfmeter verschossen · WM-Aus", "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "Phantomtor + Elfmeter · WM-Aus", "weight": 0.8 },
+    { "type": "image", "image": "woltemade.jpg", "name": "Nick Woltemade", "role": "Elfmeter verschossen · WM-Aus", "weight": 0.8 },
+    { "type": "image", "image": "fans_dfb.jpg", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer ab 2026 · Ziel: Ring 2030", "weight": 0.8 },
+    { "type": "outro", "title": "Kaufst du dir den Ring als Fan?", "subtitle": "Wenn Deutschland 2030 gewinnt", "image": "dfb_flagge.jpg", "weight": 1.0 }
+  ]
+}
