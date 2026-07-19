@@ -1,0 +1,100 @@
+{
+  "slug": "argentinische-10-maradona-messi-finale",
+  "createdAt": "2026-07-19T15:33:45Z",
+  "title": "Das 40-Jahre-Geheimnis der argentinischen Nr. 10",
+  "script": "1986 verlor Deutschland das WM-Finale gegen Maradona und die argentinische Nr. 10 – 3:2. Genau 40 Jahre später steht Messi, heute 39, mit DERSELBEN Nr. 10 erneut im WM-Finale. Deutschland? Ist seit 3 Wochen zuhause. Messi hat bereits 21 WM-Karrieretore – fast dreimal mehr als Maradona (8). 2022 holte er seinen ersten WM-Titel. Gewinnt Argentinien heute Abend gegen Spanien, übertrifft Messi sein Idol erstmals auch in Titeln: 2 gegen 1. Wer ist dann wirklich der Größte?",
+  "uploadCaption": "1986 verlor Deutschland das WM-Finale gegen Maradona und die Nr. 10. Heute steht Messi – 39 Jahre alt, Nr. 10, WM-Finale – und Deutschland schaut von zuhause zu. Wenn Argentinien heute Abend gewinnt, übertrifft Messi sein Idol erstmals auch in WM-Titeln: 2 gegen 1. Die ewige Frage: Wer ist wirklich der Größte? 🐐",
+  "uploadHashtags": "#WM2026 #Messi #Maradona #DFB #WMFinale #Nummer10 #Argentinien #GOAT #SpanienArgentinien",
+  "images": [
+    { "file": "messi_jubel.jpg",       "search": "messi jubel" },
+    { "file": "maradona_1986.jpg",     "search": "Diego Maradona 1986 WM Finale" },
+    { "file": "metlife_innen.jpg",     "search": "MetLife Stadium WM Finale" },
+    { "file": "messi_spiel.jpg",       "search": "messi spiel" },
+    { "file": "wm_pokal.jpg",          "search": "WM Pokal Gold" },
+    { "file": "metlife_aussen.jpg",    "search": "MetLife Stadium" },
+    { "file": "argentina_jersey10.jpg","search": "Argentinien Trikot Nummer 10 Symbol", "thematic": true },
+    { "file": "argentina_fans.jpg",    "search": "Argentinien Fans WM 2026" },
+    { "file": "fans_jubel.jpg",        "search": "Fans Stadion Jubel" },
+    { "file": "dfb_fans.jpg",          "search": "Deutschland Fans" },
+    { "file": "messi_finale26.jpg",    "search": "Lionel Messi WM Finale Argentinien 2026" },
+    { "file": "dfb_entsetzen.jpg",     "search": "public viewing entsetzen" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "1986 VERLOR DEUTSCHLAND DAS WM-FINALE GEGEN DIE NR. 10. HEUTE IST DEUTSCHLAND NICHT MAL DABEI.",
+      "image": "messi_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 Finale – 19. Juli",
+      "title": "Das Geheimnis der Nr. 10",
+      "image": "metlife_innen.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "maradona_1986.jpg",
+      "name": "Diego Maradona",
+      "role": "Nr. 10 · Weltmeister 1986 · 25 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "messi_spiel.jpg",
+      "name": "Lionel Messi",
+      "role": "Nr. 10 · Weltmeister 2022 · 39 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Nr. 10 Argentiniens WM-Bilanz",
+      "stats": [
+        { "label": "Maradona WM-Tore", "value": "8" },
+        { "label": "Messi WM-Tore", "value": "21" },
+        { "label": "Maradona WM-Titel", "value": "1" },
+        { "label": "Messi WM-Titel bisher", "value": "1" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "metlife_aussen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "argentina_jersey10.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "messi_finale26.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "argentina_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer ist wirklich der Größte?",
+      "subtitle": "Maradona (1 Titel) oder Messi (2 Titel)?",
+      "image": "dfb_entsetzen.jpg",
+      "weight": 1.0
+    }
+  ]
+}
