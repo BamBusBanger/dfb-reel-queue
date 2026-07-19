@@ -1,0 +1,40 @@
+{
+  "slug": "dfb-bosse-fehlen-finale",
+  "createdAt": "2026-07-19T12:34:00Z",
+  "title": "Kein DFB-Boss beim WM-Finale",
+  "script": "DFB-Blamage beim größten Finale aller Zeiten! 82.500 Fans im MetLife Stadium in New York – aber kein einziger DFB-Funktionär ist dabei. Weder Präsident Neuendorf noch Vize-Chef Watzke reisen zur Partie. Noch letzte Woche waren beide in New York – aber nur um Klopp zu treffen. Klopp selbst ist beim Finale da: Als MagentaTV-Experte analysiert der designierte Bundestrainer live Messis Argentinien und Spaniens Yamal für seine WM-2030-Hausaufgaben. 12,69 Millionen Deutsche verfolgten das ZDF-Halbfinale. Beim größten Finale fehlt der DFB komplett. Peinlich oder verständlich?",
+  "uploadCaption": "Beim WM-Finale heute Abend sitzt kein DFB-Vertreter auf der Tribüne – während Klopp als Experte dabei ist. 82.500 Fans in New York. 0 DFB-Bosse. Peinlich oder verständlich?",
+  "uploadHashtags": "#DFB #WM2026 #Finale #SpanienArgentinien #Klopp #MetLife #Bundestrainer #Neuendorf #Fussball",
+  "images": [
+    { "file": "metlife_aussen.jpg",  "search": "MetLife Stadium außen" },
+    { "file": "pokal_gold.jpg",      "search": "WM Pokal" },
+    { "file": "neuendorf.jpg",       "search": "Bernd Neuendorf DFB Präsident" },
+    { "file": "watzke.jpg",          "search": "Hans-Joachim Watzke DFB" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "fans_tribuene.jpg",   "search": "DFB Fans Tribüne" },
+    { "file": "yamal.jpg",           "search": "Lamine Yamal" },
+    { "file": "messi.jpg",           "search": "Lionel Messi" },
+    { "file": "team.jpg",            "search": "DFB Teamfoto 2026" },
+    { "file": "flagge.jpg",          "search": "Deutschland Flagge" },
+    { "file": "metlife_innen.jpg",   "search": "MetLife Stadium innen" },
+    { "file": "wm_logo.jpg",         "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "0 DFB-BOSSE IM FINALE", "image": "metlife_aussen.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026", "title": "DFB fehlt beim Weltfinale", "image": "pokal_gold.jpg", "weight": 0.7 },
+    { "type": "image", "image": "neuendorf.jpg",   "name": "Bernd Neuendorf",        "role": "DFB-Präsident · nicht in New York",    "weight": 0.8 },
+    { "type": "image", "image": "watzke.jpg",      "name": "Hans-Joachim Watzke",    "role": "DFB-Vizepräsident · nicht in New York", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",       "name": "Jürgen Klopp",           "role": "MagentaTV-Experte · Bundestrainer",     "weight": 0.8 },
+    { "type": "stats", "title": "Finale-Zahlen", "stats": [
+        { "label": "Fans im MetLife Stadium",        "value": "82.500" },
+        { "label": "DFB-Bosse vor Ort",              "value": "0" },
+        { "label": "ZDF-Zuschauer (Spanien-HF)",     "value": "12,69 Mio" }
+      ], "image": "fans_tribuene.jpg", "weight": 0.9 },
+    { "type": "image", "image": "yamal.jpg",       "name": "Lamine Yamal",           "role": "Spanien · 19 Jahre",                    "weight": 0.8 },
+    { "type": "image", "image": "messi.jpg",       "name": "Lionel Messi",           "role": "Argentinien · 8 WM-Tore",               "weight": 0.8 },
+    { "type": "image", "image": "team.jpg",        "weight": 0.8 },
+    { "type": "image", "image": "flagge.jpg",      "weight": 0.8 },
+    { "type": "image", "image": "metlife_innen.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Peinlich oder verständlich?", "subtitle": "Sollte der DFB beim WM-Finale dabei sein?", "image": "wm_logo.jpg", "weight": 1.0 }
+  ]
+}
