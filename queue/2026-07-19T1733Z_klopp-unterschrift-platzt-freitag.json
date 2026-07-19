@@ -1,0 +1,101 @@
+{
+  "slug": "klopp-unterschrift-platzt-freitag",
+  "createdAt": "2026-07-19T17:33:58Z",
+  "title": "Klopp unterschreibt NICHT heute",
+  "script": "KLOPP UNTERSCHREIBT NICHT HEUTE! Sein Berater Marc Kosicke hat die DFB-Einigung dementiert – die für den WM-Finale-Tag geplante Unterschrift ist geplatzt. Red-Bull-Boss Oliver Mintzlaff fordert weiter 5 Millionen Euro Ablöse und blockiert den Deal. Stattdessen soll die Unterschrift erst am 25. Juli in Frankfurt folgen – 66 Tage nach Nagelsmanns Rücktritt. Während Deutschland auf seinen neuen Bundestrainer wartet, kommentiert Klopp heute Abend das WM-Finale als TV-Experte. Sagt Klopp am Ende doch ab?",
+  "uploadCaption": "Klopp-Drama am WM-Finale-Tag! Die für heute geplante Unterschrift ist geplatzt – Red-Bull-Chef Mintzlaff blockiert weiter. Signing erst am 25. Juli? 🤯🇩🇪 Kommentiert unten!",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2026 #Nationalmannschaft #Fussball #Nagelsmann",
+  "images": [
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "wm2026-logo.jpg",   "search": "WM 2026 Logo" },
+    { "file": "mintzlaff.jpg",     "search": "Oliver Mintzlaff Red Bull" },
+    { "file": "dfb-flagge.jpg",    "search": "Deutschland Flagge" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "fans.jpg",          "search": "Deutschland Fans" },
+    { "file": "klopp-magenta.jpg", "search": "Klopp MagentaTV WM Finale 2026" },
+    { "file": "nagelsmann.jpg",    "search": "Julian Nagelsmann" },
+    { "file": "wm-pokal.jpg",      "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP UNTERSCHREIBT NICHT HEUTE!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM-FINALE-TAG DRAMA",
+      "title": "Klopp-Einigung gestoppt",
+      "image": "wm2026-logo.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "mintzlaff.jpg",
+      "name": "Oliver Mintzlaff",
+      "role": "Red-Bull-CEO · Klopp-Blocker",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der Deal stockt",
+      "stats": [
+        { "label": "Ablöse Red Bull fordert", "value": "5 Mio €" },
+        { "label": "Signing-Termin", "value": "25. Juli" },
+        { "label": "Tage ohne Bundestrainer", "value": "66" }
+      ],
+      "image": "dfb-flagge.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "125 Mio. £ · 0 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Klopps Schlüsselspieler · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp-magenta.jpg",
+      "name": "Jürgen Klopp",
+      "role": "MagentaTV-Experte · Noch kein Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Bundestrainer bis 3.7.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Sagt Klopp am Ende doch ab?",
+      "subtitle": "Kommentier deine Meinung!",
+      "image": "wm-pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
