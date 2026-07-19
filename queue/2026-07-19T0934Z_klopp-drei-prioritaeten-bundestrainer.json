@@ -1,0 +1,118 @@
+{
+  "slug": "klopp-drei-prioritaeten-bundestrainer",
+  "createdAt": "2026-07-19T09:34:00Z",
+  "title": "Klopps 3 Sofortziele als neuer Bundestrainer",
+  "script": "ER UNTERSCHREIBT HEUTE. Klopp wird nach dem WM-Finale Bundestrainer – und hat 3 Baustellen, die sofort brennen. Erstens: Wirtz entfesseln. 125 Millionen Pfund, 0 WM-Tore in 360 Minuten – und nie haben sie zusammen trainiert. Premiere: 24. September. Zweitens: Elfmeter-Trauma begraben. 3 Fehlschüsse gegen Paraguay. Deutschlands ERSTE Elfmeter-Niederlage bei einer WM seit 44 Jahren. Drittens: Goldgeneration aufbauen. Ouédraogo, El Mala, Karl – alle unter 21, alle U17-Weltmeister 2023. WM 2030 findet in Europa statt. Klopp hat sich volle Kader-Kontrolle gesichert. Schafft er den 5. Stern?",
+  "uploadCaption": "Klopp unterschreibt HEUTE als neuer Bundestrainer. Das sind seine 3 drängendsten Ziele für WM 2030: Wirtz entfesseln, Elfmeter-Trauma heilen, Goldgeneration formen.",
+  "uploadHashtags": "#DFB #Klopp #WM2026 #Bundestrainer #WM2030 #Fussball",
+  "images": [
+    { "file": "klopp_portrait.jpg",  "search": "Jürgen Klopp" },
+    { "file": "fans_stimmung.jpg",   "search": "DFB Fans" },
+    { "file": "wirtz_portrait.jpg",  "search": "Florian Wirtz" },
+    { "file": "wirtz_training.jpg",  "search": "Florian Wirtz Training" },
+    { "file": "musiala.jpg",         "search": "Jamal Musiala" },
+    { "file": "elfmeter.jpg",        "search": "Elfmeter-Training Nationalmannschaft", "thematic": true },
+    { "file": "havertz.jpg",         "search": "Kai Havertz" },
+    { "file": "woltemade.jpg",       "search": "Nick Woltemade" },
+    { "file": "ouedraogo.jpg",       "search": "Assan Ouédraogo" },
+    { "file": "el_mala.jpg",         "search": "Said El Mala FC Köln" },
+    { "file": "pokal.jpg",           "search": "WM Pokal" },
+    { "file": "fanzone.jpg",         "search": "DFB Fanzone Brandenburger Tor" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER UNTERSCHREIBT HEUTE.",
+      "image": "klopp_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BUNDESTRAINER KLOPP",
+      "title": "Seine 3 Sofortziele",
+      "image": "fans_stimmung.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "stats",
+      "title": "Baustelle 1: Wirtz-Code knacken",
+      "stats": [
+        { "label": "Liverpool-Ablöse", "value": "125 Mio. £" },
+        { "label": "WM-Tore in 360 Minuten", "value": "0" },
+        { "label": "Erste Einheit mit Klopp", "value": "24. Sept." }
+      ],
+      "image": "wirtz_portrait.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz_training.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23 · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 23 · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Baustelle 2: Elfmeter-Trauma",
+      "stats": [
+        { "label": "Fehlschüsse WM-Aus Paraguay", "value": "3" },
+        { "label": "Erste WM-Elfmeter-Niederlage", "value": "seit 44 Jahren" }
+      ],
+      "image": "elfmeter.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Stürmer · Arsenal · Elfmeter-Aus",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · Newcastle · 0 WM-Minuten",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Baustelle 3: Goldgeneration 2030",
+      "stats": [
+        { "label": "U21-Talente U17-Weltmeister 2023", "value": "3+" },
+        { "label": "WM 2030 Austragungsort", "value": "Europa" },
+        { "label": "Klopp-Kader-Vollmacht", "value": "fix" }
+      ],
+      "image": "pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Mittelfeld · 20 · Leipzig",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "el_mala.jpg",
+      "name": "Said El Mala",
+      "role": "Angriff · 19 · FC Köln",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Klopp den 5. Stern?",
+      "subtitle": "Kommentiert unten ↓",
+      "image": "fanzone.jpg",
+      "weight": 1.0
+    }
+  ]
+}
