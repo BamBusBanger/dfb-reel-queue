@@ -1,0 +1,103 @@
+{
+  "slug": "ouedraogo-vs-yamal-klopp-antwort",
+  "createdAt": "2026-07-19T05:35:00Z",
+  "title": "Ouédraogo vs. Yamal – Klopps 4-Jahres-Plan",
+  "script": "HEUTE hebt Yamal den WM-Pokal – mit NUR 19 Jahren. 5 WM-Tore. 17 kreierte Chancen. 3 Mal Man of the Match. Deutschlands Antwort? Assan Ouédraogo – 20 Jahre, 0 WM-Minuten. Und doch: 2025 traf er nach gerade mal 102 Sekunden auf dem Platz für den DFB. U17-Weltmeister 2023. Bei WM 2030 in Europa wird Yamal 23 sein – Ouédraogo 24. Klopp hat genau 4 Jahre, um aus ihm Deutschlands Antwort auf das Wunderkind zu machen.",
+  "uploadCaption": "Während Yamal heute den WM-Pokal hält, sitzt Klopps Antwort zu Hause. 4 Jahre. Das reicht. 🏆 #WM2026 #Finale",
+  "uploadHashtags": "#DFB #WM2026 #Ouedraogo #Yamal #Klopp #WM2030 #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "pokal.jpg",         "search": "WM-Pokal" },
+    { "file": "metlife.jpg",       "search": "MetLife Stadium" },
+    { "file": "yamal.jpg",         "search": "Lamine Yamal" },
+    { "file": "ouedraogo.jpg",     "search": "Assan Ouédraogo" },
+    { "file": "wm2026.jpg",        "search": "WM 2026" },
+    { "file": "teamdfb.jpg",       "search": "DFB Team 2026" },
+    { "file": "metlife_innen.jpg", "search": "MetLife Stadium innen" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "fans.jpg",          "search": "DFB Fans" },
+    { "file": "hoffen.jpg",        "search": "DFB Fans Public Viewing" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "HEUTE hebt Yamal den WM-Pokal – mit 19 Jahren. Klopps Antwort sitzt zu Hause.",
+      "image": "pokal.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM-Finale 19. Juli 2026",
+      "title": "Yamal vs. Ouédraogo",
+      "image": "metlife.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · 19 Jahre · 5 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "DFB · 20 Jahre · 0 WM-Minuten",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Yamal – WM 2026",
+      "stats": [
+        { "label": "WM-Tore", "value": "5" },
+        { "label": "Chancen kreiert", "value": "17" },
+        { "label": "Man of Match", "value": "3×" }
+      ],
+      "image": "wm2026.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "stats",
+      "title": "Ouédraogo – WM 2030",
+      "stats": [
+        { "label": "WM-Minuten 2026", "value": "0" },
+        { "label": "Tor nach Einwechslung", "value": "102 Sek." },
+        { "label": "Alter bei WM 2030", "value": "24" }
+      ],
+      "image": "teamdfb.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "metlife_innen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer · ab 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB · 22 Jahre · 360 Min. 0 Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wird Ouédraogo Klopps Yamal?",
+      "subtitle": "Kommentiere: JA oder NEIN!",
+      "image": "hoffen.jpg",
+      "weight": 1.0
+    }
+  ]
+}
