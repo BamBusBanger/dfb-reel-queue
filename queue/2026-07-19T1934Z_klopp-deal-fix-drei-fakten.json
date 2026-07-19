@@ -1,0 +1,33 @@
+{
+  "slug": "klopp-deal-fix-drei-fakten",
+  "createdAt": "2026-07-19T19:34:00Z",
+  "title": "Klopp-Deal doch fix: 3 Fakten, die alles verändern",
+  "script": "ER IST ES! Klopp bestätigt live beim WM-Finale: die Einigung mit Red Bull – entgegen dem Freitags-Dementi! 3 Fakten zählen jetzt. EINS: 0 Euro Ablöse statt 5 Millionen – Klopp bleibt Red-Bull-Botschafter, großzügige Regelung. ZWEI: bis zu 12 Millionen Euro Jahresgehalt, volle Kaderhoheit – beides erstmals in der DFB-Geschichte. DREI: Debüt 24. September gegen die Niederlande. Die Mission: Wirtz mit 125 Millionen Pfund und 0 WM-Toren in 360 Minuten endlich entfesseln – und 3 verschossene Elfmeter gegen Paraguay vergessen machen. Glaubst du, Klopp schafft das?",
+  "uploadCaption": "DEAL IST FIX! Klopp bestätigt live beim WM-Finale die Einigung mit Red Bull – 0 € Ablöse, bis 12 Mio. €/Jahr und volle Kaderhoheit. Die neue DFB-Ära startet am 24. September gegen die Niederlande. Alles raus auf Klopp!",
+  "uploadHashtags": "#Klopp #Bundestrainer #DFB #WM2026 #WM2030 #Nationalmannschaft #Fussball #RedBull",
+  "images": [
+    { "file": "klopp_lib.jpg",          "search": "Jürgen Klopp" },
+    { "file": "klopp_web.jpg",          "search": "Jürgen Klopp Bundestrainer DFB 2026" },
+    { "file": "metlife.jpg",            "search": "MetLife Stadium" },
+    { "file": "pokal.jpg",              "search": "WM Pokal Gold" },
+    { "file": "wirtz.jpg",              "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",            "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",            "search": "Joshua Kimmich" },
+    { "file": "elfmeter_entsetzen.jpg", "search": "DFB Fans Elfmeter Schock" },
+    { "file": "fans_jubel.jpg",         "search": "DFB Fans" },
+    { "file": "flagge.jpg",             "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "KLOPP-DEAL DOCH FIX!", "image": "klopp_lib.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · Finaltag", "title": "Klopp bestätigt Einigung live", "image": "metlife.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp_lib.jpg",          "name": "Jürgen Klopp", "role": "Designierter Bundestrainer · 59", "weight": 0.8 },
+    { "type": "image", "image": "klopp_web.jpg",          "name": "Jürgen Klopp", "role": "\"Großzügige Regelung\" mit Red Bull", "weight": 0.8 },
+    { "type": "stats", "title": "Deal-Details", "stats": [{ "label": "Ablöse", "value": "0 €" }, { "label": "Jahresgehalt", "value": "12 Mio. €" }, { "label": "Vertrag", "value": "bis 2030" }], "image": "pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg",              "name": "Florian Wirtz", "role": "125 Mio. Pfund · 0 WM-Tore · 360 Min.", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg",            "name": "Jamal Musiala", "role": "Offensiv · 22 · Klopps Schlüssel", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",            "name": "Joshua Kimmich", "role": "Kapitän · 108 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "elfmeter_entsetzen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans_jubel.jpg",         "weight": 0.8 },
+    { "type": "outro", "title": "Glaubst du, Klopp heilt das WM-Trauma?", "subtitle": "Kommentier jetzt!", "image": "flagge.jpg", "weight": 1.0 }
+  ]
+}
