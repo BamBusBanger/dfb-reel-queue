@@ -1,0 +1,112 @@
+{
+  "slug": "spanien-3-weltrekorde-klopp-hausaufgaben",
+  "createdAt": "2026-07-20T15:36:00Z",
+  "title": "Spaniens 3 Weltrekorde – Klopps Hausaufgaben für 2030",
+  "script": "Spanien hat gestern Abend nicht nur den WM-Pokal geholt – die Spanier haben gleich 3 Weltrekorde gebrochen! Erstens: 38 Spiele ungeschlagen – das hat noch keine Nationalmannschaft in der Geschichte je geschafft. Zweitens: Nur 1 Gegentor in 7 WM-Spielen – erstmals in 96 Jahren WM-Geschichte. Drittens: Lamine Yamal ist mit 19 Jahren jüngster EM- und Weltmeister aller Zeiten. Klopp unterschreibt am 25. Juli – und hat seine Hausaufgaben für WM 2030 bekommen. Kann der DFB das je wiederholen?",
+  "uploadCaption": "Spanien hat nicht nur den Titel – sie haben die Fußballgeschichte neu geschrieben. 38 Spiele ungeschlagen. 1 Gegentor in 7 WM-Spielen. Yamal mit 19 Jahren EM- und Weltmeister. Klopp, die Hausaufgaben warten!",
+  "uploadHashtags": "#WM2026 #Spanien #Weltmeister #Yamal #DFB #Klopp #WM2030 #Fussball",
+  "images": [
+    { "file": "pokal.jpg",        "search": "WM Pokal" },
+    { "file": "yamal.jpg",        "search": "Lamine Yamal Weltmeister 2026" },
+    { "file": "spanien-jubel.jpg","search": "Spanien Nationalmannschaft WM 2026 Jubel" },
+    { "file": "simon.jpg",        "search": "Unai Simon Torwart Spanien WM 2026" },
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",      "search": "Jamal Musiala" },
+    { "file": "metlife.jpg",      "search": "MetLife Stadium" },
+    { "file": "spanien-team.jpg", "search": "Spanien Weltmeister 2026 Mannschaftsfoto" },
+    { "file": "yamal-feier.jpg",  "search": "Lamine Yamal WM Titel 2026 Feier" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 WELTREKORDE IN EINEM TURNIER.",
+      "image": "pokal.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 FINALE",
+      "title": "Spaniens 3 Weltrekorde",
+      "image": "spanien-jubel.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "Offensiv · 19",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Rekord 1",
+      "stats": [
+        { "label": "Spiele ungeschlagen", "value": "38" },
+        { "label": "Nationalmannschafts-Weltrekord", "value": "ALLEINIG" }
+      ],
+      "image": "spanien-team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "simon.jpg",
+      "name": "Unai Simón",
+      "role": "Torwart · 27",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Rekord 2",
+      "stats": [
+        { "label": "Gegentore in 7 WM-Spielen", "value": "1" },
+        { "label": "Erstmals WM-Geschichte", "value": "96 Jahre" }
+      ],
+      "image": "simon.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "yamal-feier.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Rekord 3",
+      "stats": [
+        { "label": "Yamal – jüngster EM+WM-Sieger", "value": "19 J." },
+        { "label": "Jüngster der Geschichte", "value": "#1" }
+      ],
+      "image": "yamal-feier.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer ab 25.7.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB-Hoffnung · 23 · WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "DFB-Hoffnung · 22 · WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Kann Klopp Spaniens Dominanz 2030 brechen?",
+      "subtitle": "Kommentier deine Meinung!",
+      "image": "metlife.jpg",
+      "weight": 1.0
+    }
+  ]
+}
