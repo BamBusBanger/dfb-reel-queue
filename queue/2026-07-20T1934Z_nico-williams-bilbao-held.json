@@ -1,0 +1,95 @@
+{
+  "slug": "nico-williams-bilbao-held",
+  "createdAt": "2026-07-20T19:34:00Z",
+  "title": "Barcelona abgesagt – WM-Held!",
+  "script": "NUR EIN SPIELER der WM sagte dem FC BARCELONA 60 MILLIONEN EURO AB – und wurde trotzdem Weltmeister. Nico Williams, 24, unterschrieb 2024 einen neuen Zehn-Jahres-Vertrag bei Athletic Bilbao statt dem Millionen-Angebot aus Katalonien. Loyalität statt großes Geld. Sein Bruder Iñaki spielt übrigens für GHANA – beide Brüder beim gleichen WM-Turnier, zwei verschiedene Nationen. Dann: WM-Finale, 106. Minute, Williams kommt als Einwechsler rein – seine Kopfball-Vorlage macht Torres zum Weltmeister. Klopps Hausaufgabe für Deutschland 2030: Nicht immer gewinnt das meiste Geld.",
+  "uploadCaption": "Der vergessene WM-Held: Nico Williams lehnte 60 Millionen Euro von Barcelona ab – und lieferte zwei Jahre später die entscheidende Vorlage im WM-Finale. Was Klopp daraus für den DFB lernt. 🏆",
+  "uploadHashtags": "#NicoWilliams #WM2026 #Spanien #WeltmeisterSpanien #Athletic #Bilbao #DFB #Klopp #WM2030 #FußballWM",
+  "images": [
+    { "file": "nico-williams.jpg",        "search": "Nico Williams Spain 2026" },
+    { "file": "williams-assist.jpg",       "search": "Nico Williams WM Finale 2026" },
+    { "file": "torres-tor.jpg",            "search": "Ferran Torres goal World Cup Final 2026" },
+    { "file": "bilbao-stadion.jpg",        "search": "Athletic Bilbao San Mames stadium" },
+    { "file": "barcelona-nein.jpg",        "search": "FC Barcelona Camp Nou aerial view" },
+    { "file": "inaaki-williams.jpg",       "search": "Iñaki Williams Ghana national team" },
+    { "file": "metlife-finale.jpg",        "search": "MetLife Stadium" },
+    { "file": "wirtz.jpg",                 "search": "Florian Wirtz" },
+    { "file": "klopp.jpg",                 "search": "Jürgen Klopp" },
+    { "file": "wm-pokal.jpg",              "search": "WM Pokal" },
+    { "file": "dfb-fans.jpg",              "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER SAGTE BARCELONA 60 MIO. € AB.",
+      "image": "nico-williams.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · GEHEIMNIS",
+      "title": "Barcelona abgesagt – WM-Held!",
+      "image": "wm-pokal.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "nico-williams.jpg",
+      "name": "Nico Williams",
+      "role": "Linksaußen · Athletic Bilbao · 24",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das abgelehnte Angebot (2024)",
+      "stats": [
+        { "label": "Barcelona-Angebot", "value": "60 Mio €" },
+        { "label": "Bilbao-Vertrag", "value": "bis 2035" },
+        { "label": "Neue Ablöseklausel", "value": "95 Mio €" }
+      ],
+      "image": "bilbao-stadion.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "barcelona-nein.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "inaaki-williams.jpg",
+      "name": "Iñaki Williams",
+      "role": "Bruder · spielt für Ghana",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "williams-assist.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "torres-tor.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "metlife-finale.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "125 Mio. £ Transfer · 0 WM-Tore · 360 Min.",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Bilbao-Loyalität oder Barcelona-Millionen?",
+      "subtitle": "Was hättest du gewählt? ⬇️",
+      "image": "dfb-fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
