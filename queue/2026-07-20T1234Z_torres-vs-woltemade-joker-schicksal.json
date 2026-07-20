@@ -1,0 +1,105 @@
+{
+  "slug": "torres-vs-woltemade-joker-schicksal",
+  "createdAt": "2026-07-20T12:34:00Z",
+  "title": "Torres vs. Woltemade – Das Joker-Duell der WM 2026",
+  "script": "Stell dir vor: Du bist 23 Jahre alt, kostest 75 Millionen Euro, kommst in der 88. Minute rein – und verschießt den entscheidenden Elfmeter. Das ist Nick Woltemade. Deutschland im Achtelfinale raus. Heute Nacht: Ferran Torres. Auch ein Joker. Auch ein einziger Moment. Torres trifft in der 106. Minute das Siegtor im WM-Finale. Spanien ist Weltmeister 2026! Woltemade: WM-Aus. Torres: Weltmeister. Beide kamen von der Bank. Das ist der brutalste Unterschied im Fußball.",
+  "uploadCaption": "Ein Joker schoss Spanien zum Weltmeister. Ein anderer schoss Deutschland raus. Ferran Torres traf in der 106. Minute im WM-Finale – sein 25. Länderspieltor, sein wichtigstes. Nick Woltemade (75 Mio. €, 0 Gruppenminuten) kam in der 88. Minute gegen Paraguay rein, verschoss den Elfmeter, Deutschland war draußen. Beide Joker. Gegensätzliche Schicksale. Das ist Fußball.",
+  "uploadHashtags": "#DFB #WM2026 #Fussball #Spanien #Woltemade #FerranTorres #Weltmeister #JokerDuell",
+  "images": [
+    { "file": "woltemade_portrait.jpg",  "search": "Nick Woltemade" },
+    { "file": "torres.jpg",              "search": "Ferran Torres WM 2026 Barcelona" },
+    { "file": "metlife.jpg",             "search": "MetLife Stadium WM 2026 Finale" },
+    { "file": "woltemade_training.jpg",  "search": "Nick Woltemade" },
+    { "file": "dfb_entsetzen.jpg",       "search": "DFB Fans Entsetzen 2026" },
+    { "file": "wm_pokal.jpg",            "search": "WM Pokal Gold" },
+    { "file": "spanien_jubel.jpg",       "search": "Spanien Weltmeister 2026 Jubel" },
+    { "file": "joker_karte.jpg",         "search": "Joker Einwechslung Fußball Schicksal WM", "thematic": true },
+    { "file": "woltemade_jubel.jpg",     "search": "Nick Woltemade" },
+    { "file": "dfb_flagge.jpg",          "search": "Deutschland Flagge" },
+    { "file": "fans_hoffen.jpg",         "search": "DFB Fans Hoffnung Public Viewing" },
+    { "file": "fans_jubel.jpg",          "search": "DFB Fans Jubel Stadion" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "EINER SCHOSS SPANIEN ZUM WELTMEISTER. DER ANDERE SCHOSS DEUTSCHLAND RAUS.",
+      "image": "woltemade_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · Das Joker-Duell",
+      "title": "Torres vs. Woltemade",
+      "image": "metlife.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "woltemade_training.jpg",
+      "name": "Nick Woltemade",
+      "role": "Joker · Newcastle · 75 Mio. €",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "torres.jpg",
+      "name": "Ferran Torres",
+      "role": "Joker · FC Barcelona · Spanien",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Woltemade @ WM 2026",
+      "stats": [
+        { "label": "WM-Minuten Gruppenphase", "value": "0" },
+        { "label": "Eingewechselt", "value": "88. Min." },
+        { "label": "Elfmeter verschossen", "value": "1" }
+      ],
+      "image": "woltemade_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "stats",
+      "title": "Torres @ WM-Finale 2026",
+      "stats": [
+        { "label": "Tor in Minute", "value": "106." },
+        { "label": "Länderspieltor", "value": "25." },
+        { "label": "Titel", "value": "Weltmeister" }
+      ],
+      "image": "spanien_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "dfb_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "joker_karte.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_hoffen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Hättest DU Woltemade früher gebracht?",
+      "subtitle": "Schreib's in die Kommentare!",
+      "image": "fans_jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}
