@@ -1,0 +1,101 @@
+{
+  "slug": "klopp-heimkehr-dfb-freitag",
+  "createdAt": "2026-07-20T17:34:00Z",
+  "title": "Klopp kommt: Freitag ist der erste Tag",
+  "script": "Jürgen Klopp saß beim WM-Finale noch auf dem TV-Sofa. Spanien 1:0 gegen Argentinien. Messi weinte. Yamal feierte mit 19 Jahren. Und Klopp? Machte Notizen. Denn am Freitag, dem 25. Juli, unterschreibt er in Frankfurt seinen Vertrag: DFB-Bundestrainer bis 2030. 12 Millionen Euro pro Jahr – DFB-Rekord. Red Bull: 0 Euro Ablöse. Co-Trainer Krawietz kommt mit. Debüt: 24. September gegen die Niederlande. Die Mission: Yamal, Haaland, Bellingham – alle besiegen. In 4 Jahren. Glaubst du, Klopp schafft das?",
+  "uploadCaption": "FREITAG IST DER TAG! 🇩🇪 Jürgen Klopp unterschreibt am 25. Juli offiziell seinen DFB-Vertrag bis 2030 in Frankfurt. 12 Mio €/Jahr DFB-Rekord, 0 € Ablöse an Red Bull, Debüt am 24. September gegen die Niederlande. Klopp hat beim WM-Finale gelernt – jetzt bauen wir den 5. Stern.",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2030 #Fussball #Nationalmannschaft #Deutschland",
+  "images": [
+    { "file": "klopp.jpg",       "search": "Jürgen Klopp" },
+    { "file": "flagge.jpg",      "search": "Deutschland Flagge" },
+    { "file": "messi.jpg",       "search": "Lionel Messi WM 2026 Finale weint" },
+    { "file": "yamal.jpg",       "search": "Lamine Yamal Weltmeister 2026 Feier" },
+    { "file": "wirtz.jpg",       "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",     "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",     "search": "Joshua Kimmich" },
+    { "file": "fans.jpg",        "search": "Deutschland Fans" },
+    { "file": "pokal.jpg",       "search": "WM Pokal" },
+    { "file": "dfb_frankfurt.jpg", "search": "DFB Zentrale Frankfurt Deutsche Bank Park" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP KOMMT.\nFREITAG IST ES OFFIZIELL.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB 2026",
+      "title": "Der neue Bundestrainer",
+      "image": "flagge.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer ab 25.7. · bis WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der Klopp-Deal",
+      "stats": [
+        { "label": "Jahresgehalt", "value": "12 Mio €" },
+        { "label": "Ablöse Red Bull", "value": "0 €" },
+        { "label": "Debüt", "value": "24. Sept." }
+      ],
+      "image": "dfb_frankfurt.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "messi.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Klopps Projekt · 22 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Klopps Projekt · 22 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 31 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Holt Klopp den 5. Stern?",
+      "subtitle": "JA oder NEIN – schreib's in die Kommentare!",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
