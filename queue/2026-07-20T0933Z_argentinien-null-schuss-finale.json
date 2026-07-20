@@ -1,0 +1,104 @@
+{
+  "slug": "argentinien-null-schuss-finale",
+  "createdAt": "2026-07-20T09:33:57Z",
+  "title": "Argentiniens Phantom-Finale: 0 Torschüsse in 120 Minuten",
+  "script": "0 TORSCHÜSSE. 120 MINUTEN. Argentinien verlor das WM-Finale ohne einen einzigen Abschluss aufs Tor – das gab es noch nie in der WM-Geschichte! 0,00 Expected Goals nach 90 Minuten, nur 35 Prozent Ballbesitz. Spaniens Pressing lahmlegte die Titelverteidiger komplett. Unai Simón: 739 Minuten kein Gegentor, WM-Rekord. Ferran Torres kam in Minute 106 als Joker – eine Chance, ein Tor, Weltmeister. Messi weinte. 21 WM-Karrieretore. Das war's. Jürgen Klopp saß am Mikrofon – und schrieb still seine Hausaufgaben für 2030.",
+  "uploadCaption": "0 Torschüsse in 120 Minuten – Argentinien im WM-Finale wie ein Phantom. Das hat die WM-Geschichte noch nie gesehen. Klopp nimmt Notizen. Was war das für ein Finale!",
+  "uploadHashtags": "#WM2026 #Spanien #Argentinien #Weltmeister #Messi #Yamal #Klopp #DFB #Fussball #FIFA2026",
+  "images": [
+    { "file": "messi_finale.jpg",    "search": "Lionel Messi WM Finale 2026" },
+    { "file": "argentinien_finale.jpg", "search": "Argentinien WM 2026 Finale" },
+    { "file": "torres_siegtor.jpg",  "search": "Ferran Torres WM 2026 Tor" },
+    { "file": "yamal_wm.jpg",        "search": "Lamine Yamal WM 2026 Spanien" },
+    { "file": "simon_rekord.jpg",    "search": "Unai Simon goalkeeper WM 2026" },
+    { "file": "spanien_jubel.jpg",   "search": "Spanien Weltmeister 2026 Jubel MetLife" },
+    { "file": "spanien_sieger.jpg",  "search": "Spain FIFA World Cup 2026 winners celebration" },
+    { "file": "metlife.jpg",         "search": "MetLife Stadium" },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal gold Trophäe" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "dfb_fans.jpg",        "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "0 TORSCHÜSSE. 120 MINUTEN.",
+      "image": "messi_finale.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM-FINALE · 19. JULI 2026",
+      "title": "Argentiniens Phantom-Finale",
+      "image": "metlife.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "argentinien_finale.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Argentiniens finale Leere",
+      "stats": [
+        { "label": "Torschüsse aufs Tor", "value": "0" },
+        { "label": "Expected Goals (90 Min.)", "value": "0,00" },
+        { "label": "Ballbesitz", "value": "35 %" }
+      ],
+      "image": "spanien_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "messi_finale.jpg",
+      "name": "Lionel Messi",
+      "role": "39 Jahre · 21 WM-Karrieretore · letztes WM-Spiel",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "simon_rekord.jpg",
+      "name": "Unai Simón",
+      "role": "WM-Rekordtorwart · 739 Min. kein Gegentor · 6 Zu-Null",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "torres_siegtor.jpg",
+      "name": "Ferran Torres",
+      "role": "Joker · Siegtor 106. Min · WM-Sieger 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "yamal_wm.jpg",
+      "name": "Lamine Yamal",
+      "role": "WM-Sieger 2026 · 19 Jahre · 17 kreierte Chancen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "spanien_sieger.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter Bundestrainer · Debüt 24.9.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Größtes Pressing-Meisterwerk oder schwächster WM-Finalgegner aller Zeiten?",
+      "subtitle": "Schreib deine Meinung in die Kommentare 👇",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
