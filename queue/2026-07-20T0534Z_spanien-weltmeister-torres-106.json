@@ -1,0 +1,103 @@
+{
+  "slug": "spanien-weltmeister-torres-106",
+  "createdAt": "2026-07-20T05:34:00Z",
+  "title": "Spanien Weltmeister – Torres trifft in der 106. Minute",
+  "script": "SPANIEN IST WELTMEISTER! Ferran Torres macht in der 106. Minute das goldene Tor – als Einwechselspieler, zuvor im Turnier ohne einen einzigen Treffer. Argentinien? Null Torschüsse im Finale – historischer Negativrekord. Messi weint nach seinem letzten WM-Spiel: 21 Tore, 6 Turniere, kein zweiter Stern. Spanien feiert seinen zweiten Titel nach 2010. Klopp schaut zu und macht Notizen: Yamal, Rodri und Simón – diese Spanier wartet in 4 Jahren auf Deutschland. Hättest du Klopp diese Finalisten zugetraut?",
+  "uploadCaption": "SPANIEN IST WELTMEISTER 2026! Ferran Torres trifft in der 106. Minute – Argentinien ohne einen einzigen Torschuss im Finale (historischer Negativrekord). Messi weint beim letzten WM-Auftritt seiner Karriere: 21 Tore, 6 Turniere, kein zweiter Titel. Klopp hat seine Hausaufgaben für 2030.",
+  "uploadHashtags": "#DFB #WM2026 #Spanien #Weltmeister #FerranTorres #Messi #Klopp #WM2030 #Fussball",
+  "images": [
+    { "file": "metlife_innen.jpg",     "search": "MetLife Stadium" },
+    { "file": "metlife_aussen.jpg",    "search": "MetLife Stadium New Jersey Außen" },
+    { "file": "torres.jpg",            "search": "Ferran Torres WM 2026 Finale" },
+    { "file": "spanien_jubel.jpg",     "search": "Spanien WM 2026 Weltmeister Jubel" },
+    { "file": "messi.jpg",             "search": "Lionel Messi" },
+    { "file": "messi_abschied.jpg",    "search": "Lionel Messi WM 2026 Tränen Abschied" },
+    { "file": "wm_pokal.jpg",          "search": "WM Pokal Gold" },
+    { "file": "rodri.jpg",             "search": "Rodri WM 2026 MVP" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "fans_entsetzen.jpg",    "search": "DFB Fans Public Viewing" },
+    { "file": "deutschland_fans.jpg",  "search": "DFB Fans" },
+    { "file": "pokal_staender.jpg",    "search": "WM Pokal Trophäe Gold" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "SPANIEN IST WELTMEISTER!",
+      "image": "metlife_innen.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 FINALE · 19. JULI",
+      "title": "Spanien 1:0 n.V. Argentinien",
+      "image": "metlife_aussen.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "torres.jpg",
+      "name": "Ferran Torres",
+      "role": "Einwechselspieler · Goldenes Tor 106. Min.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Final-Protokoll",
+      "stats": [
+        { "label": "Argentiniens Torschüsse", "value": "0" },
+        { "label": "Tor-Minute (Torres)", "value": "106" },
+        { "label": "Spaniens WM-Titel", "value": "2" }
+      ],
+      "image": "spanien_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "messi.jpg",
+      "name": "Lionel Messi",
+      "role": "21 WM-Tore · 6 Turniere · letztes Spiel",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "messi_abschied.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "rodri.jpg",
+      "name": "Rodri",
+      "role": "Turnier-MVP",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Designierter Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Hättest du Klopp diese Finalisten zugetraut?",
+      "subtitle": "Schreib's in die Kommentare!",
+      "image": "pokal_staender.jpg",
+      "weight": 1.0
+    }
+  ]
+}
