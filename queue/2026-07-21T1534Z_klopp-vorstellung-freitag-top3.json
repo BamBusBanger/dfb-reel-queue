@@ -1,0 +1,111 @@
+{
+  "slug": "klopp-vorstellung-freitag-top3",
+  "createdAt": "2026-07-21T15:34:07Z",
+  "title": "Klopp Unterschrift: 3 Sofort-Maßnahmen",
+  "script": "FREITAG 25. JULI – KLOPP UNTERSCHREIBT als Bundestrainer. Und er kommt nicht ohne Plan! 12 Millionen Euro pro Jahr, Vertrag bis WM 2030 – und 3 Sofort-Maßnahmen: Erstens: Wirtz entfesseln – keine Zwangsjacke mehr, 125 Millionen Pfund müssen endlich liefern. Zweitens: Elfmeter-Zwangstherapie – nach 3 Fehlschüssen beim Paraguay-Aus kehrt KEIN Spieler ohne Elfmeter-Zertifikat zurück. Drittens: Neue Gesichter rein – Bisseck, El Mala und Reitz warten. Klopp nominiert nur noch Spieler, die er SELBST ausgewählt hat. Die Ära beginnt!",
+  "uploadCaption": "Freitag ist Klopp-Tag! Der neue Bundestrainer unterschreibt und hat sofort 3 Pläne, die alles verändern. Was kommt zuerst – Wirtz entfesseln, Elfmeter-Training oder neue Gesichter?",
+  "uploadHashtags": "#Klopp #DFB #WM2030 #Bundestrainer #Fussball #Wirtz #Deutschland #Nationalmannschaft",
+  "images": [
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "dfb_flagge.jpg", "search": "Deutschland Flagge Reichstag" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "dfb_team.jpg", "search": "Deutschland Teamfoto 2026" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "pokal.jpg", "search": "WM Pokal Gold" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "bisseck.jpg", "search": "Yann Bisseck Inter Milan DFB" },
+    { "file": "el_mala.jpg", "search": "Said El Mala FC Köln DFB" },
+    { "file": "elfmeter.jpg", "search": "Elfmeter Training Torschuss Penalty", "thematic": true },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "reitz.jpg", "search": "Rocco Reitz Borussia Mönchengladbach DFB" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP UNTERSCHREIBT FREITAG – MIT 3 SOFORT-PLÄNEN!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB · Neue Ära",
+      "title": "Klopps 3 Sofort-Maßnahmen",
+      "image": "dfb_flagge.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Maßnahme 1: Wirtz entfesseln",
+      "stats": [
+        { "label": "WM-Tore 2026", "value": "0" },
+        { "label": "Spielminuten", "value": "360" },
+        { "label": "Liverpool-Ablöse", "value": "125 Mio. £" }
+      ],
+      "image": "dfb_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Maßnahme 2: Elfmeter-Pflicht",
+      "stats": [
+        { "label": "Fehlschüsse vs. Paraguay", "value": "3" },
+        { "label": "Elfmeter-Krimi-Aus", "value": "4:5 n.E." },
+        { "label": "Jahre ohne WM-Elfmeter-Aus", "value": "44" }
+      ],
+      "image": "pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 31",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "bisseck.jpg",
+      "name": "Yann Bisseck",
+      "role": "Innenverteidiger · 25",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "el_mala.jpg",
+      "name": "Said El Mala",
+      "role": "Offensiv · 19",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "elfmeter.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopps wichtigste Maßnahme?",
+      "subtitle": "Wirtz entfesseln, Elfmeter-Pflicht oder neue Gesichter – kommentiert!",
+      "image": "reitz.jpg",
+      "weight": 1.0
+    }
+  ]
+}
