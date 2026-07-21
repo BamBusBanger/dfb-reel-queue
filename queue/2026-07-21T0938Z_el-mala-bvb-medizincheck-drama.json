@@ -1,0 +1,32 @@
+{
+  "slug": "el-mala-bvb-medizincheck-drama",
+  "createdAt": "2026-07-21T09:38:07Z",
+  "title": "El Mala: BVB-Deal fast perfekt – dann kam Klopp",
+  "script": "Er war SO GUT WIE beim BVB – der Medizincheck fast geplant. Said El Mala, 19 Jahre, Kölns Shootingstar mit 13 Toren und 5 Vorlagen, hatte den Traumwechsel zu Borussia Dortmund fast in der Tasche. Dann kamen die BVB-Bosse ins Wanken – und Klopp schob als neuer Bundestrainer RB Leipzig in Stellung. Köln fordert 50 Millionen. Adeyemi muss erst nach Barcelona. Spieler und Mutter wollen BVB. Klopp will Leipzig. Wer gewinnt diesen Transfer-Poker?",
+  "uploadCaption": "Said El Mala fast beim BVB – Medizincheck geplant, dann platzte alles. Und jetzt mischt Klopp als neuer Bundestrainer mit. Der Transfer-Thriller um Deutschlands nächsten Superstar geht in die heiße Phase!",
+  "uploadHashtags": "#SaidElMala #BVB #RBLeipzig #DFB #Klopp #Bundesliga #Transfer2026 #WM2026",
+  "images": [
+    { "file": "el_mala.jpg",       "search": "Said El Mala" },
+    { "file": "dortmund.jpg",      "search": "Signal Iduna Park Dortmund" },
+    { "file": "koeln.jpg",         "search": "FC Köln Rhein-Energie-Stadion" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "ouedraogo.jpg",     "search": "Assan Ouédraogo" },
+    { "file": "pyro.jpg",          "search": "DFB Fans Pyro" },
+    { "file": "dfb_team.jpg",      "search": "DFB Team 2026" },
+    { "file": "fans.jpg",          "search": "Deutschland Fans" },
+    { "file": "transfer_drama.jpg","search": "Bundesliga Transfer Millionen Koffer", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER WAR SO GUT WIE BEIM BVB.", "image": "el_mala.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "TRANSFER-THRILLER", "title": "El Mala & das BVB-Geheimnis", "image": "dortmund.jpg", "weight": 0.7 },
+    { "type": "image", "image": "el_mala.jpg",       "name": "Said El Mala", "role": "Offensiv · 19 · Köln", "weight": 0.8 },
+    { "type": "image", "image": "dortmund.jpg",      "weight": 0.8 },
+    { "type": "stats", "title": "El Malas Saison-Bilanz", "stats": [{ "label": "Tore", "value": "13" }, { "label": "Vorlagen", "value": "5" }, { "label": "Ablöse Köln", "value": "50 Mio. €" }, { "label": "Vertrag bis", "value": "2030" }], "image": "transfer_drama.jpg", "weight": 0.9 },
+    { "type": "image", "image": "koeln.jpg",         "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",         "name": "Jürgen Klopp", "role": "designierter Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "ouedraogo.jpg",     "name": "Assan Ouédraogo", "role": "RB Leipzig · 20", "weight": 0.8 },
+    { "type": "image", "image": "pyro.jpg",          "weight": 0.8 },
+    { "type": "image", "image": "dfb_team.jpg",      "weight": 0.8 },
+    { "type": "outro", "title": "BVB oder Leipzig?", "subtitle": "Wo landet El Mala?", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
