@@ -1,0 +1,44 @@
+{
+  "slug": "klopp-vs-delafuente-weltmeister-lektion",
+  "createdAt": "2026-07-21T05:34:00Z",
+  "title": "Klopp vs. De la Fuente: 3 WM-Lektionen für 2030",
+  "script": "MIT 19 JAHREN WELTMEISTER! Lamine Yamal entschied die WM 2026 für Spanien – Coach De la Fuente ließ seinem Superstar freie Hand. Ergebnis: nur 1 Gegentor in 7 Spielen, 39 Spiele ungeschlagen. Deutschland? 4 Gegentore in 3 Spielen, 3 verschossene Elfmeter, Woltemade ohne eine Spielminute. Klopp übernimmt am 25. Juli – 4 Jahre Zeit für 3 Lektionen: Festungs-Abwehr, Jugend entfesseln, Joker die liefern. Schafft Klopp bis 2030, was De la Fuente in 2 Jahren baute?",
+  "uploadCaption": "Spanien gewann die WM 2026 mit nur 1 Gegentor in 7 Spielen und einem 19-jährigen Superstar. Was muss Klopp in 4 Jahren bauen, damit Deutschland 2030 mehr als Achtelfinale schafft?",
+  "uploadHashtags": "#DFB #Klopp #WM2026 #WM2030 #Bundestrainer #Spanien #Fussball",
+  "images": [
+    { "file": "yamal.jpg",      "search": "Lamine Yamal" },
+    { "file": "delafuente.jpg", "search": "Luis de la Fuente" },
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "simon.jpg",      "search": "Unai Simón" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "fans.jpg",       "search": "DFB Fans" },
+    { "file": "torres.jpg",     "search": "Ferran Torres" },
+    { "file": "woltemade.jpg",  "search": "Nick Woltemade" },
+    { "file": "metlife.jpg",    "search": "MetLife Stadium WM Finale" },
+    { "file": "pokal.jpg",      "search": "WM Pokal" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "MIT 19 WELTMEISTER!",            "image": "yamal.jpg",      "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 – ANALYSE",           "title": "Klopp vs. De la Fuente", "image": "delafuente.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp.jpg",      "name": "Jürgen Klopp",      "role": "Neuer Bundestrainer · ab 25. Juli",          "weight": 0.8 },
+    { "type": "image", "image": "simon.jpg",       "name": "Unai Simón",        "role": "739 Min. kein Gegentor · WM-Rekord",         "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg",     "name": "Jamal Musiala",     "role": "22 Jahre · 1 WM-Tor · 4 Spiele",             "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",       "name": "Florian Wirtz",     "role": "125 Mio. £ · 0 WM-Tore · 360 Min.",          "weight": 0.8 },
+    {
+      "type": "stats",
+      "title": "Spanien vs. Deutschland WM 2026",
+      "stats": [
+        { "label": "Gegentore Spanien (7 Spiele)", "value": "1" },
+        { "label": "Gegentore DFB (3 Spiele)",     "value": "4" },
+        { "label": "Simón unbesiegt (Min.)",        "value": "739" }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    { "type": "image", "image": "torres.jpg",      "name": "Ferran Torres",     "role": "Joker · WM-Finale-Tor 106. Min.",            "weight": 0.8 },
+    { "type": "image", "image": "woltemade.jpg",   "name": "Nick Woltemade",    "role": "75 Mio. € · 0 Gruppenminuten · Elfmeter-Aus", "weight": 0.8 },
+    { "type": "image", "image": "metlife.jpg",                                                                                           "weight": 0.8 },
+    { "type": "outro", "title": "Klopp besser als De la Fuente?", "subtitle": "Kommentar & folgen für mehr", "image": "pokal.jpg", "weight": 1.0 }
+  ]
+}
