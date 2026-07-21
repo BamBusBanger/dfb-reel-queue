@@ -1,0 +1,98 @@
+{
+  "slug": "goretzka-vereinslos-juve-deal",
+  "createdAt": "2026-07-21T12:38:43Z",
+  "title": "Goretzka vereinslos: Juventus-Deal stockt am Gehalt",
+  "script": "3 Wochen nach dem bittersten WM-Aus seit Jahren – und Europas erfahrenster Mittelfeldspieler hat noch immer keinen neuen Klub! Leon Goretzka, 31, Champions-League-Sieger, 70 Länderspiele – vereinslos seit dem 1. Juli. Wunschziel: Juventus Turin. Das Problem: Goretzka fordert laut Medienberichten 10 Millionen Euro Signing-Bonus und 7 Millionen Euro Jahresgehalt netto. Juventus ohne Champions League – und erwägt stattdessen Franck Kessie. Arsenal beobachtet die Situation. Und Klopps DFB-Debüt am 24. September rückt näher. Tickt die Uhr für Goretzka?",
+  "uploadCaption": "Leon Goretzka: CL-Sieger 2020, 70 Länderspiele, 27 WM-Minuten – und NOCH IMMER vereinslos. Juventus-Deal stockt: 10 Mio. € Signing-Bonus, 7 Mio. € Jahresgehalt. Juve denkt über Kessie nach. Arsenal wartet. Klopp-Debüt 24.9. – tickt die Uhr?",
+  "uploadHashtags": "#LeonGoretzka #DFB #Klopp #Juventus #Arsenal #WM2026 #Transfer #Bundesliga #Fussball",
+  "images": [
+    { "file": "goretzka.jpg",          "search": "Leon Goretzka" },
+    { "file": "goretzka-training.jpg", "search": "Leon Goretzka Training Bayern" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp DFB Bundestrainer" },
+    { "file": "juventus-stadion.jpg",  "search": "Juventus Allianz Stadium Turin" },
+    { "file": "arsenal-stadion.jpg",   "search": "Arsenal Emirates Stadium London" },
+    { "file": "kessie.jpg",            "search": "Franck Kessie" },
+    { "file": "dfb-fans.jpg",          "search": "DFB Fans Schock Enttäuschung" },
+    { "file": "allianz-arena.jpg",     "search": "Allianz Arena München Bayern" },
+    { "file": "kimmich.jpg",           "search": "Joshua Kimmich DFB Kapitän" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NOCH KEIN VEREIN — 3 WOCHEN NACH DEM WM-AUS!",
+      "image": "goretzka.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB TRANSFER-DRAMA",
+      "title": "Goretzka vereinslos – Juventus-Deal stockt",
+      "image": "goretzka-training.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "goretzka.jpg",
+      "name": "Leon Goretzka",
+      "role": "Mittelfeld · 31 · vereinslos seit 1. Juli",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Goretzkas Karriere-Bilanz",
+      "stats": [
+        { "label": "Länderspiele", "value": "70" },
+        { "label": "CL-Titel", "value": "1" },
+        { "label": "WM-Minuten 2026", "value": "27" }
+      ],
+      "image": "goretzka-training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "juventus-stadion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Goretzkas Forderungen an Juventus",
+      "stats": [
+        { "label": "Signing-Bonus", "value": "10 Mio. €" },
+        { "label": "Jahresgehalt netto", "value": "7 Mio. €" }
+      ],
+      "image": "allianz-arena.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kessie.jpg",
+      "name": "Franck Kessie",
+      "role": "Juventus-Alternativkandidat zu Goretzka",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "arsenal-stadion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer ab 25. Juli · Debüt 24.9.",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Braucht Klopp noch Goretzka beim DFB?",
+      "subtitle": "Schreib es in die Kommentare!",
+      "image": "kimmich.jpg",
+      "weight": 1.0
+    }
+  ]
+}
