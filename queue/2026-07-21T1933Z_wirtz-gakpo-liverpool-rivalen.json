@@ -1,0 +1,38 @@
+{
+  "slug": "wirtz-gakpo-liverpool-rivalen",
+  "createdAt": "2026-07-21T19:33:48Z",
+  "title": "3 Liverpool-Stars, 2 Flaggen: Klopps Debüt gegen seine eigenen Teamkollegen",
+  "script": "3 Spieler. 1 Verein. 2 Flaggen. Am 24. September feiert Jürgen Klopp sein Debüt als Bundestrainer – in Amsterdam gegen die Niederlande. Das Problem: Deutschlands Superstar Florian Wirtz, 125 Millionen Pfund teuer, 0 Tore in 360 WM-Minuten, trifft auf seine Liverpool-Teamkollegen Cody Gakpo und Ryan Gravenberch. Die kennen jede seiner Schwächen aus dem Training. Klopp will Wirtz endlich entfesseln – doch die Oranjes haben das Insider-Wissen. 3 Kumpels. 2 Lager. Wer gewinnt das Duell der Liverpool-Stars?",
+  "uploadCaption": "Klopp-Debüt in Amsterdam – und er trifft sofort auf seine eigenen Liverpool-Stars! Florian Wirtz (125 Mio. £, 0 WM-Tore) vs. Gakpo & Gravenberch. Das Duell der Liverpool-Kollegen am 24. September 2026 in Amsterdam!",
+  "uploadHashtags": "#DFB #Klopp #Wirtz #Gakpo #Gravenberch #Liverpool #Niederlande #NationsLeague2026 #WM2030 #Fussball",
+  "images": [
+    { "file": "wirtz_a.jpg", "search": "Florian Wirtz" },
+    { "file": "wirtz_b.jpg", "search": "Florian Wirtz" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "gakpo.jpg", "search": "Cody Gakpo" },
+    { "file": "gravenberch.jpg", "search": "Ryan Gravenberch" },
+    { "file": "amsterdam_arena.jpg", "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" },
+    { "file": "niederlande_fans.jpg", "search": "Niederlande Fans Orange Stadion" },
+    { "file": "liverpool_rivalen.jpg", "search": "Fussball-Spieler gleicher Verein zwei verschiedene Nationaltrikots Rivalen Split", "thematic": true },
+    { "file": "dfb_teamfoto.jpg", "search": "DFB Nationalmannschaft 2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "3 LIVERPOOL-STARS. 2 FLAGGEN. 1 DUELL.", "image": "wirtz_a.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "24. September 2026 · Amsterdam", "title": "Klopps Debüt gegen Liverpool-Kollegen", "image": "amsterdam_arena.jpg", "weight": 0.7 },
+    { "type": "image", "image": "wirtz_b.jpg", "name": "Florian Wirtz", "role": "DFB · Liverpool · 22 J.", "weight": 0.8 },
+    { "type": "image", "image": "gakpo.jpg", "name": "Cody Gakpo", "role": "Niederlande · Liverpool · Offensiv", "weight": 0.8 },
+    { "type": "image", "image": "gravenberch.jpg", "name": "Ryan Gravenberch", "role": "Niederlande · Liverpool · Mittelfeld", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "DFB-Bundestrainer ab 25.7.2026", "weight": 0.8 },
+    { "type": "stats", "title": "Das Liverpool-Duell", "stats": [
+        { "label": "Wirtz Ablöse", "value": "125 Mio. £" },
+        { "label": "Wirtz WM-Tore 2026", "value": "0" },
+        { "label": "Klopp-Debüt", "value": "24.9.2026" }
+      ], "image": "liverpool_rivalen.jpg", "weight": 0.9 },
+    { "type": "image", "image": "dfb_teamfoto.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "niederlande_fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz_a.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Schlägt Klopp seine eigenen Liverpool-Stars?", "subtitle": "Wirtz vs. Gakpo & Gravenberch – wer gewinnt?", "image": "wirtz_b.jpg", "weight": 1.0 }
+  ]
+}
