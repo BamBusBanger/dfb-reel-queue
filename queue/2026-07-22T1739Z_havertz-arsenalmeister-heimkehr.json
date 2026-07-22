@@ -1,0 +1,94 @@
+{
+  "slug": "havertz-arsenalmeister-heimkehr",
+  "createdAt": "2026-07-22T17:39:02Z",
+  "title": "Premier-League-Meister und WM-Sündenbock – Havertz' Heimkehr?",
+  "script": "Kai Havertz ist 27 Jahre alt und Premier-League-Meister mit Arsenal. Aber ein Moment brennt: sein verschossener Elfmeter am 29. Juni gegen Paraguay – 4:5, WM-Aus, bitteres Ende. Jetzt dreht sich alles. Arsenal verlangt 60 Millionen Euro. Bayer Leverkusen – sein Herzensklub von 2015 bis 2021 – soll konkret werden. Klopp unterschreibt Freitag als neuer Bundestrainer und braucht einen Havertz, der wieder liefert. Bundesliga-Heimkehr ins Revier – oder bleibt er und kämpft für seinen Stammplatz in London?",
+  "uploadCaption": "60 Mio. Euro. Bayer Leverkusen schnüffelt. Kai Havertz zwischen Premier-League-Krone und DFB-Comeback-Chance – der nächste Akt beginnt.",
+  "uploadHashtags": "#KaiHavertz #DFB #BayerLeverkusen #Arsenal #WM2026 #Bundesliga #Klopp #WM2026",
+  "images": [
+    { "file": "havertz_dfb.jpg", "search": "Kai Havertz" },
+    { "file": "havertz_arsenal.jpg", "search": "Kai Havertz Arsenal" },
+    { "file": "havertz_torjubel_dfb.jpg", "search": "Kai Havertz DFB Torjubel" },
+    { "file": "havertz_training.jpg", "search": "Kai Havertz DFB Training" },
+    { "file": "havertz_jubel.jpg", "search": "Kai Havertz" },
+    { "file": "fans_entsetzen.jpg", "search": "DFB Fans Elfmeter Entsetzen" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "arsenal_meister.jpg", "search": "Arsenal Premier League Champion 2026" },
+    { "file": "bayarena.jpg", "search": "BayArena Leverkusen Stadion" },
+    { "file": "dfb_fans.jpg", "search": "Deutschland Fans Stadion" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal Trophäe" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "MEISTER. VERSAGER. UND JETZT?",
+      "image": "havertz_dfb.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "TRANSFER · SOMMER 2026",
+      "title": "Havertz: Bundesliga-Heimkehr?",
+      "image": "havertz_arsenal.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "havertz_torjubel_dfb.jpg",
+      "name": "Kai Havertz",
+      "role": "Stürmer · 27 · Arsenal FC",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Havertz 2026 – die Zahlen",
+      "stats": [
+        { "label": "WM-Tore (vs. Curaçao)", "value": "2" },
+        { "label": "Elfmeter WM-Aus (Paraguay)", "value": "4:5 n.E." },
+        { "label": "Arsenal-Ablöseforderung", "value": "60 Mio. €" },
+        { "label": "Herzensklub Leverkusen", "value": "2015–2021" }
+      ],
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "arsenal_meister.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "bayarena.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz_training.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer ab 25.07.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Bundesliga oder London?",
+      "subtitle": "Braucht Havertz die Heimkehr, um wieder DFB-Stammkraft zu werden?",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}

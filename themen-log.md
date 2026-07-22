@@ -260,3 +260,4 @@
 2026-07-22 | klopp-nl-gruppe-griechenland-schock | Klopp Nations League Gruppe A2: Niederlande, Serbien, Griechenland erstmals Liga A, Klopp-Debüt 24.9. Amsterdam, 6 Spiele bis November (GEHEIMNIS)
 2026-07-22 | wirtz-liverpool-bilanz-klopp-mission | Wirtz Liverpool 48 Spiele 7 Tore 8 Vorlagen kein Titel 0 WM-Tore 360 Min viermal ausgewechselt, Klopp "once-in-a-century talent" "Fantastic", Bundestrainer-Auftrag ab 25.7. Wirtz entfesseln (TOP-3-LISTE)
 2026-07-22 | bender-krawietz-klopps-dfb-duo | Sven Bender (37, BVB-Legende, Weltmeister 2014, 5 Jahre unter Klopp) + Peter Krawietz (808 Co-Trainer-Spiele, CL-Sieger 2019) als Klopps DFB-Co-Trainer-Duo, Bayern-Boss Hainer »absolut Richtig«, Unterschrift 25.7. (DUELL/VERGLEICH)
+2026-07-22 | havertz-arsenalmeister-heimkehr | Kai Havertz Premier-League-Meister Arsenal, WM-Elfmeter-Aus Paraguay, Leverkusen-Heimkehr 60 Mio, Klopp braucht ihn (NEWS-DRAMA)
