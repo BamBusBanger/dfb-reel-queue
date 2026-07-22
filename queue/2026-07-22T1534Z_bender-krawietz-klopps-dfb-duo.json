@@ -1,0 +1,105 @@
+{
+  "slug": "bender-krawietz-klopps-dfb-duo",
+  "createdAt": "2026-07-22T15:34:00Z",
+  "title": "Klopps Co-Trainer-Duell: Bender vs. Krawietz",
+  "script": "KLOPP HOLT ÜBERRASCHUNG NUMMER 2! Neben Liverpool-Veteran Peter Krawietz – 808 Co-Trainer-Einsätze, Champions-League-Sieger 2019 – bringt Jürgen Klopp Sven Bender als Co-Trainer zum DFB: der 37-jährige BVB-Legende spielte 5 Jahre unter Klopp, wurde 2× Bundesligameister 2011+2012 und Weltmeister 2014. Zuletzt: Coach in der Regionalliga Unterhaching. Bayern-Boss Hainer nennt Klopp »den absolut Richtigen«. Unterschrift 25. Juli Frankfurt. Debüt 24. September in Amsterdam. Aber welcher Co-Trainer ist wichtiger für Deutschlands WM-2030-Mission?",
+  "uploadCaption": "Klopps DFB-Doppelschlag: BVB-Weltmeister Sven Bender (37, 2× Meister, WM 2014) + Liverpool-Mastermind Peter Krawietz (808 Co-Trainer-Spiele, CL-Sieger 2019). Das neue Trainerteam hat es in sich! Unterschrift 25.7., Debüt 24.9. in Amsterdam. Wer ist wichtiger für Deutschland?",
+  "uploadHashtags": "#DFB #Klopp #SvenBender #BVB #Krawietz #Bundestrainer #WM2026 #WM2030 #Nationalmannschaft",
+  "images": [
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "bender.jpg",       "search": "Sven Bender DFB Co-Trainer" },
+    { "file": "krawietz.jpg",     "search": "Peter Krawietz Liverpool Trainer" },
+    { "file": "dfb_team.jpg",     "search": "DFB Nationalmannschaft 2026" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park Dortmund BVB" },
+    { "file": "wm_pokal.jpg",     "search": "WM Pokal Gold" },
+    { "file": "dfb_fans.jpg",     "search": "DFB Fans Deutschland" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "hainer.jpg",       "search": "Herbert Hainer Bayern München" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich DFB Kapitän" },
+    { "file": "jubel.jpg",        "search": "DFB Jubel" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP HOLT ÜBERRASCHUNG NUMMER 2!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB-REVOLUTION 2026",
+      "title": "Bender vs. Krawietz – Klopps Co-Trainer-Duell",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "bender.jpg",
+      "name": "Sven Bender",
+      "role": "Co-Trainer · 37 Jahre · BVB-Legende",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Sven Bender unter Klopp beim BVB",
+      "stats": [
+        { "label": "Jahre unter Klopp", "value": "5" },
+        { "label": "Bundesliga-Titel", "value": "2×" },
+        { "label": "WM-Titel", "value": "2014" }
+      ],
+      "image": "signal_iduna.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "krawietz.jpg",
+      "name": "Peter Krawietz",
+      "role": "Co-Trainer · 808 Einsätze · CL-Sieger 2019",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Peter Krawietz mit Klopp",
+      "stats": [
+        { "label": "Co-Trainer-Spiele", "value": "808" },
+        { "label": "Champions-League-Finale", "value": "3×" },
+        { "label": "CL-Titel", "value": "2019" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "hainer.jpg",
+      "name": "Herbert Hainer",
+      "role": "Bayern-Präsident · »der absolut Richtige«",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB-Schlüsselspieler · 125 Mio. £",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Emotion oder Erfahrung?",
+      "subtitle": "Wer ist Klopps wichtigster Co-Trainer?",
+      "image": "jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}
