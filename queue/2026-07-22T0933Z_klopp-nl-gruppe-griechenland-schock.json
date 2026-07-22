@@ -1,0 +1,107 @@
+{
+  "slug": "klopp-nl-gruppe-griechenland-schock",
+  "createdAt": "2026-07-22T09:33:00Z",
+  "title": "Klopps Debüt-Gruppe: Der Schock-Gegner",
+  "script": "KLOPP bekommt seine ERSTEN Gegner – und einer ist ein echter SCHOCK! Alle reden über die Niederlande. Aber GRIECHENLAND ist zum allerersten Mal in der Liga A! Die haben sich hochgekämpft und warten jetzt auf Klopp. Dazu SERBIEN mit Vlahovic, der nach 2 Jahren Flaute endlich wieder trifft. Klopp-Debüt 24. September in Amsterdam. Dann 3 Tage später Griechenland in Deutschland. 6 Spiele bis November – der Countdown für den 5. Stern hat begonnen!",
+  "uploadCaption": "Klopps erste Aufgabe: Holland, Serbien – und der SCHOCK-GEGNER! Griechenland ist zum ersten Mal in der Liga A! Was denkst du – gewinnt Deutschland die Gruppe?",
+  "uploadHashtags": "#DFB #WM2030 #Klopp #NationsLeague #DeutschlandFussball",
+  "images": [
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "dfb_team.jpg",     "search": "DFB Team 2026" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "musiala.jpg",      "search": "Jamal Musiala" },
+    { "file": "fans.jpg",         "search": "DFB Fans" },
+    { "file": "vlahovic.jpg",     "search": "Dusan Vlahovic Serbia" },
+    { "file": "griechenland.jpg", "search": "Greece national football team" },
+    { "file": "niederlande.jpg",  "search": "Netherlands national football team" },
+    { "file": "pokal.jpg",        "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DAS hat NIEMAND auf dem Radar!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "NATIONS LEAGUE 2026/27",
+      "title": "Klopps Debüt-Gruppe",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Debüt 24.9.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Gruppe A2 – die Fakten",
+      "stats": [
+        { "label": "Spieltage", "value": "6" },
+        { "label": "Klopp-Debüt", "value": "24.9.26" },
+        { "label": "Griechenland Liga A", "value": "Erstmals!" }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "niederlande.jpg",
+      "name": "Niederlande",
+      "role": "Spieltag 1 · 24.9. Amsterdam",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "vlahovic.jpg",
+      "name": "Dušan Vlahović",
+      "role": "Serbien · Juventus · 2 J. Flaute vorbei",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "griechenland.jpg",
+      "name": "Griechenland",
+      "role": "Erstmals in Liga A – nie unterschätzen!",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23 J. · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 23 J. · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Gewinnt Klopp die Gruppe?",
+      "subtitle": "Deine Meinung in die Kommentare!",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
