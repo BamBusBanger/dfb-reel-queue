@@ -1,0 +1,102 @@
+{
+  "slug": "wirtz-liverpool-bilanz-klopp-mission",
+  "createdAt": "2026-07-22T12:34:00Z",
+  "title": "Wirtz – 0 WM-Tore, doch Klopp sagt: Fantastic",
+  "script": "Hundertfünfundzwanzig Millionen Pfund – und trotzdem schweigt der Name Wirtz. Erste Liverpool-Saison: 48 Spiele, nur 7 Tore, 8 Vorlagen, kein Titel. Dann die WM 2026: 360 Minuten, null WM-Tore, viermal ausgewechselt. Alle zweifeln. Nur einer nicht: Jürgen Klopp. Der neue Bundestrainer nennt ihn 'once-in-a-century talent' und 'Fantastic'. Am 25. Juli unterschreibt Klopp beim DFB – sein erster Auftrag: Entfessele Florian Wirtz endlich.",
+  "uploadCaption": "125 Millionen Pfund. 0 WM-Tore. Und trotzdem nennt Jürgen Klopp ihn 'once-in-a-century talent.' Die Wirtz-Mission beginnt am 25. Juli beim DFB! Was sagst du: Schafft Klopp das?",
+  "uploadHashtags": "#FlorianWirtz #Klopp #DFB #WM2026 #Liverpool #Bundestrainer #DFBTeam #WM2030",
+  "images": [
+    { "file": "wirtz_portrait.jpg",   "search": "Florian Wirtz" },
+    { "file": "wirtz_training.jpg",   "search": "Florian Wirtz Liverpool" },
+    { "file": "wirtz_presse.jpg",     "search": "Florian Wirtz Pressekonferenz" },
+    { "file": "wirtz_jubel.jpg",      "search": "Florian Wirtz DFB Jubel" },
+    { "file": "wirtz_zweikampf.jpg",  "search": "Florian Wirtz Zweikampf" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "nagelsmann.jpg",       "search": "Julian Nagelsmann" },
+    { "file": "fans.jpg",             "search": "DFB Fans Deutschland" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal 2026" },
+    { "file": "anfield.jpg",          "search": "Anfield Liverpool Stadium 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "125 MIO PFUND. 0 WM-TORE.",
+      "image": "wirtz_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "FLORIAN WIRTZ",
+      "title": "Enttäuschung oder Weltstar?",
+      "image": "wirtz_training.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_presse.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Liverpool-Saison 2025/26",
+      "stats": [
+        { "label": "Spiele", "value": "48" },
+        { "label": "Tore", "value": "7" },
+        { "label": "Vorlagen", "value": "8" }
+      ],
+      "image": "wirtz_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "anfield.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_zweikampf.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 0 Titel 2025/26",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wirtz bei der WM 2026",
+      "stats": [
+        { "label": "Minuten", "value": "360" },
+        { "label": "WM-Tore", "value": "0" },
+        { "label": "Ausgewechselt", "value": "4×" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Ex-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer ab 25.7.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Entfesselt Klopp Wirtz?",
+      "subtitle": "Kommentar ↓",
+      "image": "wirtz_training.jpg",
+      "weight": 1.0
+    }
+  ]
+}
