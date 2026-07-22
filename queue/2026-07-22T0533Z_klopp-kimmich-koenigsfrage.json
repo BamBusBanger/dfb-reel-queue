@@ -1,0 +1,95 @@
+{
+  "slug": "klopp-kimmich-koenigsfrage",
+  "createdAt": "2026-07-22T05:33:00Z",
+  "title": "Klopps Königsfrage: Was wird aus Kimmich?",
+  "script": "Er spielte 3 Jahre als Rechtsverteidiger – nur weil Nagelsmann ihn dort brauchte. Aber Klopp denkt anders. Der neue Bundestrainer baut sein System um eine starke Doppel-Sechs herum – sein ganzes Trainerdasein lang. Joshua Kimmich: 31 Jahre, 109 Länderspiele, DFB-Kapitän. Als Sechser war er Bayerns Herzstück. Klopp sagt: 'Kimmich ist einer der besten Mittelfeldspieler der Welt.' Am Freitag, dem 25. Juli, unterschreibt Klopp den DFB-Vertrag. Dann wird sich zeigen, ob Kimmich wieder der Chef im Zentrum wird – oder Rechtsverteidiger bleibt.",
+  "uploadCaption": "Klopp übernimmt – aber was passiert mit DFB-Kapitän Kimmich? 3 Jahre Rechtsverteidiger unter Nagelsmann, 109 Länderspiele, jetzt die Entscheidung: zurück ins Zentrum? Freitag unterschreibt Klopp! #DFB #Klopp #Kimmich #WM2026",
+  "uploadHashtags": "#DFB #Klopp #Kimmich #WM2026 #Bundestrainer #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "kimmich_01.jpg",      "search": "Joshua Kimmich" },
+    { "file": "dfb_team.jpg",        "search": "DFB Nationalmannschaft 2026" },
+    { "file": "kimmich_kap.jpg",     "search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "klopp_01.jpg",        "search": "Jürgen Klopp" },
+    { "file": "kimmich_training.jpg","search": "Joshua Kimmich Training DFB" },
+    { "file": "taktik.jpg",          "search": "Taktikbrett Pressing Fußball Bundestrainer", "thematic": true },
+    { "file": "wirtz.jpg",           "search": "Florian Wirtz" },
+    { "file": "sane_kimmich.jpg",    "search": "Joshua Kimmich Jubel DFB" },
+    { "file": "fans.jpg",            "search": "DFB Fans Stadion" },
+    { "file": "wm_logo.jpg",         "search": "WM 2026 Logo" },
+    { "file": "flagge.jpg",          "search": "Deutschland Flagge Reichstag" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 JAHRE RECHTSVERTEIDIGER – KLOPP ÄNDERT ALLES.",
+      "image": "kimmich_01.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 NACHBEBEN",
+      "title": "Klopps Königsfrage: Was wird aus Kimmich?",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "kimmich_kap.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele · 31 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp_01.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Debüt 24. September 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Kimmich – die Zahlen",
+      "stats": [
+        { "label": "Länderspiele", "value": "109" },
+        { "label": "Jahre alt", "value": "31" },
+        { "label": "WM-Teilnahmen", "value": "2" }
+      ],
+      "image": "kimmich_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "taktik.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Klopp-Schlüsselspieler · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "sane_kimmich.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_logo.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Kimmich ins Zentrum oder Rechtsverteidiger?",
+      "subtitle": "Schreib deine Meinung in die Kommentare!",
+      "image": "flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
