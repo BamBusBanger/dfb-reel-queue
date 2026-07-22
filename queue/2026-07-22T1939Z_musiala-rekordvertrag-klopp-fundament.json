@@ -1,0 +1,101 @@
+{
+  "slug": "musiala-rekordvertrag-klopp-fundament",
+  "createdAt": "2026-07-22T19:39:00Z",
+  "title": "Musiala 2030 – Klopps geheimes DFB-Fundament",
+  "script": "Alle haben ihn nach der WM abgehakt – aber Bayern München hat gerade Klopps wichtigsten Trumpf für 2030 gesichert. Jamal Musiala verlängert bis 2030: rund 25 Millionen Euro pro Jahr, Exit-Klausel inklusive. Bei der WM 2026? Nur 1 Tor in 239 Minuten, viermal ausgewechselt, Bank im Achtelfinale gegen Paraguay. Doch 2030 wird Musiala 26 – sein absolutes Besten-Alter. Klopp nennt ihn ein Jahrhunderttalent. Die entscheidende Frage: Schafft Klopp mit Musiala was Nagelsmann nie gelang?",
+  "uploadCaption": "Bayern bindet Musiala bis 2030 – und Klopp hat damit sein wichtigstes WM-Fundament gesichert. 25 Mio. €/Jahr, Exit-Klausel drin. Bei der WM 2026 enttäuschend – aber 2030 wird er 26 sein. Sein absolutes Prime-Age. Schafft Klopp was Nagelsmann nicht gelang?",
+  "uploadHashtags": "#DFB #Musiala #WM2030 #Klopp #Bundestrainer #FCBayern #Fussball #WM2026",
+  "images": [
+    { "file": "musiala_aktion.jpg",    "search": "Jamal Musiala" },
+    { "file": "musiala_jubel.jpg",     "search": "Jamal Musiala" },
+    { "file": "musiala_curacao.jpg",   "search": "Jamal Musiala" },
+    { "file": "musiala_avatar.jpg",    "search": "Jamal Musiala DFB" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "allianz_arena.jpg",     "search": "Allianz Arena" },
+    { "file": "wirtz.jpg",             "search": "Florian Wirtz" },
+    { "file": "wm_pokal.jpg",          "search": "WM Pokal" },
+    { "file": "dfb_fans.jpg",          "search": "DFB Fans" },
+    { "file": "wm2030_vision.jpg",     "search": "WM 2030 Stadion Europa Spektakel", "thematic": true },
+    { "file": "public_viewing.jpg",    "search": "DFB Public Viewing Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ABGESCHRIEBEN – und trotzdem Klopps GEHEIMSTE WAFFE.",
+      "image": "musiala_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB GEHEIMNIS",
+      "title": "Musiala bis 2030",
+      "image": "allianz_arena.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_jubel.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 23 · FC Bayern München",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM 2026 – Bilanz",
+      "stats": [
+        { "label": "Tore", "value": "1" },
+        { "label": "×ausgewechselt", "value": "4" },
+        { "label": "Minuten gesamt", "value": "239" }
+      ],
+      "image": "musiala_curacao.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer ab 25. Juli 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_avatar.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Musiala – Rekordvertrag Bayern",
+      "stats": [
+        { "label": "Gehalt/Jahr", "value": "~25 Mio. €" },
+        { "label": "Vertrag bis", "value": "2030" },
+        { "label": "WM-Alter 2030", "value": "26 J." }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "125 Mio. £ · 0 WM-Tore · ebenfalls 26 in 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm2030_vision.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Klopp mit Musiala was Nagelsmann nie gelang?",
+      "subtitle": "Kommentar ↓",
+      "image": "public_viewing.jpg",
+      "weight": 1.0
+    }
+  ]
+}
