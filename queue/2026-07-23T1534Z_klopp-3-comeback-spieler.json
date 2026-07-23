@@ -1,0 +1,113 @@
+{
+  "slug": "klopp-3-comeback-spieler",
+  "createdAt": "2026-07-23T15:34:00Z",
+  "title": "Klopps 3 Comeback-Kandidaten",
+  "script": "MORGEN um 11 Uhr wird Klopp offiziell Bundestrainer. Und 3 DFB-Profis warten verzweifelt auf ihre Rettung. Fall 1: Nico Schlotterbeck – WM-Aus nach nur 13 Minuten, Innenbandriss, monatelange Reha – erst 26. Fall 2: Nick Woltemade – 75 Millionen Euro Ablöse, null WM-Gruppenminuten, dann der verschossene Elfmeter im K.-o. Fall 3: Leon Goretzka – 70 Länderspiele, nur 27 WM-Bankminuten, seit dem 1. Juli vereinslos. Drei kaputte Karrieren. Eine Chance: Klopp. Wer von den Dreien schafft 2028 das EM-Halbfinale?",
+  "uploadCaption": "MORGEN wird Klopp offiziell Bundestrainer. Und 3 DFB-Stars warten schon JETZT auf ihn: Schlotterbeck (WM-Aus Minute 13), Woltemade (75 Mio. €, 0 Minuten, verschossener Elfmeter) und Goretzka (70 Länderspiele, jetzt vereinslos). Schafft Klopp-DNA sie alle drei zu retten?",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2026 #Schlotterbeck #Woltemade #Goretzka #EM2028 #Comeback #Fussball",
+  "images": [
+    { "file": "schlotterbeck.png",          "search": "Nico Schlotterbeck" },
+    { "file": "woltemade.png",              "search": "Nick Woltemade" },
+    { "file": "goretzka.png",              "search": "Leon Goretzka" },
+    { "file": "klopp.jpg",                 "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "schlotterbeck_jubel.jpg",   "search": "Nico Schlotterbeck DFB Torjubel" },
+    { "file": "woltemade_portrait.jpg",    "search": "Nick Woltemade Newcastle" },
+    { "file": "goretzka_training.jpg",     "search": "Leon Goretzka DFB Training" },
+    { "file": "fans_hoffen.jpg",           "search": "DFB Fans public viewing hoffen" },
+    { "file": "fans_deutschland.jpg",      "search": "DFB Fans Deutschland Fahnen" },
+    { "file": "schlotterbeck_klatschen.jpg", "search": "Nico Schlotterbeck" },
+    { "file": "woltemade_newcastle.jpg",   "search": "Nick Woltemade Newcastle 2026" },
+    { "file": "wm2026_logo.webp",          "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP MORGEN OFFIZIELL. 3 kaputte DFB-Karrieren warten.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP-ÄRA STARTET",
+      "title": "3 Comeback-Kandidaten 2028",
+      "image": "wm2026_logo.webp",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "schlotterbeck.png",
+      "name": "Nico Schlotterbeck",
+      "role": "Innenverteidiger · 26 · BVB",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Schlotterbeck",
+      "stats": [
+        { "label": "WM-Einsatz", "value": "13 Min." },
+        { "label": "Verletzung", "value": "Innenbandriss" },
+        { "label": "WM-Schicksal", "value": "K.-o." }
+      ],
+      "image": "schlotterbeck_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "woltemade.png",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · 22 · Newcastle",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Woltemade",
+      "stats": [
+        { "label": "Ablöse", "value": "75 Mio. €" },
+        { "label": "WM-Minuten", "value": "0" },
+        { "label": "Elfmeter", "value": "verschossen" }
+      ],
+      "image": "woltemade_portrait.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "goretzka.png",
+      "name": "Leon Goretzka",
+      "role": "Mittelfeld · 31 · vereinslos",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Goretzka",
+      "stats": [
+        { "label": "Länderspiele", "value": "70" },
+        { "label": "WM-Minuten", "value": "27" },
+        { "label": "Club seit 1.7.", "value": "keiner" }
+      ],
+      "image": "goretzka_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans_hoffen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_deutschland.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "schlotterbeck_klatschen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer steht 2028 im EM-Halbfinale?",
+      "subtitle": "Folgen für alle drei – Klopp-Ära Teil 2",
+      "image": "woltemade_newcastle.jpg",
+      "weight": 1.0
+    }
+  ]
+}
