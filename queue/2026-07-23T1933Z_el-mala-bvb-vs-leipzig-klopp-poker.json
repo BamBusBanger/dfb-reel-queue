@@ -1,0 +1,36 @@
+{
+  "slug": "el-mala-bvb-vs-leipzig-klopp-poker",
+  "createdAt": "2026-07-23T19:33:00Z",
+  "title": "El Mala: BVB vs. Leipzig – Klopp entscheidet",
+  "script": "50 MILLIONEN EURO – und ausgerechnet Klopp zieht die Fäden. Said El Mala, 19 Jahre, 13 Tore für Köln, gilt als Klopps DFB-Kandidat für 2030. Der BVB bietet 42 Millionen. Köln will 50. Spieler und Mutter wollen Dortmund. Doch als Red-Bull-Kopf schiebt Klopp RB Leipzig in Stellung – obwohl er morgen selbst als Bundestrainer in Frankfurt unterschreibt. Kauft Klopp für Leipzig den DFB-Stürmer, den der BVB haben will? Ist das fair – oder nur schlaues Taktieren?",
+  "uploadCaption": "50 Millionen Euro und Klopp entscheidet! Said El Mala (19, 13 Tore) – BVB oder RB Leipzig? Ausgerechnet der neue Bundestrainer, der morgen unterschreibt, blockiert Dortmund für Red Bull. Wessen Schuld wäre das?",
+  "uploadHashtags": "#DFB #ElMala #BVB #RBLeipzig #Klopp #Bundestrainer #Transferpoker #WM2030 #Fussball",
+  "images": [
+    { "file": "el-mala-aktion.jpg", "search": "Said El Mala Köln 2026" },
+    { "file": "bvb-stadion.jpg", "search": "Signal Iduna Park" },
+    { "file": "el-mala-tor.jpg", "search": "Said El Mala Tor Bundesliga" },
+    { "file": "rb-leipzig-arena.jpg", "search": "RB Leipzig Red Bull Arena" },
+    { "file": "ouedraogo-rb.jpg", "search": "Assan Ouédraogo" },
+    { "file": "klopp-portrait.jpg", "search": "Jürgen Klopp" },
+    { "file": "klopp-dfb-pk.jpg", "search": "Klopp DFB Bundestrainer Frankfurt 2026" },
+    { "file": "fans-entsetzen.jpg", "search": "Public Viewing Entsetzen" },
+    { "file": "dfb-flagge.jpg", "search": "Deutschland Flagge Berlin" },
+    { "file": "wm-pokal-gold.jpg", "search": "WM Pokal" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "50 MIO. € – UND KLOPP ENTSCHEIDET.", "image": "el-mala-aktion.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB-TRANSFERDUELL 2026", "title": "BVB vs. RB Leipzig", "image": "bvb-stadion.jpg", "weight": 0.7 },
+    { "type": "image", "image": "el-mala-tor.jpg", "name": "Said El Mala", "role": "Stürmer · Köln · 19", "weight": 0.8 },
+    { "type": "image", "image": "rb-leipzig-arena.jpg", "weight": 0.8 },
+    { "type": "image", "image": "ouedraogo-rb.jpg", "name": "Assan Ouédraogo", "role": "RB Leipzig · 20", "weight": 0.8 },
+    { "type": "image", "image": "klopp-portrait.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer ab 25.7.", "weight": 0.8 },
+    { "type": "stats", "title": "Transfer-Poker", "stats": [
+      { "label": "Kölns Forderung", "value": "50 Mio €" },
+      { "label": "BVB-Angebot", "value": "42 Mio €" },
+      { "label": "El Mala Tore 25/26", "value": "13" }
+    ], "image": "dfb-flagge.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp-dfb-pk.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans-entsetzen.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "BVB oder Leipzig?", "subtitle": "Darf der neue Bundestrainer seinen alten Red-Bull-Klub bevorzugen – oder ist das ein Interessenkonflikt?", "image": "wm-pokal-gold.jpg", "weight": 1.0 }
+  ]
+}

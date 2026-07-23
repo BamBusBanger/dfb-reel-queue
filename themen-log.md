@@ -267,3 +267,4 @@
 2026-07-23 | karl-comeback-ball-klopp | Lennart Karl Ball-Training-Comeback Bayern nach Muskelbündelriss WM-Aus, genau zu Klopps Unterschrift 25.7., Nations League 24.9. Niederlande (NEWS-DRAMA)
 2026-07-23 | klopp-3-comeback-spieler | Klopp morgen offiziell PK 11 Uhr Frankfurt, 3 DFB-Comeback-Kandidaten Schlotterbeck (WM-Aus 13 Min. Innenbandriss), Woltemade (75 Mio. 0 WM-Min. Elfmeter), Goretzka (70 LS 27 WM-Min. vereinslos), EM 2028 (TOP-3-LISTE)
 2026-07-23 | klopp-klinsmann-geheimrezept | Klopp-Klinsmann-Parallele: beide Outsider ohne Bundesliga-Job, Klinsmann 22 Monate → WM-Halbfinale 2006, Klopp 48 Monate → WM 2030, Podolski/Schweinsteiger/Lahm vs Wirtz/Musiala/Ouédraogo (GEHEIMNIS)
+2026-07-23 | el-mala-bvb-vs-leipzig-klopp-poker | El Mala (19, 13 Tore Köln) Transferpoker BVB 42 Mio vs RB Leipzig, Spieler+Mutter wollen BVB, Klopp als Red-Bull-Kopf schiebt Leipzig, morgen Bundestrainer Frankfurt 25.7. (DUELL/VERGLEICH)
