@@ -263,3 +263,4 @@
 2026-07-22 | havertz-arsenalmeister-heimkehr | Kai Havertz Premier-League-Meister Arsenal, WM-Elfmeter-Aus Paraguay, Leverkusen-Heimkehr 60 Mio, Klopp braucht ihn (NEWS-DRAMA)
 2026-07-22 | musiala-rekordvertrag-klopp-fundament | Musiala Bayern Rekordvertrag bis 2030 ~25 Mio €/Jahr Exit-Klausel, WM 2026 nur 1 Tor 239 Min 4× ausgewechselt, Klopp-Trumpf Prime-Age 26 in 2030, Jahrhunderttalent entfesseln (GEHEIMNIS)
 2026-07-23 | klopp-vs-nagelsmann-bundestrainer-vergleich | Klopp 12 Mio. €/Jahr vs Nagelsmann 7 Mio., 22 Siege 3 WM-Frühaus, volle Kaderkontrolle 3 Co-Trainer, Elfmeter-Training, Unterschrift Freitag 25.7. Frankfurt, Wirtz/Musiala entfesseln (DUELL/VERGLEICH)
+2026-07-23 | ouedraogo-klopps-geheimwaffe-2030 | Assan Ouédraogo 20 RB Leipzig, Debüt-Tor 102 Sekunden jüngster DFB-Torschütze seit 1954, 0 WM-Minuten 2026, Klopp Red-Bull-Connection, U17-WM-Sieger 2023, Prime-Age 24 bei WM 2030 (GEHEIMNIS)

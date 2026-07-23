@@ -1,0 +1,91 @@
+{
+  "slug": "ouedraogo-klopps-geheimwaffe-2030",
+  "createdAt": "2026-07-23T09:34:06Z",
+  "title": "Ouédraogo: Klopps geheime WM-2030-Waffe",
+  "script": "Klopp hat ihn bereits im Visier – doch kaum jemand kennt seinen Namen! Assan Ouédraogo, 20 Jahre alt, RB Leipzig. Sein erstes DFB-Tor fiel nach nur 102 Sekunden – jüngster Torschütze seit 1954! Bei der WM 2026 war er Notfall-Nachnominierung und spielte null Minuten. Aber Klopp kennt ihn bestens aus dem Red-Bull-Netzwerk. U17-Weltmeister 2023. Bei WM 2030 erst 24 – absolute Prime-Age. Läuft. Presst. Trifft. Die perfekte Klopp-Maschine.",
+  "uploadCaption": "Klopps geheime Wunderwaffe für WM 2030: Assan Ouédraogo! 102 Sekunden bis zum Debüt-Tor – jüngster DFB-Torschütze seit 1954. Bei der WM 2026 spielte er 0 Minuten. Was Klopp mit ihm plant, erschreckt die Welt.",
+  "uploadHashtags": "#DFB #WM2030 #Ouedraogo #Klopp #Nationalmannschaft #Fussball #Bundestrainer #RBLeipzig",
+  "images": [
+    { "file": "ouedraogo.jpg",        "search": "Assan Ouédraogo" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "dfb_team.jpg",         "search": "DFB Team 2026" },
+    { "file": "wirtz.jpg",            "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",          "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",          "search": "Joshua Kimmich" },
+    { "file": "fans.jpg",             "search": "DFB Fans" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal Gold" },
+    { "file": "ouedraogo_action.jpg", "search": "Assan Ouédraogo RB Leipzig 2025 Bundesliga" },
+    { "file": "fans_jubel.jpg",       "search": "DFB Fans Jubel Stadion" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DIESER 20-JÄHRIGE KANN DEUTSCHLAND 2030 RETTEN!",
+      "image": "ouedraogo.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPPS GEHEIMNIS",
+      "title": "Ouédraogo – die WM-2030-Waffe",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo_action.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Mittelfeld · 20 · RB Leipzig",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "102 Sekunden – Historisch!",
+      "stats": [
+        { "label": "Sek. bis Debüt-Tor vs. Slowakei", "value": "102" },
+        { "label": "Jüngster DFB-Torschütze seit", "value": "1954" },
+        { "label": "WM-Minuten 2026", "value": "0" }
+      ],
+      "image": "dfb_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 31 · 2030-Anker",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22 · 2030-Kern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 · 2030-Kern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopps Geheimwaffe?",
+      "subtitle": "Wird Ouédraogo 2030 unser Matchwinner – oder bleibt er für immer Joker?",
+      "image": "fans_jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}
