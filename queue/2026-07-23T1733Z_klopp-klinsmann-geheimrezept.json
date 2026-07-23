@@ -1,0 +1,104 @@
+{
+  "slug": "klopp-klinsmann-geheimrezept",
+  "createdAt": "2026-07-23T17:33:55Z",
+  "title": "Das DFB-Geheimrezept seit 2004",
+  "script": "ACHTUNG: Das DFB-Geheimrezept existiert bereits seit 2004. Klinsmann – kein aktiver Bundesliga-Job, Revolution mit völlig neuen Methoden und einem Fitness-Guru aus Arizona – schaffte nach nur 22 Monaten das WM-Halbfinale. Jetzt 2026: Klopp – ebenfalls kein Bundesliga-Club, neues Co-Trainer-Team, mehr Vollmacht als jeder Bundestrainer zuvor. Die Parallele ist kein Zufall. Klinsmanns neue Stars hießen Podolski, Schweinsteiger und Lahm. Klopps Version heißt Wirtz, Musiala und Ouédraogo. 48 Monate hat er bis zur WM 2030 in Europa. Das historische Muster lügt nicht – glaubst du daran?",
+  "uploadCaption": "Das DFB-Erfolgsgeheimnis seit 2004: Klinsmann als Outsider, 22 Monate, WM-Halbfinale. Klopp als Outsider, 48 Monate, WM 2030 in Europa. Gleiche Ausgangslage, gleiche Vollmacht, neue Talente. Podolski/Schweinsteiger/Lahm wurden zu Stars – jetzt sind es Wirtz, Musiala und Ouédraogo. Das Muster lügt nicht.",
+  "uploadHashtags": "#DFB #Klopp #Klinsmann #WM2030 #Nationalmannschaft #Bundestrainer #Wirtz #Musiala #Ouédraogo #Geheimrezept",
+  "images": [
+    { "file": "klopp_hook.jpg",      "search": "Jürgen Klopp" },
+    { "file": "klinsmann.jpg",       "search": "Jürgen Klinsmann DFB Bundestrainer" },
+    { "file": "klopp_pk.jpg",        "search": "Jürgen Klopp Bundestrainer 2026 Pressekonferenz" },
+    { "file": "klinsmann_2006.jpg",  "search": "Jürgen Klinsmann Deutschland WM 2006" },
+    { "file": "teamfoto.jpg",        "search": "Deutschland Nationalmannschaft 2026" },
+    { "file": "wirtz.jpg",           "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",         "search": "Jamal Musiala" },
+    { "file": "ouedraogo.jpg",       "search": "Assan Ouédraogo" },
+    { "file": "pokal.jpg",           "search": "WM Pokal" },
+    { "file": "fans_dfb.jpg",        "search": "DFB Fans Deutschland" },
+    { "file": "wm2030.jpg",          "search": "WM 2030 Deutschland Trophäe Triumph", "thematic": true },
+    { "file": "fans_outro.jpg",      "search": "DFB Fans Fanzone" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DAS GEHEIMREZEPT EXISTIERT SEIT 2004.",
+      "image": "klopp_hook.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB-GEHEIMNIS",
+      "title": "Klinsmann trifft Klopp",
+      "image": "klinsmann.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp_pk.jpg",
+      "name": "Jürgen Klopp",
+      "role": "13. Bundestrainer · ab Juli 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klinsmann_2006.jpg",
+      "name": "Jürgen Klinsmann",
+      "role": "Bundestrainer 2004–2006",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen-Parallele",
+      "stats": [
+        { "label": "Monate Klinsmann → WM-Halbfinale 2006", "value": "22" },
+        { "label": "Monate Klopp → WM 2030 Europa",         "value": "48" }
+      ],
+      "image": "teamfoto.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22 · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Mittelfeld · 20 · RB Leipzig",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm2030.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Geschichte wiederholt sich?",
+      "subtitle": "5. Stern 2030 – ja oder nein?",
+      "image": "fans_outro.jpg",
+      "weight": 1.0
+    }
+  ]
+}
