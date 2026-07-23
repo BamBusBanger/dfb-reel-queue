@@ -1,0 +1,46 @@
+{
+  "slug": "klopp-vs-nagelsmann-bundestrainer-vergleich",
+  "createdAt": "2026-07-23T05:34:45Z",
+  "title": "Klopp vs. Nagelsmann – Bundestrainer-Showdown",
+  "script": "Er kostet 12 Millionen im Jahr – das Doppelte von Nagelsmann. Doch was macht Klopp wirklich anders? Nagelsmann holte in 34 Spielen 22 Siege und 10 Niederlagen – scheiterte aber dreimal früh in WM-Turnieren. Das Elfmeter-Trauma nach 3 Fehlschüssen gegen Paraguay? Kein gezieltes Training. Klopp dagegen: volle Kaderkontrolle, 3 Co-Trainer, Hochpressing-DNA aus Liverpool, und ein klares Ziel – Wirtz und Musiala zu entfesseln. Freitag in Frankfurt macht er es offiziell. Kann Klopp schaffen, woran Nagelsmann scheiterte?",
+  "uploadCaption": "Klopp kostet 12 Mio. €/Jahr – das Doppelte von Nagelsmann. Was er wirklich anders macht und ob das reicht: jetzt im Video. Unterschrift Freitag 25.7. in Frankfurt.",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2030 #Nagelsmann #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "klopp.jpg",              "search": "Jürgen Klopp" },
+    { "file": "nagelsmann.jpg",         "search": "Julian Nagelsmann" },
+    { "file": "nagelsmann_training.jpg","search": "Nagelsmann Training DFB 2026" },
+    { "file": "klopp_bundestrainer.jpg","search": "Jürgen Klopp Bundestrainer DFB 2026" },
+    { "file": "kimmich.jpg",            "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",              "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",            "search": "Jamal Musiala" },
+    { "file": "wm_pokal.jpg",           "search": "WM Pokal" },
+    { "file": "dfb_fans.jpg",           "search": "DFB Fans Deutschland" },
+    { "file": "dfb_team.jpg",           "search": "Deutschland Nationalmannschaft 2026" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER KOSTET DAS DOPPELTE.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "BUNDESTRAINER-SHOWDOWN", "title": "Klopp vs. Nagelsmann", "image": "nagelsmann_training.jpg", "weight": 0.7 },
+    { "type": "image", "image": "nagelsmann.jpg",          "name": "Julian Nagelsmann", "role": "Bundestrainer 2023–2026", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",               "name": "Jürgen Klopp", "role": "Bundestrainer ab 25.7.", "weight": 0.8 },
+    { "type": "stats", "title": "NAGELSMANN-BILANZ",
+      "stats": [
+        { "label": "Siege", "value": "22" },
+        { "label": "Spiele", "value": "34" },
+        { "label": "WM-Aus", "value": "3×" }
+      ],
+      "image": "nagelsmann.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich.jpg",             "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",               "name": "Florian Wirtz", "role": "125 Mio. £ · 0 WM-Tore", "weight": 0.8 },
+    { "type": "stats", "title": "KLOPP-PAKET",
+      "stats": [
+        { "label": "Gehalt",     "value": "12 Mio." },
+        { "label": "Co-Trainer", "value": "3" },
+        { "label": "Kaderhoheit","value": "100 %" }
+      ],
+      "image": "klopp_bundestrainer.jpg", "weight": 0.9 },
+    { "type": "image", "image": "musiala.jpg",             "name": "Jamal Musiala", "role": "Offensiv · 22 J.", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg",            "weight": 0.8 },
+    { "type": "image", "image": "wm_pokal.jpg",            "weight": 0.8 },
+    { "type": "outro", "title": "Bringt Klopp endlich den 5. Stern?", "subtitle": "Eure Meinung unten", "image": "dfb_team.jpg", "weight": 1.0 }
+  ]
+}
