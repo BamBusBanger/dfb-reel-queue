@@ -1,0 +1,106 @@
+{
+  "slug": "karl-comeback-ball-klopp",
+  "createdAt": "2026-07-23T12:34:00Z",
+  "title": "Karl trainiert wieder – pünktlich zu Klopps Amtsstart",
+  "script": "ÜBERRASCHUNG! Lennart Karl trainiert wieder mit dem Ball – genau in dem Moment, als Jürgen Klopp am Freitag DFB-Bundestrainer wird! Der 18-Jährige verpasste nach seinem Muskelbündelriss die komplette WM 2026. Davor: 5 Tore, 5 Vorlagen in der Bundesliga, 4 Tore in der Champions League. Ouédraogo sprang als Notfall-Nachnominierung ein – und traf nach 102 Sekunden. Jetzt ist Karl zurück auf dem Rasen. Nations League, 24. September gegen die Niederlande: Wird Klopp direkt BEIDE nominieren?",
+  "uploadCaption": "Er verpasste die komplette WM 2026 – jetzt meldet er sich zurück! Lennart Karl (18) trainiert wieder mit dem Ball bei Bayern, genau als Jürgen Klopp am Freitag sein Amt als Bundestrainer antritt. Klopps erste Überraschung für die Nations League?",
+  "uploadHashtags": "#LennartKarl #DFB #Klopp #WM2026 #Bayern #NationsLeague",
+  "images": [
+    { "file": "karl.jpg",            "search": "Lennart Karl" },
+    { "file": "karl_training.jpg",   "search": "Lennart Karl Bayern Training 2026" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "ouedraogo.jpg",       "search": "Assan Ouédraogo" },
+    { "file": "allianz.jpg",         "search": "allianz_arena" },
+    { "file": "dfb_team.jpg",        "search": "DFB Team 2026" },
+    { "file": "fans.jpg",            "search": "DFB Fans" },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal" },
+    { "file": "niederlande.jpg",     "search": "Niederlande Nationalmannschaft 2026" },
+    { "file": "public_viewing.jpg",  "search": "public viewing hoffen DFB" },
+    { "file": "comeback_rasen.jpg",  "search": "Fußballer Comeback Verletzung Rasen", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER IST ZURÜCK.",
+      "image": "karl.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB NEWS",
+      "title": "Karl trainiert wieder",
+      "image": "allianz.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "karl_training.jpg",
+      "name": "Lennart Karl",
+      "role": "Offensiv · Bayern · 18",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Saison 2025/26 vor WM-Aus",
+      "stats": [
+        { "label": "BL-Tore", "value": "5" },
+        { "label": "BL-Vorlagen", "value": "5" },
+        { "label": "CL-Tore", "value": "4" }
+      ],
+      "image": "dfb_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Notfall-Nominierung · Leipzig · 20",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "comeback_rasen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Neuer Bundestrainer · ab 25.7.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der Klopp-Karl-Countdown",
+      "stats": [
+        { "label": "WM-Aus (Verletzung)", "value": "Juni" },
+        { "label": "Ball-Training wieder", "value": "Juli" },
+        { "label": "Nations League", "value": "24.9." }
+      ],
+      "image": "niederlande.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Karl sofort in Klopps Kader?",
+      "subtitle": "Kommentiere deine Meinung!",
+      "image": "public_viewing.jpg",
+      "weight": 1.0
+    }
+  ]
+}
