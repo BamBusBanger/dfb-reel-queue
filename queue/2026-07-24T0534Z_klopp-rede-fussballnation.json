@@ -1,0 +1,97 @@
+{
+  "slug": "klopp-rede-fussballnation",
+  "createdAt": "2026-07-24T05:34:06Z",
+  "title": "Klopp: Die Rede zur Lage der Fußballnation",
+  "script": "WM-AUS vor 25 TAGEN – heute die Antwort! Jürgen Klopp wird offiziell als 13. Bundestrainer präsentiert. Sein Kernsatz: 'Der deutsche Fußball steht am WENDEPUNKT.' 12 Millionen Euro Jahresgehalt, Vertrag bis 2030, volle Kaderhoheit – und null Euro Ablöse an Red Bull. Die klare Mission: 3 WM-Frühaus heilen, Wirtz und Musiala endlich entfesseln, die Gold-Generation um Ouédraogo formen. Erster Einsatz: 24. September, Amsterdam, Nations League. Klopps Rede zur Lage der Fußballnation ist die härteste Botschaft seit Jahren.",
+  "uploadCaption": "Er ist da. Jürgen Klopp gibt heute seine erste Rede als Bundestrainer – und seine Worte lassen aufhorchen. Der Wendepunkt beginnt.",
+  "uploadHashtags": "#Klopp #Bundestrainer #DFB #WM2030 #Fussball #Nationalmannschaft #Wendepunkt",
+  "images": [
+    { "file": "klopp.jpg",       "search": "Jürgen Klopp" },
+    { "file": "klopp-pk.jpg",    "search": "Jürgen Klopp DFB Bundestrainer Pressekonferenz Frankfurt 2026" },
+    { "file": "dfb-campus.jpg",  "search": "DFB Campus Frankfurt Bundestrainer Vorstellung" },
+    { "file": "pokal.jpg",       "search": "WM Pokal" },
+    { "file": "wirtz.jpg",       "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",     "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",     "search": "Joshua Kimmich" },
+    { "file": "ouedraogo.jpg",   "search": "Assan Ouédraogo" },
+    { "file": "paraguay.jpg",    "search": "Deutschland Paraguay Elfmeterschießen WM 2026" },
+    { "file": "fans.jpg",        "search": "DFB Fans" },
+    { "file": "fans-berlin.jpg", "search": "DFB Fanzone Berlin Brandenburger Tor" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "WM-AUS VOR 25 TAGEN. HEUTE DIE ANTWORT.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "24. JULI 2026 · FRANKFURT",
+      "title": "KLOPP IST BUNDESTRAINER",
+      "image": "klopp-pk.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "dfb-campus.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der Klopp-Deal",
+      "stats": [
+        { "label": "Jahresgehalt (DFB-Rekord)", "value": "12 Mio. €" },
+        { "label": "Ablöse Red Bull",           "value": "0 €" },
+        { "label": "Vertrag bis",               "value": "2030" }
+      ],
+      "image": "pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · Mission #1",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern München · Mission #2",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "RB Leipzig · 20 J. · Gold-Generation",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "paraguay.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Glaubst du, dass Klopp bis 2030 den 5. Stern holt?",
+      "subtitle": "JA oder NEIN – Kommentier jetzt!",
+      "image": "fans-berlin.jpg",
+      "weight": 1.0
+    }
+  ]
+}
