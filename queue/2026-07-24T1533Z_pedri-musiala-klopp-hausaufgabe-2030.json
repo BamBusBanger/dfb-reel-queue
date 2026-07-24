@@ -1,0 +1,109 @@
+{
+  "slug": "pedri-musiala-klopp-hausaufgabe-2030",
+  "createdAt": "2026-07-24T15:33:57Z",
+  "title": "Pedri vs. Musiala – Klopps größte Aufgabe",
+  "script": "Gleiche Jahrgänge. Komplett andere Welten. Pedri: 7 WM-Spiele, Weltmeister, Spaniens Motor – Platz 1 der Balleroberungen im Angriffsdrittel. Musiala: 1 WM-Tor in 239 Minuten, viermal ausgewechselt, Achtelfinale-Aus. Beide unter 24 Jahre alt. In 2030 sind beide im Prime-Age. Heute hat Klopp offiziell übernommen – 57 Spieler auf seiner Beobachtungsliste. Aber seine größte Aufgabe heißt: Musiala entfesseln. Denn mit 25 Millionen Euro Bayern-Vertrag und null WM-Toren im K.o. tickt die Uhr.",
+  "uploadCaption": "Pedri war Weltmeister. Musiala saß zu Hause. Gleiche Generation – komplett andere WM-Welten. Klopp hat heute offiziell übernommen. Seine Mission: Musiala in 4 Jahren zum deutschen Pedri machen. Schafft er das?",
+  "uploadHashtags": "#DFB #WM2026 #WM2030 #Musiala #Pedri #Klopp #Bundestrainer #Fussball #DFBTeam",
+  "images": [
+    { "file": "musiala_aktion.jpg",   "search": "Jamal Musiala" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "pedri.jpg",            "search": "Pedri Spain World Cup 2026" },
+    { "file": "musiala_jubel.webp",   "search": "Jamal Musiala" },
+    { "file": "musiala_curacao.jpg",  "search": "Jamal Musiala" },
+    { "file": "wirtz.png",            "search": "Florian Wirtz" },
+    { "file": "kimmich.webp",         "search": "Joshua Kimmich" },
+    { "file": "dfb_fans.jpg",         "search": "DFB Fans" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal" },
+    { "file": "wirtz_training.jpg",   "search": "Florian Wirtz" },
+    { "file": "wm2026_mural.jpg",     "search": "WM 2026" },
+    { "file": "fans_berlin.jpg",      "search": "DFB Fans Berlin" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "GLEICHE JAHRGÄNGE. ANDERE WELTEN.",
+      "image": "musiala_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2030",
+      "title": "Klopps Musiala-Mission",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "pedri.jpg",
+      "name": "Pedri",
+      "role": "Spanien · 23 · WM-Sieger 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_jubel.webp",
+      "name": "Jamal Musiala",
+      "role": "DFB · 22 · 1 Tor / 239 Min.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM 2026 – der krasse Unterschied",
+      "stats": [
+        { "label": "Spanien Gegentore (7 Spiele)", "value": "1" },
+        { "label": "Musiala ausgewechselt", "value": "4×" },
+        { "label": "Pedri: Balleroberungen im Angriffsdrittel", "value": "#1" }
+      ],
+      "image": "musiala_curacao.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.png",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 22 · 0 WM-Tore (360 Min.)",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.webp",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 31 · Klopps Erster",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps Mission 2030",
+      "stats": [
+        { "label": "Musiala Alter bei WM 2030", "value": "26" },
+        { "label": "Pedri Alter bei WM 2030", "value": "27" },
+        { "label": "Klopp: Spieler im Visier", "value": "57" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz_training.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm2026_mural.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Kann Klopp es?",
+      "subtitle": "Wird Musiala der deutsche Pedri?",
+      "image": "fans_berlin.jpg",
+      "weight": 1.0
+    }
+  ]
+}
