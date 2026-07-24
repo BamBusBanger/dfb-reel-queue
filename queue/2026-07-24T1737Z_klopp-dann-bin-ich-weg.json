@@ -1,0 +1,32 @@
+{
+  "slug": "klopp-dann-bin-ich-weg",
+  "createdAt": "2026-07-24T17:37:20Z",
+  "title": "Klopp bei Tag-1-PK: „Dann bin ich weg"",
+  "script": "DANN BIN ICH WEG. Vier Worte, die heute ganz Deutschland schockierten. Jürgen Klopp bei seiner ersten Pressekonferenz als neuer Bundestrainer: „Wenn ihr euch schlecht benehmt oder meine Familie nicht in Ruhe lasst – dann bin ich weg. Damit das klar ist." 12 Millionen Euro im Jahr, Vertrag bis 2030, Debüt in 62 Tagen am 24. September in Amsterdam. Und noch hat er Wirtz, Musiala und Kimmich nicht einmal angerufen. Kloppsche Klartext. War das die richtige Ansage – oder ein Riesenfehler?",
+  "uploadCaption": "„Dann bin ich weg." Jürgen Klopp zieht an Tag 1 als Bundestrainer eine knallharte rote Linie gegenüber den Medien – und lässt Wirtz, Musiala und Kimmich noch warten. 12 Mio. €/Jahr, Vertrag bis 2030. Richtig oder Fehler?",
+  "uploadHashtags": "#Klopp #Bundestrainer #DFB #Nationalmannschaft #WM2030 #Fussball #DFBTeam",
+  "images": [
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "klopp_pk.jpg",      "search": "Jürgen Klopp DFB Bundestrainer Pressekonferenz Frankfurt 2026" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich" },
+    { "file": "dfb_team.jpg",      "search": "DFB Deutschland Nationalmannschaft 2026" },
+    { "file": "fans_tribuene.jpg", "search": "DFB Fans" },
+    { "file": "fans_fanmeile.jpg", "search": "Deutschland Fans Fanmeile Berlin" },
+    { "file": "flagge.jpg",        "search": "Deutschland Flagge Schwarz Rot Gold" },
+    { "file": "medien_mics.jpg",   "search": "Pressekonferenz Mikrofone Journalisten Aufregung symbolisch", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "DANN BIN ICH WEG.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB · 24.7.2026", "title": "Klopps Schock-Ansage", "image": "dfb_team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp_pk.jpg",      "name": "Jürgen Klopp",     "role": "Bundestrainer · ab 15.8.2026", "weight": 0.8 },
+    { "type": "stats", "title": "Klopp beim DFB", "stats": [{ "label": "Jahresgehalt", "value": "12 Mio. €" }, { "label": "Vertrag bis", "value": "2030" }, { "label": "Tage bis Debüt", "value": "62" }], "image": "medien_mics.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg",          "name": "Florian Wirtz",   "role": "Liverpool · 0 WM-Tore", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg",        "name": "Jamal Musiala",   "role": "Bayern · 1 WM-Tor",    "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",        "name": "Joshua Kimmich",  "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "fans_tribuene.jpg",  "weight": 0.8 },
+    { "type": "image", "image": "fans_fanmeile.jpg",  "weight": 0.8 },
+    { "type": "outro", "title": "Klopps Drohung: Richtig oder Fehler?", "subtitle": "Schreib deine Meinung!", "image": "flagge.jpg", "weight": 1.0 }
+  ]
+}

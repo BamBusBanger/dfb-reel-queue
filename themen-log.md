@@ -272,3 +272,4 @@
 2026-07-24 | klopp-trainerteam-3-signale | Klopp offizielles Trainerteam heute bestätigt: Krawietz 808 Einsätze 21 Jahre, Lijnders 6 Liverpool-Titel 39 Jahre, Bender 2× BVB-Meister Weltmeister 2014, 62 Tage bis Debüt Amsterdam (TOP-3-LISTE)
 2026-07-24 | klopp-kein-anruf-wirtz-musiala-kimmich | Klopp heute offiziell Bundestrainer PK Frankfurt, kein Spieler kontaktiert (Wirtz/Musiala/Kimmich warten), 'Die Besten spielen', 62 Tage bis Amsterdam, 12 Mio €/Jahr, Gegenpressing-Plan, 3 Elfmeter-Fehlschüsse (GEHEIMNIS)
 2026-07-24 | pedri-musiala-klopp-hausaufgabe-2030 | Pedri (WM-Sieger, #1 Balleroberungen) vs Musiala (1 Tor/239 Min, 4× ausgewechselt), Klopp heute offiziell mit 57 Spielern im Visier, beide 26/27 bei WM 2030, Mission Musiala entfesseln (DUELL/VERGLEICH)
+2026-07-24 | klopp-dann-bin-ich-weg | Klopp "Dann bin ich weg" Medien-Drohung Tag-1-PK Frankfurt, 12 Mio €/Jahr Vertrag 2030, Debüt 24.9. Amsterdam, Wirtz/Musiala/Kimmich noch kein Anruf (NEWS-DRAMA)
