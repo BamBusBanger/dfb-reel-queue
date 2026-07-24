@@ -269,3 +269,4 @@
 2026-07-23 | klopp-klinsmann-geheimrezept | Klopp-Klinsmann-Parallele: beide Outsider ohne Bundesliga-Job, Klinsmann 22 Monate → WM-Halbfinale 2006, Klopp 48 Monate → WM 2030, Podolski/Schweinsteiger/Lahm vs Wirtz/Musiala/Ouédraogo (GEHEIMNIS)
 2026-07-23 | el-mala-bvb-vs-leipzig-klopp-poker | El Mala (19, 13 Tore Köln) Transferpoker BVB 42 Mio vs RB Leipzig, Spieler+Mutter wollen BVB, Klopp als Red-Bull-Kopf schiebt Leipzig, morgen Bundestrainer Frankfurt 25.7. (DUELL/VERGLEICH)
 2026-07-24 | klopp-rede-fussballnation | Klopp PK Frankfurt 24.7. offizieller Bundestrainer, 12 Mio €/Jahr Vertrag bis 2030, Wendepunkt-Rede, Mission Wirtz/Musiala/Ouédraogo entfesseln, Paraguay-Trauma heilen, Debüt 24.9. Amsterdam (NEWS-DRAMA)
+2026-07-24 | klopp-trainerteam-3-signale | Klopp offizielles Trainerteam heute bestätigt: Krawietz 808 Einsätze 21 Jahre, Lijnders 6 Liverpool-Titel 39 Jahre, Bender 2× BVB-Meister Weltmeister 2014, 62 Tage bis Debüt Amsterdam (TOP-3-LISTE)

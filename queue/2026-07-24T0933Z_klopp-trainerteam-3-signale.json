@@ -1,0 +1,36 @@
+{
+  "slug": "klopp-trainerteam-3-signale",
+  "createdAt": "2026-07-24T09:33:00Z",
+  "title": "Klopps Trainerteam: 3 Signale für WM 2030",
+  "script": "HEUTE OFFIZIELL: Klopps Trainerteam ist seine ERSTE Botschaft an Deutschland. 3 Co-Trainer, 3 Signale für WM 2030. Signal 1: Peter Krawietz – 808 Co-Trainer-Einsätze, 21 Jahre Klopps Schatten in Mainz, Dortmund und Liverpool, das Fundament. Signal 2: Pepijn Lijnders – Pressing-Architekt hinter 6 Liverpool-Titeln, erst 39 Jahre – der Taktiker. Signal 3: Sven Bender – 2 BVB-Meisterschaften als Spieler unter Klopp, Weltmeister 2014 – die deutsche Seele. 62 Tage bis zum Debüt in Amsterdam. Wer ist Klopps wichtigste Entscheidung – Krawietz, Lijnders oder Bender?",
+  "uploadCaption": "Klopp ist offiziell Bundestrainer – und sein Trainerteam ist die erste Botschaft! Krawietz (808 Einsätze, 21 Jahre), Pressing-Stratege Lijnders (6 Liverpool-Titel) und BVB-Weltmeister Bender bilden das Dream-Team für WM 2030. 62 Tage bis zum Debüt in Amsterdam. Wer ist Klopps wichtigste Personalentscheidung?",
+  "uploadHashtags": "#DFB #Bundestrainer #Klopp #WM2030 #Nationalmannschaft #Krawietz #Lijnders #SvenBender #Fussball #KloppBundestrainer",
+  "images": [
+    { "file": "klopp_pk.jpg", "search": "Jürgen Klopp DFB Bundestrainer Pressekonferenz Frankfurt 2026" },
+    { "file": "klopp_dfb.jpg", "search": "Jürgen Klopp" },
+    { "file": "krawietz.jpg", "search": "Peter Krawietz DFB Co-Trainer 2026" },
+    { "file": "dfb_team.jpg", "search": "Deutschland Teamfoto 2026" },
+    { "file": "lijnders.jpg", "search": "Pepijn Lijnders Co-Trainer 2026" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal" },
+    { "file": "bender_trainer.jpg", "search": "Sven Bender DFB Co-Trainer 2026" },
+    { "file": "amsterdam_arena.jpg", "search": "Johan Cruyff Arena Amsterdam 2026" },
+    { "file": "wirtz_dfb.jpg", "search": "Florian Wirtz" },
+    { "file": "musiala_dfb.jpg", "search": "Jamal Musiala" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" },
+    { "file": "jubel_fans.jpg", "search": "jubelnde Fans Stadion schwarz weiß" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "KLOPPS ERSTE BOTSCHAFT AN DEUTSCHLAND.", "image": "klopp_pk.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB HEUTE OFFIZIELL", "title": "3 Co-Trainer · 3 Signale für WM 2030", "image": "klopp_dfb.jpg", "weight": 0.7 },
+    { "type": "image", "image": "krawietz.jpg", "name": "Peter Krawietz", "role": "Co-Trainer · 21 Jahre an Klopps Seite", "weight": 0.8 },
+    { "type": "stats", "title": "Signal 1 – Das Fundament", "stats": [{ "label": "Co-Trainer-Einsätze", "value": "808" }, { "label": "Jahre Klopp-Schatten", "value": "21" }], "image": "dfb_team.jpg", "weight": 0.9 },
+    { "type": "image", "image": "lijnders.jpg", "name": "Pepijn Lijnders", "role": "Co-Trainer · Liverpool-DNA · 39 Jahre", "weight": 0.8 },
+    { "type": "stats", "title": "Signal 2 – Der Taktiker", "stats": [{ "label": "Liverpool-Titel als Co-Trainer", "value": "6" }, { "label": "Alter", "value": "39" }], "image": "wm_pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "bender_trainer.jpg", "name": "Sven Bender", "role": "Co-Trainer · Weltmeister 2014 · BVB-Legende", "weight": 0.8 },
+    { "type": "stats", "title": "Signal 3 – Die deutsche Seele", "stats": [{ "label": "BVB-Meister unter Klopp", "value": "2×" }, { "label": "WM-Titelgewinn", "value": "2014" }], "image": "amsterdam_arena.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz_dfb.jpg", "name": "Florian Wirtz", "role": "Klopps Mission · 125 Mio. Pfund · 0 WM-Tore", "weight": 0.8 },
+    { "type": "image", "image": "musiala_dfb.jpg", "name": "Jamal Musiala", "role": "Klopps Hauptprojekt · 22 Jahre", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Krawietz, Lijnders oder Bender?", "subtitle": "Wer ist Klopps wichtigste Entscheidung für WM 2030?", "image": "jubel_fans.jpg", "weight": 1.0 }
+  ]
+}
