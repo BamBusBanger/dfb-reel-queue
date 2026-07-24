@@ -1,0 +1,38 @@
+{
+  "slug": "klopp-kein-anruf-wirtz-musiala-kimmich",
+  "createdAt": "2026-07-24T12:34:24Z",
+  "title": "Klopp rief KEINEN Spieler an",
+  "script": "KEINER hat einen Anruf bekommen. Klopp ist heute offiziell Bundestrainer – und Wirtz, Musiala und Kimmich warten alle noch auf das erste persönliche Gespräch. Kein Beziehungsmanagement vorab, keine Privilegien. 'Die Besten spielen – die, die wirklich wollen', sagte er heute in Frankfurt. Das ist sein geheimer Plan: In 62 Tagen entscheidet beim ersten Training in Amsterdam die Leistung. Gegenpressing kommt. 3 Elfmeter-Fehlschüsse werden aufgearbeitet. 12 Millionen Euro pro Jahr für einen deutschen Neustart.",
+  "uploadCaption": "Klopp ist offiziell Bundestrainer – und er hat noch mit KEINEM Spieler gesprochen. Wirtz wartet. Musiala wartet. Kimmich wartet. Das ist kein Fehler. Das ist der Plan.",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #Wirtz #Musiala #Kimmich #WM2030 #Fussball",
+  "images": [
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "teamfoto.jpg",          "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wirtz_avatar.png",      "search": "Florian Wirtz" },
+    { "file": "musiala_avatar.png",    "search": "Jamal Musiala" },
+    { "file": "kimmich_kapitaen.jpg",  "search": "Joshua Kimmich" },
+    { "file": "wirtz_presse.jpg",      "search": "Florian Wirtz Pressekonferenz" },
+    { "file": "wm_logo.webp",          "search": "WM 2026 Logo" },
+    { "file": "kimmich_training.jpg",  "search": "Joshua Kimmich Training DFB" },
+    { "file": "fans.jpg",              "search": "DFB Fans Deutschland" },
+    { "file": "wm_pokal.jpg",          "search": "WM-Pokal Gold" },
+    { "file": "deutschland_flagge.jpg","search": "Deutschland Flagge Berlin" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "KEINER BEKAM EINEN ANRUF.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "FRANKFURT · 24. JULI 2026", "title": "Klopps geheimster Plan", "image": "teamfoto.jpg", "weight": 0.7 },
+    { "type": "image", "image": "wirtz_avatar.png",     "name": "Florian Wirtz",    "role": "Offensiv · 125 Mio. £ · 0 WM-Tore",    "weight": 0.8 },
+    { "type": "image", "image": "musiala_avatar.png",   "name": "Jamal Musiala",    "role": "Offensiv · Bayern · 1 WM-Tor",           "weight": 0.8 },
+    { "type": "image", "image": "kimmich_kapitaen.jpg", "name": "Joshua Kimmich",   "role": "Kapitän · 109 Länderspiele",              "weight": 0.8 },
+    { "type": "image", "image": "wirtz_presse.jpg",     "weight": 0.8 },
+    { "type": "stats", "title": "Klopps Mission", "stats": [
+        { "label": "Tage bis Amsterdam-Debüt", "value": "62" },
+        { "label": "Jahresgehalt in Mio. €",   "value": "12" },
+        { "label": "WM-Frühaus in Folge",       "value": "3"  }
+      ], "image": "wm_logo.webp", "weight": 0.9 },
+    { "type": "image", "image": "kimmich_training.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",              "weight": 0.8 },
+    { "type": "image", "image": "wm_pokal.jpg",          "weight": 0.8 },
+    { "type": "outro", "title": "Richtig oder Fehler?", "subtitle": "Hätte Klopp die Stars schon anrufen sollen?", "image": "deutschland_flagge.jpg", "weight": 1.0 }
+  ]
+}
