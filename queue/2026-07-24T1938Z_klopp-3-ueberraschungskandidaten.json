@@ -1,0 +1,32 @@
+{
+  "slug": "klopp-3-ueberraschungskandidaten",
+  "createdAt": "2026-07-24T19:38:00Z",
+  "title": "Klopps 3 Überraschungs-Kandidaten",
+  "script": "ER SAGTE ES HEUTE LIVE: Klopp will mutig sein und Spieler berufen, die noch gar nicht damit rechnen. Drei Namen, die du kennen musst. Yann Bisseck, 25, zweifacher Meister mit Inter Mailand — noch NIE im DFB-Kader. Said El Mala, 19, 13 Bundesliga-Tore für Köln, U17-Weltmeister — jung und unbekümmert. Rocco Reitz, 24, Gladbachs Sprinter-Motor mit Top-10 Sprint-Wert — ein Profil, das dem DFB bisher fehlt. Nur 62 Tage bis zum Debüt. Wer ist dein Favorit?",
+  "uploadCaption": "Klopp sagte es heute klar bei seiner ersten PK: 'Ich werde mutig sein — Spieler berufen, die heute noch gar nicht damit rechnen.' Diese 3 Namen solltest du kennen! Klopp-Debüt: 24. September vs. Niederlande. 🔥",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2030 #Fussball #Nationalmannschaft #Ueberraschung",
+  "images": [
+    { "file": "klopp.jpg",     "search": "Jürgen Klopp" },
+    { "file": "dfb_team.jpg",  "search": "DFB Nationalmannschaft 2026" },
+    { "file": "bisseck.jpg",   "search": "Yann Bisseck Inter Milan" },
+    { "file": "el_mala.jpg",   "search": "Said El Mala FC Köln" },
+    { "file": "reitz.jpg",     "search": "Rocco Reitz Borussia Mönchengladbach" },
+    { "file": "wirtz.jpg",     "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg",   "search": "Joshua Kimmich" },
+    { "file": "wm_pokal.jpg",  "search": "WM Pokal" },
+    { "file": "dfb_fans.jpg",  "search": "DFB Fans" },
+    { "file": "fanmeile.jpg",  "search": "DFB Fanmeile Berlin" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER SAGTE ES HEUTE LIVE.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB · Bundestrainer seit 24.7.", "title": "Klopps 3 ÜBERRASCHUNGEN", "image": "dfb_team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "bisseck.jpg",  "name": "Yann Bisseck",  "role": "Innenverteidiger · 25 · Inter Mailand", "weight": 0.8 },
+    { "type": "image", "image": "el_mala.jpg",  "name": "Said El Mala",  "role": "Stürmer · 19 · 1. FC Köln", "weight": 0.8 },
+    { "type": "image", "image": "reitz.jpg",    "name": "Rocco Reitz",   "role": "Mittelfeld · 24 · Borussia M'gladbach", "weight": 0.8 },
+    { "type": "stats", "title": "Klopps Versprechen — PK Frankfurt 24.7.", "stats": [{ "label": "Tage bis Debüt", "value": "62" }, { "label": "Jahresgehalt DFB-Rekord", "value": "12 Mio. €" }], "image": "wirtz.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich.jpg",  "weight": 0.8 },
+    { "type": "image", "image": "wm_pokal.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wer ist dein Favorit?", "subtitle": "Schreib es in die Kommentare!", "image": "fanmeile.jpg", "weight": 1.0 }
+  ]
+}
