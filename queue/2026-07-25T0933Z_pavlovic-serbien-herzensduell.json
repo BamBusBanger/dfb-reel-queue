@@ -1,0 +1,97 @@
+{
+  "slug": "pavlovic-serbien-herzensduell",
+  "createdAt": "2026-07-25T09:33:00Z",
+  "title": "Pavlović vs Serbien – Herzensduell",
+  "script": "Er spielt gegen seine eigene Familie. Aleksandar Pavlović, 21, FC Bayern München – geboren in München, Eltern aus Serbien. Am 1. Oktober empfängt Klopps DFB-Team Serbien in München. Pavlović hätte für den Adler Srbije spielen können – er entschied sich für Deutschland. Jetzt 28 Länderspiele, beide WM-Gruppenspiele gestartet, Klopps neue Doppel-Sechs neben Kimmich. Am 1. Oktober: Vlahović, Milinković-Savić – und vielleicht Verwandte auf der Tribüne. 68 Tage bis zum emotionalsten Heimspiel seiner Karriere.",
+  "uploadCaption": "Er hätte für Serbien spielen können – und trifft sie jetzt als Klopps neuer DFB-Schlüsselspieler in München. 68 Tage bis zum Nations-League-Herzensduell. 🇩🇪 vs 🇷🇸",
+  "uploadHashtags": "#DFB #Pavlovic #NationsLeague #Serbien #WM2030 #Klopp #Fussball",
+  "images": [
+    { "file": "pavlovic_portrait.jpg",   "search": "Aleksandar Pavlović" },
+    { "file": "pavlovic_aktion.jpg",     "search": "Aleksandar Pavlović Bayern" },
+    { "file": "pavlovic_dfb.jpg",        "search": "Aleksandar Pavlović DFB" },
+    { "file": "vlahovic.jpg",            "search": "Dusan Vlahovic Serbia 2026" },
+    { "file": "milinkovic.jpg",          "search": "Sergej Milinkovic-Savic Serbia" },
+    { "file": "kimmich.jpg",             "search": "Joshua Kimmich" },
+    { "file": "dfb_team.jpg",            "search": "DFB Nationalmannschaft 2026" },
+    { "file": "allianz_arena.jpg",       "search": "Allianz Arena München" },
+    { "file": "dfb_fans.jpg",            "search": "DFB Fans" },
+    { "file": "serbien_flagge.jpg",      "search": "Serbien Nationalmannschaft Flagge" },
+    { "file": "dfb_flagge.jpg",          "search": "Deutschland Flagge Schwarz Rot Gold" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER SPIELT GEGEN SEINE EIGENE FAMILIE.",
+      "image": "pavlovic_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "NATIONS LEAGUE · 1. OKTOBER · MÜNCHEN",
+      "title": "Pavlović vs Serbien",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "pavlovic_aktion.jpg",
+      "name": "Aleksandar Pavlović",
+      "role": "Mittelfeld · 21 · FC Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pavlovic_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "vlahovic.jpg",
+      "name": "Dušan Vlahović",
+      "role": "Serbien · Stürmer · 26",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Duell der Zahlen",
+      "stats": [
+        { "label": "Pavlović Länderspiele DFB", "value": "28" },
+        { "label": "WM-Starts 2026", "value": "2" },
+        { "label": "Tage bis München", "value": "68" }
+      ],
+      "image": "allianz_arena.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "milinkovic.jpg",
+      "name": "Sergej Milinković-Savić",
+      "role": "Serbien · Mittelfeld · 31",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "serbien_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Für wen schlägt sein Herz?",
+      "subtitle": "Deutschland oder Serbien?",
+      "image": "dfb_flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
