@@ -276,3 +276,4 @@
 2026-07-24 | klopp-3-ueberraschungskandidaten | Klopp PK 24.7. "mutig sein" Spieler berufen die nicht damit rechnen, Bisseck 25 Inter Mailand nie nominiert, El Mala 19 13 BL-Tore U17-Weltmeister, Reitz 24 Gladbach Sprint-Motor, 62 Tage bis Debüt Niederlande (TOP-3-LISTE)
 2026-07-25 | goretzka-handgeld-poker | Goretzka vereinslos 10 Mio € Handgeld-Forderung + 7 Mio Jahresgehalt AC-Milan-Deal geplatzt Juventus abgeschreckt Arsenal lauert 70 Länderspiele 304 Bayern-Spiele CL-Sieger Klopp-Debüt 24.9. Niederlande (GEHEIMNIS)
 2026-07-25 | pavlovic-serbien-herzensduell | Pavlović (21, Bayern, Eltern aus Serbien) vs Serbia Nations League 1.10. München, 28 Länderspiele, hätte für Srbije spielen können, Vlahović/Milinković-Savić Duell, 68 Tage bis Herzensduell (DUELL/VERGLEICH)
+2026-07-25 | bisseck-nein-zu-bayern-klopp-wacht | Yann Bisseck 25 Inter verlängert bis 2031 sagt Bayern 40 Mio ab, Klopp-Geheimtipp 57er-Liste, Zitat gibt mir Hoffnung WM 2030 (NEWS-DRAMA)

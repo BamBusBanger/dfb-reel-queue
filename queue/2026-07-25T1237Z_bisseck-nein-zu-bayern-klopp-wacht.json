@@ -1,0 +1,101 @@
+{
+  "slug": "bisseck-nein-zu-bayern-klopp-wacht",
+  "createdAt": "2026-07-25T12:37:00Z",
+  "title": "Bayern wollte ihn – er sagte NEIN! Bisseck glaubt an Klopp",
+  "script": "NEIN ZU BAYERN! Yann Bisseck, Klopps Geheim-Kandidat auf der DFB-57er-Liste, hat FC Bayern einen Korb gegeben. Die Münchner boten rund 40 Millionen Euro – doch der 25-jährige Inter-Verteidiger verlängerte stattdessen bis 2031 in Mailand. Und dann dieser Satz: 'Klopp als Bundestrainer gibt mir viel Hoffnung.' Kein Bayern-Wechsel – aber WM 2030 als großes Ziel. Ist Bisseck der Mann, den Klopp für 2030 wirklich braucht?",
+  "uploadCaption": "Bayern bot 40 Millionen – Bisseck sagte NEIN. Trotzdem ist er bereit für Klopp und WM 2030! Ihr müsst diesen Namen kennen. 💥 #Bisseck #DFB #Klopp #WM2030 #Nationalmannschaft #BayernMünchen #Inter",
+  "uploadHashtags": "#Bisseck #DFB #Klopp #WM2030 #Nationalmannschaft #FCBayern #InterMailand #Fussball #Transfer",
+  "images": [
+    { "file": "bisseck.jpg",       "search": "Yann Bisseck Inter Milan" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "dfb_team.jpg",      "search": "DFB Nationalmannschaft 2026" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "flagge.jpg",        "search": "Deutschland Flagge" },
+    { "file": "fans.jpg",          "search": "DFB Fans" },
+    { "file": "inter_stadion.jpg", "search": "San Siro Inter Milan Stadion", "thematic": true },
+    { "file": "pokal.jpg",         "search": "WM Pokal" },
+    { "file": "fans_jubel.jpg",    "search": "DFB Fans Fanmeile" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NEIN ZU BAYERN!",
+      "image": "bisseck.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "TRANSFER-SCHOCK",
+      "title": "Bisseck sagt Bayern ab",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "bisseck.jpg",
+      "name": "Yann Bisseck",
+      "role": "Innenverteidiger · Inter · 25 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Angebot & die Antwort",
+      "stats": [
+        { "label": "Bayern bot", "value": "~40 Mio €" },
+        { "label": "Inter-Vertrag", "value": "bis 2031" },
+        { "label": "Klopp-Liste", "value": "57 Spieler" }
+      ],
+      "image": "dfb_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "inter_stadion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Debüt 24.9.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · Liverpool · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Braucht Klopp Bisseck für 2030?",
+      "subtitle": "Dein Kommentar unten 👇",
+      "image": "pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
