@@ -1,0 +1,34 @@
+{
+  "slug": "goretzka-handgeld-poker",
+  "createdAt": "2026-07-25T05:34:34Z",
+  "title": "Goretzka fordert 10 Mio Euro Handgeld – Juve und Milan fliehen",
+  "script": "17 Millionen Euro – das ist der geheime Grund, warum Leon Goretzka mit 31 Jahren noch immer keinen neuen Verein hat. 10 Millionen Euro Handgeld plus 7 Millionen Jahresgehalt fordert der CL-Sieger und frühere Schlüsselspieler. AC Milan? Deal platzte durch Trainerwechsel. Juventus? Schreckt vor dem Millionen-Paket zurück. Arsenal schaut noch zu. 70 Länderspiele, 304 Bayern-Einsätze – und heute ist er vereinslos. Klopp-Debüt am 24. September gegen die Niederlande: Schafft es Goretzka rechtzeitig?",
+  "uploadCaption": "😮 Leon Goretzka fordert 10 Mio. Euro Handgeld – das ist der versteckte Grund, warum kein Club zuschlägt! 70 Länderspiele, CL-Sieger 2020 – und heute vereinslos. Klopp-Debüt am 24.9. rückt näher. 👀",
+  "uploadHashtags": "#DFB #Goretzka #WM2026 #Klopp #Bundestrainer #Fussball #Transfer",
+  "images": [
+    { "file": "goretzka.png",        "search": "Leon Goretzka" },
+    { "file": "goretzka_training.jpg","search": "Leon Goretzka Training" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "ac_milan.jpg",         "search": "AC Milan San Siro Stadion" },
+    { "file": "juventus.jpg",         "search": "Juventus Turin Allianz Stadium" },
+    { "file": "arsenal.jpg",          "search": "Arsenal FC Emirates Stadium" },
+    { "file": "handgeld.jpg",         "search": "Euro Geldscheine Fussball Symbol", "thematic": true },
+    { "file": "dfb_team.jpg",         "search": "DFB Mannschaftsfoto Deutschland" },
+    { "file": "pavlovic.jpg",         "search": "Aleksandar Pavlović DFB" },
+    { "file": "fans.jpg",             "search": "DFB Fans Stadion Deutschland" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "17 MILLIONEN – KEIN DEAL", "image": "goretzka.png", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 NACHBERICHT", "title": "Goretzkas Geheimnis", "image": "goretzka_training.jpg", "weight": 0.7 },
+    { "type": "image", "image": "goretzka.png",        "name": "Leon Goretzka", "role": "Mittelfeld · 31 · vereinslos", "weight": 0.8 },
+    { "type": "image", "image": "handgeld.jpg",        "weight": 0.8 },
+    { "type": "stats", "title": "Das 17-Mio-Paket", "stats": [{ "label": "Handgeld-Forderung", "value": "10 Mio €" }, { "label": "Jahresgehalt", "value": "7 Mio €" }, { "label": "Clubs abgeschreckt", "value": "2" }], "image": "goretzka_training.jpg", "weight": 0.9 },
+    { "type": "image", "image": "ac_milan.jpg",        "weight": 0.8 },
+    { "type": "image", "image": "juventus.jpg",        "weight": 0.8 },
+    { "type": "image", "image": "arsenal.jpg",         "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",           "name": "Jürgen Klopp", "role": "Bundestrainer · ab 15.8.2026", "weight": 0.8 },
+    { "type": "image", "image": "pavlovic.jpg",        "name": "Aleksandar Pavlović", "role": "Sechser · 22 · Goretzkas Rivale", "weight": 0.8 },
+    { "type": "image", "image": "dfb_team.jpg",        "weight": 0.8 },
+    { "type": "outro", "title": "Goretzka ohne Verein nominieren?", "subtitle": "Sag's in den Kommentaren!", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
