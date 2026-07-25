@@ -1,0 +1,97 @@
+{
+  "slug": "wirtz-woltemade-anfield-revanche",
+  "createdAt": "2026-07-25T19:35:00Z",
+  "title": "Wirtz trifft Woltemade – WM-Schande vs. Premier League",
+  "script": "23. August – das erste Premier-League-Duell nach der WM-Schande! Florian Wirtz – 125 Millionen Pfund, null Tore in 360 WM-Minuten. Nick Woltemade – 75 Millionen Euro, 0 WM-Minuten, der Mann, der Deutschlands WM-Träume mit einem verschossenen Elfmeter versenkte. Liverpool gegen Newcastle, Anfield Road, 16:30 Uhr. Klopp schaut zu – sein erster Kader-Test beginnt JETZT! Nur 32 Tage bis zu seinem DFB-Debüt. Beide wollen beweisen, dass die WM vergessen ist. Nur einer kann den neuen Bundestrainer überzeugen. Wer liefert?",
+  "uploadCaption": "23. August: Wirtz (Liverpool) trifft auf Woltemade (Newcastle) – der erste WM-Revanche-Test auf englischem Rasen! 125 Mio. £ vs. 75 Mio. €. Klopp beobachtet beide. Wer beeindruckt den neuen Bundestrainer zuerst?",
+  "uploadHashtags": "#Wirtz #Woltemade #Liverpool #Newcastle #PremierLeague #DFB #Klopp #WM2026 #Fussball #WM2030",
+  "images": [
+    { "file": "spieler/wirtz_training_01.jpg", "search": "Florian Wirtz Liverpool" },
+    { "file": "spieler/woltemade_portrait_01.jpg", "search": "Nick Woltemade Newcastle" },
+    { "file": "spieler/wirtz_jubel_dfb_01.jpg", "search": "Florian Wirtz" },
+    { "file": "spieler/woltemade_jubel_01.jpg", "search": "Nick Woltemade" },
+    { "file": "spieler/wirtz_zweikampf_01.jpg", "search": "Florian Wirtz Zweikampf" },
+    { "file": "spieler/woltemade_portrait_02.jpg", "search": "Nick Woltemade Newcastle" },
+    { "file": "sonstiges/juergen_klopp_01.jpg", "search": "Jürgen Klopp" },
+    { "file": "fans/public_viewing_hoffen_01.jpg", "search": "DFB Fans" },
+    { "file": "anfield_liverpool.jpg", "search": "Anfield Stadium Liverpool" },
+    { "file": "stjamespark_newcastle.jpg", "search": "St. James Park Newcastle" },
+    { "file": "fans/deutschland_fans_01.jpg", "search": "Deutschland Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "WM-SCHANDE. PREMIER LEAGUE. JETZT!",
+      "image": "spieler/wirtz_training_01.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "23. August 2026 · Anfield Road",
+      "title": "Wirtz vs. Woltemade",
+      "image": "spieler/woltemade_portrait_01.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "spieler/wirtz_jubel_dfb_01.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 125 Mio. £ · 0 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "spieler/woltemade_jubel_01.jpg",
+      "name": "Nick Woltemade",
+      "role": "Newcastle · 75 Mio. € · Elfmeter WM-Aus",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM 2026 – Das Trauma",
+      "stats": [
+        { "label": "Wirtz WM-Tore (360 Min.)", "value": "0" },
+        { "label": "Woltemade WM-Minuten", "value": "0" },
+        { "label": "Tage bis Klopp-Debüt", "value": "32" }
+      ],
+      "image": "spieler/wirtz_zweikampf_01.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "spieler/woltemade_portrait_02.jpg",
+      "name": "Nick Woltemade",
+      "role": "Newcastle · Klopp schaut zu",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "anfield_liverpool.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "stjamespark_newcastle.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "sonstiges/juergen_klopp_01.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Debüt 24.9. Amsterdam",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans/public_viewing_hoffen_01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer braucht Klopp mehr?",
+      "subtitle": "Wirtz oder Woltemade – schreib's in die Kommentare!",
+      "image": "fans/deutschland_fans_01.jpg",
+      "weight": 1.0
+    }
+  ]
+}
