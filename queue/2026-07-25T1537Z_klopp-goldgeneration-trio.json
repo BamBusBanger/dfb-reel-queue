@@ -1,0 +1,115 @@
+{
+  "slug": "klopp-goldgeneration-trio",
+  "createdAt": "2026-07-25T15:37:36Z",
+  "title": "Klopps 3 Zukunfts-Stars für WM 2030",
+  "script": "3 Spieler, die Klopp noch NIE trainiert hat — aber die er direkt als sein WM-2030-Fundament nennt! Lennart Karl, 18: 5 Bundesliga- und 4 Champions-League-Tore in seiner Debütsaison — das WM-Ticket platzte durch einen Muskelbündelriss. Assan Ouédraogo, 20: Debüt-Tor nach sagenhaften 102 Sekunden, jüngster DFB-Torschütze seit 1954 — aber 0 WM-Minuten 2026. Said El Mala, 19: 13 Bundesliga-Tore als Neuling — nie von Nagelsmann nominiert, jetzt 50 Millionen teuer. Alle drei: U17-Weltmeister 2023. Bei WM 2030 maximal 24 Jahre alt. Klopps Goldgeneration!",
+  "uploadCaption": "Klopps geheimer WM-2030-Plan hat 3 Namen: Karl, Ouédraogo & El Mala 🔥 Alle U17-Weltmeister 2023, alle unter 21, alle im Fokus des neuen Bundestrainers – und alle hatten 0 WM-Minuten 2026. Wer wird der nächste deutsche Superstar?",
+  "uploadHashtags": "#DFB #WM2030 #Klopp #LennartKarl #Ouedraogo #SaidElMala #Nationalmannschaft #Fussball #Bundesliga",
+  "images": [
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "karl.jpg",       "search": "Lennart Karl" },
+    { "file": "ouedraogo.jpg",  "search": "Assan Ouédraogo" },
+    { "file": "elmala.jpg",     "search": "Said El Mala FC Köln" },
+    { "file": "u17wm.jpg",      "search": "DFB U17 Weltmeister 2023 Argentinien" },
+    { "file": "dfb_fans.jpg",   "search": "DFB Fans Jubel" },
+    { "file": "wm2030.jpg",     "search": "WM 2030 Europa Stadion Konzept", "thematic": true },
+    { "file": "teamfoto.jpg",   "search": "DFB Teamfoto Deutschland 2026" },
+    { "file": "ball.jpg",       "search": "Fussball DFB Schwarz-Rot-Gold" },
+    { "file": "wm_pokal.jpg",   "search": "WM Pokal Gold" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich Kapitän" },
+    { "file": "dfb_flagge.jpg", "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 SPIELER, DIE KLOPP NOCH NIE TRAINIERT HAT.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPPS GOLDGENERATION",
+      "title": "Karl · Ouédraogo · El Mala",
+      "image": "teamfoto.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "karl.jpg",
+      "name": "Lennart Karl",
+      "role": "Stürmer · 18 · Bayern München",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Karl – Debütsaison 2025/26",
+      "stats": [
+        { "label": "Bundesliga-Tore", "value": "5" },
+        { "label": "CL-Tore", "value": "4" },
+        { "label": "Alter bei WM 2030", "value": "22" }
+      ],
+      "image": "ball.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Mittelfeld · 20 · RB Leipzig",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Ouédraogo – Wahnsinnige Zahlen",
+      "stats": [
+        { "label": "Sek. bis Debüt-Tor", "value": "102" },
+        { "label": "Jüngster DFB-Torschütze seit", "value": "1954" },
+        { "label": "WM-Minuten 2026", "value": "0" }
+      ],
+      "image": "u17wm.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "elmala.jpg",
+      "name": "Said El Mala",
+      "role": "Flügel · 19 · 1. FC Köln",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "El Mala – Debütsaison",
+      "stats": [
+        { "label": "Bundesliga-Tore", "value": "13" },
+        { "label": "A-Länderspiele", "value": "0" },
+        { "label": "Ablöse Köln fordert (Mio.)", "value": "50" }
+      ],
+      "image": "dfb_fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wm2030.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 31 · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer wird der nächste Superstar?",
+      "subtitle": "Karl, Ouédraogo oder El Mala — schreib's in die Kommentare!",
+      "image": "dfb_flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
