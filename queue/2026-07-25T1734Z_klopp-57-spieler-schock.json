@@ -1,0 +1,101 @@
+{
+  "slug": "klopp-57-spieler-schock",
+  "createdAt": "2026-07-25T17:34:00Z",
+  "title": "57 Spieler im Klopp-Visier",
+  "script": "57 Namen. Nur 26 kommen durch. Klopp enthüllte gestern auf seiner ersten DFB-Pressekonferenz in Frankfurt: 57 Feldspieler stehen auf seiner Sichtungsliste – Rekord in der DFB-Geschichte. Sein Versprechen: 'Die rechnen damit noch gar nicht.' Etablierte Stars wie Sané zittern, Überraschungskandidaten wie Kennet Eichhorn und Philipp Treu wittern ihre Chance. Klopp-Credo: 'Spielen wird, wer sehr gut ist und Riesenbock hat.' 61 Tage bis zum Debüt gegen die Niederlande – wer schafft den Schnitt?",
+  "uploadCaption": "57 Spieler. 26 Plätze. Klopp hat seine Liste – und einige DFB-Stars zittern schon jetzt. 🦅⚽️",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2030 #NationsLeague #Deutschland #Fussball",
+  "images": [
+    { "file": "klopp_pk.jpg",      "search": "Jürgen Klopp DFB Pressekonferenz 2026" },
+    { "file": "klopp_portrait.jpg","search": "Jürgen Klopp" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich" },
+    { "file": "fans.jpg",          "search": "DFB Fans" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "sane.jpg",          "search": "Leroy Sané" },
+    { "file": "havertz.jpg",       "search": "Kai Havertz" },
+    { "file": "eichhorn.jpg",      "search": "Kennet Eichhorn" },
+    { "file": "liste_57.jpg",      "search": "57 Spieler Kader Silhouetten", "thematic": true },
+    { "file": "pokal.jpg",         "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "57 NAMEN. NUR 26 KOMMEN DURCH.",
+      "image": "klopp_pk.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB 2026",
+      "title": "Klopp-Schock: 57 Spieler im Visier",
+      "image": "klopp_portrait.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 LS",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps Rekord-Liste",
+      "stats": [
+        { "label": "Feldspieler auf Sichtungsliste", "value": "57" },
+        { "label": "September-Kader-Plätze", "value": "26" },
+        { "label": "Tage bis Debüt vs. Niederlande", "value": "61" }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · Liverpool · 23 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · Bayern · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "sane.jpg",
+      "name": "Leroy Sané",
+      "role": "Flügel · 30 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Sturm · Arsenal-Meister · 26 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "eichhorn.jpg",
+      "name": "Kennet Eichhorn",
+      "role": "Überraschungskandidat · Klopp-Tipp",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "liste_57.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Spielen wird, wer Riesenbock hat.",
+      "subtitle": "Wer schafft es wirklich in Klopps ersten Kader?",
+      "image": "pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
