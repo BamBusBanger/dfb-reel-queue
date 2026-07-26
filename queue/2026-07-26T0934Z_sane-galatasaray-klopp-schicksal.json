@@ -1,0 +1,107 @@
+{
+  "slug": "sane-galatasaray-klopp-schicksal",
+  "createdAt": "2026-07-26T09:34:00Z",
+  "title": "Sanés DFB-Schicksal unter Klopp",
+  "script": "ER ZITTERT. Leroy Sané – 30 Jahre alt, 75 Länderspiele, 16 Tore für Deutschland. Jetzt bei Galatasaray, kämpft er von der Türkei aus um sein DFB-Leben. Beim 7:1 gegen Curaçao blieb er unsichtbar. Erst gegen Ecuador zündete er: schnellstes deutsches WM-Tor seit 1934 – nach nur 1 Minute 49. Doch Didi Hamann fordert laut seinen Abgang. Klopp hat ihn zwar auf der 57er-Liste – aber sein Credo lautet: Spielen wird, wer gut ist. Amsterdam, 24. September: Das Urteil naht.",
+  "uploadCaption": "Leroy Sané, 75 Länderspiele, 16 Tore – und trotzdem zittert er um seinen Platz unter Klopp. Das Urteil fällt am 24. September in Amsterdam. 🔥 #DFB #Sané #Klopp #WM2026 #Nationalmannschaft",
+  "uploadHashtags": "#DFB #Sané #Klopp #WM2026 #Nationalmannschaft #Galatasaray #NationsLeague",
+  "images": [
+    { "file": "sane_aktion.jpg",     "search": "Leroy Sané" },
+    { "file": "sane_avatar.jpg",     "search": "Leroy Sané DFB Trikot" },
+    { "file": "sane_dfb.jpg",        "search": "Leroy Sané DFB" },
+    { "file": "sane_spielszene.jpg", "search": "Leroy Sané Spielszene" },
+    { "file": "sane_training.jpg",   "search": "Leroy Sané Training" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "hamann.jpg",          "search": "Didi Hamann" },
+    { "file": "sane_kimmich.jpg",    "search": "Leroy Sané Joshua Kimmich DFB" },
+    { "file": "nagelsmann_sane.jpg", "search": "Julian Nagelsmann Leroy Sané" },
+    { "file": "sane_galatasaray.jpg","search": "Leroy Sané Galatasaray" },
+    { "file": "teamfoto.jpg",        "search": "DFB Nationalmannschaft Teamfoto 2026" },
+    { "file": "fans.jpg",            "search": "DFB Fans Deutschland" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER ZITTERT.",
+      "image": "sane_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB 2026",
+      "title": "Sanés Schicksal",
+      "image": "sane_dfb.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "sane_avatar.jpg",
+      "name": "Leroy Sané",
+      "role": "Flügelstürmer · 30",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Sanés DFB-Bilanz",
+      "stats": [
+        { "label": "Länderspiele", "value": "75" },
+        { "label": "DFB-Tore",     "value": "16" },
+        { "label": "WM-Tor nach",  "value": "1:49 Min" }
+      ],
+      "image": "sane_spielszene.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "sane_kimmich.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "sane_training.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "hamann.jpg",
+      "name": "Didi Hamann",
+      "role": "Ex-DFB · Kritiker",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps Kriterium",
+      "stats": [
+        { "label": "Sichtungsliste", "value": "57 Spieler" },
+        { "label": "Debüt",         "value": "24.09.26" },
+        { "label": "Gegner",        "value": "Niederlande" }
+      ],
+      "image": "nagelsmann_sane.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "sane_galatasaray.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "teamfoto.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Verdient Sané noch einen Platz im DFB-Kader?",
+      "subtitle": "Kommentiert ↓",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}

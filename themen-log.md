@@ -281,3 +281,4 @@
 2026-07-25 | klopp-57-spieler-schock | Klopp enthüllt 57 Spieler Sichtungsliste DFB-Rekord, "Die rechnen damit noch gar nicht", Überraschungskandidaten Eichhorn/Treu, Wirtz/Sané/Musiala/Havertz auf Liste, 61 Tage bis Debüt vs. Niederlande (NEWS-DRAMA)
 2026-07-25 | wirtz-woltemade-anfield-revanche | Wirtz Liverpool vs Woltemade Newcastle Premier League Saisonauftakt 23.8., 0 WM-Tore vs Elfmeter-Aus, Klopp 32 Tage bis Debüt schaut zu (GEHEIMNIS)
 2026-07-26 | mertesacker-klopp-dfb-triumvirat | Mertesacker offiziell DFB-GF Sport ab 1.1.2027 bestätigt Vertrag bis 2030, WM-Sieger 2014 + 7 Jahre Arsenal Academy, Klopp+Mertesacker+Völler mächtigstes Führungstrio DFB-Geschichte (TOP-3-LISTE)
+2026-07-26 | sane-galatasaray-klopp-schicksal | Sané (30, Galatasaray) unter Klopp: 75 LS 16 Tore aber Hamann fordert DFB-Abgang, 57er-Liste, 24.09. Amsterdam Urteil (NEWS-DRAMA)
