@@ -1,0 +1,101 @@
+{
+  "slug": "klopp-elfmeter-plan-3-schritte",
+  "createdAt": "2026-07-26T19:34:26Z",
+  "title": "Klopps 3-Schritt-Plan gegen den Elfmeter-Albtraum",
+  "script": "3 Fehlschüsse. Paraguay. Deutschlands ERSTE WM-Elfmeterniederlage nach 44 Jahren! Havertz, Woltemade, Tah – alle drei gescheitert, 3:4 verloren. Das Trauma sitzt tief. Jetzt kommt Klopp – und der Neue hat einen klaren 3-Punkte-Plan: Erstens, Pflicht-Elfmetertraining unter maximalem Druck ab sofort. Zweitens, neue Schützen-Hierarchie – Wirtz und Kimmich sollen ran. Drittens, ab 24. September 4 Spiele in nur 11 Tagen gegen Niederlande, Griechenland und Serbien – der erste Test. Glaubst du wirklich, dass Klopp diesen Fluch brechen kann?",
+  "uploadCaption": "3 Fehlschüsse gegen Paraguay haben Deutschland zerrissen 💔 Klopps 3-Schritt-Plan gegen den Elfmeter-Albtraum: Drucktraining, neue Schützen, Sofort-Test ab 24. September. Glaubst du, er schafft es?",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #Elfmeter #WM2026 #NationsLeague #Wirtz #Kimmich #Fussball #Deutschland",
+  "images": [
+    { "file": "fans_schock.jpg",        "search": "DFB Fans Schock" },
+    { "file": "teamfoto.jpg",           "search": "DFB Team 2026" },
+    { "file": "havertz.jpg",            "search": "Kai Havertz" },
+    { "file": "woltemade.jpg",          "search": "Nick Woltemade" },
+    { "file": "tah.jpg",                "search": "Jonathan Tah" },
+    { "file": "paraguay_elfmeter.jpg",  "search": "Elfmeterschießen Deutschland Paraguay Foxborough WM 2026" },
+    { "file": "klopp.jpg",              "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "wirtz.jpg",              "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg",            "search": "Joshua Kimmich" },
+    { "file": "elfmeter_training.jpg",  "search": "Elfmeter Training Druck Fokus", "thematic": true },
+    { "file": "fans_hoffnung.jpg",      "search": "DFB Fans WM" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 FEHLSCHÜSSE – DEUTSCHLANDS ERSTE WM-ELFMETERNIEDERLAGE ÜBERHAUPT.",
+      "image": "fans_schock.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · Nachwirkung",
+      "title": "Klopps 3-Schritt-Plan gegen den Elfmeter-Albtraum",
+      "image": "teamfoto.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Elfmeter-Fehlschuss #1",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "Elfmeter-Fehlschuss #2",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "Elfmeter-Fehlschuss #3",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Elfmeter-Trauma",
+      "stats": [
+        { "label": "Fehlschüsse vs Paraguay", "value": "3" },
+        { "label": "WM-Elfmeter ungeschlagen (1982–2022)", "value": "44 Jahre" },
+        { "label": "Nations-League-Spiele in 11 Tagen", "value": "4" }
+      ],
+      "image": "paraguay_elfmeter.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer ab 15. Aug. 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Neue Elfmeter-Nr. 1?",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · Neue Elfmeter-Nr. 2?",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "elfmeter_training.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Kann Klopp Deutschlands Elfmeter-Fluch brechen?",
+      "subtitle": "Kommentiert eure Meinung 👇",
+      "image": "fans_hoffnung.jpg",
+      "weight": 1.0
+    }
+  ]
+}
