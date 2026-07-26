@@ -1,0 +1,46 @@
+{
+  "slug": "havertz-undav-klopp-sturm-entscheidung",
+  "createdAt": "2026-07-26T12:33:51Z",
+  "title": "Havertz oder Undav – Klopps erste Sturm-Entscheidung",
+  "script": "NUR EINER KANN STARTEN! Klopp hat die Qual der Wahl: Kai Havertz – Premier-League-Meister mit Arsenal, 2 Tore beim 7:1-Auftakt, aber DAS Elfmeter-Versagen im WM-Aus gegen Paraguay. Oder Deniz Undav – 3 Tore in nur 56 Minuten als Joker, kein einziger Elfmeter versagt, 9 Tore in 11 Länderspielen von der Bank. Havertz kehrt für 60 Millionen nach Leverkusen zurück. Undav brennt für Stuttgart. Klopp debütiert am 24. September in Amsterdam. Wer kriegt das Vertrauen?",
+  "uploadCaption": "Klopp muss wählen! Havertz (2 WM-Tore + Elfmeter-Drama) oder Undav (3 Tore in 56 Joker-Minuten)? Wer startet am 24. September in Amsterdam? Eure Stimme zählt 👇",
+  "uploadHashtags": "#DFB #Klopp #Havertz #Undav #NationsLeague #WM2026 #Fussball",
+  "images": [
+    { "file": "havertz_jubel.jpg",        "search": "Kai Havertz" },
+    { "file": "havertz_torjubel.jpg",     "search": "Kai Havertz DFB Torjubel" },
+    { "file": "havertz_training.jpg",     "search": "Kai Havertz Training DFB" },
+    { "file": "undav.jpg",                "search": "Deniz Undav" },
+    { "file": "undav_training.jpg",       "search": "Deniz Undav Training DFB" },
+    { "file": "klopp.jpg",                "search": "Jürgen Klopp" },
+    { "file": "klopp_bundestrainer.jpg",  "search": "Jürgen Klopp DFB Bundestrainer 2026" },
+    { "file": "dfb_team.jpg",             "search": "DFB Nationalmannschaft 2026" },
+    { "file": "amsterdam.jpg",            "search": "Johan Cruyff Arena Amsterdam Nations League 2026" },
+    { "file": "fans.jpg",                 "search": "DFB Fans Deutschland" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "NUR EINER KANN STARTEN!",                              "image": "havertz_jubel.jpg",       "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPPS ERSTE WAHL", "title": "Havertz vs. Undav",  "image": "klopp.jpg",               "weight": 0.7 },
+    { "type": "image", "image": "havertz_jubel.jpg",   "name": "Kai Havertz",          "role": "Stürmer · Leverkusen · 25", "weight": 0.8 },
+    { "type": "stats", "title": "Havertz WM 2026",
+      "stats": [
+        { "label": "Tore",             "value": "2" },
+        { "label": "Elfmeter versagt", "value": "1" },
+        { "label": "Leverkusen",       "value": "60 Mio. €" }
+      ],
+      "image": "havertz_training.jpg", "weight": 0.9 },
+    { "type": "image", "image": "havertz_torjubel.jpg",                                                                     "weight": 0.8 },
+    { "type": "image", "image": "undav.jpg",           "name": "Deniz Undav",          "role": "Stürmer · Stuttgart · 29", "weight": 0.8 },
+    { "type": "stats", "title": "Undav WM 2026",
+      "stats": [
+        { "label": "Tore",               "value": "3" },
+        { "label": "Minuten als Joker",  "value": "56" },
+        { "label": "Joker-Tore LS",      "value": "9/11" }
+      ],
+      "image": "undav_training.jpg", "weight": 0.9 },
+    { "type": "image", "image": "dfb_team.jpg",                                                                              "weight": 0.8 },
+    { "type": "image", "image": "amsterdam.jpg",                                                                             "weight": 0.8 },
+    { "type": "image", "image": "klopp_bundestrainer.jpg",                                                                   "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",                                                                                  "weight": 0.8 },
+    { "type": "outro", "title": "Havertz oder Undav?",  "subtitle": "Wer startet in Amsterdam am 24.9.?", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
