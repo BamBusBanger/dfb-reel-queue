@@ -1,0 +1,35 @@
+{
+  "slug": "klopp-442-wusiala-loesung",
+  "createdAt": "2026-07-26T15:36:00Z",
+  "title": "Klopps 4-4-2: Das Ende des Wusiala-Rätsels?",
+  "script": "Klopp verrät das DFB-Geheimnis – und kaum jemand hat's gemerkt. 24. Juli, Pressekonferenz Frankfurt: 4-4-2 mit klassischen Flügelspielern. Wirtz: 0 Tore in 360 WM-Minuten. Musiala: 1 Tor in 239 Minuten. Beide wollen zentral spielen. Das ist seit 4 Jahren das größte Rätsel dieser Nationalmannschaft. Und Klopps System hat nur EINE Zehner-Position. Einer muss auf den Flügel – und genau das könnte beide endlich entfesseln. Debüt 24. September, Amsterdam. Die Antwort kommt dann.",
+  "uploadCaption": "Klopp sagt 4-4-2 – und löst damit das WUSIALA-Rätsel, das die DFB-Elf seit 4 Jahren lähmt. Wirtz: 0 Tore in 360 WM-Minuten. Musiala: 1 Tor in 239 Minuten. In Klopps System gibt es nur EINE Zehnerposition. Einer muss auf den Flügel. Wer?",
+  "uploadHashtags": "#DFB #Klopp #Wirtz #Musiala #Wusiala #WM2026 #NationsLeague #Bundestrainer #Fussball",
+  "images": [
+    { "file": "wirtz_training.jpg", "search": "Florian Wirtz" },
+    { "file": "musiala_torjubel.jpg", "search": "Jamal Musiala" },
+    { "file": "klopp_portrait.jpg", "search": "Jürgen Klopp" },
+    { "file": "havertz_jubel.jpg", "search": "Kai Havertz" },
+    { "file": "kimmich_binde.jpg", "search": "Joshua Kimmich" },
+    { "file": "wirtz_jubel.jpg", "search": "Florian Wirtz" },
+    { "file": "musiala_aktion.jpg", "search": "Jamal Musiala" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" },
+    { "file": "wirtz_presse.jpg", "search": "Florian Wirtz" },
+    { "file": "klopp_dfb_pk.jpg", "search": "Jürgen Klopp DFB Bundestrainer Pressekonferenz 2026" },
+    { "file": "taktik_442.jpg", "search": "Fußball Taktik 4-4-2 Formation Tafel", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "KLOPP VERRÄT DAS GEHEIMNIS – UND KEINER HAT'S GEMERKT.", "image": "klopp_portrait.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB 2026", "title": "Das 4-4-2 löst das Wusiala-Rätsel", "image": "wirtz_training.jpg", "weight": 0.7 },
+    { "type": "image", "image": "wirtz_jubel.jpg", "name": "Florian Wirtz", "role": "Offensiv · 22 · Liverpool", "weight": 0.8 },
+    { "type": "image", "image": "musiala_aktion.jpg", "name": "Jamal Musiala", "role": "Offensiv · 22 · Bayern", "weight": 0.8 },
+    { "type": "stats", "title": "WM 2026 – Wusiala-Bilanz", "stats": [{ "label": "Wirtz Tore (360 Min.)", "value": "0" }, { "label": "Musiala Tore (239 Min.)", "value": "1" }, { "label": "Jahre Wusiala-Problem", "value": "4" }], "image": "wirtz_training.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp_dfb_pk.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · Debüt 24.9.", "weight": 0.8 },
+    { "type": "image", "image": "taktik_442.jpg", "weight": 0.8 },
+    { "type": "image", "image": "musiala_torjubel.jpg", "name": "Jamal Musiala", "role": "Linker Flügel?", "weight": 0.8 },
+    { "type": "image", "image": "havertz_jubel.jpg", "name": "Kai Havertz", "role": "Sturm · 9er-Position", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz_presse.jpg", "name": "Florian Wirtz", "role": "Zehner oder Flügel?", "weight": 0.8 },
+    { "type": "outro", "title": "Musiala oder Wirtz – wer zieht auf den Flügel?", "subtitle": "Deine Antwort in die Kommentare!", "image": "kimmich_binde.jpg", "weight": 1.0 }
+  ]
+}
