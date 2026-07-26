@@ -1,0 +1,105 @@
+{
+  "slug": "mertesacker-klopp-dfb-triumvirat",
+  "createdAt": "2026-07-26T05:34:39Z",
+  "title": "Mertesacker + Klopp = DFB-Triumvirat",
+  "script": "ER BRENNT DARAUF! Per Mertesacker ist offiziell: Ab 1. Januar 2027 wird der WM-Sieger von 2014 neuer DFB-Geschäftsführer Sport – Vertrag bis 2030. 3 Gründe, warum das perfekt ist. Nummer 1: Mertesacker hat den Titel 2014 gelebt – als Innenverteidiger im Finale. Nummer 2: 7 Jahre Arsenal Academy Director – er kennt Talente wie Ouédraogo, Karl und El Mala. Nummer 3: Klopp, Mertesacker, Völler – das mächtigste Führungstrio der DFB-Geschichte, alle mit Vertrag bis 2030. Reicht das für Stern Nummer 5?",
+  "uploadCaption": "Per Mertesacker ist OFFIZIELL! Ab 2027 wird der WM-Sieger von 2014 neuer DFB-Geschäftsführer Sport – Vertrag bis 2030, genau wie Klopp. Zusammen mit Sportdirektor Rudi Völler entsteht das mächtigste Führungstrio der DFB-Geschichte. 3 Gründe, warum das der Wendepunkt auf dem Weg zum 5. Stern ist.",
+  "uploadHashtags": "#DFB #Mertesacker #Klopp #Völler #WM2030 #Nationalmannschaft #Fussball #5Stern #Bundestrainer",
+  "images": [
+    { "file": "mertesacker_pk.jpg",      "search": "Per Mertesacker DFB 2026" },
+    { "file": "klopp_bundestrainer.jpg", "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "voeller_dfb.jpg",         "search": "Rudi Völler DFB Sportdirektor" },
+    { "file": "mertesacker_arsenal.jpg", "search": "Per Mertesacker Arsenal Academy" },
+    { "file": "wmpokal.jpg",             "search": "WM Pokal" },
+    { "file": "wm2014finale.jpg",        "search": "WM 2014 Finale Deutschland Argentinien" },
+    { "file": "ouedraogo.jpg",           "search": "Assan Ouédraogo" },
+    { "file": "wirtz.jpg",               "search": "Florian Wirtz" },
+    { "file": "dfbteam.jpg",             "search": "DFB Team" },
+    { "file": "fans_jubel.jpg",          "search": "DFB Fans" },
+    { "file": "kimmich.jpg",             "search": "Joshua Kimmich" },
+    { "file": "dfb_campus.jpg",          "search": "DFB Campus Frankfurt" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER BRENNT DARAUF!",
+      "image": "mertesacker_pk.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB 2027–2030",
+      "title": "3 Gründe: Mertesacker ist perfekt",
+      "image": "klopp_bundestrainer.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "voeller_dfb.jpg",
+      "name": "Rudi Völler",
+      "role": "DFB-Sportdirektor · WM-Sieger 1990",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "mertesacker_arsenal.jpg",
+      "name": "Per Mertesacker",
+      "role": "DFB-GF Sport ab 2027 · WM-Sieger 2014",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm2014finale.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Mertesacker-Zahlen",
+      "stats": [
+        { "label": "WM-Titel als Spieler", "value": "2014" },
+        { "label": "Jahre Arsenal Academy", "value": "7" },
+        { "label": "DFB-Vertrag bis", "value": "2030" }
+      ],
+      "image": "wmpokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Klopps Goldgeneration · RB Leipzig · 20 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 125 Mio. £ · Klopps Mission",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfbteam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Holt das Triumvirat den 5. Stern 2030?",
+      "subtitle": "Kommentiert eure Meinung!",
+      "image": "dfb_campus.jpg",
+      "weight": 1.0
+    }
+  ]
+}
