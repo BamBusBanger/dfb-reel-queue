@@ -1,0 +1,105 @@
+{
+  "slug": "schlotterbeck-exit-klausel-bvb",
+  "createdAt": "2026-07-26T17:41:27Z",
+  "title": "Schlotterbeck bleibt beim BVB – Exit-Klausel abgelaufen",
+  "script": "Heute - genau 7 Tage nach dem WM-Finale - ist Nico Schlotterbecks Exit-Klausel beim BVB still abgelaufen. Er bleibt in Dortmund! In der 13. Minute gegen die Elfenbeinküste zerstörte ein Innenbandriss seinen WM-Traum. 3 Monate Pause - so die Prognose. Doch jetzt die überraschende Wendung: Der 26-Jährige liegt DEUTLICH vor dem Zeitplan. Statt Mitte September könnte Schlotterbeck bereits bei Klopps Nations-League-Debüt am 24. September gegen die Niederlande zurück sein. Soll Klopp ihn direkt nominieren?",
+  "uploadCaption": "Exit-Klausel abgelaufen – Schlotterbeck bleibt beim BVB. In Minute 13 gegen die Elfenbeinküste war der WM-Traum vorbei: Innenbandriss. Jetzt liegt er DEUTLICH vor dem Zeitplan. Schafft er es noch zu Klopps Nations-League-Debüt am 24. September gegen die Niederlande? 👇 Sofort nominieren oder noch Zeit lassen?",
+  "uploadHashtags": "#Schlotterbeck #BVB #DFB #Klopp #WM2026 #NationsLeague #Comeback #Fussball",
+  "images": [
+    { "file": "exit_klausel.jpg",       "search": "Exit-Klausel Vertragsablauf Fußball Countdown", "thematic": true },
+    { "file": "schlotterbeck_schock.jpg","search": "Nico Schlotterbeck" },
+    { "file": "schlotterbeck_aktion.jpg","search": "Nico Schlotterbeck" },
+    { "file": "signal_iduna.jpg",        "search": "Signal Iduna Park Dortmund" },
+    { "file": "tah.jpg",                 "search": "Jonathan Tah" },
+    { "file": "schlotterbeck_klatschen.jpg","search": "Nico Schlotterbeck" },
+    { "file": "schlotterbeck_dfb.jpg",   "search": "Nico Schlotterbeck" },
+    { "file": "klopp.jpg",               "search": "Jürgen Klopp" },
+    { "file": "fans_hoffen.jpg",         "search": "DFB Fans Hoffnung Public Viewing" },
+    { "file": "schlotterbeck_jubel.jpg", "search": "Nico Schlotterbeck" },
+    { "file": "dfb_fans.jpg",            "search": "DFB Fans Deutschland" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "SIE LÄUFT HEUTE AB.",
+      "image": "exit_klausel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "7 TAGE NACH DEM WM-FINALE",
+      "title": "Schlotterbeck bleibt beim BVB",
+      "image": "schlotterbeck_schock.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "schlotterbeck_aktion.jpg",
+      "name": "Nico Schlotterbeck",
+      "role": "Innenverteidiger · BVB · 26",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "signal_iduna.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "DFB-Abwehrchef · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM-Schock Minute 13",
+      "stats": [
+        { "label": "Innenbandriss", "value": "Min. 13" },
+        { "label": "Ausfallzeit Prognose", "value": "3 Monate" },
+        { "label": "Exit-Klausel", "value": "HEUTE ABGELAUFEN" }
+      ],
+      "image": "schlotterbeck_klatschen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "schlotterbeck_dfb.jpg",
+      "name": "Nico Schlotterbeck",
+      "role": "BVB Innenverteidiger",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Vor dem Zeitplan!",
+      "stats": [
+        { "label": "Geplante Rückkehr", "value": "Mitte Sept." },
+        { "label": "Klopp-Debüt", "value": "24. Sept." },
+        { "label": "Nominierung", "value": "MÖGLICH" }
+      ],
+      "image": "fans_hoffen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "schlotterbeck_jubel.jpg",
+      "name": "Nico Schlotterbeck",
+      "role": "Comeback · BVB 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Comeback?",
+      "subtitle": "Soll Klopp ihn direkt für September nominieren?",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}

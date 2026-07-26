@@ -284,3 +284,4 @@
 2026-07-26 | sane-galatasaray-klopp-schicksal | Sané (30, Galatasaray) unter Klopp: 75 LS 16 Tore aber Hamann fordert DFB-Abgang, 57er-Liste, 24.09. Amsterdam Urteil (NEWS-DRAMA)
 2026-07-26 | havertz-undav-klopp-sturm-entscheidung | Klopps Sturm-Duell: Havertz (PL-Meister Arsenal, 2 WM-Tore, Elfmeter-Aus, Leverkusen 60 Mio) vs Undav (3 Tore in 56 Joker-Min, 9 Joker-Tore/11 LS), Debüt 24.9. Amsterdam Nations League (DUELL/VERGLEICH)
 2026-07-26 | klopp-442-wusiala-loesung | Klopps 4-4-2 mit klassischen Flügelspielern (PK 24.7.) löst das Wusiala-Problem: Wirtz 0 Tore/360 WM-Min vs. Musiala 1 Tor/239 WM-Min, beide zentral, nur EINE Zehnerposition im System, einer muss auf den Flügel (GEHEIMNIS)
+2026-07-26 | schlotterbeck-exit-klausel-bvb | Schlotterbeck Exit-Klausel läuft heute ab BVB-Verbleib fix, Innenbandriss Minute 13 WM vs Elfenbeinküste, deutlich vor Zeitplan Comeback, Klopp-Debüt 24.9. Niederlande (NEWS-DRAMA)
