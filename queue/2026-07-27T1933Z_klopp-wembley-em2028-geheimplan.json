@@ -1,0 +1,103 @@
+{
+  "slug": "klopp-wembley-em2028-geheimplan",
+  "createdAt": "2026-07-27T19:33:00Z",
+  "title": "Klopps Wembley-Geheimplan: EM 2028 in England",
+  "script": "WEMBLEY 2028. In 713 Tagen entscheidet sich Klopps größtes DFB-Abenteuer. Kein Bundestrainer kennt England besser: 9 Jahre Liverpool, 2 Wembley-Titel in einem einzigen Jahr. Wirtz spielt seit 2025 wöchentlich auf der Insel. Das EM-Finale steigt am 9. Juli 2028 – im legendären Wembley. Zuletzt holte Deutschland dort einen EM-Titel: 1996, Oliver Bierhoffs Golden Goal. 32 Jahre ist das her. Jetzt kommt Klopp mit Wirtz, Musiala und Ouédraogo. Wird Wembley 2028 Klopps Heimkehr-Triumph?",
+  "uploadCaption": "Klopp hat einen geheimen Vorteil für die EM 2028 in England – und er heißt Wembley. 9 Jahre Liverpool. 2 Wembley-Titel. Wirtz kennt die Insel. Wird das Deutschlands EM-Jahr?",
+  "uploadHashtags": "#DFB #EM2028 #Klopp #Wembley #Wirtz #Musiala #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "wembley.jpg",   "search": "Wembley Stadium London" },
+    { "file": "klopp.jpg",     "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",     "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",   "search": "Jamal Musiala" },
+    { "file": "ouedraogo.jpg", "search": "Assan Ouédraogo" },
+    { "file": "kimmich.jpg",   "search": "Joshua Kimmich" },
+    { "file": "dfb-team.jpg",  "search": "DFB Nationalmannschaft 2026" },
+    { "file": "em2028.jpg",    "search": "UEFA Euro 2028 England Wembley Finale Konzept", "thematic": true },
+    { "file": "flagge.jpg",    "search": "Deutschland Flagge" },
+    { "file": "fans.jpg",      "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "WEMBLEY 2028.\nKlopps geheimer Heimvorteil.",
+      "image": "wembley.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "EM 2028 in England",
+      "title": "Klopps Wembley-Geheimplan",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · 9 Jahre Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 24 Jahre alt bei EM 2028",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Zahlen",
+      "stats": [
+        { "label": "Tage bis EM-Finale Wembley", "value": "713" },
+        { "label": "Jahre Klopp in England", "value": "9" },
+        { "label": "Jahre seit DFB-EM-Titel in England", "value": "32" }
+      ],
+      "image": "flagge.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern · 26 Jahre alt bei EM 2028",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "RB Leipzig · 24 Jahre alt bei EM 2028",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 35 Jahre alt bei EM 2028",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "em2028.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopps Heimkehr-Triumph?",
+      "subtitle": "Deutschland EM-Sieger 2028 – glaubst du daran?",
+      "image": "wembley.jpg",
+      "weight": 1.0
+    }
+  ]
+}
