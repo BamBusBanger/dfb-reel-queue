@@ -1,0 +1,51 @@
+{
+  "slug": "klopp-september-feuerprobe",
+  "createdAt": "2026-07-27T15:45:00Z",
+  "title": "Klopps härtester Start: 3 Zahlen die es auf den Punkt bringen",
+  "script": "28 Monate ohne Pflichtspiel — und jetzt muss Jürgen Klopp in nur 11 Tagen VIER Länderspiele gewinnen. Seine Sichtungsliste umfasst 57 Spieler. Anrufe bei Wirtz und Musiala bisher: null. Am 24. September startet er in Amsterdam gegen die Niederlande. Dann Augsburg, München, und Griechenland auswärts. 4 Spiele, 11 Tage — der härteste Bundestrainer-Debüt in der Geschichte des DFB. Pavlović trifft am 1. Oktober auf die Heimat seiner Eltern. Klopp hat noch keinen einzigen Spieler trainiert. Aber seinen Plan hat er längst.",
+  "uploadCaption": "28 Monate Pause ➡️ 4 Spiele in 11 Tagen. Ist das der verrückteste Bundestrainer-Start aller Zeiten? Kommentar! ⬇️",
+  "uploadHashtags": "#DFB #JürgenKlopp #NationsLeague #Bundestrainer #WM2030 #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "klopp_dfb.jpg",    "search": "Jürgen Klopp DFB Bundestrainer 2026" },
+    { "file": "klopp_pk.jpg",     "search": "Jürgen Klopp DFB Pressekonferenz Frankfurt 2026" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",      "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "team.jpg",         "search": "DFB Team 2026" },
+    { "file": "amsterdam.jpg",    "search": "Johan Cruyff Arena Amsterdam Nations League" },
+    { "file": "fans.jpg",         "search": "DFB Fans" },
+    { "file": "kalender.jpg",     "search": "Vier Länderspiele elf Tage enger Spielplan September Oktober", "thematic": true },
+    { "file": "dfb_flagge.jpg",   "search": "Deutschland Flagge" },
+    { "file": "pavlovic.jpg",     "search": "Aleksandar Pavlović" },
+    { "file": "jubel.jpg",        "search": "DFB Jubel Fans" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "28 MONATE PAUSE. 4 SPIELE. 11 TAGE.",                   "image": "klopp_dfb.jpg",  "weight": 0.5 },
+    { "type": "title", "eyebrow": "NATIONS LEAGUE 2026", "title": "Klopps September-Feuerprobe", "image": "team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp_pk.jpg",  "name": "Jürgen Klopp",          "role": "Bundestrainer · Amtsantritt 15.8.2026", "weight": 0.8 },
+    { "type": "stats", "title": "Fakt 1",
+      "stats": [
+        { "label": "Monate ohne Pflichtspiel", "value": "28" },
+        { "label": "Letztes Spiel: Liverpool, Mai", "value": "2024" }
+      ],
+      "image": "wirtz.jpg", "weight": 0.9 },
+    { "type": "image", "image": "musiala.jpg",   "name": "Jamal Musiala",         "role": "Bayern · 22 Jahre · noch kein Klopp-Anruf", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",   "name": "Joshua Kimmich",        "role": "Kapitän · 109 Länderspiele",               "weight": 0.8 },
+    { "type": "stats", "title": "Fakt 2",
+      "stats": [
+        { "label": "Spieler auf Klopps Sichtungsliste", "value": "57" },
+        { "label": "Anrufe bei Wirtz / Musiala / Kimmich", "value": "0" }
+      ],
+      "image": "amsterdam.jpg", "weight": 0.9 },
+    { "type": "image", "image": "fans.jpg",                                                                                              "weight": 0.8 },
+    { "type": "image", "image": "kalender.jpg",                                                                                          "weight": 0.8 },
+    { "type": "image", "image": "pavlovic.jpg",  "name": "Aleksandar Pavlović",   "role": "Bayern · Serbien-Herzensduell · 1.10. München", "weight": 0.8 },
+    { "type": "stats", "title": "Fakt 3: Der Marathon",
+      "stats": [
+        { "label": "Länderspiele in 11 Tagen", "value": "4" },
+        { "label": "Klopp-Debüt: Amsterdam", "value": "24.9." }
+      ],
+      "image": "dfb_flagge.jpg", "weight": 0.9 },
+    { "type": "outro", "title": "Macht Klopp es 4/4?",  "subtitle": "Oder Fehlstart im September?", "image": "jubel.jpg", "weight": 1.0 }
+  ]
+}
