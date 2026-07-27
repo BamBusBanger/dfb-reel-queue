@@ -1,0 +1,109 @@
+{
+  "slug": "kimmich-tah-kapitaen-klopp",
+  "createdAt": "2026-07-27T05:34:00Z",
+  "title": "Klopps erste Kapitänsfrage: Kimmich oder Tah?",
+  "script": "KIMMICH ODER TAH? Jürgen Klopp steht vor der ersten Entscheidung seiner DFB-Ära. Joshua Kimmich: 109 Länderspiele, seit 2020 Kapitän, führte Deutschland erstmals als Anführer in eine WM – doch Klopp spielt ihn als Sechser, nicht als Rechtsverteidiger. Jonathan Tah: Rüdigers Kronprinz, Bayerns Abwehrchef, sein Phantom-Tor in Minute 102 gegen Paraguay bleibt unvergessen. Klopp versprach: 'Spielen wird, wer Riesenbock hat.' Auch die Kapitänsbinde ist offen. 24. September, Amsterdam. Wer trägt das C?",
+  "uploadCaption": "Kimmich oder Tah – wer führt die DFB-Elf unter Klopp ins neue Zeitalter? Schreib deine Meinung in die Kommentare!",
+  "uploadHashtags": "#DFB #Klopp #Kimmich #Tah #Nationalmannschaft #NationsLeague #WM2030 #Fussball",
+  "images": [
+    { "file": "kimmich_kapitaensbinde_01.webp", "search": "Joshua Kimmich" },
+    { "file": "deutschland-teamfoto-2026-hochkant.jpg", "search": "DFB Nationalmannschaft" },
+    { "file": "kimmich_dfb_kapitaen_01.jpg", "search": "Joshua Kimmich" },
+    { "file": "tah_aktion_02.jpg", "search": "Jonathan Tah" },
+    { "file": "kimmich_training_dfb_01.jpg", "search": "Joshua Kimmich" },
+    { "file": "juergen_klopp_01.jpg", "search": "Jürgen Klopp" },
+    { "file": "ruediger_aufgeregt_01.jpg", "search": "Antonio Rüdiger" },
+    { "file": "amsterdam_arena.jpg", "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "jonathan_tah_germany_2024_auto_01.jpg", "search": "Jonathan Tah" },
+    { "file": "deutschland_fans_01.jpg", "search": "DFB Fans" },
+    { "file": "deutschland_flagge_bodensee_01.jpg", "search": "Deutschland Flagge" },
+    { "file": "fanzone_brandenburger_tor_01.jpg", "search": "DFB Fanzone Berlin" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KIMMICH ODER TAH?",
+      "image": "kimmich_kapitaensbinde_01.webp",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB · 24. SEPTEMBER 2026",
+      "title": "Klopps neue Kapitänsfrage",
+      "image": "deutschland-teamfoto-2026-hochkant.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "kimmich_dfb_kapitaen_01.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 109 Länderspiele · 31 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tah_aktion_02.jpg",
+      "name": "Jonathan Tah",
+      "role": "Abwehrchef · FC Bayern · 30 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Kimmichs WM-Bilanz 2026",
+      "stats": [
+        { "label": "Länderspiele gesamt", "value": "109" },
+        { "label": "WM-Spiele 2026", "value": "4" },
+        { "label": "Vorlagen", "value": "2" }
+      ],
+      "image": "kimmich_training_dfb_01.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "juergen_klopp_01.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Debüt 24.9.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ruediger_aufgeregt_01.jpg",
+      "name": "Antonio Rüdiger",
+      "role": "Zitat: 'Tah ist der neue Chef'",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam_arena.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Tahs WM-Bilanz 2026",
+      "stats": [
+        { "label": "WM-Spiele", "value": "3" },
+        { "label": "Phantom-Tor", "value": "102. Min." },
+        { "label": "Zweikampfquote", "value": "65 %" }
+      ],
+      "image": "jonathan_tah_germany_2024_auto_01.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "deutschland_fans_01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland_flagge_bodensee_01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Kimmich oder Tah?",
+      "subtitle": "Wer soll die Binde tragen?",
+      "image": "fanzone_brandenburger_tor_01.jpg",
+      "weight": 1.0
+    }
+  ]
+}
