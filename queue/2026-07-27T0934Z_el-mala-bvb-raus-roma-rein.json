@@ -1,0 +1,32 @@
+{
+  "slug": "el-mala-bvb-raus-roma-rein",
+  "createdAt": "2026-07-27T09:34:00Z",
+  "title": "El Mala Transfer-Schock: BVB raus – AS Roma rein",
+  "script": "SCHOCK für Klopp – sein WM-2030-Wunschspieler Said El Mala wechselt NICHT zum BVB! 19 Jahre alt, 13 Bundesligatore für den 1. FC Köln – und das heißeste Transfer-Drama des Sommers. Borussia Dortmund hatte 42 Millionen geboten. Köln lehnte gereizt ab und beharrt hart auf 50 Millionen. BVB ist jetzt offiziell RAUS aus dem Rennen. Neuer Überraschungs-Interessent: AS Roma. RB Leipzig wartet auf den Diomandé-Verkauf. Und Bundestrainer Klopp muss tatenlos zusehen – El Mala ist sein Wunschspieler für WM 2030.",
+  "uploadCaption": "Said El Mala (19) wollte zum BVB, der BVB wollte El Mala – doch Köln sagt NEIN zu 42 Mio. Jetzt ist Dortmund raus, AS Roma ist neu im Rennen! Und Klopp schaut zu, während sein WM-2030-Plan wackelt.",
+  "uploadHashtags": "#ElMala #BVB #TransferNews #DFBTeam #Klopp #WM2030 #Bundesliga #FCKoeln",
+  "images": [
+    { "file": "el-mala.jpg", "search": "Said El Mala" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "bvb-stadion.jpg", "search": "Signal Iduna Park" },
+    { "file": "roma.jpg", "search": "AS Roma Olimpico" },
+    { "file": "diomande.jpg", "search": "Yan Diomandé Leipzig" },
+    { "file": "koeln.jpg", "search": "1. FC Köln" },
+    { "file": "fans.jpg", "search": "Deutschland Fans" },
+    { "file": "transfer-chaos.jpg", "search": "Transfer Poker Drama Fußball", "thematic": true },
+    { "file": "wm2030.jpg", "search": "WM 2030 Fußball Vision", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "SCHOCK FÜR KLOPP!", "image": "el-mala.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "TRANSFER-DRAMA", "title": "BVB raus – Roma rein!", "image": "bvb-stadion.jpg", "weight": 0.7 },
+    { "type": "image", "image": "el-mala.jpg", "name": "Said El Mala", "role": "Sturm · 19 · FC Köln", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer DFB", "weight": 0.8 },
+    { "type": "stats", "title": "Transfer-Poker", "stats": [{"label": "Köln fordert", "value": "50 Mio €"}, {"label": "BVB bot", "value": "42 Mio €"}, {"label": "BL-Tore 25/26", "value": "13"}], "image": "transfer-chaos.jpg", "weight": 0.9 },
+    { "type": "image", "image": "bvb-stadion.jpg", "weight": 0.8 },
+    { "type": "image", "image": "roma.jpg", "weight": 0.8 },
+    { "type": "image", "image": "diomande.jpg", "weight": 0.8 },
+    { "type": "image", "image": "koeln.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wohin geht El Mala?", "subtitle": "BVB, Leipzig, Roma – oder bleibt er in Köln?", "image": "wm2030.jpg", "weight": 1.0 }
+  ]
+}
