@@ -1,0 +1,33 @@
+{
+  "slug": "brown-55-mio-bayern-heimkehr",
+  "createdAt": "2026-07-27T12:37:33Z",
+  "title": "Brown lehnte Real Madrid ab – 55 Mio. zu Bayern",
+  "script": "ER LEHNTE REAL MADRID AB. Nathaniel Brown – der Bayern-Fan aus Amberg, der als geheimer DFB-Held beim WM-Auftakt 7:1 gegen Curaçao traf – wechselt für 55 Millionen Euro nach Hause. Real Madrid, Arsenal und AC Milan wollten ihn. 75 Spiele, 7 Tore, 13 Vorlagen für Frankfurt. Jetzt trägt er das Bayern-Trikot bis 2031. Klopp schwärmt von ihm: genau der offensive Linksverteidiger für sein Pressing-System. Und Nürnberg kassiert 12,5 Prozent Weiterverkauf-Prämie. War 55 Millionen ein Schnäppchen oder zu teuer?",
+  "uploadCaption": "Er lehnte Real Madrid, Arsenal UND AC Milan ab – und dann das! Nathaniel Brown wechselt für 55 Mio. € zu Bayern München. Der WM-Torschütze aus Amberg ist endlich zuhause. Klopp ist schon begeistert. War das das Transfer-Schnäppchen des Jahres?",
+  "uploadHashtags": "#NathanielBrown #FCBayern #DFB #WM2026 #Bundesliga #Transfer #Klopp #Heimkehr",
+  "images": [
+    { "file": "brown.jpg",           "search": "Nathaniel Brown" },
+    { "file": "brown_jubel.jpg",     "search": "Nathaniel Brown DFB" },
+    { "file": "allianz_arena.jpg",   "search": "Allianz Arena" },
+    { "file": "allianz_arena2.jpg",  "search": "Allianz Arena München" },
+    { "file": "frankfurt.jpg",       "search": "Eintracht Frankfurt Stadion" },
+    { "file": "real_madrid.jpg",     "search": "Real Madrid Bernabeu" },
+    { "file": "arsenal.jpg",         "search": "Arsenal Emirates Stadium London" },
+    { "file": "amberg.jpg",          "search": "Amberg Bayern Altstadt" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "fans.jpg",            "search": "DFB Fans" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER LEHNTE REAL MADRID AB.", "image": "brown.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "TRANSFER-HAMMER", "title": "Brown zu Bayern: 55 Mio. €", "image": "allianz_arena.jpg", "weight": 0.7 },
+    { "type": "image", "image": "brown.jpg",          "name": "Nathaniel Brown", "role": "Linksverteidiger · 23 · Bayern München", "weight": 0.8 },
+    { "type": "stats", "title": "Frankfurt-Bilanz", "stats": [{ "label": "Spiele", "value": "75" }, { "label": "Tore", "value": "7" }, { "label": "Vorlagen", "value": "13" }], "image": "frankfurt.jpg", "weight": 0.9 },
+    { "type": "image", "image": "real_madrid.jpg",    "weight": 0.8 },
+    { "type": "image", "image": "arsenal.jpg",        "weight": 0.8 },
+    { "type": "image", "image": "amberg.jpg",         "weight": 0.8 },
+    { "type": "image", "image": "brown_jubel.jpg",    "name": "Nathaniel Brown", "role": "WM-Torschütze · 14. Juni Houston", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",          "name": "Jürgen Klopp", "role": "DFB-Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "allianz_arena2.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "55 Mio. – Schnäppchen?", "subtitle": "Kommentier deine Meinung!", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}

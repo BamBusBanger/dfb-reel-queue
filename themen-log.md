@@ -288,3 +288,4 @@
 2026-07-26 | klopp-elfmeter-plan-3-schritte | Klopp 3-Schritt-Plan Elfmeter-Trauma, Havertz/Woltemade/Tah Paraguay 3:4, Wirtz/Kimmich neue Schützen, 4 Spiele 11 Tage Nations League (TOP-3-LISTE)
 2026-07-27 | kimmich-tah-kapitaen-klopp | Kapitänsfrage Klopp-Ära, Kimmich 109 LS seit 2020 Kapitän vs Tah Phantom-Tor 102. Min, Klopp Debüt 24.9. Amsterdam Nations League, Rüdiger nennt Tah neuer Chef (DUELL/VERGLEICH)
 2026-07-27 | el-mala-bvb-raus-roma-rein | El Mala Transfer-Crash: BVB offiziell raus nach 42-Mio-Absage, AS Roma neu dabei, Köln beharrt auf 50 Mio, RB Leipzig wartet auf Diomandé-Erlös, Klopp-WM-2030-Plan wackelt (NEWS-DRAMA)
+2026-07-27 | brown-55-mio-bayern-heimkehr | Nathaniel Brown 55 Mio Bayern München Transfer, Real Madrid Arsenal AC Milan abgelehnt, Heimkehr Amberg, Klopp-LV-Profil, 75 Spiele 7 Tore 13 Vorlagen Frankfurt, Nürnberg 12,5% Weitergabe (GEHEIMNIS)
