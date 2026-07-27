@@ -1,0 +1,111 @@
+{
+  "slug": "goretzka-arsenal-klopp-entscheidung",
+  "createdAt": "2026-07-27T17:34:20Z",
+  "title": "Goretzka geht auf Arsenal zu – und Klopp schaut zu",
+  "script": "GORETZKA IST OHNE KLUB – UND KLOPFT JETZT SELBST BEI ARSENAL AN. Juventus hat abgelehnt, AC Milan auch. Zu teuer: 10 Millionen Euro Handgeld und 7 Millionen Jahresgehalt fordert der Ex-Bayern-Star. Dabei läuft die Zeit: Jürgen Klopp debütiert am 24. September in Amsterdam und hat Goretzka auf seiner 57er-Kandidatenliste. 70 Länderspiele, Champions-League-Sieger 2020 – aber beim WM-Aus 2026 nur 27 Minuten auf der Bank. Kommt das DFB-Comeback noch?",
+  "uploadCaption": "Goretzka vereinslos – Juventus NEIN, Milan NEIN, jetzt klopft er selbst bei Arsenal an! 70 Länderspiele, aber nur 27 WM-Bankminuten. Klopp hat ihn auf der 57er-Kandidatenliste – doch seine 10-Mio.-Handgeld-Forderung macht alles kompliziert. Reicht das noch für Amsterdam am 24.9.?",
+  "uploadHashtags": "#Goretzka #DFB #Klopp #Arsenal #PremierLeague #Nationalmannschaft #WM2026 #NationsLeague",
+  "images": [
+    { "file": "goretzka01.jpg",   "search": "Leon Goretzka" },
+    { "file": "goretzka02.jpg",   "search": "Leon Goretzka" },
+    { "file": "klopp01.jpg",      "search": "Jürgen Klopp" },
+    { "file": "arsenal01.jpg",    "search": "Arsenal Emirates Stadium London" },
+    { "file": "dfb_team01.jpg",   "search": "DFB Mannschaft 2026" },
+    { "file": "kimmich01.jpg",    "search": "Joshua Kimmich" },
+    { "file": "pavlovic01.jpg",   "search": "Aleksandar Pavlović" },
+    { "file": "nmecha01.jpg",     "search": "Felix Nmecha" },
+    { "file": "wm_pokal01.jpg",   "search": "WM Pokal" },
+    { "file": "dfb_fans01.jpg",   "search": "DFB Fans" },
+    { "file": "dfb_flagge01.jpg", "search": "Deutschland Flagge" },
+    { "file": "wm2026_logo.jpg",  "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "GORETZKA OHNE KLUB – JETZT KLINGELT ER BEI ARSENAL AN.",
+      "image": "goretzka01.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "NEWS-DRAMA | 27. Juli 2026",
+      "title": "Goretzka – Das Ende einer DFB-Ära?",
+      "image": "klopp01.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "goretzka02.jpg",
+      "name": "Leon Goretzka",
+      "role": "Mittelfeld · 31 · vereinslos seit 1. Juli",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "arsenal01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "GORETZKA-KRISE",
+      "stats": [
+        { "label": "Vereinslos seit", "value": "1. Juli" },
+        { "label": "Juventus", "value": "NEIN" },
+        { "label": "AC Milan", "value": "NEIN" },
+        { "label": "Arsenal", "value": "läuft…" }
+      ],
+      "image": "dfb_team01.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich01.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pavlovic01.jpg",
+      "name": "Aleksandar Pavlović",
+      "role": "Doppel-Sechs · 22 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nmecha01.jpg",
+      "name": "Felix Nmecha",
+      "role": "Doppel-Sechs · 25 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "GORETZKA BEIM DFB",
+      "stats": [
+        { "label": "Länderspiele", "value": "70" },
+        { "label": "WM-Bankminuten 2026", "value": "27" },
+        { "label": "Klopp-Kandidatenliste", "value": "57 Spieler" },
+        { "label": "Handgeld-Forderung", "value": "10 Mio. €" }
+      ],
+      "image": "wm_pokal01.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_flagge01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Dein Urteil!",
+      "subtitle": "Gehört Goretzka noch zur Nationalmannschaft – ja oder nein?",
+      "image": "wm2026_logo.jpg",
+      "weight": 1.0
+    }
+  ]
+}
