@@ -1,0 +1,36 @@
+{
+  "slug": "ortega-klopps-neue-nummer-eins",
+  "createdAt": "2026-07-28T17:38:00Z",
+  "title": "Klopps neue Nummer 1: Ortega nach Neuer",
+  "script": "Das Tor ist leer. Nach 128 Länderspielen und WM-Gold 2014 hat Manuel Neuer das DFB-Trikot für immer ausgezogen. Jetzt steht Klopp vor seiner ersten großen Entscheidung: Wer hütet Deutschlands Tor beim Debüt am 24. September in Amsterdam? Stefan Ortega Moreno, 28, Manchester City – bislang ohne einen Länderspiel-Start, doch Klopps heißester Kandidat. Baumann mit 36 am Ende seiner Karriere, Nübel in Besiktas, Urbig mit 22 Jahren noch zu jung. Die Torwart-Frage brennt. 58 Tage.",
+  "uploadCaption": "Der Thron ist leer 🧤 – nach 128 Länderspielen tritt Neuer ab. Klopps erste große Entscheidung: Wer wird Deutschlands neue Nummer 1?",
+  "uploadHashtags": "#DFB #Klopp #Neuer #Ortega #NationsLeague #Fussball #WM2030 #Nationalmannschaft",
+  "images": [
+    { "file": "neuer_parade.jpg",  "search": "Manuel Neuer DFB Parade" },
+    { "file": "neuer_presse.jpg",  "search": "Manuel Neuer Pressekonferenz DFB" },
+    { "file": "ortega.jpg",        "search": "Stefan Ortega Moreno Manchester City" },
+    { "file": "ortega_aktion.jpg", "search": "Stefan Ortega Moreno goalkeeper" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp DFB Bundestrainer" },
+    { "file": "baumann.jpg",       "search": "Oliver Baumann DFB" },
+    { "file": "nuebel.jpg",        "search": "Alexander Nübel DFB" },
+    { "file": "urbig.jpg",         "search": "Jonas Urbig Bayern München" },
+    { "file": "amsterdam.jpg",     "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "tor.jpg",           "search": "leeres Fußballtor Rasen", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "DER THRON IST LEER.", "image": "neuer_parade.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB 2026", "title": "Klopps neue Nummer 1", "image": "ortega.jpg", "weight": 0.7 },
+    { "type": "image", "image": "neuer_presse.jpg",  "name": "Manuel Neuer",          "role": "Torwart · 128 LS · WM-Sieger 2014 · Karriereende", "weight": 0.8 },
+    { "type": "stats", "title": "Das Torwart-Erbe", "stats": [
+      { "label": "Neuer Länderspiele",   "value": "128" },
+      { "label": "WM-Titel",             "value": "1"   },
+      { "label": "Tage bis Amsterdam",   "value": "58"  }
+    ], "image": "klopp.jpg", "weight": 0.9 },
+    { "type": "image", "image": "ortega_aktion.jpg", "name": "Stefan Ortega Moreno",  "role": "Torwart · 28 · Manchester City",   "weight": 0.8 },
+    { "type": "image", "image": "baumann.jpg",       "name": "Oliver Baumann",         "role": "Torwart · 36 · Hoffenheim",         "weight": 0.8 },
+    { "type": "image", "image": "nuebel.jpg",        "name": "Alexander Nübel",        "role": "Torwart · 29 · Besiktas",           "weight": 0.8 },
+    { "type": "image", "image": "urbig.jpg",         "name": "Jonas Urbig",            "role": "Torwart · 22 · Bayern München",     "weight": 0.8 },
+    { "type": "image", "image": "amsterdam.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Klopps Torwart-Frage", "subtitle": "Wer soll Deutschlands neue Nummer 1 sein?", "image": "tor.jpg", "weight": 1.0 }
+  ]
+}

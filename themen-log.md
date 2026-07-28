@@ -296,3 +296,4 @@
 2026-07-28 | schlotterbeck-klopp-comeback-plan | Schlotterbeck Innenbandriss Minute 13 WM-Aus vs Elfenbeinküste, deutlich vor Zeitplan, Ziel Klopp-Debüt 24.9. Niederlande 58 Tage, Thiaw Herausforderer neben Tah (NEWS-DRAMA)
 2026-07-28 | tah-thiaw-klopp-abwehr-duell | Malick Thiaw 25 AC Milan 0 WM-Minuten vs Jonathan Tah 30 Bayern München, Klopp 58 Tage bis Amsterdam Niederlande-Debüt 24.9., Rüdiger 33 J. Zeit läuft ab, 57er-Kandidatenliste, IV-Zukunft WM 2030 (DUELL/VERGLEICH)
 2026-07-28 | lijnders-hinterraeder-niederlande | Pepijn Lijnders Niederländer DFB-Co-Trainer, 9 Jahre Liverpool 6 Titel, trainierte Gravenberch/Gakpo, Debüt 24.9. Amsterdam gegen Heimatland (GEHEIMNIS)
+2026-07-28 | ortega-klopps-neue-nummer-eins | Stefan Ortega Moreno 28 Manchester City heißester Kandidat als Klopps erste Nummer 1 nach Neuers Karriereende 128 LS, Baumann 36/Nübel 29 Besiktas/Urbig 22 Bayern Alternativen, 58 Tage bis Amsterdam 24.9. (NEWS-DRAMA)
