@@ -1,0 +1,103 @@
+{
+  "slug": "tah-thiaw-klopp-abwehr-duell",
+  "createdAt": "2026-07-28T12:39:00Z",
+  "title": "Klopps IV-Duell: Tah vs. Thiaw",
+  "script": "Klopp hat genau 58 Tage bis Amsterdam – und DIESER Abwehr-Zweikampf entscheidet über 2030! Jonathan Tah, 30, Bayern München, 45 Länderspiele, Klopps gesetzter Abwehrchef. Malick Thiaw, 25, AC Milan, 0 WM-Minuten 2026 – einfach übergangen! Thiaw ist 5 Jahre jünger, Stammspieler in der Serie A, das perfekte Gegenpressing-Profil. Rüdiger wird 34 – die Uhr tickt. Klopp braucht Jugend für 2030. Doch Tah kennt das System. Wem gibt Klopp den Vertrauensvorschuss?",
+  "uploadCaption": "Klopp hat ein Luxusproblem in der Abwehr! Jonathan Tah (30, Bayern) vs. Malick Thiaw (25, AC Milan). Thiaw hat 0 WM-Minuten 2026 bekommen – jetzt will er unter Klopp endlich seine Chance. 58 Tage bis zum Debüt in Amsterdam. Wer spielt am 24. September?",
+  "uploadHashtags": "#DFB #Klopp #JonathanTah #MalickThiaw #WM2030 #Bundestrainer #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "thiaw_aktion.jpg",   "search": "Malick Thiaw" },
+    { "file": "tah_portrait.jpg",   "search": "Jonathan Tah" },
+    { "file": "thiaw_portrait.jpg", "search": "Malick Thiaw DFB Trikot" },
+    { "file": "tah_aktion.jpg",     "search": "Jonathan Tah DFB Bayern" },
+    { "file": "ruediger_aktion.jpg","search": "Antonio Rüdiger" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "ruediger_tah.jpg",   "search": "Rüdiger Tah DFB Abwehr" },
+    { "file": "fans.jpg",           "search": "DFB Fans" },
+    { "file": "pokal.jpg",          "search": "WM Pokal" },
+    { "file": "thiaw_milan.jpg",    "search": "Malick Thiaw AC Milan 2026" },
+    { "file": "abwehr_duell.jpg",   "search": "Zwei Innenverteidiger Duell DFB Zukunft WM 2030", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "0 WM-MINUTEN – aber Klopp macht IHN zum IV-Zukunftsplan!",
+      "image": "thiaw_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPPS IV-ENTSCHEIDUNG",
+      "title": "Tah vs. Thiaw",
+      "image": "tah_portrait.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "thiaw_portrait.jpg",
+      "name": "Malick Thiaw",
+      "role": "Innenverteidiger · AC Milan · 25 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "thiaw_milan.jpg",
+      "name": "Malick Thiaw",
+      "role": "0 WM-Minuten 2026 · 7 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tah_aktion.jpg",
+      "name": "Jonathan Tah",
+      "role": "Innenverteidiger · Bayern München · 30 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ruediger_aktion.jpg",
+      "name": "Antonio Rüdiger",
+      "role": "IV · Real Madrid · 33 J. · Zeit läuft ab",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "ALTERSVERGLEICH ABWEHR",
+      "stats": [
+        { "label": "Thiaw", "value": "25 J." },
+        { "label": "Tah", "value": "30 J." },
+        { "label": "Rüdiger", "value": "33 J." }
+      ],
+      "image": "ruediger_tah.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "stats",
+      "title": "KLOPPS COUNTDOWN",
+      "stats": [
+        { "label": "Tage bis Debüt", "value": "58" },
+        { "label": "Spieler auf Liste", "value": "57" },
+        { "label": "Thiaw WM-Minuten", "value": "0" }
+      ],
+      "image": "klopp.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "abwehr_duell.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Thiaw oder Tah?",
+      "subtitle": "Wer führt Deutschlands Abwehr zu WM 2030?",
+      "image": "pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
