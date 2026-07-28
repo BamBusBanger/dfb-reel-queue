@@ -1,0 +1,101 @@
+{
+  "slug": "el-mala-matthaeus-bvb-wende",
+  "createdAt": "2026-07-28T19:34:00Z",
+  "title": "El Mala sagt Roma NEIN – und will nur zum BVB",
+  "script": "Er lässt 50 Millionen auf dem Tisch liegen. Said El Mala, 19 Jahre alt, 13 Bundesliga-Tore für den 1. FC Köln, hat AS Roma trotz voller Ablösesumme abgesagt – und will nur zu Borussia Dortmund. Matthäus macht es klar: 'Er will zum BVB. Das sagt er vielleicht nicht ganz laut.' BVB bietet nur 44 Millionen, doch Spielerherz schlägt laut. Und Klopp hat den U17-Weltmeister 2023 bereits auf seiner 57er-DFB-Liste für 2030.",
+  "uploadCaption": "Said El Mala (19) lehnt AS Romas 50-Mio.-Angebot ab und will nur zum BVB! Matthäus macht es öffentlich: 'Er will nach Dortmund.' Und Klopp hat den Shootingstar schon auf seiner 57er-DFB-Liste für WM 2030. Geld oder Herzensverein – was hättest du gewählt?",
+  "uploadHashtags": "#ElMala #BVB #DFB #WM2030 #Transfer #Bundesliga #Klopp #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "el-mala-koeln.jpg",      "search": "Said El Mala FC Köln" },
+    { "file": "el-mala-jubel.jpg",      "search": "Said El Mala Tor Jubel" },
+    { "file": "el-mala-training.jpg",   "search": "Said El Mala Köln Training 2026" },
+    { "file": "signal-iduna.jpg",       "search": "BVB Signal Iduna Park Dortmund" },
+    { "file": "roma-stadion.jpg",       "search": "AS Roma Stadio Olimpico" },
+    { "file": "matthaeus.jpg",          "search": "Lothar Matthäus" },
+    { "file": "deutschland-flagge.jpg", "search": "Deutschland Flagge Berlin" },
+    { "file": "ouedraogo.jpg",          "search": "Assan Ouédraogo" },
+    { "file": "dfb-fans.jpg",           "search": "DFB Fans Deutschland" },
+    { "file": "wm-pokal.jpg",           "search": "WM Pokal FIFA Trophy" },
+    { "file": "dfb-team.jpg",           "search": "Deutschland Nationalmannschaft 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER LÄSST 50 MILLIONEN LIEGEN.",
+      "image": "el-mala-koeln.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "TRANSFER-SCHOCK · JULI 2026",
+      "title": "El Mala sagt Roma NEIN",
+      "image": "signal-iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "el-mala-jubel.jpg",
+      "name": "Said El Mala",
+      "role": "FC Köln · 19 J. · 13 BL-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "roma-stadion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "DER ABLÖSE-POKER",
+      "stats": [
+        { "label": "Köln fordert",        "value": "50 Mio. €" },
+        { "label": "BVB bietet",          "value": "44 Mio. €" },
+        { "label": "Roma bot volle Summe", "value": "ABGELEHNT" }
+      ],
+      "image": "el-mala-training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "matthaeus.jpg",
+      "name": "Lothar Matthäus",
+      "role": "DFB-Experte · 150 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland-flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "DFB-Kandidat 2030 · 20 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "KLOPPS PLAN FÜR 2030",
+      "stats": [
+        { "label": "DFB-Kandidatenliste", "value": "57 Spieler" },
+        { "label": "El Mala",             "value": "drauf!" },
+        { "label": "U17-Weltmeister",     "value": "2023" }
+      ],
+      "image": "wm-pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "outro",
+      "title": "Geld oder Herzensverein?",
+      "subtitle": "Hättest du Roma gewählt?",
+      "image": "dfb-team.jpg",
+      "weight": 1.0
+    }
+  ]
+}
