@@ -1,0 +1,92 @@
+{
+  "slug": "schlotterbeck-klopp-comeback-plan",
+  "createdAt": "2026-07-28T09:34:00Z",
+  "title": "Schlotterbeck: Comeback zum Klopp-Debüt?",
+  "script": "SCHLOTTERBECK kommt früher zurück – viel früher als erwartet! Minute 13 gegen die Elfenbeinküste: Innenbandriss, WM-Aus. Experten prophezeiten mindestens 3 Monate Pause. Doch jetzt die Sensation: BVB-Star Nico Schlotterbeck liegt DEUTLICH vor dem Zeitplan und hat ein klares Ziel: Klopps Nations-League-Debüt am 24. September gegen die Niederlande – nur noch 58 Tage entfernt. Neben Abwehrchef Jonathan Tah wartet derweil Herausforderer Malick Thiaw mit 25 Jahren. Entscheidet Klopp für den Comeback-Kämpfer oder den hungrigen Neuen?",
+  "uploadCaption": "Schlotterbeck DEUTLICH vor dem Zeitplan 💥 Ziel: Klopp-Debüt 24. September gegen die Niederlande. Schafft er es noch? Oder klärt Thiaw den Slot? Kommentiert! #DFB #Schlotterbeck #Klopp #NationsLeague #BVB",
+  "uploadHashtags": "#DFB #Schlotterbeck #Klopp #NationsLeague #WM2026 #BVB #Comeback #Tah #Thiaw",
+  "images": [
+    { "file": "spieler/schlotterbeck_geschockt_dfb_01.jpg", "search": "Nico Schlotterbeck WM-Schock" },
+    { "file": "spieler/schlotterbeck_aktion_01.jpg", "search": "Nico Schlotterbeck BVB" },
+    { "file": "spieler/schlotterbeck_01.png", "search": "Nico Schlotterbeck" },
+    { "file": "spieler/schlotterbeck_klatschen_01.jpg", "search": "Nico Schlotterbeck DFB" },
+    { "file": "spieler/schlotterbeck_torjubel_dfb_01.jpg", "search": "Nico Schlotterbeck Jubel DFB" },
+    { "file": "stadien/signal_iduna_park_dortmund_01.jpg", "search": "Signal Iduna Park Dortmund" },
+    { "file": "spieler/tah_01.png", "search": "Jonathan Tah" },
+    { "file": "spieler/thiaw_aktion_01.jpg", "search": "Malick Thiaw AC Milan" },
+    { "file": "sonstiges/juergen_klopp_01.jpg", "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "fans/deutschland_fans_01.jpg", "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER KOMMT FRÜHER ZURÜCK!",
+      "image": "spieler/schlotterbeck_geschockt_dfb_01.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM-SCHOCK → COMEBACK",
+      "title": "Schlotterbeck vor dem Zeitplan",
+      "image": "spieler/schlotterbeck_aktion_01.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "spieler/schlotterbeck_01.png",
+      "name": "Nico Schlotterbeck",
+      "role": "Innenverteidiger · BVB · 27",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "spieler/schlotterbeck_klatschen_01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Comeback-Countdown",
+      "stats": [
+        { "label": "WM-Aus", "value": "Min. 13" },
+        { "label": "Experten-Prognose", "value": "3 Monate" },
+        { "label": "Klopp-Debüt", "value": "24. Sept." },
+        { "label": "Noch Tage", "value": "58" }
+      ],
+      "image": "stadien/signal_iduna_park_dortmund_01.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "spieler/tah_01.png",
+      "name": "Jonathan Tah",
+      "role": "Abwehrchef · Bayern · 30",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "spieler/thiaw_aktion_01.jpg",
+      "name": "Malick Thiaw",
+      "role": "Herausforderer · AC Milan · 25",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "sonstiges/juergen_klopp_01.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · seit 25.7.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "spieler/schlotterbeck_torjubel_dfb_01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wen willst du neben Tah sehen?",
+      "subtitle": "Schlotterbeck oder Thiaw?",
+      "image": "fans/deutschland_fans_01.jpg",
+      "weight": 1.0
+    }
+  ]
+}
