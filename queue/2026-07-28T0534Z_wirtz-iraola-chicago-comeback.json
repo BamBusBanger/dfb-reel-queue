@@ -1,0 +1,107 @@
+{
+  "slug": "wirtz-iraola-chicago-comeback",
+  "createdAt": "2026-07-28T05:34:00Z",
+  "title": "Wirtz in Chicago – Iraola enthüllt seinen Maximieren-Plan",
+  "script": "NACH DEM WM-DEBAKEL – ER IST ZURÜCK! Florian Wirtz landete heute in Chicago: 125 Millionen Pfund Ablöse, 0 WM-Tore in 360 Minuten. Liverpool-Coach Iraola enthüllte seinen Plan, Wirtz zu maximieren – Comeback schon am 30. Juli gegen Wrexham in New York möglich. Das brisante Detail: Teamkollege Gravenberch wird am 24. September Klopps erster Länderspiel-Gegner als Bundestrainer. Wirtz trainiert täglich mit dem Mann, den er danach schlagen soll. Kann Iraola in 4 Wochen schaffen, was Nagelsmann in 2 Jahren nicht schaffte?",
+  "uploadCaption": "Florian Wirtz heute in Chicago gelandet – Iraola kündigt Plan zum Maximieren an, Comeback schon 30. Juli möglich. Und das brisante Detail: Liverpool-Teamkollege Gravenberch ist Klopps erster Länderspiel-Gegner am 24. September. Schafft Iraola, was Nagelsmann nie gelang?",
+  "uploadHashtags": "#Wirtz #Liverpool #DFB #Klopp #WM2026 #Fussball #Bundestrainer",
+  "images": [
+    { "file": "wirtz_training.jpg",  "search": "Florian Wirtz" },
+    { "file": "wirtz_portrait.jpg",  "search": "Florian Wirtz" },
+    { "file": "wirtz_jubel.jpg",     "search": "Florian Wirtz" },
+    { "file": "iraola.jpg",          "search": "Andoni Iraola Liverpool" },
+    { "file": "gravenberch.jpg",     "search": "Ryan Gravenberch" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "musiala.jpg",         "search": "Jamal Musiala" },
+    { "file": "chicago_camp.jpg",    "search": "Profi-Fussballtraining US-Stadt Sommer Rasen", "thematic": true },
+    { "file": "fans.jpg",            "search": "DFB Fans" },
+    { "file": "wm2026_logo.jpg",     "search": "WM 2026" },
+    { "file": "wirtz_presse.jpg",    "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg",         "search": "Joshua Kimmich" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NACH DEM WM-DEBAKEL – ER IST ZURÜCK!",
+      "image": "wirtz_training.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "28. Juli · Chicago",
+      "title": "Wirtz meldet sich zurück",
+      "image": "wirtz_portrait.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 125 Mio. Pfund",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "iraola.jpg",
+      "name": "Andoni Iraola",
+      "role": "Liverpool-Coach · Plan: maximieren",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "3 Fakten zum Comeback",
+      "stats": [
+        { "label": "Mio. Pfund Ablöse", "value": "125" },
+        { "label": "WM-Tore in 360 Min.", "value": "0" },
+        { "label": "Comeback-Datum", "value": "30.7." }
+      ],
+      "image": "wm2026_logo.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "gravenberch.jpg",
+      "name": "Ryan Gravenberch",
+      "role": "Liverpool · DFB-Gegner 24.9. Amsterdam",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "chicago_camp.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Debüt 24.9. Amsterdam",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern · ebenfalls im Klopp-Visier",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_presse.jpg",
+      "name": "Florian Wirtz",
+      "role": "0 WM-Tore · Neustart Chicago",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Iraola, was Nagelsmann nie gelang?",
+      "subtitle": "Ja oder Nein – kommentiert!",
+      "image": "kimmich.jpg",
+      "weight": 1.0
+    }
+  ]
+}
