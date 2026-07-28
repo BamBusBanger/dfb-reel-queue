@@ -1,0 +1,34 @@
+{
+  "slug": "lijnders-hinterraeder-niederlande",
+  "createdAt": "2026-07-28T15:34:00Z",
+  "title": "Klopps Geheimnis: Ein Niederländer auf der DFB-Bank",
+  "script": "EIN NIEDERLÄNDER AUF DER DEUTSCHEN BANK. Klopps Co-Trainer Pepijn Lijnders stammt aus Zeist, Niederlande – genau 20 Kilometer von Amsterdam. 9 Jahre assistierte er Klopp in Liverpool und holte dort 6 Titel. Er trainierte persönlich Ryan Gravenberch und Cody Gakpo – Deutschlands Hauptgegner am 24. September. Lijnders kennt ihre Pressing-Schwächen besser als jeder niederländische Trainer. Am Debüttag sitzt er auf der deutschen Bank gegen sein eigenes Heimatland. Das nenn ich einen Klopp-Vorteil.",
+  "uploadCaption": "Klopp hat einen NIEDERLÄNDER im Trainerteam – und der sitzt am 24. September in Amsterdam auf der deutschen Bank gegen sein eigenes Heimatland. 🇩🇪🔍 Zufall oder Strategie?",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #Niederlande #NationsLeague #Lijnders #Liverpool #WM2030 #Fussball",
+  "images": [
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "lijnders.jpg", "search": "Pepijn Lijnders Liverpool" },
+    { "file": "gravenberch.jpg", "search": "Ryan Gravenberch Netherlands" },
+    { "file": "gakpo.jpg", "search": "Cody Gakpo Netherlands" },
+    { "file": "amsterdam.jpg", "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "flagge.jpg", "search": "Deutschland Flagge" },
+    { "file": "pressing.jpg", "search": "Fußball Gegenpressing Taktik Vogelperspektive", "thematic": true },
+    { "file": "dfb-team.jpg", "search": "DFB Nationalmannschaft 2026 Klopp" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "EIN NIEDERLÄNDER AUF DER DEUTSCHEN BANK.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB 2026", "title": "Klopps geheimes Ass", "image": "flagge.jpg", "weight": 0.7 },
+    { "type": "image", "image": "lijnders.jpg", "name": "Pepijn Lijnders", "role": "Co-Trainer DFB · aus Zeist 🇳🇱", "weight": 0.8 },
+    { "type": "image", "image": "gravenberch.jpg", "name": "Ryan Gravenberch", "role": "Niederlande · ehem. Liverpool", "weight": 0.8 },
+    { "type": "stats", "title": "Lijnders bei Liverpool", "stats": [{ "label": "Jahre", "value": "9" }, { "label": "Titel", "value": "6" }, { "label": "km zu Amsterdam", "value": "20" }], "image": "pressing.jpg", "weight": 0.9 },
+    { "type": "image", "image": "gakpo.jpg", "name": "Cody Gakpo", "role": "Niederlande · ehem. Liverpool", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Offensiv · 125 Mio. £", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "amsterdam.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Unfairer Vorteil?", "subtitle": "Brillanter Schachzug oder einfach fair?", "image": "dfb-team.jpg", "weight": 1.0 }
+  ]
+}
