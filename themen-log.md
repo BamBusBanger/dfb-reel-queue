@@ -299,3 +299,4 @@
 2026-07-28 | ortega-klopps-neue-nummer-eins | Stefan Ortega Moreno 28 Manchester City heißester Kandidat als Klopps erste Nummer 1 nach Neuers Karriereende 128 LS, Baumann 36/Nübel 29 Besiktas/Urbig 22 Bayern Alternativen, 58 Tage bis Amsterdam 24.9. (NEWS-DRAMA)
 2026-07-28 | el-mala-matthaeus-bvb-wende | El Mala Roma-Absage BVB-Wende Matthäus-Zitat 50 Mio. abgelehnt 44 Mio. BVB Klopp 57er-DFB-Liste WM 2030 (TOP-3-LISTE)
 2026-07-29 | reitz-klopp-geheimplan | Rocco Reitz DFB-Kandidat, Klopp-Verbindung Leipzig März 2026, 21 Mio. €, 0 A-Länderspiele, 57er-Kandidatenliste, September Amsterdam (GEHEIMNIS)
+2026-07-29 | musiala-karl-supercup-klopp-duell | Musiala 1 WM-Tor 239 Min vs Karl 18J. Comeback, Matthäus-Onus-Warnung, Klopp Supercup-Scouting 22.8. Signal Iduna Park BVB vs Bayern, Erste BT-Woche + September-Nominierung (DUELL/VERGLEICH)

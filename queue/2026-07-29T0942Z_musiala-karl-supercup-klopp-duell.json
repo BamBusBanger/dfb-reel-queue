@@ -1,0 +1,34 @@
+{
+  "slug": "musiala-karl-supercup-klopp-duell",
+  "createdAt": "2026-07-29T09:42:00Z",
+  "title": "Musiala vs. Karl – Klopps erste Scouting-Nacht",
+  "script": "Wer überzeugt Klopp zuerst? Am 22. August steigt der Franz Beckenbauer Supercup – Klopps erste große Scouting-Nacht als Bundestrainer. Musiala: nur 1 Tor in 239 WM-Minuten, 4-mal ausgewechselt. Matthäus schlägt Alarm: Der Onus liegt jetzt komplett bei ihm. Dagegen Karl – 5 Bundesligatore, 4 Champions-League-Tore als gerade mal 18-Jähriger, kommt überraschend früh aus seiner Verletzung zurück. Klopp übernimmt am 15. August. Eine Woche später: der Supercup. Sein erster Kader folgt im September. Das ist kein Testspiel. Das ist ein Vorstellungsgespräch.",
+  "uploadCaption": "22. August im Signal Iduna Park – Klopps erste Scouting-Nacht als Bundestrainer. Musiala oder Karl: Wer zwingt sich in den ersten DFB-Kader? 🔥",
+  "uploadHashtags": "#DFB #WM2030 #Klopp #Musiala #LennartKarl #Supercup #Bundesliga",
+  "images": [
+    { "file": "musiala_jubel.jpg", "search": "Jamal Musiala" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park" },
+    { "file": "matthaeus.jpg", "search": "Lothar Matthäus" },
+    { "file": "musiala_action.jpg", "search": "Jamal Musiala Bayern München" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "karl.jpg", "search": "Lennart Karl" },
+    { "file": "karl_training.jpg", "search": "Lennart Karl Bayern Training 2026" },
+    { "file": "klopp_dfb.jpg", "search": "Jürgen Klopp DFB Bundestrainer 2026" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" },
+    { "file": "dfb_team.jpg", "search": "DFB Team 2026" },
+    { "file": "beckenbauer_cup.jpg", "search": "Franz Beckenbauer Supercup Trophäe", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "WER ÜBERZEUGT KLOPP ZUERST?", "image": "musiala_jubel.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "BECKENBAUER SUPERCUP · 22. AUGUST", "title": "Klopps erste Scouting-Nacht", "image": "signal_iduna.jpg", "weight": 0.7 },
+    { "type": "image", "image": "matthaeus.jpg", "name": "Lothar Matthäus", "role": "Rekordnationalspieler · DFB-Experte", "weight": 0.8 },
+    { "type": "stats", "title": "Musiala – WM 2026", "stats": [{ "label": "Tore", "value": "1" }, { "label": "Minuten", "value": "239" }, { "label": "Auswechslungen", "value": "4×" }], "image": "musiala_action.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · Start 15. August", "weight": 0.8 },
+    { "type": "image", "image": "karl.jpg", "name": "Lennart Karl", "role": "Stürmer · 18 · FC Bayern", "weight": 0.8 },
+    { "type": "stats", "title": "Karl – Debütsaison 25/26", "stats": [{ "label": "BL-Tore", "value": "5" }, { "label": "CL-Tore", "value": "4" }, { "label": "WM-Aus", "value": "Verletzung" }], "image": "karl_training.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp_dfb.jpg", "name": "Jürgen Klopp", "role": "57 Spieler im Blick · September-Kader", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_team.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Musiala oder Karl?", "subtitle": "Wer überzeugt Klopp beim Supercup zuerst?", "image": "beckenbauer_cup.jpg", "weight": 1.0 }
+  ]
+}
