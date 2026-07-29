@@ -301,3 +301,4 @@
 2026-07-29 | reitz-klopp-geheimplan | Rocco Reitz DFB-Kandidat, Klopp-Verbindung Leipzig März 2026, 21 Mio. €, 0 A-Länderspiele, 57er-Kandidatenliste, September Amsterdam (GEHEIMNIS)
 2026-07-29 | musiala-karl-supercup-klopp-duell | Musiala 1 WM-Tor 239 Min vs Karl 18J. Comeback, Matthäus-Onus-Warnung, Klopp Supercup-Scouting 22.8. Signal Iduna Park BVB vs Bayern, Erste BT-Woche + September-Nominierung (DUELL/VERGLEICH)
 2026-07-29 | uefa-wm-boykott-klopp-plan-b | UEFA Boykott-Drohung FIFA-Privatisierung 20-30% WM-Anteile FIFA Forward Enterprise, Klopp WM-2030-Plan in Gefahr, Notfall-Sitzung diese Woche (NEWS-DRAMA)
+2026-07-29 | woltemade-drei-wahrheiten-krise-comeback | Woltemade 75 Mio. 0 WM-Minuten Elfmeter-Aus, 13 PL-Spiele kein Tor, Newcastle-Leihe West Ham Absteiger Ornstein-Bericht vs Berater-Dementi, Undav/Havertz Konkurrenz, Klopp 57er-Liste 57 Tage bis Debüt Elfmeter-Training (TOP-3-LISTE)

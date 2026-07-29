@@ -1,0 +1,115 @@
+{
+  "slug": "woltemade-drei-wahrheiten-krise-comeback",
+  "createdAt": "2026-07-29T15:34:02Z",
+  "title": "Woltemade: 3 Wahrheiten nach dem WM-Desaster",
+  "script": "75 MILLIONEN Euro – doch Woltemade bleibt unsichtbar: 0 WM-Minuten in der Gruppe, dann 88. Minute, Elfmeter, WM-Aus. Newcastle will ihn leihen – West Ham, der Absteiger, als Ziel! Berater-Dementi: alles Fake-Accounts. Das Transfer-Chaos entscheidet über Klopps September-Nominierung. Undav schoss 3 WM-Tore in 68 Minuten. Havertz traf zweimal beim Auftakt. Klopp hat Woltemade auf seiner 57er-Liste. Aber ohne Premier-League-Tore bis September ist der 24-jährige Riese nur noch eine teure Fehlinvestition. Schafft er den Neustart?",
+  "uploadCaption": "75 Millionen € und kein WM-Einsatz – jetzt droht die Leihe zum Absteiger. Was wird aus Nick Woltemade unter Klopp? 🔴⚫",
+  "uploadHashtags": "#NickWoltemade #DFB #Klopp #WM2026 #Newcastle #WestHam #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "woltemade_portrait.jpg", "search": "Nick Woltemade" },
+    { "file": "woltemade_training.jpg", "search": "Nick Woltemade Training" },
+    { "file": "woltemade_jubel.jpg", "search": "Nick Woltemade Jubel" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" },
+    { "file": "st_james_park.jpg", "search": "St James Park Newcastle United Stadium" },
+    { "file": "dfb_flagge.jpg", "search": "Deutschland Flagge" },
+    { "file": "west_ham_stadium.jpg", "search": "London Stadium West Ham United" },
+    { "file": "undav.jpg", "search": "Deniz Undav" },
+    { "file": "havertz.jpg", "search": "Kai Havertz" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp Bundestrainer DFB 2026" },
+    { "file": "entsetzen.jpg", "search": "DFB Fans Entsetzen" },
+    { "file": "hoffen.jpg", "search": "DFB Fans Hoffnung" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "WOLTEMADE SOLL WEG.",
+      "image": "woltemade_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "75 MIO. STÜRMER",
+      "title": "3 Wahrheiten nach dem WM-Desaster",
+      "image": "woltemade_training.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "woltemade_jubel.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · 24",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wahrheit 1: Die Krise",
+      "stats": [
+        { "label": "PL-Spiele ohne Tor (ab Dez.)", "value": "13" },
+        { "label": "WM-Gruppenminuten", "value": "0" },
+        { "label": "Einsatz bis zum Elfmeter", "value": "88. Min" }
+      ],
+      "image": "st_james_park.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wahrheit 2: Transfer-Chaos",
+      "stats": [
+        { "label": "Newcastle-Rekordablöse", "value": "75 Mio. €" },
+        { "label": "Leihe-Ziel (Absteiger!)", "value": "West Ham" },
+        { "label": "Berater-Dementi", "value": "Fake Accounts" }
+      ],
+      "image": "dfb_flagge.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "west_ham_stadium.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "undav.jpg",
+      "name": "Deniz Undav",
+      "role": "WM-Joker · 30",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Stürmer · 27",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wahrheit 3: Klopps Chance",
+      "stats": [
+        { "label": "57er-Kandidatenliste", "value": "✓ dabei" },
+        { "label": "Tage bis Klopp-Debüt", "value": "57" },
+        { "label": "Elfmeter-Training", "value": "geplant" }
+      ],
+      "image": "entsetzen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "outro",
+      "title": "Ist Woltemades DFB-Zeit schon vorbei?",
+      "subtitle": "Ja oder Nein – schreibt's in die Kommentare!",
+      "image": "hoffen.jpg",
+      "weight": 1.0
+    }
+  ]
+}
