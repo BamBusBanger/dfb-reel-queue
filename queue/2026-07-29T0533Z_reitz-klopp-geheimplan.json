@@ -1,0 +1,101 @@
+{
+  "slug": "reitz-klopp-geheimplan",
+  "createdAt": "2026-07-29T05:33:55Z",
+  "title": "Klopps geheimer DFB-Masterplan",
+  "script": "ER WUSSTE ES NICHT EINMAL. Rocco Reitz – 24 Jahre, null A-Länderspiele. Im März 2026 holte ihn Klopp für 21 Millionen Euro nach RB Leipzig – noch als Red-Bull-Chef, nicht als Bundestrainer. Vier Monate später sitzt Klopp auf dem DFB-Thron und Reitz steht plötzlich auf der 57er-Kandidatenliste. Pressing, Sprint, Zweikampf – 100 Prozent Klopp-DNA. Klopp auf der PK: 'Wir berufen Spieler, die nicht damit rechnen.' Debüt 24. September in Amsterdam – war das ein Geheimplan seit März?",
+  "uploadCaption": "Klopp verpflichtete Rocco Reitz im März 2026 als Red-Bull-Chef für 21 Millionen nach Leipzig – 4 Monate später ist er selbst Bundestrainer und Reitz auf seiner 57er-DFB-Kandidatenliste. Zufall oder Geheimplan? Schreib es in die Kommentare! 👇",
+  "uploadHashtags": "#DFB #Klopp #RoccoReitz #RBLeipzig #NationsLeague #Bundestrainer #WM2030 #Fussball",
+  "images": [
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "reitz.jpg",         "search": "Rocco Reitz" },
+    { "file": "reitz_aktion.jpg",  "search": "Rocco Reitz RB Leipzig" },
+    { "file": "dfb_team.jpg",      "search": "DFB Team 2026" },
+    { "file": "dfb_flagge.jpg",    "search": "Deutschland Flagge" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "dfb_fans.jpg",      "search": "DFB Fans" },
+    { "file": "amsterdam.jpg",     "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "dfb_wm_logo.jpg",   "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER WUSSTE ES NICHT EINMAL.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB 2026",
+      "title": "Klopps geheimer Masterplan",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "reitz.jpg",
+      "name": "Rocco Reitz",
+      "role": "Mittelfeld · 24 · RB Leipzig",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · 59",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen",
+      "stats": [
+        { "label": "Ablöse Leipzig",   "value": "21 Mio. €" },
+        { "label": "A-Länderspiele",   "value": "0" },
+        { "label": "DFB-Kandidaten",   "value": "57" }
+      ],
+      "image": "dfb_flagge.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "reitz_aktion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 31",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_wm_logo.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Geheimplan oder Zufall?",
+      "subtitle": "Schreib dein Urteil in die Kommentare!",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
