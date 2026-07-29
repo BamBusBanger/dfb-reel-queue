@@ -1,0 +1,98 @@
+{
+  "slug": "kimmich-vs-stiller-sechser-klopp",
+  "createdAt": "2026-07-29T19:34:00Z",
+  "title": "Kimmich vs. Stiller – Klopps Sechser-Krieg",
+  "script": "109 Länderspiele gegen 7 – das ist Klopps brisanteste Entscheidung beim ersten DFB-Kader. Kimmich: Kapitän, Bayerns bester Sechser der Welt – doch 3 Jahre als Rechtsverteidiger quasi verbrannt. Angelo Stiller: erst 25, VfB Stuttgart, reiner Sechser, passt perfekt zu Klopps Gegenpressing-DNA – doch 0 WM-Minuten. Neben dem gesetzten Pavlovic braucht Klopp einen zweiten Taktgeber. Matthäus fordert Kimmich zurück ins Zentrum! Klopp hat noch keinen einzigen Spieler angerufen – in 57 Tagen fällt die Entscheidung in Amsterdam. Kimmich oder Stiller – wer ist euer zweiter Sechser?",
+  "uploadCaption": "109 Länderspiele oder 7 – Klopp muss entscheiden: Kimmich zurück ins Zentrum oder Angelo Stiller als neuer Taktgeber neben Pavlovic? In 57 Tagen trifft er die Wahl – Amsterdam wartet. Kimmich oder Stiller? ⚽🔥",
+  "uploadHashtags": "#DFB #Klopp #Kimmich #AngloStiller #Pavlovic #Bundestrainer #NationsLeague #WM2030",
+  "images": [
+    { "file": "kimmich_k.jpg",   "search": "Joshua Kimmich" },
+    { "file": "stiller_a.jpg",   "search": "Angelo Stiller" },
+    { "file": "kimmich_t.jpg",   "search": "Joshua Kimmich DFB Training" },
+    { "file": "stiller_p.jpg",   "search": "Angelo Stiller DFB" },
+    { "file": "pavlovic.jpg",    "search": "Aleksandar Pavlović" },
+    { "file": "flagge.jpg",      "search": "Deutschland Flagge" },
+    { "file": "klopp.jpg",       "search": "Jürgen Klopp" },
+    { "file": "matthaeus.jpg",   "search": "Lothar Matthäus" },
+    { "file": "fans.jpg",        "search": "DFB Fans" },
+    { "file": "kimmich_kap.jpg", "search": "Joshua Kimmich Kapitän" },
+    { "file": "jubel.jpg",       "search": "DFB Jubel Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPPS SECHSER-KRIEG",
+      "image": "kimmich_k.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB 2026",
+      "title": "Kimmich vs. Stiller",
+      "image": "stiller_a.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "kimmich_t.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "stiller_p.jpg",
+      "name": "Angelo Stiller",
+      "role": "Sechser · 25 J. · 7 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pavlovic.jpg",
+      "name": "Aleksandar Pavlović",
+      "role": "Bayernmittelfeld · Klopps gesetzter Sechser",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Sechser-Duell",
+      "stats": [
+        { "label": "Kimmich Länderspiele", "value": "109" },
+        { "label": "Stiller Länderspiele", "value": "7" },
+        { "label": "Kimmich-Jahre als RV", "value": "3" },
+        { "label": "Tage bis Amsterdam", "value": "57" }
+      ],
+      "image": "flagge.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "matthaeus.jpg",
+      "name": "Lothar Matthäus",
+      "role": "Rekordnationalspieler · Kimmich-Befürworter",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich_kap.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Kimmich oder Stiller?",
+      "subtitle": "Wer ist Klopps zweiter Sechser – schreib's in die Kommentare!",
+      "image": "jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}
