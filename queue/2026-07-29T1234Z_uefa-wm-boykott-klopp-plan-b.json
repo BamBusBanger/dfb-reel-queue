@@ -1,0 +1,107 @@
+{
+  "slug": "uefa-wm-boykott-klopp-plan-b",
+  "createdAt": "2026-07-29T12:34:07Z",
+  "title": "UEFA droht mit WM-Boykott: Klopps WM-2030-Traum in Gefahr",
+  "script": "HALT! Bricht Klopps WM-2030-Traum zusammen? Die FIFA plant einen Milliarden-Deal: Privatinvestoren sollen 20 bis 30 Prozent der Weltmeisterschaft kaufen – über die neue Tochterfirma FIFA Forward Enterprise. Die UEFA ist außer sich. Diese Woche trifft sich das Exekutivkomitee zur Notfall-Sitzung – Boykott von WM 2030 und Klub-WM steht auf dem Tisch. Klopp hat gerade unterschrieben, Wirtz und Musiala träumen von Erlösung in vier Jahren. Aber wenn Europa fehlt, ist die WM eine leere Hülle. Dürfen Fußball-Rechte einfach verkauft werden?",
+  "uploadCaption": "Die FIFA will die WM privatisieren – und die UEFA denkt laut über Boykott nach! Klopp hat gerade erst als Bundestrainer unterschrieben, Wirtz und Musiala träumen von WM 2030 als Erlösung. Jetzt könnte alles kippen. 💥🏆 Was meint ihr?",
+  "uploadHashtags": "#DFB #WM2030 #UEFA #FIFA #Klopp #Fussball #Nationalmannschaft #WM2026",
+  "images": [
+    { "file": "wm-pokal.jpg",       "search": "WM-Pokal" },
+    { "file": "metlife.jpg",        "search": "MetLife Stadium" },
+    { "file": "infantino.jpg",      "search": "Gianni Infantino FIFA" },
+    { "file": "ffe-geld.jpg",       "search": "FIFA Privatinvestoren Milliarden Deal Aktien", "thematic": true },
+    { "file": "uefa-boykott.jpg",   "search": "UEFA Boykott Europa Protest Fußball Schild", "thematic": true },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "dfb-team.jpg",       "search": "DFB Team" },
+    { "file": "wirtz.jpg",          "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",        "search": "Jamal Musiala" },
+    { "file": "dfb-fans.jpg",       "search": "DFB Fans Fanmeile" },
+    { "file": "wm2026-mural.jpg",   "search": "WM 2026" },
+    { "file": "dfb-flagge.jpg",     "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPPS WM-2030-TRAUM IN GEFAHR!",
+      "image": "wm-pokal.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BREAKING – 29. JULI 2026",
+      "title": "UEFA droht mit WM-Boykott",
+      "image": "metlife.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "infantino.jpg",
+      "name": "Gianni Infantino",
+      "role": "FIFA-Präsident",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FIFAs Privatisierungs-Plan",
+      "stats": [
+        { "label": "WM-Anteile an Investoren", "value": "20–30 %" },
+        { "label": "Neue Tochterfirma", "value": "FIFA FFE" }
+      ],
+      "image": "ffe-geld.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "uefa-boykott.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Vertrag bis 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22 · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "UEFA-Notfall-Sitzung",
+      "stats": [
+        { "label": "Betroffene Turniere", "value": "2" },
+        { "label": "Entscheidung", "value": "diese Woche" }
+      ],
+      "image": "wm2026-mural.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "outro",
+      "title": "Sollte Europa boykottieren?",
+      "subtitle": "JA oder NEIN – schreibt es in die Kommentare!",
+      "image": "dfb-flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}

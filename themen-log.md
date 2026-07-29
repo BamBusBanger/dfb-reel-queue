@@ -300,3 +300,4 @@
 2026-07-28 | el-mala-matthaeus-bvb-wende | El Mala Roma-Absage BVB-Wende Matthäus-Zitat 50 Mio. abgelehnt 44 Mio. BVB Klopp 57er-DFB-Liste WM 2030 (TOP-3-LISTE)
 2026-07-29 | reitz-klopp-geheimplan | Rocco Reitz DFB-Kandidat, Klopp-Verbindung Leipzig März 2026, 21 Mio. €, 0 A-Länderspiele, 57er-Kandidatenliste, September Amsterdam (GEHEIMNIS)
 2026-07-29 | musiala-karl-supercup-klopp-duell | Musiala 1 WM-Tor 239 Min vs Karl 18J. Comeback, Matthäus-Onus-Warnung, Klopp Supercup-Scouting 22.8. Signal Iduna Park BVB vs Bayern, Erste BT-Woche + September-Nominierung (DUELL/VERGLEICH)
+2026-07-29 | uefa-wm-boykott-klopp-plan-b | UEFA Boykott-Drohung FIFA-Privatisierung 20-30% WM-Anteile FIFA Forward Enterprise, Klopp WM-2030-Plan in Gefahr, Notfall-Sitzung diese Woche (NEWS-DRAMA)
