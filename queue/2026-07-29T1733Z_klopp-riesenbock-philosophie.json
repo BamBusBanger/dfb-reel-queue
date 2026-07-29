@@ -1,0 +1,38 @@
+{
+  "slug": "klopp-riesenbock-philosophie",
+  "createdAt": "2026-07-29T17:33:53Z",
+  "title": "Klopps geheimes Auswahlkriterium",
+  "script": "Nur EIN Kriterium entscheidet, ob du bei Klopp spielst. Nicht dein Marktwert. Nicht deine Vereinsstatistiken. 'Spielen wird, wer sehr gut ist – und Riesenbock hat.' Klopp hat 57 Feldspieler unter der Lupe, aber nur 26 Plätze im Kader. Undav: 9 Joker-Tore in 11 Länderspielen. Riesenbock. Woltemade? 75 Millionen Euro – 0 WM-Minuten in 3 Spielen, dann Elfmeter verschossen. Goretzka? 70 Länderspiele – nur 27 WM-Bankminuten. Klopp kennt diese Typen aus Liverpool. Nur wer brennt, darf spielen. Debüt: 24. September in Amsterdam. Die Zeit läuft.",
+  "uploadCaption": "Klopp hat nur EIN Kriterium für seinen DFB-Kader – und das hat mit Marktwert NICHTS zu tun. 57 Spieler auf der Sichtungsliste, 26 Plätze. Wer hat den 'Riesenbock'? #DFB #Klopp #Nationalmannschaft",
+  "uploadHashtags": "#DFB #Klopp #Nationalmannschaft #WM2030 #Undav #Woltemade #Riesenbock #Bundestrainer",
+  "images": [
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "klopp_pk.jpg",      "search": "Jürgen Klopp DFB Bundestrainer Pressekonferenz 2026" },
+    { "file": "undav.jpg",         "search": "Deniz Undav" },
+    { "file": "woltemade.jpg",     "search": "Nick Woltemade" },
+    { "file": "goretzka.jpg",      "search": "Leon Goretzka" },
+    { "file": "havertz.jpg",       "search": "Kai Havertz" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich" },
+    { "file": "teamfoto.jpg",      "search": "DFB Nationalmannschaft 2026" },
+    { "file": "fans_entsetzen.jpg","search": "DFB Fans Entsetzen" },
+    { "file": "fans_hoffen.jpg",   "search": "DFB Fans hoffen" },
+    { "file": "dfb_flagge.jpg",    "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "NUR EIN KRITERIUM.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB 2026", "title": "Klopps geheimes Auswahlkriterium", "image": "klopp_pk.jpg", "weight": 0.7 },
+    { "type": "image", "image": "undav.jpg",   "name": "Deniz Undav",    "role": "9 Joker-Tore · 56 WM-Minuten",    "weight": 0.8 },
+    { "type": "image", "image": "woltemade.jpg","name": "Nick Woltemade","role": "75 Mio. € · 0 WM-Minuten",         "weight": 0.8 },
+    { "type": "image", "image": "goretzka.jpg", "name": "Leon Goretzka", "role": "70 Länderspiele · 27 WM-Bankminuten","weight": 0.8 },
+    { "type": "stats", "title": "Klopps Code", "stats": [
+        { "label": "Gesichtete Spieler", "value": "57" },
+        { "label": "Kaderplätze",        "value": "26" },
+        { "label": "Tage bis Debüt",     "value": "57" }
+      ], "image": "dfb_flagge.jpg", "weight": 0.9 },
+    { "type": "image", "image": "havertz.jpg", "name": "Kai Havertz",   "role": "Arsenal · WM-Elfmeter verschossen", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich","role": "Kapitän · 109 Länderspiele",         "weight": 0.8 },
+    { "type": "image", "image": "teamfoto.jpg",  "weight": 0.8 },
+    { "type": "image", "image": "fans_entsetzen.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Hätte der DFB mit mehr Riesenbock gewonnen?", "subtitle": "Ja oder nein?", "image": "fans_hoffen.jpg", "weight": 1.0 }
+  ]
+}
