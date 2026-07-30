@@ -1,0 +1,97 @@
+{
+  "slug": "wirtz-leeds-debut-klopp-schaut",
+  "createdAt": "2026-07-30T05:44:00Z",
+  "title": "Wirtz verpasst Yankee Stadium – jetzt sein erster Einsatz",
+  "script": "125 Millionen Pfund – und er WAR NICHT im Yankee Stadium! Florian Wirtz blieb mit Gravenberch und Isak in Chicago stecken, während Liverpool Wrexham 1:0 bezwang. Offizielle Begründung: Wetterchaos. Doch jetzt bestätigt Trainer Iraola: Wirtz erhält am Sonntag gegen Leeds seine ERSTEN Einsatzminuten der neuen Saison. 360 WM-Minuten, 0 Tore, 4 Mal ausgewechselt – ein Land wartet auf die Antwort. Und Bundestrainer Klopp schaut aus Frankfurt besonders genau hin. Kommt der echte Wirtz endlich zurück?",
+  "uploadCaption": "125 Mio. Pfund und TROTZDEM nicht im Yankee Stadium! Wirtz verpasst Liverpool vs Wrexham – aber Iraola macht jetzt alles klar. Klopp schaut aus Frankfurt genau zu. Wann kommt der echte Wirtz zurück?",
+  "uploadHashtags": "#FlorianWirtz #DFB #Liverpool #Klopp #WM2026 #BundesligaStars #WM2030 #Nationalmannschaft",
+  "images": [
+    { "file": "wirtz_training.jpg",  "search": "Florian Wirtz" },
+    { "file": "wirtz_avatar.jpg",    "search": "Florian Wirtz" },
+    { "file": "wirtz_presse.jpg",    "search": "Florian Wirtz" },
+    { "file": "wirtz_jubel.jpg",     "search": "Florian Wirtz" },
+    { "file": "wirtz_portrait.jpg",  "search": "Florian Wirtz" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "fans.jpg",            "search": "DFB Fans" },
+    { "file": "wm_logo.jpg",         "search": "WM 2026" },
+    { "file": "yankee.jpg",          "search": "Yankee Stadium New York" },
+    { "file": "liverpool_usa.jpg",   "search": "Liverpool FC USA Preseason 2026" },
+    { "file": "kimmich.jpg",         "search": "Joshua Kimmich" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "125 MIO. £ – NICHT IM YANKEE STADIUM!",
+      "image": "wirtz_training.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BREAKING NEWS",
+      "title": "Wirtz verpasst Yankee Stadium",
+      "image": "yankee.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_avatar.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer ab 24.9.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wirtz bei der WM 2026",
+      "stats": [
+        { "label": "Spielminuten", "value": "360" },
+        { "label": "Tore", "value": "0" },
+        { "label": "Auswechslungen", "value": "4×" }
+      ],
+      "image": "wm_logo.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz_presse.jpg",
+      "name": "Florian Wirtz",
+      "role": "125 Mio. Pfund · Klopps Schlüsselspieler",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "liverpool_usa.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_portrait.jpg",
+      "name": "Florian Wirtz",
+      "role": "Debüt vs Leeds am Sonntag",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Comeback oder Krise?",
+      "subtitle": "Kommt der echte Wirtz gegen Leeds endlich zurück?",
+      "image": "kimmich.jpg",
+      "weight": 1.0
+    }
+  ]
+}

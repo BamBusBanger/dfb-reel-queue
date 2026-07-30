@@ -304,3 +304,4 @@
 2026-07-29 | woltemade-drei-wahrheiten-krise-comeback | Woltemade 75 Mio. 0 WM-Minuten Elfmeter-Aus, 13 PL-Spiele kein Tor, Newcastle-Leihe West Ham Absteiger Ornstein-Bericht vs Berater-Dementi, Undav/Havertz Konkurrenz, Klopp 57er-Liste 57 Tage bis Debüt Elfmeter-Training (TOP-3-LISTE)
 2026-07-29 | klopp-riesenbock-philosophie | Klopp "Riesenbock"-Kriterium, 57 Spieler Sichtung, Undav Hunger vs Woltemade/Goretzka Bankwärmer, Kader-Philosophie Bundestrainer (GEHEIMNIS)
 2026-07-29 | kimmich-vs-stiller-sechser-klopp | Kimmich 109 LS vs Stiller 7 LS Duell zweiter Sechser neben Pavlovic, Klopp 4-4-2, Matthäus Forderung, 57 Tage bis Amsterdam-Debüt (DUELL/VERGLEICH)
+2026-07-30 | wirtz-leeds-debut-klopp-schaut | Wirtz verpasst Yankee Stadium 1:0 vs Wrexham, bleibt in Chicago, Iraola bestätigt Einsatz vs Leeds, 360 WM-Minuten 0 Tore, Klopp schaut zu (NEWS-DRAMA)
