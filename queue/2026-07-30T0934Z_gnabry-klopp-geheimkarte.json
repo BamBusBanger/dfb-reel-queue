@@ -1,0 +1,37 @@
+{
+  "slug": "gnabry-klopp-geheimkarte",
+  "createdAt": "2026-07-30T09:34:00Z",
+  "title": "Gnabry: Klopps vergessene Geheimkarte",
+  "script": "Dieser Star fehlte bei der WM – und keiner redet mehr über ihn. Serge Gnabry, 31, verpasste WM 2026 mit einem Adduktorenriss im April, während Deutschland im Elfmeterkrimi scheiterte. Jetzt: Comeback-Training neben Lennart Karl an der Säbener Straße, großes Ziel Supercup 22. August. Klopp braucht im 4-4-2 echte Flügelspieler – Gnabry hat über 60 Länderspiele und Bayerns Vertrauen: Vertrag bis 2028. Konkurrent Sané (30) wechselte zu Galatasaray. Klopp-Debüt: 24. September Amsterdam. Kommt Gnabry als stiller Joker zurück?",
+  "uploadCaption": "Er fehlte bei der WM – und keiner redet mehr über ihn. Serge Gnabry, 31, kämpft sich zurück. Klopp braucht Flügelspieler im 4-4-2. Konkurrent Sané wechselte zu Galatasaray. Ist Gnabry Klopps geheime Karte? 👀",
+  "uploadHashtags": "#DFB #Gnabry #Klopp #Bundestrainer #WM2030 #Bayern #Comeback #Nationalmannschaft #SergeGnabry",
+  "images": [
+    { "file": "gnabry.jpg",       "search": "Serge Gnabry" },
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "sane.jpg",         "search": "Leroy Sané" },
+    { "file": "allianz.jpg",      "search": "Allianz Arena Bayern München" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "fans.jpg",         "search": "DFB Fans Deutschland" },
+    { "file": "karl.jpg",         "search": "Lennart Karl" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park Dortmund" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "fanzone.jpg",      "search": "DFB Fanzone Berlin Deutschland" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER FEHLTE BEI DER WM.", "image": "gnabry.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB 2026", "title": "Klopps Geheimkarte", "image": "allianz.jpg", "weight": 0.7 },
+    { "type": "image", "image": "gnabry.jpg",       "name": "Serge Gnabry",    "role": "Flügel · 31 J. · Adduktorenriss WM-Aus", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",        "name": "Jürgen Klopp",    "role": "Bundestrainer · DFB ab 15. Aug.",         "weight": 0.8 },
+    { "type": "stats", "title": "Gnabry – die Fakten", "stats": [
+        { "label": "Länderspiele",    "value": "60+"     },
+        { "label": "Supercup-Ziel",   "value": "22. Aug." },
+        { "label": "Vertrag Bayern",  "value": "2028"    }
+      ], "image": "fans.jpg", "weight": 0.9 },
+    { "type": "image", "image": "sane.jpg",         "name": "Leroy Sané",      "role": "Rivale · 30 J. · Galatasaray",           "weight": 0.8 },
+    { "type": "image", "image": "karl.jpg",         "name": "Lennart Karl",    "role": "Reha-Partner · Bayern · 18 J.",           "weight": 0.8 },
+    { "type": "image", "image": "signal_iduna.jpg",                                                                                 "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",      "name": "Joshua Kimmich",  "role": "DFB-Kapitän · 109 LS · Klopp-Debüt 24.9.", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",                                                                                        "weight": 0.8 },
+    { "type": "outro", "title": "Kommt Gnabry noch mal zurück?", "subtitle": "Schreibt eure Meinung 👇", "image": "fanzone.jpg", "weight": 1.0 }
+  ]
+}
