@@ -308,3 +308,4 @@
 2026-07-30 | gnabry-klopp-geheimkarte | Serge Gnabry 31 Adduktorenriss WM-Aus April, Comeback-Training Säbener Straße neben Karl, Supercup-Ziel 22. August, Klopp 4-4-2 braucht Flügelspieler, 60+ Länderspiele Vertrag bis 2028, Konkurrent Sané zu Galatasaray (GEHEIMNIS)
 2026-07-30 | bischof-klopps-neue-acht | Tom Bischof Bayern #8 Goretzka-Erbe 23J., 39 Einsätze 3T+3V erste Saison, 1 DFB-Cap Nagelsmann, Klopps 57er-Liste, Mittelfeld-Konkurrenz Pavlović/Kimmich/Stiller (TOP-3-LISTE)
 2026-07-30 | adeyemi-beier-klopp-fluegelduell | Adeyemi (BVB→Barcelona 22 Mio.) vs Beier (BVB, 20+ Torbeteiligungen), Klopp-Flügel-Duell 4-4-2, WM 2026 verpasst vs WM-Kader, Klopp-Debüt 24.9. Amsterdam (DUELL/VERGLEICH)
+2026-07-30 | goretzka-chicago-fire-mls-klopp-schock | Goretzka vereinslos zu Chicago Fire MLS, Lewandowski schon unterschrieben, Bayern-Duo Reunion, Klopp 57er-Liste in Gefahr, 70 LS 27 WM-Min (GEHEIMNIS)

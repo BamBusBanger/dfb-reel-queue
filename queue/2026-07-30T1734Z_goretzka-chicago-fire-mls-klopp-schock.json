@@ -1,0 +1,34 @@
+{
+  "slug": "goretzka-chicago-fire-mls-klopp-schock",
+  "createdAt": "2026-07-30T17:34:00Z",
+  "title": "Goretzka flüchtet nach Chicago",
+  "script": "GORETZKA FLIEHT NACH CHICAGO! 70 Länderspiele, auf Klopps 57er-Liste – und trotzdem lockt die MLS. Leon Goretzka, seit dem 1. Juli vereinslos, scheiterte mit Bayern-Gehaltsanforderungen an Arsenal und Juventus. Jetzt soll er Bayern-Legende Robert Lewandowski zur Chicago Fire folgen. 27 mickrige WM-Minuten und kein Europa-Verein – ein Wendepunkt. Klopp plante ihn als Comeback-Story für das DFB-Projekt bis 2030. Doch MLS- und UEFA-Kalender harmonieren schlecht. Verliert Deutschland seinen Champions-League-Sieger 2020 schon vor dem ersten Klopp-Kader?",
+  "uploadCaption": "Goretzka-Schock! 70 Länderspiele, Klopp-Kandidat – und jetzt MLS? Bayern-Duo Goretzka + Lewandowski gemeinsam bei Chicago Fire! Was bedeutet das für das DFB-Projekt bis 2030?",
+  "uploadHashtags": "#Goretzka #Lewandowski #ChicagoFire #DFB #Klopp #WM2030 #MLS #Bundestrainer",
+  "images": [
+    { "file": "goretzka.jpg",        "search": "Leon Goretzka" },
+    { "file": "goretzka_training.jpg","search": "Leon Goretzka Bayern Training" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "chicago.jpg",          "search": "Soldier Field Chicago" },
+    { "file": "lewandowski.jpg",      "search": "Robert Lewandowski Chicago Fire" },
+    { "file": "mls_chicago.jpg",      "search": "Chicago Fire MLS" },
+    { "file": "fans.jpg",             "search": "DFB Fans Tribüne" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal Gold" },
+    { "file": "deutschland_team.jpg", "search": "DFB Teamfoto 2026" },
+    { "file": "kimmich.jpg",          "search": "Joshua Kimmich" },
+    { "file": "dfb_neustart.jpg",     "search": "DFB Zukunft 2030 Neustart Konzept", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "GORETZKA FLIEHT NACH CHICAGO!",                                                                                                               "image": "goretzka.jpg",         "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB-SCHOCK",   "title": "Bayern-Duo in der MLS",                                                                                          "image": "chicago.jpg",          "weight": 0.7 },
+    { "type": "image",                                                                                                                                                         "image": "goretzka_training.jpg","name": "Leon Goretzka",    "role": "Mittelfeld · 31 · vereinslos",          "weight": 0.8 },
+    { "type": "image",                                                                                                                                                         "image": "lewandowski.jpg",     "name": "Robert Lewandowski","role": "Chicago Fire · 38 · Bayern-Legende",     "weight": 0.8 },
+    { "type": "stats", "title": "Goretzka-Bilanz", "stats": [{ "label": "Länderspiele", "value": "70" }, { "label": "WM-Minuten 2026", "value": "27" }, { "label": "Klopp-Kandidatenliste", "value": "57er" }], "image": "klopp.jpg", "weight": 0.9 },
+    { "type": "image",                                                                                                                                                         "image": "mls_chicago.jpg",                                                                              "weight": 0.8 },
+    { "type": "image",                                                                                                                                                         "image": "fans.jpg",                                                                                     "weight": 0.8 },
+    { "type": "image",                                                                                                                                                         "image": "wm_pokal.jpg",                                                                                 "weight": 0.8 },
+    { "type": "image",                                                                                                                                                         "image": "deutschland_team.jpg",                                                                         "weight": 0.8 },
+    { "type": "image",                                                                                                                                                         "image": "kimmich.jpg",                                                                                  "weight": 0.8 },
+    { "type": "outro", "title": "Klopp verliert Goretzka?", "subtitle": "Zieht die MLS Goretzka aus Klopps DFB-Plan?",                                                       "image": "dfb_neustart.jpg",                                                                             "weight": 1.0 }
+  ]
+}
