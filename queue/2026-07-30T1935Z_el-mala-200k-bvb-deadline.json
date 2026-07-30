@@ -1,0 +1,99 @@
+{
+  "slug": "el-mala-200k-bvb-deadline",
+  "createdAt": "2026-07-30T19:35:00Z",
+  "title": "El Mala: Nur 200.000 Euro vom BVB-Deal entfernt",
+  "script": "50 Millionen Euro – ein Transfer, der ganz Deutschland elektrisiert! Said El Mala, 19 Jahre, 13 Tore und 5 Vorlagen in seiner ersten Bundesliga-Saison. BVB will ihn unbedingt. Bietet 44 Millionen. Köln fordert 50. Und Sport1 enthüllt exklusiv: Die Lücke beträgt nur noch 200.000 Euro! Matthäus sagt klar: 'Er wird kommen.' Klopp braucht El Mala für WM 2030. Aber der 1. FC Köln lässt ihn nicht unter Wert gehen. Wer gibt nach?",
+  "uploadCaption": "Ein Transfer für 50 MILLIONEN Euro – und nur 200.000 Euro trennen BVB und Said El Mala noch vom Deal! Sport1 enthüllt die schockierende Wahrheit. Matthäus sagt: Er kommt! Bundestrainer Klopp wartet auf sein WM-2030-Juwel. Wer bricht zuerst ein – BVB oder Köln?",
+  "uploadHashtags": "#ElMala #BVB #Bundesliga #DFB #TransferMarkt #BorussiaDortmund #Klopp #WM2030 #FCKöln #Transfer",
+  "images": [
+    { "file": "el-mala-jubel.jpg",    "search": "Said El Mala Jubel Tor" },
+    { "file": "bvb-signal-iduna.jpg", "search": "Signal Iduna Park" },
+    { "file": "el-mala-aktion.jpg",   "search": "Said El Mala Köln Aktion Bundesliga" },
+    { "file": "matthaeus.jpg",        "search": "Lothar Matthäus" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "koeln-stadion.jpg",    "search": "RheinEnergieStadion Köln" },
+    { "file": "fans.jpg",             "search": "Deutschland Fans Stadion" },
+    { "file": "transfer-drama.jpg",   "search": "Bundesliga Transfer Deadline Poker Geld", "thematic": true },
+    { "file": "ball.jpg",             "search": "Fußball schwarz rot gold" },
+    { "file": "wm2030.jpg",           "search": "WM 2030 Deutschland Fußball Zukunft", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "50 MILLIONEN – nur 200.000 € trennen BVB vom Deal!",
+      "image": "el-mala-jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "TRANSFER-DRAMA",
+      "title": "El Mala & das 200k-Rätsel",
+      "image": "bvb-signal-iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "el-mala-aktion.jpg",
+      "name": "Said El Mala",
+      "role": "Stürmer · FC Köln · 19 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "matthaeus.jpg",
+      "name": "Lothar Matthäus",
+      "role": "DFB-Rekordnationalspieler · Experte",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer DFB",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Transfer-Stand heute",
+      "stats": [
+        { "label": "BVB-Angebot", "value": "44 Mio. €" },
+        { "label": "Köln-Forderung", "value": "50 Mio. €" },
+        { "label": "Differenz (Sport1)", "value": "200.000 €" }
+      ],
+      "image": "koeln-stadion.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "transfer-drama.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "el-mala-jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ball.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm2030.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "BVB oder Leipzig?",
+      "subtitle": "Schreibt euren Tipp in die Kommentare!",
+      "image": "el-mala-aktion.jpg",
+      "weight": 1.0
+    }
+  ]
+}
