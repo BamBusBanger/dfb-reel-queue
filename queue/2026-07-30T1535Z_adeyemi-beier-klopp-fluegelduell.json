@@ -1,0 +1,36 @@
+{
+  "slug": "adeyemi-beier-klopp-fluegelduell",
+  "createdAt": "2026-07-30T15:35:00Z",
+  "title": "Adeyemi vs. Beier – Klopps Flügel-Duell",
+  "script": "Karim Adeyemi, 24, wechselt für 22 Millionen Euro vom BVB zu Barcelona – und will unter Klopp zurück ins DFB-Trikot. Seine Ansage: Ich komme zurück, wenn ich gut spiele. Aber da ist Maximilian Beier: 23 Jahre, BVB, über 20 Torbeteiligungen in der letzten Saison – bereits im WM-Kader 2026. Klopps 4-4-2 braucht rechte Flügelspieler. EINEN Stammplatz gibt es. Beide schnell, beide hungrig, beide mit BVB-DNA. Das Duell beginnt am 24. September in Amsterdam.",
+  "uploadCaption": "Das DFB-Flügel-Duell beginnt: Adeyemi (Barcelona) vs. Beier (BVB) – Klopp hat NUR EINEN Platz. Wer setzt sich durch?",
+  "uploadHashtags": "#DFB #KarimAdeyemi #MaximilianBeier #Klopp #Bundestrainer #NationsLeague #WM2030 #Fussball",
+  "images": [
+    { "file": "beier_action.jpg",      "search": "Maximilian Beier BVB" },
+    { "file": "beier_dfb.jpg",         "search": "Maximilian Beier" },
+    { "file": "klopp_dfb.jpg",         "search": "Jürgen Klopp" },
+    { "file": "adeyemi_barcelona.jpg", "search": "Karim Adeyemi Barcelona 2026" },
+    { "file": "adeyemi_dfb.jpg",       "search": "Karim Adeyemi DFB Nationalmannschaft" },
+    { "file": "dfb_fans.jpg",          "search": "DFB Fans" },
+    { "file": "amsterdam_arena.jpg",   "search": "Amsterdam Johan Cruyff Arena" },
+    { "file": "wm_logo.jpg",           "search": "WM 2026 Logo" },
+    { "file": "dfb_trikot.jpg",        "search": "DFB Trikot 2026" },
+    { "file": "dfb_flagge.jpg",        "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "2 DEUTSCHE. 1 PLATZ.", "image": "beier_action.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPP-ÄRA", "title": "Das Flügel-Duell", "image": "klopp_dfb.jpg", "weight": 0.7 },
+    { "type": "image", "image": "adeyemi_barcelona.jpg", "name": "Karim Adeyemi", "role": "Rechts · 24 · FC Barcelona", "weight": 0.8 },
+    { "type": "image", "image": "beier_dfb.jpg", "name": "Maximilian Beier", "role": "Rechts · 23 · BVB Dortmund", "weight": 0.8 },
+    { "type": "stats", "title": "Klopp-Duell", "stats": [
+        { "label": "Adeyemi Ablöse Barcelona", "value": "22 Mio. €" },
+        { "label": "Beier Torbeteiligungen 25/26", "value": "20+" },
+        { "label": "Klopp-Debüt", "value": "24. Sept." }
+      ], "image": "wm_logo.jpg", "weight": 0.9 },
+    { "type": "image", "image": "adeyemi_dfb.jpg", "weight": 0.8 },
+    { "type": "image", "image": "amsterdam_arena.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_trikot.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Adeyemi oder Beier?", "subtitle": "Wer startet 24.9. in Amsterdam?", "image": "dfb_flagge.jpg", "weight": 1.0 }
+  ]
+}
