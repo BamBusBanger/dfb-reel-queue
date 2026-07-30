@@ -1,0 +1,38 @@
+{
+  "slug": "bischof-klopps-neue-acht",
+  "createdAt": "2026-07-30T12:35:00Z",
+  "title": "Tom Bischof – Klopps neue Acht?",
+  "script": "Goretzkas Nummer 8 bei Bayern ist neu vergeben – an Tom Bischof, 23 Jahre alt. Erste Saison beim Rekordmeister: 39 Einsätze, 3 Tore, 3 Vorlagen. Dazu bereits 1 Länderspiel unter Nagelsmann. Klopp hat ihn auf seiner 57er-Scouting-Liste. Die Konkurrenz? Pavlović, Kimmich, Stiller. Doch Bischof selbst sagt: 'Ich will jetzt den nächsten Schritt machen.' Klopp liebt genau diesen Hunger. 3 Gründe sprechen für ihn im September-Kader. Gehört er rein?",
+  "uploadCaption": "Goretzkas Erbe, Klopps Kandidat: Tom Bischof (23) trägt die Nummer 8 bei Bayern und hat 39 Einsätze + 3 Tore in seiner ersten Saison. Auf Klopps 57er-Liste. Schafft er den Sprung in den September-Kader?",
+  "uploadHashtags": "#DFB #Klopp #TomBischof #WM2030 #Bayern #Fussball #Bundesliga #Nationalmannschaft",
+  "images": [
+    { "file": "bischof.jpg",    "search": "Tom Bischof Bayern München" },
+    { "file": "bischof_aktion.jpg", "search": "Tom Bischof Bayern München Mittelfeld" },
+    { "file": "goretzka.jpg",   "search": "Leon Goretzka" },
+    { "file": "pavlovic.jpg",   "search": "Aleksandar Pavlović" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich" },
+    { "file": "stiller.jpg",    "search": "Angelo Stiller" },
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "fans.jpg",       "search": "DFB Fans Deutschland" },
+    { "file": "dfb_team.jpg",   "search": "DFB Teamfoto 2026" },
+    { "file": "dfb_flagge.jpg", "search": "Deutschland Flagge schwarz rot gold" },
+    { "file": "wm_logo.jpg",    "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "GORETZKAS NUMMER 8 – NEU VERGEBEN. KLOPP SCHAUT GENAU HIN.", "image": "bischof.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2030 · DFB-NEUSTART", "title": "Tom Bischof – Klopps neue Acht?", "image": "dfb_team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "bischof_aktion.jpg", "name": "Tom Bischof", "role": "Mittelfeld · 23 · Bayern #8", "weight": 0.8 },
+    { "type": "stats", "title": "Bayern-Saison 2025/26", "stats": [
+        { "label": "Einsätze", "value": "39" },
+        { "label": "Tore + Vorlagen", "value": "6" },
+        { "label": "DFB-Caps", "value": "1" }
+      ], "image": "klopp.jpg", "weight": 0.9 },
+    { "type": "image", "image": "goretzka.jpg", "name": "Leon Goretzka", "role": "Vereinslos · #8 weitergegeben", "weight": 0.8 },
+    { "type": "image", "image": "pavlovic.jpg", "name": "Aleksandar Pavlović", "role": "Bayern Mittelfeld · 21 · gesetzt", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",  "name": "Joshua Kimmich", "role": "DFB-Kapitän · 31 · 109 LS", "weight": 0.8 },
+    { "type": "image", "image": "stiller.jpg",  "name": "Angelo Stiller", "role": "Stuttgart Mittelfeld · 25", "weight": 0.8 },
+    { "type": "image", "image": "dfb_flagge.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Gehört Bischof in Klopps ersten Kader?", "subtitle": "Kommentiert eure Meinung!", "image": "wm_logo.jpg", "weight": 1.0 }
+  ]
+}

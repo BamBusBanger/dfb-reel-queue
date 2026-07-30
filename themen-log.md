@@ -306,3 +306,4 @@
 2026-07-29 | kimmich-vs-stiller-sechser-klopp | Kimmich 109 LS vs Stiller 7 LS Duell zweiter Sechser neben Pavlovic, Klopp 4-4-2, Matthäus Forderung, 57 Tage bis Amsterdam-Debüt (DUELL/VERGLEICH)
 2026-07-30 | wirtz-leeds-debut-klopp-schaut | Wirtz verpasst Yankee Stadium 1:0 vs Wrexham, bleibt in Chicago, Iraola bestätigt Einsatz vs Leeds, 360 WM-Minuten 0 Tore, Klopp schaut zu (NEWS-DRAMA)
 2026-07-30 | gnabry-klopp-geheimkarte | Serge Gnabry 31 Adduktorenriss WM-Aus April, Comeback-Training Säbener Straße neben Karl, Supercup-Ziel 22. August, Klopp 4-4-2 braucht Flügelspieler, 60+ Länderspiele Vertrag bis 2028, Konkurrent Sané zu Galatasaray (GEHEIMNIS)
+2026-07-30 | bischof-klopps-neue-acht | Tom Bischof Bayern #8 Goretzka-Erbe 23J., 39 Einsätze 3T+3V erste Saison, 1 DFB-Cap Nagelsmann, Klopps 57er-Liste, Mittelfeld-Konkurrenz Pavlović/Kimmich/Stiller (TOP-3-LISTE)
