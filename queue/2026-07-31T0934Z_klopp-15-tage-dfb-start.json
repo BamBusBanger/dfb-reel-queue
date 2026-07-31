@@ -1,0 +1,105 @@
+{
+  "slug": "klopp-15-tage-dfb-start",
+  "createdAt": "2026-07-31T09:34:39Z",
+  "title": "Klopps Countdown: 15 Tage bis zum DFB-Start",
+  "script": "IN 15 TAGEN beginnt eine neue Ära. Am 15. August nimmt Klopp offiziell Dienst beim DFB auf. Am 22. August sitzt er im Signal Iduna Park beim Franz-Beckenbauer-Supercup – BVB gegen Bayern – und scoutet 57 Kandidaten. Mitte September kommt die erste Liste: 26 dürfen rein, 31 werden geschockt. Am 24. September Debüt in Amsterdam gegen die Niederlande. Dann 4 Spiele in nur 11 Tagen – der härteste Bundestrainer-Start der DFB-Geschichte. Wer ist dabei, den Klopp komplett überrascht?",
+  "uploadCaption": "Klopps DFB-Countdown: 15 Tage bis zum Amtsantritt. Am 15. August offizieller Start. Am 22. August Supercup-Scouting im Signal Iduna Park. 57 Kandidaten, 26 Plätze. Am 24. September Amsterdam – Klopps Debüt. 4 Spiele in 11 Tagen. Wer ist in der ersten Liste dabei?",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #NationsLeague #WM2030 #Fussball",
+  "images": [
+    { "file": "klopp.jpg",       "search": "Jürgen Klopp" },
+    { "file": "dfb_flag.jpg",    "search": "Deutschland Flagge" },
+    { "file": "klopp_pk.jpg",    "search": "Jürgen Klopp DFB Bundestrainer Pressekonferenz 2026" },
+    { "file": "signal_iduna.jpg","search": "Signal Iduna Park" },
+    { "file": "wm_mural.jpg",    "search": "WM 2026 Wandbild USA" },
+    { "file": "kimmich.jpg",     "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",       "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",     "search": "Jamal Musiala" },
+    { "file": "ouedraogo.jpg",   "search": "Assan Ouédraogo" },
+    { "file": "teamfoto.jpg",    "search": "DFB Team 2026" },
+    { "file": "fans_jubel.jpg",  "search": "DFB Fans" },
+    { "file": "pokal.jpg",       "search": "WM Pokal Gold" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "IN 15 TAGEN beginnt eine neue Ära.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB · 15. August",
+      "title": "Klopps Countdown beginnt",
+      "image": "dfb_flag.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp_pk.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Vertrag bis 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "signal_iduna.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps Countdown",
+      "stats": [
+        { "label": "Tage bis Amtsantritt", "value": "15" },
+        { "label": "Kandidaten auf Liste", "value": "57" },
+        { "label": "Spiele in 11 Tagen", "value": "4" }
+      ],
+      "image": "wm_mural.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22 · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 23 · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Mittelfeld · 20 · RB Leipzig",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "teamfoto.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wen schockt Klopp?",
+      "subtitle": "Wer schafft's in die erste 26?",
+      "image": "pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
