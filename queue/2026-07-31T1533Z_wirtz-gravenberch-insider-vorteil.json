@@ -1,0 +1,95 @@
+{
+  "slug": "wirtz-gravenberch-insider-vorteil",
+  "createdAt": "2026-07-31T15:33:00Z",
+  "title": "Klopps geheime Insider-Waffe: Wirtz + Gravenberch",
+  "script": "KLOPPS GEHEIMVORTEIL: Florian Wirtz und Ryan Gravenberch trainieren ab 3. August gemeinsam bei Liverpool. 7 Wochen vor Klopps DFB-Debüt am 24. September in Amsterdam. Liverpool-Coach Iraola bestätigt jetzt: Wirtz spielt als echte Zehn hinter dem Stürmer – nicht mehr links wie unter Nagelsmann. 360 WM-Minuten, 0 Tore – auf der falschen Position. Klopp kennt Gravenberch besser als jeder Niederlande-Trainer. Wirtz lernt täglich jeden Trick seines direkten Gegners. Das ist kein Zufall. Das ist der Plan. Ist das Klopps unfairster Vorteil?",
+  "uploadCaption": "Klopp hat einen Trumpf den kaum jemand sieht: Wirtz und Gravenberch trainieren 7 Wochen gemeinsam bei Liverpool – kurz vor dem DFB-Debüt in Amsterdam am 24.9. Iraola stellt Wirtz jetzt auf die Zehn. Endlich die richtige Position. #DFB #Klopp #Wirtz #Gravenberch #Liverpool #NationsLeague #WM2030",
+  "uploadHashtags": "#DFB #Klopp #Wirtz #Gravenberch #Liverpool #WM2030 #Nationalmannschaft #Fussball #NationsLeague",
+  "images": [
+    { "file": "wirtz_training.jpg",  "search": "Florian Wirtz" },
+    { "file": "klopp_dfb.jpg",       "search": "Jürgen Klopp" },
+    { "file": "wirtz_dfb.jpg",       "search": "Florian Wirtz" },
+    { "file": "gravenberch.jpg",     "search": "Ryan Gravenberch Liverpool" },
+    { "file": "liverpool_usa.jpg",   "search": "Liverpool FC Chicago pre-season 2026" },
+    { "file": "dfb_fans.jpg",        "search": "DFB Fans Deutschland" },
+    { "file": "amsterdam_arena.jpg", "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "kimmich.jpg",         "search": "Joshua Kimmich" },
+    { "file": "wirtz_jubel.jpg",     "search": "Florian Wirtz" },
+    { "file": "dfb_team.jpg",        "search": "DFB Nationalmannschaft" },
+    { "file": "musiala.jpg",         "search": "Jamal Musiala" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPPS GEHEIMVORTEIL.",
+      "image": "wirtz_training.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2030",
+      "title": "Wirtz + Gravenberch – der geheime Plan",
+      "image": "klopp_dfb.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_dfb.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · Liverpool · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "gravenberch.jpg",
+      "name": "Ryan Gravenberch",
+      "role": "Niederlande · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die versteckten Zahlen",
+      "stats": [
+        { "label": "Wirtz Ablöse", "value": "125 Mio. £" },
+        { "label": "WM-Tore", "value": "0" },
+        { "label": "Wochen Training mit Gravenberch", "value": "7" }
+      ],
+      "image": "liverpool_usa.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam_arena.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 31",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Unfairer Vorteil oder Meisterstrategie?",
+      "subtitle": "Kommentiert eure Meinung!",
+      "image": "musiala.jpg",
+      "weight": 1.0
+    }
+  ]
+}
