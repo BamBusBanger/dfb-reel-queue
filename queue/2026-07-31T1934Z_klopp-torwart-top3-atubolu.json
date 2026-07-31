@@ -1,0 +1,34 @@
+{
+  "slug": "klopp-torwart-top3-atubolu",
+  "createdAt": "2026-07-31T19:34:35Z",
+  "title": "Klopps Torwart-Rätsel: Wer beerbt Neuer?",
+  "script": "NEUER IST WEG – 125 Länderspiele, 21 WM-Spiele Weltrekord, jetzt muss Klopp das Vakuum füllen. Drei Kandidaten im Rennen: Jonas Urbig, 22, Bayern München – 6 Zu-Null in 14 BL-Spielen, das Talent. Noah Atubolu, 24, Freiburg – 22 U21-Einsätze, DFB-Rekord für Torhüter überhaupt. Stefan Ortega, 33, Nottingham Forest – der Erfahrene. Laut Experten ist es weder Urbig noch Baumann, der sicher als Nummer 1 gilt. Klopp startet am 15. August – die erste Kadernominierung kommt Mitte September.",
+  "uploadCaption": "125 Länderspiele, 21 WM-Rekordspiele – Manuel Neuer ist Geschichte. Wer hütet unter Klopp das deutsche Tor? Dein Tipp in die Kommentare! 🧤",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #Neuer #Torwart #WM2026 #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "neuer_action.jpg",   "search": "Manuel Neuer DFB Parade" },
+    { "file": "neuer_presse.jpg",   "search": "Manuel Neuer Pressekonferenz DFB" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp Bundestrainer DFB" },
+    { "file": "urbig.jpg",          "search": "Jonas Urbig Bayern München" },
+    { "file": "atubolu.jpg",        "search": "Noah Atubolu SC Freiburg" },
+    { "file": "ortega.jpg",         "search": "Stefan Ortega Nottingham Forest" },
+    { "file": "dfbteam.jpg",        "search": "DFB Team 2026" },
+    { "file": "fans.jpg",           "search": "DFB Fans" },
+    { "file": "wm26logo.jpg",       "search": "WM 2026" },
+    { "file": "neuer_career.jpg",   "search": "Manuel Neuer Karriere DFB Abschied" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "NEUER IST WEG.", "image": "neuer_action.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPPS ERSTE ENTSCHEIDUNG", "title": "Wer beerbt Neuer im Tor?", "image": "wm26logo.jpg", "weight": 0.7 },
+    { "type": "image", "image": "neuer_presse.jpg",  "name": "Manuel Neuer", "role": "125 LS · WM-Rekord 21 Spiele · Karriereende 2026", "weight": 0.8 },
+    { "type": "image", "image": "urbig.jpg",   "name": "Jonas Urbig",  "role": "Kandidat #1 · 22 J. · Bayern München", "weight": 0.8 },
+    { "type": "stats", "title": "Urbig – Der Youngster", "stats": [{ "label": "Zu-Null", "value": "6 / 14 BL-Spiele" }, { "label": "Alter", "value": "22" }], "image": "urbig.jpg", "weight": 0.9 },
+    { "type": "image", "image": "atubolu.jpg", "name": "Noah Atubolu", "role": "Kandidat #2 · 24 J. · SC Freiburg", "weight": 0.8 },
+    { "type": "stats", "title": "Atubolu – Der Überraschungsmann", "stats": [{ "label": "U21-Einsätze", "value": "22 (DFB-Rekord)" }, { "label": "Alter", "value": "24" }], "image": "atubolu.jpg", "weight": 0.9 },
+    { "type": "image", "image": "ortega.jpg",  "name": "Stefan Ortega", "role": "Kandidat #3 · 33 J. · Nottingham Forest", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",   "weight": 0.8 },
+    { "type": "image", "image": "dfbteam.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",    "weight": 0.8 },
+    { "type": "outro", "title": "Wer wird Klopps Nummer 1?", "subtitle": "Urbig, Atubolu oder Ortega – oder ein echter Überraschungsmann?", "image": "neuer_career.jpg", "weight": 1.0 }
+  ]
+}
