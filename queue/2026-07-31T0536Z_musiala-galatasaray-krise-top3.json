@@ -1,0 +1,100 @@
+{
+  "slug": "musiala-galatasaray-krise-top3",
+  "createdAt": "2026-07-31T05:36:00Z",
+  "title": "Musiala-Krise: 3 Zahlen hinter dem Galatasaray-Gerücht",
+  "script": "25 Millionen Euro pro Jahr – und Galatasaray glaubte ernsthaft, sie könnten Jamal Musiala ausleihen. Das Gerücht der Woche wurde als absoluter Quatsch abgewürgt – aber warum entstand es überhaupt? Drei Zahlen verraten die Wahrheit. Nagelsmann wechselte ihn 4 Mal aus in 4 WM-Spielen. Nur 239 Minuten Einsatzzeit, gerade mal 1 Tor. Bayern hält ihn mit 25 Millionen Jahresgehalt bis 2030 fest. Jetzt soll Klopp den 23-Jährigen endlich befreien. Aber schafft er das?",
+  "uploadCaption": "Galatasaray wollte Musiala leihen – Bayern antwortete mit 'absoluter Quatsch'. Was steckt hinter dem Wahnsinn? 3 WM-Zahlen erklären alles.",
+  "uploadHashtags": "#Musiala #DFB #WM2026 #Klopp #BayernMünchen #Galatasaray #Transfer #Bundestrainer #WM2030",
+  "images": [
+    { "file": "musiala_portrait.png", "search": "Jamal Musiala" },
+    { "file": "musiala_aktion.jpg", "search": "Jamal Musiala" },
+    { "file": "musiala_jubel.webp", "search": "Jamal Musiala" },
+    { "file": "musiala_wm26.jpg", "search": "Jamal Musiala WM 2026" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "galatasaray.jpg", "search": "Galatasaray Istanbul" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "dfb_team.jpg", "search": "DFB Team 2026" },
+    { "file": "wirtz.png", "search": "Florian Wirtz" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "25 MIO. € – UND GALATASARAY WOLLTE IHN TROTZDEM LEIHEN.",
+      "image": "musiala_portrait.png",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "TOP 3 ZAHLEN",
+      "title": "Die Musiala-Krise",
+      "image": "musiala_aktion.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_jubel.webp",
+      "name": "Jamal Musiala",
+      "role": "Bayern München · 23 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Zahlen der Krise",
+      "stats": [
+        { "label": "Mal ausgewechselt (WM)", "value": "4" },
+        { "label": "WM-Einsatzminuten", "value": "239" },
+        { "label": "WM-Tore in 4 Spielen", "value": "1" }
+      ],
+      "image": "nagelsmann.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala_wm26.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "galatasaray.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer seit Juli 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Bayerns Antwort: Kein Verkauf",
+      "stats": [
+        { "label": "Jahresgehalt (Mio. €)", "value": "25" },
+        { "label": "Bayern-Vertrag bis", "value": "2030" }
+      ],
+      "image": "dfb_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.png",
+      "name": "Florian Wirtz",
+      "role": "Klopps zweite Mission 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Klopp die Wende?",
+      "subtitle": "Hat Musiala 2030 sein bestes Jahr – oder ist er schon überschätzt?",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}

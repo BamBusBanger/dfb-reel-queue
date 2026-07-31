@@ -310,3 +310,4 @@
 2026-07-30 | adeyemi-beier-klopp-fluegelduell | Adeyemi (BVB→Barcelona 22 Mio.) vs Beier (BVB, 20+ Torbeteiligungen), Klopp-Flügel-Duell 4-4-2, WM 2026 verpasst vs WM-Kader, Klopp-Debüt 24.9. Amsterdam (DUELL/VERGLEICH)
 2026-07-30 | goretzka-chicago-fire-mls-klopp-schock | Goretzka vereinslos zu Chicago Fire MLS, Lewandowski schon unterschrieben, Bayern-Duo Reunion, Klopp 57er-Liste in Gefahr, 70 LS 27 WM-Min (GEHEIMNIS)
 2026-07-30 | el-mala-200k-bvb-deadline | El Mala (19, Köln) 13 Tore BVB-Angebot 44 Mio. vs Köln-Forderung 50 Mio., Sport1 enthüllt Lücke nur 200.000 Euro, Matthäus-Garantie 'Er wird kommen', Klopp WM-2030-Juwel, Deadline-Drama (NEWS-DRAMA)
+2026-07-31 | musiala-galatasaray-krise-top3 | Musiala WM-Krise 3 Zahlen (4× ausgewechselt, 239 Min, 1 Tor), Galatasaray-Leihe-Gerücht als absoluter Quatsch abgewürgt, Bayern 25 Mio.€/Jahr bis 2030, Klopp-Mission Jahrhunderttalent entfesseln (TOP-3-LISTE)
