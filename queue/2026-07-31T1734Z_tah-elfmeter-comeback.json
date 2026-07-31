@@ -1,0 +1,97 @@
+{
+  "slug": "tah-elfmeter-comeback",
+  "createdAt": "2026-07-31T17:34:52Z",
+  "title": "Tah: Ich würde den Elfmeter wieder schießen",
+  "script": "Er hat den Elfmeter verschossen. Der Elfmeter, der das WM-Aus besiegelte. 4:5 im Elfmeterschießen gegen Paraguay. Dazu das aberkannte Tor in der 102. Minute. Havertz, Woltemade und er – 3 verschossene Elfmeter, 1 verlorenes Turnier. Und jetzt sagt Jonathan Tah: Er würde es wieder tun. Mit 30 Jahren, als Bayern-Abwehrchef, als Klopp-Kandidat Nummer 1. Das neue Kapitel hat begonnen – aber: Hättest du Tah nochmal antreten lassen?",
+  "uploadCaption": "Er hat DEN Elfmeter verschossen – und würde ihn nochmal schießen. Jonathan Tah mit dem mutigsten Statement nach dem WM-Aus. Neues Kapitel, neue Hoffnung. 🇩🇪⚽",
+  "uploadHashtags": "#DFB #WM2026 #JonathanTah #Elfmeter #Paraguay #Klopp #Nationalmannschaft #NeuesKapitel",
+  "images": [
+    { "file": "tah01.jpg",       "search": "Jonathan Tah" },
+    { "file": "tah02.jpg",       "search": "Jonathan Tah DFB Bayern" },
+    { "file": "havertz.jpg",     "search": "Kai Havertz" },
+    { "file": "woltemade.jpg",   "search": "Nick Woltemade" },
+    { "file": "ruediger_tah.jpg","search": "Antonio Rüdiger" },
+    { "file": "gillette.jpg",    "search": "Gillette Stadium Foxborough WM 2026 Deutschland Paraguay" },
+    { "file": "fans_schock.jpg", "search": "DFB Fans Entsetzen" },
+    { "file": "klopp.jpg",       "search": "Jürgen Klopp" },
+    { "file": "fans_hoffen.jpg", "search": "DFB Fans Hoffen" },
+    { "file": "dfb_team.jpg",    "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wm_mural.jpg",    "search": "WM 2026 USA" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER WÜRDE ES NOCHMAL TUN.",
+      "image": "tah01.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · Elfmeter-Beichte",
+      "title": "Tah: Ich trete wieder an",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "tah02.jpg",
+      "name": "Jonathan Tah",
+      "role": "Innenverteidiger · 30 · Bayern München",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Elfmeter verschossen · Paraguay WM-Aus",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "Elfmeter verschossen · Paraguay WM-Aus",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Paraguay-Elfmeter-Trauma",
+      "stats": [
+        { "label": "DFB-Fehlschüsse", "value": "3" },
+        { "label": "Ergebnis i.E.", "value": "4:5" },
+        { "label": "Abgepf. Tore (102. Min.)", "value": "1" }
+      ],
+      "image": "gillette.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "ruediger_tah.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_schock.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Neuer Bundestrainer · Start 15. August",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_hoffen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Hättest du Tah nochmal geschickt?",
+      "subtitle": "Kommentiere JA oder NEIN",
+      "image": "wm_mural.jpg",
+      "weight": 1.0
+    }
+  ]
+}
