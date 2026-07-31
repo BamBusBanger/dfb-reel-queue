@@ -1,0 +1,101 @@
+{
+  "slug": "diomande-real-130mio-tah-duell",
+  "createdAt": "2026-07-31T12:41:00Z",
+  "title": "130 Mio. – Real Madrid holt DFB-Schreck",
+  "script": "130 MILLIONEN für den Spieler, den Tah beim WM-Gruppenspiel noch stoppen konnte! Yan Diomandé, 19 Jahre, wechselt von RB Leipzig zu Real Madrid – Leipzig hatte zuvor Angebote von 115 Millionen abgelehnt. Nur 1 Bundesliga-Saison, 21 Scorer-Punkte, WM-Teilnahme für die Elfenbeinküste gegen Deutschland. Jetzt ist er 130 Millionen wert. Klopp macht sich Notizen: 2030, beim WM-Heimspiel in Spanien, trifft Tah auf Diomandé auf dem Gipfel seiner Karriere. Wird die DFB-Abwehr dann standhalten?",
+  "uploadCaption": "130 Millionen für den WM-Schrecken 🔥 Real Madrid zahlt Rekordablöse für Yan Diomandé – den 19-Jährigen, den Tah beim WM-Gruppenspiel noch kontrollieren konnte. Klopp macht sich schon Notizen für 2030. Das Wiedersehen in Spanien kommt.",
+  "uploadHashtags": "#DFB #WM2026 #RealMadrid #Diomande #JonathanTah #Bundesliga #Klopp #Transfer #WM2030",
+  "images": [
+    { "file": "diomande.jpg",           "search": "Yan Diomandé" },
+    { "file": "tah.jpg",                "search": "Jonathan Tah" },
+    { "file": "toronto_stadion.jpg",    "search": "BMO Field Toronto" },
+    { "file": "ruediger.jpg",           "search": "Antonio Rüdiger" },
+    { "file": "brown.jpg",              "search": "Nathaniel Brown DFB" },
+    { "file": "elfenbeinkueste_jubel.jpg", "search": "Elfenbeinküste WM 2026" },
+    { "file": "real_madrid_stadion.jpg","search": "Real Madrid Santiago Bernabeu" },
+    { "file": "wm_pokal.jpg",           "search": "WM Pokal" },
+    { "file": "fans_dfb.jpg",           "search": "DFB Fans" },
+    { "file": "wm2030_spanien.jpg",     "search": "WM 2030 Spanien Stadion Konzept", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "130 MILLIONEN – FÜR DEN DFB-SCHRECK!",
+      "image": "diomande.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DUELL/VERGLEICH · WM 2026 → 2030",
+      "title": "Real Madrid zahlt 130 Mio. €",
+      "image": "toronto_stadion.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "diomande.jpg",
+      "name": "Yan Diomandé",
+      "role": "Real Madrid · 19 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "DFB-Abwehrchef · 30 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Transfer-Hammer",
+      "stats": [
+        { "label": "Real Madrid zahlt", "value": "130 Mio. €" },
+        { "label": "Leipzig lehnte ab", "value": "115 Mio. €" },
+        { "label": "Bundesliga-Scorer", "value": "21 (1 Saison)" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "elfenbeinkueste_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "real_madrid_stadion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ruediger.jpg",
+      "name": "Antonio Rüdiger",
+      "role": "DFB-Verteidigung · 33 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "brown.jpg",
+      "name": "Nathaniel Brown",
+      "role": "Bayern München · 23 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm2030_spanien.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Stoppt Tah Diomandé auch 2030?",
+      "subtitle": "WM in Spanien – das Rematch kommt",
+      "image": "toronto_stadion.jpg",
+      "weight": 1.0
+    }
+  ]
+}
