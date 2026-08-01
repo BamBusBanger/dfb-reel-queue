@@ -1,0 +1,38 @@
+{
+  "slug": "dfb-rba-novum-klopp-preis",
+  "createdAt": "2026-08-01T19:34:00Z",
+  "title": "3 DFB-Spiele in der Red-Bull-Arena: Klopps geheimer Preis",
+  "script": "Der DFB bricht ein 100-Jahre-Tabu – und kaum jemand redet darüber! Um Klopp vorzeitig aus seinem Red-Bull-Vertrag zu lösen, verpflichtet sich der DFB zu 3 Länderspielen in der Red-Bull-Arena Leipzig bis 2030 – erstmals überhaupt in einem kommerziell gebrandeten Stadion. Sonst heißt die Allianz Arena beim DFB 'Fußball Arena München'. Jetzt plötzlich Red Bull. Dazu zahlt der DFB 1 Million Euro an die Stiftung Wings for Life. Klopp kostete offiziell 0 Euro Ablöse – aber 3 historische Zugeständnisse. Meisterstreich oder Ausverkauf des deutschen Fußballs?",
+  "uploadCaption": "0 € Ablöse – aber der DFB bezahlt trotzdem! Klopp kostet 3 Länderspiele in der Red-Bull-Arena + 1 Mio. € Wings for Life. Erstmals überhaupt bricht der DFB sein 100-Jahre-Tabu der neutralen Stadionnamen. War das der Deal des Jahrzehnts – oder ein historischer Fehler?",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #RedBull #Leipzig #WM2030 #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "klopp_dfb.jpg", "search": "Jürgen Klopp DFB Bundestrainer 2026" },
+    { "file": "rba_aussen.jpg", "search": "Red Bull Arena Leipzig" },
+    { "file": "rba_innen.jpg", "search": "Red Bull Arena Leipzig Innenraum" },
+    { "file": "flagge.jpg", "search": "Deutschland Flagge" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "teamfoto.jpg", "search": "DFB Teamfoto 2026" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal" },
+    { "file": "tradition.jpg", "search": "DFB Tradition Fußball Stadion neutral historisch", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "DER DFB BRICHT EIN 100-JAHRE-TABU.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPP-PREIS 2026", "title": "3 DFB-Spiele in der Red-Bull-Arena", "image": "rba_aussen.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp_dfb.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · ab 15. August 2026", "weight": 0.8 },
+    { "type": "stats", "title": "Der heimliche Klopp-Preis", "stats": [
+      { "label": "Länderspiele in Red-Bull-Arena bis 2030", "value": "3" },
+      { "label": "Zahlung an Wings for Life", "value": "1 Mio. €" },
+      { "label": "Ablöse an Red Bull", "value": "0 €" }
+    ], "image": "flagge.jpg", "weight": 0.9 },
+    { "type": "image", "image": "rba_innen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "teamfoto.jpg", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "DFB-Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Klopp-Schlüsselspieler · 22 Jahre", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "tradition.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Ausverkauf oder Meisterstreich?", "subtitle": "Hat der DFB seine Seele verkauft – oder war es der Deal des Jahrzehnts?", "image": "wm_pokal.jpg", "weight": 1.0 }
+  ]
+}
