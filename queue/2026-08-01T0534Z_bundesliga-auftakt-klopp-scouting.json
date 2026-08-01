@@ -1,0 +1,99 @@
+{
+  "slug": "bundesliga-auftakt-klopp-scouting",
+  "createdAt": "2026-08-01T05:34:00Z",
+  "title": "Klopps erstes Live-Scouting: Bayern vs Stuttgart",
+  "script": "NUR 27 TAGE bis Klopps erstes Live-Scouting als neuer Bundestrainer! Am 28. August trifft Bayern auf Stuttgart – und 5 seiner 57 Kandidaten kämpfen auf dem Platz. Musiala (0 WM-Tore in 360 Minuten) muss Klopp endlich überzeugen. Tom Bischof als Goretzka-Erbe auf der Acht. Angelo Stiller als möglicher Sechser der Zukunft. Lennart Karl (18) zurück nach 60 Tagen Verletzungspause. Erste Nominierung Mitte September – 57 Kandidaten, nur 26 Plätze. Wer schafft es ins erste Klopp-Kader?",
+  "uploadCaption": "27 TAGE – dann schaut Klopp LIVE zu! Am 28. August trifft Bayern auf Stuttgart und 5 DFB-Kandidaten zeigen sich dem neuen Bundestrainer. Musiala, Bischof, Stiller, Karl, Pavlovic: Wer überzeugt Klopp für seine erste Nominierung Mitte September? 57 Kandidaten, nur 26 Plätze. Der Kampf um den ersten Klopp-Kader beginnt jetzt!",
+  "uploadHashtags": "#DFB #Klopp #Bundesliga #Musiala #Bayern #Stuttgart #WM2030 #Fussball #Nationalmannschaft #BayernMünchen",
+  "images": [
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "allianz_arena.jpg", "search": "Allianz Arena" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "bischof.jpg",       "search": "Tom Bischof Bayern München" },
+    { "file": "stiller.jpg",       "search": "Angelo Stiller" },
+    { "file": "karl.jpg",          "search": "Lennart Karl Bayern München" },
+    { "file": "pavlovic.jpg",      "search": "Aleksandar Pavlović" },
+    { "file": "fans.jpg",          "search": "DFB Fans Deutschland" },
+    { "file": "team.jpg",          "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "wm_logo.jpg",       "search": "WM 2026 Logo" },
+    { "file": "fans2.jpg",         "search": "Deutschland Fans Stadion" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NUR 27 TAGE BIS KLOPPS ERSTEM LIVE-SCOUTING!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "28. AUGUST 2026",
+      "title": "Bayern vs Stuttgart – Klopps Scouting-Premiere",
+      "image": "allianz_arena.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 | 0 WM-Tore (360 Min.)",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "bischof.jpg",
+      "name": "Tom Bischof",
+      "role": "Mittelfeld · 23 | Klopp-Kandidat",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "stiller.jpg",
+      "name": "Angelo Stiller",
+      "role": "Sechser · 25 | 0 WM-Minuten",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "karl.jpg",
+      "name": "Lennart Karl",
+      "role": "Offensiv · 18 | Comeback nach 60 Tagen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pavlovic.jpg",
+      "name": "Aleksandar Pavlović",
+      "role": "Mittelfeld · 21 | WM-Starter Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps Scouting-Rechnung",
+      "stats": [
+        { "label": "Tage bis Spiel", "value": "27" },
+        { "label": "Kandidaten gesamt", "value": "57" },
+        { "label": "Kaderplätze", "value": "26" }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_logo.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer überzeugt Klopp?",
+      "subtitle": "Musiala oder ein Überraschungskandidat?",
+      "image": "fans2.jpg",
+      "weight": 1.0
+    }
+  ]
+}
