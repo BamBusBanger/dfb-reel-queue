@@ -1,0 +1,33 @@
+{
+  "slug": "urbig-atubolu-klopps-torwart-duell",
+  "createdAt": "2026-08-01T09:34:00Z",
+  "title": "Urbig vs Atubolu – Klopps neue Nummer Eins",
+  "script": "Neuer ist weg – und Jürgen Klopp hat seine neue Nummer 1 beim DFB noch NICHT bestimmt. Jonas Urbig: 22 Jahre, Bayern München, 6 Zu-Null in gerade mal 14 Bundesliga-Spielen. Experten nennen ihn das 'perfekte Profil für modernen Fußball'. Noah Atubolu: 24 Jahre, SC Freiburg, DFB-U21-Rekord mit 22 Einsätzen – und AC Milan scharrt schon mit den Hufen. Nur noch 54 Tage bis zu Klops Debüt in Amsterdam. Wer wird Deutschlands neuer Torwart für 2030?",
+  "uploadCaption": "Neuer ist weg – wer wird Jürgen Klops Nummer Eins? 🧤 Jonas Urbig (22, Bayern, 6 Zu-Null in 14 Spielen) vs Noah Atubolu (24, Freiburg, 22 U21-DFB-Caps – Allzeit-Rekord). 54 Tage bis zum Debüt in Amsterdam. Klopp hat noch nicht entschieden. Schreibt eure Stimme in die Kommentare!",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #Urbig #Atubolu #Torwart #Nationalmannschaft #NationsLeague #WM2030 #Fussball",
+  "images": [
+    { "file": "urbig.jpg", "search": "Jonas Urbig Bayern" },
+    { "file": "atubolu.jpg", "search": "Noah Atubolu Freiburg" },
+    { "file": "urbig_aktion.jpg", "search": "Jonas Urbig Bayern Keeper" },
+    { "file": "atubolu_aktion.jpg", "search": "Noah Atubolu Freiburg Keeper" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "neuer.jpg", "search": "Manuel Neuer" },
+    { "file": "fans.jpg", "search": "DFB Fans Deutschland" },
+    { "file": "amsterdam.jpg", "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "team.jpg", "search": "DFB Team Mannschaftsfoto 2026" },
+    { "file": "fans_trib.jpg", "search": "DFB Fans Tribüne" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "NEUERS NACHFOLGER – NOCH NICHT BESTIMMT.", "image": "urbig.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPPS TORWART-DUELL", "title": "Urbig vs Atubolu", "image": "team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "urbig_aktion.jpg", "name": "Jonas Urbig", "role": "Torwart · Bayern München · 22 J.", "weight": 0.8 },
+    { "type": "stats", "title": "Urbig 2025/26", "stats": [{ "label": "Zu-Null", "value": "6" }, { "label": "BL-Spiele", "value": "14" }], "image": "urbig.jpg", "weight": 0.9 },
+    { "type": "image", "image": "atubolu.jpg", "name": "Noah Atubolu", "role": "Torwart · SC Freiburg · 24 J.", "weight": 0.8 },
+    { "type": "stats", "title": "Atubolu DFB-U21", "stats": [{ "label": "U21-Caps", "value": "22" }, { "label": "Allzeit-Rekord", "value": "Nr. 1" }], "image": "atubolu_aktion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "neuer.jpg", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "amsterdam.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Urbig oder Atubolu?", "subtitle": "Klopp hat 54 Tage – ihr jetzt die Stimme!", "image": "fans_trib.jpg", "weight": 1.0 }
+  ]
+}
