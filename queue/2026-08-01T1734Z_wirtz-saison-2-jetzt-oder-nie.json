@@ -1,0 +1,104 @@
+{
+  "slug": "wirtz-saison-2-jetzt-oder-nie",
+  "createdAt": "2026-08-01T17:34:32Z",
+  "title": "Wirtz: Saison 2 – Jetzt oder nie",
+  "script": "125 Millionen Pfund – und trotzdem kein einziges WM-Tor. Florian Wirtz, 23 Jahre, startet heute Mission Wiedergutmachung: Saison 2 beim FC Liverpool. Letzte Spielzeit: 7 Tore, 8 Vorlagen in 48 Spielen – solide, aber längst nicht das, was alle erwarten. WM 2026? 360 Minuten gespielt, null Treffer. Vier Mal ausgewechselt. Jetzt wartet Jürgen Klopp als neuer Bundestrainer – und hat Wirtz noch NIE persönlich trainiert. „Very excited for season two", sagt der Star selbst. Die WM 2030 fängt heute an.",
+  "uploadCaption": "125 Mio. Pfund. 0 WM-Tore. Jetzt startet Florian Wirtz seine zweite Liverpool-Saison – und Klopp schaut zu. Wird das sein Durchbruchsjahr?",
+  "uploadHashtags": "#FlorianWirtz #Liverpool #DFB #WM2030 #Klopp #Bundestrainer #Fussball #WM2026",
+  "images": [
+    { "file": "wirtz_portrait.jpg", "search": "Florian Wirtz Portrait" },
+    { "file": "wirtz_training_lfc.jpg", "search": "Florian Wirtz Training Liverpool" },
+    { "file": "wirtz_jubel_dfb.jpg", "search": "Florian Wirtz Jubel DFB" },
+    { "file": "wirtz_zweikampf.jpg", "search": "Florian Wirtz Zweikampf" },
+    { "file": "wirtz_presse.jpg", "search": "Florian Wirtz Presse" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp Bundestrainer 2026" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans Deutschland" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal Gold" },
+    { "file": "wirtz_lfc_preseason.jpg", "search": "Florian Wirtz Liverpool pre-season Chicago 2026" },
+    { "file": "dfb_teamfoto.jpg", "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wirtz_jubel2.jpg", "search": "Florian Wirtz Jubel Liverpool" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "125 MIO. PFUND – 0 WM-TORE.",
+      "image": "wirtz_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "SAISON 2 · JETZT ODER NIE",
+      "title": "Wirtz: Mission Wiedergutmachung",
+      "image": "wirtz_training_lfc.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel_dfb.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23 J. · FC Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Saison 1 Liverpool (2025/26)",
+      "stats": [
+        { "label": "Tore", "value": "7" },
+        { "label": "Vorlagen", "value": "8" },
+        { "label": "Spiele", "value": "48" }
+      ],
+      "image": "wirtz_zweikampf.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz_lfc_preseason.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM 2026 – die bittere Bilanz",
+      "stats": [
+        { "label": "Minuten gespielt", "value": "360" },
+        { "label": "WM-Tore", "value": "0" },
+        { "label": "Ausgewechselt", "value": "4×" }
+      ],
+      "image": "wirtz_presse.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer · Debüt 24.9.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel2.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_teamfoto.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Explodiert Wirtz in Saison 2?",
+      "subtitle": "Ja oder Nein – Kommentar ⬇️",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
