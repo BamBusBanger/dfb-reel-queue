@@ -1,0 +1,41 @@
+{
+  "slug": "klopp-nations-league-erster-titel",
+  "createdAt": "2026-08-01T12:33:45Z",
+  "title": "Klopps geheimes Ziel: Erster Titel 2027",
+  "script": "Klopp könnte schon im Sommer 2027 seinen ersten Titel mit dem DFB holen – und kaum jemand redet darüber. 6 Gruppenspiele gegen Niederlande, Serbien und Griechenland. Die Top 2 ziehen ins Final Four 2027 ein. Deutschland war bisher nur EINMAL im Final Four der Nations League – 2018/19, und verlor 0:3 gegen Frankreich. Klopp-Debüt: 24. September in Amsterdam. Noch 54 Tage. Erster DFB-Titel seit WM 2014 – das ist Klopps geheimes Ziel Nummer 1.",
+  "uploadCaption": "Klopp könnte schon 2027 den ersten DFB-Titel seit WM 2014 holen – und kaum jemand redet darüber 😱 6 Gruppenspiele, dann Final Four. Erste Chance Sommer 2027. Debüt 24.9. Amsterdam – noch 54 Tage. Seid ihr dabei?",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #NationsLeague #WM2030 #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "klopp.jpg",     "search": "Jürgen Klopp" },
+    { "file": "team-dfb.jpg",  "search": "Deutschland Nationalmannschaft 2026" },
+    { "file": "kimmich.jpg",   "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",     "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",   "search": "Jamal Musiala" },
+    { "file": "wm-pokal.jpg",  "search": "WM Pokal" },
+    { "file": "fans-dfb.jpg",  "search": "DFB Fans Stadion" },
+    { "file": "amsterdam.jpg", "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "nl-pokal.jpg",  "search": "UEFA Nations League Trophäe goldener Pokal", "thematic": true },
+    { "file": "gruppe-a2.jpg", "search": "UEFA Nations League 2026/27 Gruppe A2 Flaggen Deutschland Niederlande Serbien Griechenland", "thematic": true },
+    { "file": "nl-finale.jpg", "search": "UEFA Nations League Final Four Finale Jubel Konfetti Trophäe", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "KLOPPS ERSTER TITEL – SCHON 2027?", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "NATIONS LEAGUE 2027", "title": "Klopps geheimes Ziel Nr. 1", "image": "team-dfb.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp.jpg",     "name": "Jürgen Klopp",   "role": "Bundestrainer · seit 15.8.2026",  "weight": 0.8 },
+    { "type": "image", "image": "gruppe-a2.jpg",                                                                       "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",   "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele",      "weight": 0.8 },
+    { "type": "stats", "title": "Deutschlands Nations-League-Bilanz",
+      "stats": [
+        { "label": "Final-Four-Teilnahmen", "value": "1×" },
+        { "label": "Finale erreicht",       "value": "0×" },
+        { "label": "Titel gewonnen",        "value": "0"  }
+      ],
+      "image": "wm-pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "amsterdam.jpg",                                                                       "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",     "name": "Florian Wirtz",  "role": "Liverpool · 6 NL-Gruppenspiele", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg",   "name": "Jamal Musiala",  "role": "Bayern München · WM-2030-Kern",  "weight": 0.8 },
+    { "type": "image", "image": "nl-pokal.jpg",                                                                        "weight": 0.8 },
+    { "type": "image", "image": "fans-dfb.jpg",                                                                        "weight": 0.8 },
+    { "type": "outro", "title": "Holt Klopp den ersten DFB-Titel seit 2014?", "subtitle": "Final Four Sommer 2027 – eure Meinung! 👇", "image": "nl-finale.jpg", "weight": 1.0 }
+  ]
+}
