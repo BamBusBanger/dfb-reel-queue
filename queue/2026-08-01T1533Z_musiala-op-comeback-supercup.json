@@ -1,0 +1,97 @@
+{
+  "slug": "musiala-op-comeback-supercup",
+  "createdAt": "2026-08-01T15:33:56Z",
+  "title": "Musiala nach OP: Rennen gegen die Zeit zum Supercup",
+  "script": "NACH DER OP – IST MUSIALA RECHTZEITIG ZURÜCK? Bayern-Star Jamal Musiala ließ nach dem WM-Aus die Metallplatte aus dem verletzten Fuß entfernen – dieselbe Platte, die nach dem Horror-Sturz in der Club-WM 2025 gegen PSG eingesetzt wurde. 1 WM-Tor, 239 Minuten, 4-mal ausgewechselt. Jetzt läuft die Uhr: Teamtraining 8. August, Comeback-Ziel Supercup am 22. August im Signal Iduna Park gegen BVB. Klopp schaut bei seinem ersten DFB-Scouting live zu. Musiala muss liefern – WM 2030 wartet nicht.",
+  "uploadCaption": "Jamal Musiala nach der OP – schafft er das Comeback zum Supercup am 22. August? Klopp schaut bei seinem ersten DFB-Scouting live zu. 1 WM-Tor, 239 Minuten, 4-mal ausgewechselt – das muss sich ändern. Teamtraining 8. August, dann BVB. Die Uhr läuft. ⏱️🔥",
+  "uploadHashtags": "#DFB #Musiala #Bayern #BVB #Klopp #Supercup #WM2030 #Fussball #Bundesliga",
+  "images": [
+    { "file": "musiala_aktion.jpg",   "search": "Jamal Musiala" },
+    { "file": "musiala_torjubel.webp","search": "Jamal Musiala" },
+    { "file": "musiala_dfb.png",      "search": "Jamal Musiala" },
+    { "file": "musiala_wm26.jpg",     "search": "Jamal Musiala WM 2026" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg",     "search": "Signal Iduna Park Dortmund" },
+    { "file": "wirtz_jubel.jpg",      "search": "Florian Wirtz" },
+    { "file": "kimmich.png",          "search": "Joshua Kimmich" },
+    { "file": "fans_dfb.jpg",         "search": "DFB Fans" },
+    { "file": "dfb_team.jpg",         "search": "DFB Team 2026" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NACH DER OP – SCHAFFT MUSIALA DAS COMEBACK?",
+      "image": "musiala_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "AUGUST 2026 · TOP 3",
+      "title": "Musiala: Rennen gegen die Zeit",
+      "image": "musiala_torjubel.webp",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_dfb.png",
+      "name": "Jamal Musiala",
+      "role": "FC Bayern · 22 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM 2026 – Bilanz",
+      "stats": [
+        { "label": "WM-Tore", "value": "1" },
+        { "label": "Minuten gesamt", "value": "239" },
+        { "label": "Ausgewechselt", "value": "4×" }
+      ],
+      "image": "musiala_wm26.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "signal_iduna.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer ab 15.8.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 125 Mio. £",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.png",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 LS",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Musiala oder Karl?",
+      "subtitle": "Wer schreibt Klopps erste DFB-Schlagzeile am 22. August?",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
