@@ -1,0 +1,103 @@
+{
+  "slug": "karl-ouedraogo-telekom-cup-duell",
+  "createdAt": "2026-08-02T15:35:00Z",
+  "title": "Karl vs. Ouédraogo – Klopp schaut am Tag 1 zu",
+  "script": "Klopps erster Tag als Bundestrainer – und was für einer! 15. August, Allianz Arena, Telekom Cup: Bayern gegen Leipzig. Das bedeutet: Lennart Karl gegen Assan Ouédraogo. Beide U17-Weltmeister 2023, beide auf Klopps 57er-Sichtungsliste. Karl: 9 Tore und 8 Vorlagen in der Debüt-Saison – dann Muskelbündelriss, WM-Aus. Ouédraogo: Debüt-Tor nach 102 Sekunden – jüngster DFB-Torschütze seit 1954. Wer überzeugt Klopp am allerersten Arbeitstag? Das September-Ticket hat nur einer.",
+  "uploadCaption": "Klopps erste Amtsstunde – und direkt ein Generationen-Duell! Am 15. August treffen Karl (Bayern, 18) und Ouédraogo (Leipzig, 20) im Telekom Cup aufeinander – beide auf Klopps 57er-Liste, beide wollen September-Kader. Wer macht den ersten Eindruck auf den neuen Bundestrainer?",
+  "uploadHashtags": "#DFB #Klopp #LennartKarl #Ouedraogo #TelekomCup #Bundestrainer #Goldgeneration #WM2030 #Fussball",
+  "images": [
+    { "file": "klopp.jpg",     "search": "Jürgen Klopp Bundestrainer DFB" },
+    { "file": "allianz.jpg",   "search": "Allianz Arena" },
+    { "file": "karl.jpg",      "search": "Lennart Karl" },
+    { "file": "u17-wm.jpg",    "search": "Deutschland U17 Weltmeister 2023" },
+    { "file": "ouedraogo.jpg", "search": "Assan Ouédraogo" },
+    { "file": "dfb-team.jpg",  "search": "DFB Nationalmannschaft 2026" },
+    { "file": "fans.jpg",      "search": "DFB Fans Stadion Tribüne" },
+    { "file": "wm-pokal.jpg",  "search": "WM Pokal Gold Trophäe" },
+    { "file": "pavlovic.jpg",  "search": "Aleksandar Pavlović" },
+    { "file": "kimmich.jpg",   "search": "Joshua Kimmich DFB" },
+    { "file": "dfb-fans2.jpg", "search": "Deutsche Fans Jubel Fahnen" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "TAG 1. KLOPP SCHAUT ZU.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "15. AUGUST 2026 · TELEKOM CUP MÜNCHEN",
+      "title": "Karl vs. Ouédraogo",
+      "image": "allianz.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "karl.jpg",
+      "name": "Lennart Karl",
+      "role": "Stürmer · 18 · FC Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Karl – Debüt-Saison 2025/26",
+      "stats": [
+        { "label": "Tore", "value": "9" },
+        { "label": "Vorlagen", "value": "8" },
+        { "label": "WM-Minuten", "value": "0" }
+      ],
+      "image": "u17-wm.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Mittelfeld · 20 · RB Leipzig",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Ouédraogo – DFB-Rekordmann",
+      "stats": [
+        { "label": "Debüt-Tor nach", "value": "102 Sek." },
+        { "label": "Jüngster DFB-Torschütze seit", "value": "1954" },
+        { "label": "WM-Minuten", "value": "0" }
+      ],
+      "image": "dfb-team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm-pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pavlovic.jpg",
+      "name": "Aleksandar Pavlović",
+      "role": "Mittelfeld · 22 · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 31 · DFB",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Karl oder Ouédraogo?",
+      "subtitle": "Wer überzeugt Klopp am ersten Tag?",
+      "image": "dfb-fans2.jpg",
+      "weight": 1.0
+    }
+  ]
+}
