@@ -1,0 +1,34 @@
+{
+  "slug": "karl-comeback-klopp-septemberkader",
+  "createdAt": "2026-08-02T05:34:33Z",
+  "title": "Karl zurück! Peilt Klopps ersten Kader an",
+  "script": "COMEBACK-HAMMER! Lennart Karl ist zurück! Deutschlands 18-jähriges Supertalent verpasste wegen eines Muskelbündelrisses die komplette WM 2026 – und kehrt jetzt früher zurück als alle erwartet haben. Ziel: der Telekom Cup am 15. August gegen RB Leipzig. Karl hatte in seiner Bundesliga-Debütsaison 9 Tore und 4 CL-Assists erzielt. Wenn der Bundesliga-Auftakt am 28. August klappt, ist Klopps erster DFB-Kader für den 24. September in Amsterdam greifbar. Und Klopp hat ihn auf seiner 57-Spieler-Liste. Macht er es noch rechtzeitig?",
+  "uploadCaption": "COMEBACK-HAMMER! Lennart Karl (18) kehrt früher zurück als erwartet – und peilt Klopps ersten DFB-Kader an! 9 BL-Tore, 4 CL-Assists in der Debütsaison. Glaubt ihr daran?",
+  "uploadHashtags": "#LennartKarl #DFB #FCBayern #Klopp #WM2026 #Comeback #Bundesliga",
+  "images": [
+    { "file": "karl.jpg",         "search": "Lennart Karl Bayern" },
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp DFB Bundestrainer" },
+    { "file": "karl_training.jpg","search": "Lennart Karl Bayern Training 2026" },
+    { "file": "allianz_arena.jpg","search": "Allianz Arena München Bayern" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park Dortmund BVB" },
+    { "file": "musiala.jpg",      "search": "Jamal Musiala Bayern" },
+    { "file": "gnabry.jpg",       "search": "Serge Gnabry DFB Bayern" },
+    { "file": "dfb_team.jpg",     "search": "Deutschland Nationalmannschaft 2026" },
+    { "file": "fans.jpg",         "search": "DFB Fans Deutschland Stadion" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich DFB Kapitän" },
+    { "file": "flagge.jpg",       "search": "Deutschland Flagge Berlin" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "COMEBACK-HAMMER!",                           "image": "karl.jpg",         "weight": 0.5 },
+    { "type": "title", "eyebrow": "LENNART KARL", "title": "Karl peilt Klopps ersten Kader an", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "karl_training.jpg", "name": "Lennart Karl", "role": "Bayern München · 18 Jahre", "weight": 0.8 },
+    { "type": "stats", "title": "Karls Debütsaison", "stats": [{ "label": "Bundesliga-Tore", "value": "9" }, { "label": "CL-Assists", "value": "4" }, { "label": "WM-Minuten", "value": "0" }], "image": "allianz_arena.jpg", "weight": 0.9 },
+    { "type": "image", "image": "gnabry.jpg",   "name": "Serge Gnabry",   "role": "Ebenfalls im Comeback · 31 J.", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg",  "name": "Jamal Musiala",  "role": "Comeback-Ziel: Supercup 22.8.", "weight": 0.8 },
+    { "type": "image", "image": "signal_iduna.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_team.jpg",     "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",  "name": "Joshua Kimmich", "role": "DFB-Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",         "weight": 0.8 },
+    { "type": "outro", "title": "Schafft Karl es in Klopps ersten Kader?", "subtitle": "Kommentiert ↓", "image": "flagge.jpg", "weight": 1.0 }
+  ]
+}
