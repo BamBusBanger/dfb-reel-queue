@@ -1,0 +1,34 @@
+{
+  "slug": "klopp-geheime-sichtungstour",
+  "createdAt": "2026-08-02T09:34:25Z",
+  "title": "Klopps geheime Sichtungstour",
+  "script": "Jürgen Klopp hat 57 Kandidaten auf dem Zettel – aber noch KEINEN einzigen angerufen. Genau das ist sein Plan! Ab 15. August startet die geheime Sichtungstour: persönliche Gespräche in Liverpool, München, Mailand. Das Liverpooler Geheimrezept. So holte er Salah, Mané, Robertson – immer erst persönlicher Besuch, dann Nominierung. 26 Plätze, 57 Bewerber, 5 Wochen Zeit. Und irgendwo wartet ein 20-Jähriger, der absolut nicht damit rechnet. Wer bekommt Klopps ersten Anruf?",
+  "uploadCaption": "57 Kandidaten. 26 Plätze. Noch KEIN einziger Anruf. Das ist Klopps geheimes Rezept: erst persönliche Besuche, dann Nominierung. Das Liverpool-Geheimrezept jetzt beim DFB.",
+  "uploadHashtags": "#Klopp #DFB #Bundestrainer #WM2030 #Wirtz #Musiala #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "team.jpg",       "search": "DFB Nationalmannschaft 2026" },
+    { "file": "scouting.jpg",   "search": "Fussballtrainer geheime Scouting-Liste Kandidaten", "thematic": true },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich" },
+    { "file": "ouedraogo.jpg",  "search": "Assan Ouédraogo" },
+    { "file": "tah.jpg",        "search": "Jonathan Tah" },
+    { "file": "fans.jpg",       "search": "DFB Fans" },
+    { "file": "pokal.jpg",      "search": "WM Pokal" },
+    { "file": "fans2.jpg",      "search": "DFB Fanmeile" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "NOCH KEIN EINZIGER ANRUF.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB-GEHEIMNIS", "title": "Klopps Masterplan", "image": "team.jpg", "weight": 0.7 },
+    { "type": "stats", "title": "Die Zahlen", "stats": [{"label": "Kandidaten", "value": "57"}, {"label": "Kaderplätze", "value": "26"}, {"label": "Anrufe bisher", "value": "0"}], "image": "scouting.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg",     "name": "Florian Wirtz",    "role": "Liverpool · 125 Mio. £ · wartet auf Klopp", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg",   "name": "Jamal Musiala",    "role": "Bayern München · OP-Comeback",               "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",   "name": "Joshua Kimmich",   "role": "Kapitän · 109 Länderspiele",                  "weight": 0.8 },
+    { "type": "image", "image": "ouedraogo.jpg", "name": "Assan Ouédraogo",  "role": "20 J. · Tor nach 102 Sek.",                   "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg",       "name": "Jonathan Tah",     "role": "Bayern München · Abwehrchef",                 "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",      "weight": 0.8 },
+    { "type": "image", "image": "pokal.jpg",     "weight": 0.8 },
+    { "type": "outro", "title": "Wer bekommt Klopps ersten Anruf?", "subtitle": "Kommentiere jetzt!", "image": "fans2.jpg", "weight": 1.0 }
+  ]
+}
