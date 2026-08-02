@@ -324,3 +324,4 @@
 2026-08-01 | dfb-rba-novum-klopp-preis | DFB bricht 100-Jahre-Tabu: 3 Länderspiele in Red-Bull-Arena Leipzig erstmals kommerziell gebrandetes Stadion, 1 Mio. Wings for Life, 0 Euro Ablöse historisches Novum (DUELL/VERGLEICH)
 2026-08-02 | karl-comeback-klopp-septemberkader | Lennart Karl Comeback-Hammer Muskelbündelriss WM-Aus, überraschendes Teamtraining-Comeback Bayern, Telekom Cup 15. August Ziel, Klopps 57er-Liste DFB-Kader September Niederlande 24.9. (NEWS-DRAMA)
 2026-08-02 | klopp-geheime-sichtungstour | Klopp 57 Kandidaten 0 Anrufe, geheime Sichtungstour Liverpool München Mailand ab 15. August, Liverpooler Geheimrezept persönliche Besuche vor Nominierung, Wirtz/Musiala/Ouédraogo warten (GEHEIMNIS)
+2026-08-02 | klopp-systemgewinner-top3 | Klopp 3 größte System-Gewinner Gegenpressing 4-4-2: Undav 9 Joker-Tore/3 WM-Tore 56 Min., Ouédraogo Debüt-Tor 102 Sek. U17-Weltmeister, Beier 20 Torbeteiligungen 0 WM-Minuten, Klopp-Debüt 24.9. Amsterdam (TOP-3-LISTE)

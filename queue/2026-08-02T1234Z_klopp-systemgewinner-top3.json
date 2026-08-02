@@ -1,0 +1,110 @@
+{
+  "slug": "klopp-systemgewinner-top3",
+  "createdAt": "2026-08-02T12:34:00Z",
+  "title": "Klopps 3 größte System-Gewinner",
+  "script": "Klopp ändert alles – und 3 Spieler profitieren am meisten! Nummer 1: Deniz Undav. 9 Joker-Tore in 11 Länderspielen, 3 WM-Tore in nur 56 Minuten – exakt das Hunger-Profil, für das Klopp bekannt ist. Nummer 2: Assan Ouédraogo. Der 20-Jährige schoss sein erstes DFB-Tor nach nur 102 Sekunden – Gegenpressing ist seine DNA. Nummer 3: Maximilian Beier. 20 Torbeteiligungen letzte Saison – aber null WM-Minuten 2026. Jetzt kommt sein Moment unter Klopp. Wer verdient den Startelf-Platz wirklich?",
+  "uploadCaption": "Klopp dreht alles um – DIESE 3 werden die neuen Stars der Nationalmannschaft! Undav, Ouédraogo und Beier profitieren am meisten vom neuen System. Stimmt ihr zu?",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #Undav #Ouedraogo #Beier #NationsLeague #WM2030 #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "teamfoto.jpg",        "search": "DFB Nationalmannschaft 2026" },
+    { "file": "undav_portrait.jpg",  "search": "Deniz Undav" },
+    { "file": "undav_aktion.jpg",    "search": "Deniz Undav" },
+    { "file": "ouedraogo.jpg",       "search": "Assan Ouédraogo" },
+    { "file": "ouedraogo_aktion.jpg","search": "Assan Ouedraogo RB Leipzig DFB" },
+    { "file": "beier_aktion.jpg",    "search": "Maximilian Beier" },
+    { "file": "beier_portrait.jpg",  "search": "Maximilian Beier" },
+    { "file": "musiala.jpg",         "search": "Jamal Musiala" },
+    { "file": "wirtz.jpg",           "search": "Florian Wirtz" },
+    { "file": "fans_jubel.jpg",      "search": "DFB Fans Jubel" },
+    { "file": "dfb_fans.jpg",        "search": "Deutschland Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP ÄNDERT ALLES.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB · AB 15. AUGUST 2026",
+      "title": "Klopps 3 System-Gewinner",
+      "image": "teamfoto.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "undav_portrait.jpg",
+      "name": "Deniz Undav",
+      "role": "Stürmer · 30 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "SIEGER #1: UNDAV",
+      "stats": [
+        { "label": "Joker-Tore Länderspiele", "value": "9" },
+        { "label": "WM-Tore in 56 Min.", "value": "3" }
+      ],
+      "image": "undav_aktion.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Mittelfeld · 20 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "SIEGER #2: OUÉDRAOGO",
+      "stats": [
+        { "label": "Debüt-Tor nach", "value": "102 Sek." },
+        { "label": "U17-Weltmeister", "value": "2023" }
+      ],
+      "image": "ouedraogo_aktion.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "beier_aktion.jpg",
+      "name": "Maximilian Beier",
+      "role": "Stürmer · 23 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "SIEGER #3: BEIER",
+      "stats": [
+        { "label": "Torbeteiligungen Saison", "value": "20" },
+        { "label": "WM-Minuten 2026", "value": "0" }
+      ],
+      "image": "beier_portrait.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Undav oder Woltemade?",
+      "subtitle": "Wer startet am 24.9. in Amsterdam?",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
