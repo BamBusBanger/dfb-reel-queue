@@ -1,0 +1,97 @@
+{
+  "slug": "wirtz-zehn-sehr-cool-klopp",
+  "createdAt": "2026-08-02T17:37:08Z",
+  "title": "Wirtz endlich als Zehn – 'Sehr, sehr cool'",
+  "script": "125 Millionen Pfund. Null WM-Tore. 360 Minuten. Das ändert sich jetzt. Liverpool-Coach Iraola hat es bestätigt: Florian Wirtz spielt Saison 2 als echte Zehn – endlich seine Lieblingsposition. Und über seinen neuen Bundestrainer? Wirtz: 'Ganz Liverpool liebt ihn. Sehr, sehr cool.' Klopp plant beim DFB 4-4-2 mit einer klaren Zehner-Rolle. 53 Tage bis zum Debüt in Amsterdam. 'Wir starten bei null', sagt Wirtz. Für die WM 2030 könnte das der entscheidende Schlüssel sein.",
+  "uploadCaption": "Florian Wirtz spielt endlich als ZEHN! Liverpool-Coach Iraola macht es offiziell – das ist seine Lieblingsposition. 125 Mio. Pfund, 0 WM-Tore, 360 Minuten – und jetzt der Neustart unter Klopp. 'Sehr, sehr cool', sagt Wirtz selbst. Wird er 2030 der Weltbeste?",
+  "uploadHashtags": "#Wirtz #DFB #Klopp #WM2030 #Liverpool #Bundestrainer #Nationalmannschaft #Fussball #WM2026",
+  "images": [
+    { "file": "wirtz_portrait.jpg",    "search": "Florian Wirtz" },
+    { "file": "wirtz_training.jpg",    "search": "Florian Wirtz" },
+    { "file": "wirtz_jubel_dfb.jpg",   "search": "Florian Wirtz" },
+    { "file": "wirtz_avatar.png",      "search": "Florian Wirtz" },
+    { "file": "wirtz_presse.jpg",      "search": "Florian Wirtz" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg",      "search": "Signal Iduna Park Dortmund" },
+    { "file": "musiala.jpg",           "search": "Jamal Musiala" },
+    { "file": "wirtz_zweikampf.jpg",   "search": "Florian Wirtz" },
+    { "file": "fans.jpg",              "search": "DFB Fans" },
+    { "file": "wirtz_jubel.jpg",       "search": "Florian Wirtz" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "125 MILLIONEN. NULL TORE. AB JETZT ALLES ANDERS.",
+      "image": "wirtz_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB / WM 2030",
+      "title": "Wirtz – Endlich als Zehn!",
+      "image": "wirtz_training.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel_dfb.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · Liverpool · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM 2026 – Bilanz Wirtz",
+      "stats": [
+        { "label": "Marktwert", "value": "125 Mio. £" },
+        { "label": "WM-Tore", "value": "0" },
+        { "label": "Spielminuten", "value": "360" }
+      ],
+      "image": "wirtz_avatar.png",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz_presse.jpg",
+      "name": "Florian Wirtz",
+      "role": "\"Wir starten bei null\" – über Klopp",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Debüt 24. Sept.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "signal_iduna.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "DFB-Rivale · Bayern München · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_zweikampf.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wird Wirtz Klopps Weltstar?",
+      "subtitle": "Ja oder Nein – schreib's in die Kommentare!",
+      "image": "wirtz_jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}
