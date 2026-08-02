@@ -1,0 +1,113 @@
+{
+  "slug": "klopp-elfmeter-suender-rueckkehr",
+  "createdAt": "2026-08-02T19:34:00Z",
+  "title": "Havertz, Woltemade & Tah: Zweite Chance unter Klopp?",
+  "script": "3 Spieler, 3 verschossene Elfmeter – das ist die bitterste DFB-Bilanz seit Jahren. Havertz schoss 2 WM-Tore, versenkte aber seinen Elfmeter gegen Paraguay. Woltemade kostete 75 Millionen Euro – spielte null Minuten in der Gruppenphase, dann der verhängnisvolle Schuss. Tah sah sein Tor in der 102. Minute aberkannt – und verschoss danach im Elfmeterschießen. Jetzt hat Klopp alle 3 auf seiner 57er-Liste. Tah sagt: 'Ich würde wieder schießen.' Doch wer bekommt wirklich eine zweite Chance – und wer ist Geschichte?",
+  "uploadCaption": "3 Elfmeter daneben. 1 WM-Aus. Klopp hat alle drei auf seiner 57er-Liste – aber wer bekommt die zweite Chance? Kommentier jetzt! 🔥",
+  "uploadHashtags": "#DFB #WM2026 #Klopp #Havertz #Woltemade #Tah #Elfmeter #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "havertz_jubel_dfb.jpg",      "search": "Kai Havertz" },
+    { "file": "dfb_teamfoto.jpg",            "search": "DFB Team WM 2026" },
+    { "file": "havertz_portrait.png",        "search": "Kai Havertz" },
+    { "file": "havertz_training.jpeg",       "search": "Kai Havertz Training DFB" },
+    { "file": "woltemade_portrait.png",      "search": "Nick Woltemade" },
+    { "file": "woltemade_jubel.jpg",         "search": "Nick Woltemade DFB" },
+    { "file": "tah_portrait.png",            "search": "Jonathan Tah" },
+    { "file": "tah_aktion.jpg",              "search": "Jonathan Tah DFB Bayern" },
+    { "file": "klopp.jpg",                   "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "elfmeter_symbolisch.jpg",     "search": "Elfmeter Fußball verschossen", "thematic": true },
+    { "file": "fans_entsetzen.jpg",          "search": "DFB Fans Entsetzen Public Viewing" },
+    { "file": "dfb_fans.jpg",                "search": "DFB Fans Deutschland" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 ELFMETER DANEBEN – WER KOMMT ZURÜCK?",
+      "image": "havertz_jubel_dfb.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP-URTEIL",
+      "title": "Havertz, Woltemade & Tah: Zweite Chance?",
+      "image": "dfb_teamfoto.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "havertz_portrait.png",
+      "name": "Kai Havertz",
+      "role": "Stürmer · Arsenal · PL-Meister",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "#1 Havertz",
+      "stats": [
+        { "label": "WM-Tore", "value": "2" },
+        { "label": "Elfmeter verschossen", "value": "1" },
+        { "label": "PL-Meister 2026", "value": "✓" }
+      ],
+      "image": "havertz_training.jpeg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "woltemade_portrait.png",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · Newcastle · 75 Mio. €",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "#2 Woltemade",
+      "stats": [
+        { "label": "Gruppen-Minuten", "value": "0" },
+        { "label": "Ablöse", "value": "75 Mio. €" },
+        { "label": "Elfmeter verschossen", "value": "1" }
+      ],
+      "image": "woltemade_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "tah_portrait.png",
+      "name": "Jonathan Tah",
+      "role": "Innenverteidiger · Bayern München",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tah_aktion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "#3 Tah",
+      "stats": [
+        { "label": "Phantomtor 102. Min", "value": "aberkannt" },
+        { "label": "Elfmeter verschossen", "value": "1" },
+        { "label": "Klopp-57er-Liste", "value": "✓" }
+      ],
+      "image": "klopp.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "elfmeter_symbolisch.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Zweite Chance – JA oder NEIN?",
+      "subtitle": "Wer verdient Klopps Vertrauen am meisten?",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
