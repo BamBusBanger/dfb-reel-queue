@@ -1,0 +1,99 @@
+{
+  "slug": "wirtz-tor-liverpool-leeds",
+  "createdAt": "2026-08-03T17:35:00Z",
+  "title": "Wirtz trifft endlich – aber Liverpool verliert 2:4",
+  "script": "ER HAT GETROFFEN! Florian Wirtz, 125 Millionen Pfund teuer, 0 WM-Tore – und jetzt DAS. Erstes Tor in Saison 2 beim FC Liverpool, 40. Minute, Vorlage von Frimpong – Wirtz trifft! Doch: Liverpool verliert trotzdem 2:4 gegen Leeds United in der USA-Vorbereitung. Ein Tor, eine Niederlage, ein Signal. In genau 12 Tagen übernimmt Jürgen Klopp den DFB. Seine Mission Nummer eins: Wirtz endlich entfesseln. Wird das sein Jahr?",
+  "uploadCaption": "125 Millionen Pfund, 0 WM-Tore – und jetzt sein erstes Tor in Saison 2! Florian Wirtz trifft für Liverpool in der 40. Minute, aber die Reds verlieren trotzdem 2:4 gegen Leeds United. Klopp übernimmt den DFB am 15. August – und schaut genau hin. Wird Saison 2 Wirtz' große Erlösung?",
+  "uploadHashtags": "#FlorianWirtz #Liverpool #DFB #Klopp #Bundestrainer #WM2030 #Fussball #PremierLeague",
+  "images": [
+    { "file": "wirtz_jubel_dfb.jpg", "search": "Florian Wirtz Jubel DFB" },
+    { "file": "wirtz_training.jpg", "search": "Florian Wirtz Training Liverpool" },
+    { "file": "wirtz_avatar.jpg", "search": "Florian Wirtz" },
+    { "file": "wirtz_zweikampf.jpg", "search": "Florian Wirtz Zweikampf" },
+    { "file": "wirtz_jubel2.jpg", "search": "Florian Wirtz Jubel" },
+    { "file": "wirtz_presse.jpg", "search": "Florian Wirtz Presse" },
+    { "file": "frimpong.jpg", "search": "Jeremie Frimpong Liverpool 2026" },
+    { "file": "liverpool_leeds.jpg", "search": "Liverpool Leeds United August 2026 Vorbereitung" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp DFB Bundestrainer" },
+    { "file": "dfb_fans_jubel.jpg", "search": "DFB Fans Jubel Stadion" },
+    { "file": "fans_deutschland.jpg", "search": "Deutschland Fans Fahnen" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER HAT GETROFFEN!",
+      "image": "wirtz_jubel_dfb.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "FC LIVERPOOL · AUGUST 2026",
+      "title": "Wirtz trifft endlich!",
+      "image": "wirtz_training.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_avatar.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23 · FC Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "frimpong.jpg",
+      "name": "Jeremie Frimpong",
+      "role": "Rechtsflanke · FC Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wirtz in Zahlen",
+      "stats": [
+        { "label": "WM-Tore 2026", "value": "0" },
+        { "label": "Liverpool Saison 1 Tore", "value": "7" },
+        { "label": "Marktwert", "value": "125 Mio. £" }
+      ],
+      "image": "wirtz_zweikampf.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "liverpool_leeds.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel2.jpg",
+      "name": "Florian Wirtz",
+      "role": "1. Tor Saison 2 · 40. Minute",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_presse.jpg",
+      "name": "Florian Wirtz",
+      "role": "«Wir haben viel zu verbessern»",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer ab 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wird Saison 2 Wirtz' Erlösung?",
+      "subtitle": "Schreib's in die Kommentare!",
+      "image": "fans_deutschland.jpg",
+      "weight": 1.0
+    }
+  ]
+}
