@@ -1,0 +1,38 @@
+{
+  "slug": "beier-klopp-geheimfavorit",
+  "createdAt": "2026-08-03T05:34:00Z",
+  "title": "Beiers geheime Klopp-Chance",
+  "script": "ER WAR DABEI. 0 WM-MINUTEN. Maximilian Beier, 23 Jahre, BVB – mit über 20 Torbeteiligungen in der Bundesliga-Saison einer der stärksten deutschen Stürmer. Trotzdem: 4 WM-Spiele auf der Bank. Kein Einsatz. Jetzt kommt Klopp. Beiers Statement: „Großer, guter Trainer – ich hoffe, dass ich ihn bald kennenlerne." Im 4-4-2 braucht Klopp genau solche Pressing-Flügelstürmer. 57 Kandidaten, 26 Plätze. 24. September gegen Holland – seine Riesenchance. Wird Beier Klopps erster Geheimfavorit – oder wieder nur Bankwärmer?",
+  "uploadCaption": "0 WM-Minuten trotz Top-Saison – jetzt kommt Klopp. Wird Beier endlich seine Chance bekommen? Kommentiert eure Meinung! 🔥⚽️",
+  "uploadHashtags": "#DFB #MaximilianBeier #Klopp #BVB #Nationalmannschaft #WM2026 #NationsLeague",
+  "images": [
+    { "file": "beier_avatar.jpg",       "search": "Maximilian Beier" },
+    { "file": "beier_aktion.jpg",       "search": "Maximilian Beier BVB Dortmund" },
+    { "file": "beier_dfb.jpg",          "search": "Maximilian Beier DFB" },
+    { "file": "klopp_dfb.jpg",          "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg",        "search": "Signal Iduna Park Dortmund" },
+    { "file": "bank_leer.jpg",           "search": "leere Stadion Tribüne" },
+    { "file": "dfb_team.jpg",            "search": "DFB Nationalmannschaft" },
+    { "file": "fans_dfb.jpg",            "search": "DFB Fans" },
+    { "file": "deutschland_flagge.jpg",  "search": "Deutschland Flagge" },
+    { "file": "wm26_logo.jpg",           "search": "WM 2026 Logo" },
+    { "file": "pokal_wm.jpg",            "search": "WM Pokal Gold" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER WAR DABEI. 0 WM-MINUTEN.", "image": "beier_avatar.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB · August 2026", "title": "Beiers geheime Klopp-Chance", "image": "beier_aktion.jpg", "weight": 0.7 },
+    { "type": "image", "image": "beier_dfb.jpg",         "name": "Maximilian Beier",  "role": "Stürmer · BVB · 23",    "weight": 0.8 },
+    { "type": "image", "image": "klopp_dfb.jpg",         "name": "Jürgen Klopp",       "role": "Bundestrainer · ab 15.8.", "weight": 0.8 },
+    { "type": "stats", "title": "Beiers krasse Zahlen", "stats": [
+        { "label": "Torbeteiligungen 25/26", "value": "20+" },
+        { "label": "WM-Minuten",             "value": "0"   },
+        { "label": "Klopp-Kandidaten",       "value": "57"  }
+      ], "image": "wm26_logo.jpg", "weight": 0.9 },
+    { "type": "image", "image": "signal_iduna.jpg",      "weight": 0.8 },
+    { "type": "image", "image": "bank_leer.jpg",          "weight": 0.8 },
+    { "type": "image", "image": "dfb_team.jpg",           "weight": 0.8 },
+    { "type": "image", "image": "fans_dfb.jpg",           "weight": 0.8 },
+    { "type": "image", "image": "deutschland_flagge.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Starter oder Bankwärmer?", "subtitle": "Dein Tipp für Klopps erste Elf!", "image": "pokal_wm.jpg", "weight": 1.0 }
+  ]
+}
