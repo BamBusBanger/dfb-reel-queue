@@ -1,0 +1,34 @@
+{
+  "slug": "gnabry-sane-klopp-rechtsaussen",
+  "createdAt": "2026-08-03T12:35:00Z",
+  "title": "Gnabry vs. Sané – Klopps Rechtsaußen-Duell",
+  "script": "NUR EINER kann Klopps Rechtsaußen sein – und der Kampf beginnt JETZT. Serge Gnabry, 31, kämpft nach seinem Adduktorenriss zurück – Supercup-Comeback am 22. August, Signal Iduna Park. Leroy Sané, 30, startet neu in Istanbul – 75 Länderspiele, 16 Tore, aber 13 Turniere OHNE Eigentor und klarer Schuldiger nach dem WM-Aus. Klopp bestätigte das 4-4-2 mit klassischen Flügelstürmern – und schrieb Sané auf die 57er-Kandidatenliste. Erste Nominierung kommt Mitte September. Und am 24. September in Amsterdam fällt die Entscheidung. Gnabry oder Sané – wen braucht Deutschland 2030 wirklich?",
+  "uploadCaption": "NUR EINER bekommt den Platz! Serge Gnabrys Verletzungs-Comeback vs. Leroy Sanés Istanbul-Neustart – wer wird Klopps Rechtsaußen im 4-4-2? Test: 24. September in Amsterdam",
+  "uploadHashtags": "#DFB #Klopp #Gnabry #Sané #WM2030 #Nationalmannschaft #Fussball #Bundestrainer #NationsLeague",
+  "images": [
+    { "file": "deutschlandtrikot.jpg", "search": "Deutschlandtrikot WM26" },
+    { "file": "gnabry_aktion.jpg",     "search": "Serge Gnabry" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "sane_dfb.jpg",          "search": "Leroy Sané" },
+    { "file": "signal_iduna.jpg",      "search": "Signal Iduna Park Dortmund" },
+    { "file": "sane_galatasaray.jpg",  "search": "Leroy Sané Galatasaray" },
+    { "file": "gnabry_dfb.jpg",        "search": "Serge Gnabry DFB" },
+    { "file": "fans_deutschland.jpg",  "search": "DFB Fans Deutschland" },
+    { "file": "amsterdam_arena.jpg",   "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "deutschland_flagge.jpg","search": "Deutschland Flagge" },
+    { "file": "wm_pokal.jpg",          "search": "WM Pokal" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "NUR EINER wird Klopps Rechtsaußen.", "image": "deutschlandtrikot.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPP-DUELL", "title": "Gnabry vs. Sané", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "gnabry_aktion.jpg",     "name": "Serge Gnabry", "role": "Rechtsaußen · 31 · Bayern", "weight": 0.8 },
+    { "type": "stats", "title": "Gnabry in Zahlen",      "stats": [{ "label": "Länderspiele", "value": "64" }, { "label": "Comeback-Ziel", "value": "22.8." }, { "label": "BL-Tore 25/26", "value": "8" }], "image": "signal_iduna.jpg", "weight": 0.9 },
+    { "type": "image", "image": "sane_galatasaray.jpg",  "name": "Leroy Sané", "role": "Galatasaray · 30", "weight": 0.8 },
+    { "type": "stats", "title": "Sanés Dilemma",         "stats": [{ "label": "Länderspiele", "value": "75" }, { "label": "Turniertore (13 Spiele)", "value": "0" }, { "label": "Länderspieltore", "value": "16" }], "image": "sane_dfb.jpg", "weight": 0.9 },
+    { "type": "image", "image": "gnabry_dfb.jpg",        "name": "Serge Gnabry", "role": "DFB · Comeback-Kandidat", "weight": 0.8 },
+    { "type": "image", "image": "fans_deutschland.jpg",  "weight": 0.8 },
+    { "type": "image", "image": "amsterdam_arena.jpg",   "weight": 0.8 },
+    { "type": "image", "image": "deutschland_flagge.jpg","weight": 0.8 },
+    { "type": "outro", "title": "Gnabry oder Sané?", "subtitle": "Wen braucht Klopp für 2030?", "image": "wm_pokal.jpg", "weight": 1.0 }
+  ]
+}
