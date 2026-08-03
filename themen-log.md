@@ -331,3 +331,4 @@
 2026-08-03 | beier-klopp-geheimfavorit | Beier 23 BVB 20+ Torbeteiligungen 0 WM-Minuten, Klopp-Kandidat 57er-Liste Quote Großer guter Trainer ich hoffe ihn bald kennenzulernen, 4-4-2 Pressing-Flügelstürmer, Debüt 24.9. Amsterdam (GEHEIMNIS)
 2026-08-03 | beckenbauer-supercup-klopp-scouting | Franz-Beckenbauer-Supercup 22. August Signal Iduna Park, Klopp erstes Live-Scouting Tag-7 nach Amtsantritt, Bayern vs BVB 7 DFB-Kandidaten Musiala/Karl/Tah vs Schlotterbeck/Nmecha/Beier, Kaiser 1974+1990 2 WM-Titel Hommage (NEWS-DRAMA)
 2026-08-03 | gnabry-sane-klopp-rechtsaussen | Gnabry Comeback Bayern Adduktorenriss Supercup 22.8. vs Sané Galatasaray Istanbul-Neustart, Klopp 4-4-2 Rechtsaußen-Duell, 64 vs 75 Länderspiele, 13 Turniere ohne Tor, Nominierung September, Debüt 24.9. Amsterdam (DUELL/VERGLEICH)
+2026-08-03 | klopp-drei-heimstaedte-nl | Klopps 3 Nations-League-Heimspiele Augsburg/München/Berlin Sept-Nov 2026, Griechenland/Serbien/Niederlande (TOP-3-LISTE)

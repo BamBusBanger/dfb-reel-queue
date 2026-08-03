@@ -1,0 +1,109 @@
+{
+  "slug": "klopp-drei-heimstaedte-nl",
+  "createdAt": "2026-08-03T15:39:00Z",
+  "title": "Klopps 3 DFB-Heimspiele – Augsburg, München, Berlin",
+  "script": "Klopps Bundestrainer-Heimspiele sind enthüllt – und die Orte sind überraschend! Am 27. September empfängt er Griechenland in Augsburg: 30.000 Fans in der WWK Arena, Klopps erstes DFB-Heimspiel überhaupt. Dann am 1. Oktober die mächtige Allianz Arena München mit 75.000 Fans gegen Serbien – und Pavlović trifft auf sein Heimatland! Das Highlight: Am 16. November rollt der Ball im Berliner Olympiastadion gegen die Niederlande – 74.000 Fans, Gravenberch und Gakpo als Gegner. 3 Städte. 52 Tage bis Klopps erstem Pflichtspiel. WM 2030 beginnt JETZT.",
+  "uploadCaption": "Augsburg, München, Berlin – das sind Klopps 3 DFB-Heimspiele in der Nations League 2026/27! In welche Stadt würdest du fahren? Schreib's in die Kommentare!",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #WM2030 #Bundestrainer #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "klopp.jpg",               "search": "Jürgen Klopp" },
+    { "file": "nl_logo.jpg",             "search": "UEFA Nations League 2026 2027" },
+    { "file": "augsburg_arena.jpg",      "search": "WWK Arena Augsburg" },
+    { "file": "griechenland_team.jpg",   "search": "Greece national football team 2024" },
+    { "file": "allianz_arena_nacht.jpg", "search": "Allianz Arena München Nacht" },
+    { "file": "allianz_arena_tag.jpg",   "search": "Allianz Arena München außen" },
+    { "file": "pavlovic.jpg",            "search": "Aleksandar Pavlović" },
+    { "file": "berlin_olympia.jpg",      "search": "Berliner Olympiastadion" },
+    { "file": "fans_berlin.jpg",         "search": "DFB Fans Fanmeile Berlin" },
+    { "file": "gravenberch.jpg",         "search": "Ryan Gravenberch Netherlands" },
+    { "file": "dfb_fans.jpg",            "search": "Deutschland Fans Stadion" },
+    { "file": "dfb_flagge.jpg",          "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPPS 3 HEIMSPIELE ENTHÜLLT!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "NATIONS LEAGUE 2026/27",
+      "title": "3 Städte · 3 Schlachten",
+      "image": "nl_logo.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "augsburg_arena.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "AUGSBURG · 27. September",
+      "stats": [
+        { "label": "Gegner",  "value": "Griechenland" },
+        { "label": "Fans",    "value": "30.000" },
+        { "label": "TV",      "value": "ARD" }
+      ],
+      "image": "griechenland_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "allianz_arena_nacht.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pavlovic.jpg",
+      "name": "Aleksandar Pavlović",
+      "role": "DFB vs. Heimatland Serbien",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "MÜNCHEN · 1. Oktober",
+      "stats": [
+        { "label": "Gegner",  "value": "Serbien" },
+        { "label": "Fans",    "value": "75.000" },
+        { "label": "TV",      "value": "ZDF" }
+      ],
+      "image": "allianz_arena_tag.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "berlin_olympia.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_berlin.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "BERLIN · 16. November",
+      "stats": [
+        { "label": "Gegner",  "value": "Niederlande" },
+        { "label": "Fans",    "value": "74.000" },
+        { "label": "TV",      "value": "ARD" }
+      ],
+      "image": "gravenberch.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Augsburg, München oder Berlin?",
+      "subtitle": "In welche Stadt würdest DU fahren?",
+      "image": "dfb_flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
