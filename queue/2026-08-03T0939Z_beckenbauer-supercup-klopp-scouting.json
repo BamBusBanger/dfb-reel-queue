@@ -1,0 +1,36 @@
+{
+  "slug": "beckenbauer-supercup-klopp-scouting",
+  "createdAt": "2026-08-03T09:39:00Z",
+  "title": "Klopp · Kaiser · 22. August",
+  "script": "Sein erster großer Scouting-Tag – ausgerechnet beim Kaiser-Gedächtnisturnier! Am 22. August steht Klopp erstmals als Bundestrainer im Signal Iduna Park – beim Franz-Beckenbauer-Supercup Bayern gegen BVB. Der Kaiser: 1974 WM-Kapitän, 1990 Weltmeister-Trainer – 2 Titel für Deutschland, 103 Länderspiele. Und in einem einzigen Spiel sieht Klopp gleich 7 DFB-Kandidaten: Musiala, Karl, Tah auf Bayern-Seite – Schlotterbeck, Nmecha, Beier für den BVB. 1 Spiel. 7 Chancen. Die Klopp-Ära beginnt unter dem Zeichen des Kaisers.",
+  "uploadCaption": "Klopps erster Scouting-Tag trägt Beckenbauers Erbe! Beim Franz-Beckenbauer-Supercup am 22. August trifft Bayern auf BVB – und Klopp sitzt auf der Tribüne. 7 DFB-Kandidaten in einem Spiel. Die neue Ära beginnt.",
+  "uploadHashtags": "#DFB #Klopp #Beckenbauer #WM2030 #Bundesliga #BayernBVB #Supercup",
+  "images": [
+    { "file": "signal_iduna.jpg",  "search": "Signal Iduna Park" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "beckenbauer.jpg",   "search": "Franz Beckenbauer" },
+    { "file": "pokal.jpg",         "search": "Pokal gold" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "karl.jpg",          "search": "Lennart Karl" },
+    { "file": "tah.jpg",           "search": "Jonathan Tah" },
+    { "file": "schlotterbeck.jpg", "search": "Nico Schlotterbeck" },
+    { "file": "nmecha.jpg",        "search": "Felix Nmecha" },
+    { "file": "beier.jpg",         "search": "Maximilian Beier" },
+    { "file": "fans.jpg",          "search": "Fans Pyro Stimmung" },
+    { "file": "flagge.jpg",        "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "DER KAISER LEBT – UND KLOPP SCHAUT ZU!", "image": "signal_iduna.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "22. August 2026", "title": "Franz-Beckenbauer-Supercup", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "beckenbauer.jpg",   "name": "Franz Beckenbauer",  "role": "Kaiser · WM-Kapitän 1974 · WM-Trainer 1990", "weight": 0.8 },
+    { "type": "stats", "title": "Kaiser-Bilanz", "stats": [{ "label": "WM-Titel (Spieler + Trainer)", "value": "2" }, { "label": "DFB-Länderspiele", "value": "103" }], "image": "pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "musiala.jpg",       "name": "Jamal Musiala",      "role": "Offensiv · FC Bayern", "weight": 0.8 },
+    { "type": "image", "image": "karl.jpg",           "name": "Lennart Karl",       "role": "Offensiv · 18 · FC Bayern", "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg",            "name": "Jonathan Tah",       "role": "Abwehr · FC Bayern", "weight": 0.8 },
+    { "type": "image", "image": "schlotterbeck.jpg",  "name": "Nico Schlotterbeck", "role": "Abwehr · BVB", "weight": 0.8 },
+    { "type": "image", "image": "nmecha.jpg",         "name": "Felix Nmecha",       "role": "Mittelfeld · BVB", "weight": 0.8 },
+    { "type": "image", "image": "beier.jpg",          "name": "Maximilian Beier",   "role": "Offensiv · BVB", "weight": 0.8 },
+    { "type": "stats", "title": "Klopp-Scouting-Tag", "stats": [{ "label": "DFB-Kandidaten im Spiel", "value": "7+" }, { "label": "Tage nach Amtsantritt", "value": "7" }], "image": "fans.jpg", "weight": 0.9 },
+    { "type": "outro", "title": "Hätte der Kaiser Klopp zugestimmt?", "subtitle": "Kommentiere jetzt!", "image": "flagge.jpg", "weight": 1.0 }
+  ]
+}
