@@ -333,3 +333,4 @@
 2026-08-03 | gnabry-sane-klopp-rechtsaussen | Gnabry Comeback Bayern Adduktorenriss Supercup 22.8. vs Sané Galatasaray Istanbul-Neustart, Klopp 4-4-2 Rechtsaußen-Duell, 64 vs 75 Länderspiele, 13 Turniere ohne Tor, Nominierung September, Debüt 24.9. Amsterdam (DUELL/VERGLEICH)
 2026-08-03 | klopp-drei-heimstaedte-nl | Klopps 3 Nations-League-Heimspiele Augsburg/München/Berlin Sept-Nov 2026, Griechenland/Serbien/Niederlande (TOP-3-LISTE)
 2026-08-03 | wirtz-tor-liverpool-leeds | Florian Wirtz erstes Tor Saison 2 Liverpool vs Leeds 2:4 Vorbereitung USA-Tour, 125 Mio. Pfund 0 WM-Tore, Vorlage Frimpong 40. Min, Klopp DFB-Amtsantritt 15.8., Wirtz-Entfesselungsmission (NEWS-DRAMA)
+2026-08-03 | muenchen-trio-klopps-geheimwaffe | Musiala + Karl + Gnabry solo-Training München während Bayern Audi Summer Tour Südkorea, Klopp-Amtsantritt 15.8., Supercup 22.8. erstes Live-Scouting, 64 Länderspiele Gnabry (GEHEIMNIS)

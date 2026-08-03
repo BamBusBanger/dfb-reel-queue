@@ -1,0 +1,103 @@
+{
+  "slug": "muenchen-trio-klopps-geheimwaffe",
+  "createdAt": "2026-08-03T19:34:00Z",
+  "title": "Klopps Geheimwaffe wartet in München",
+  "script": "Während Bayern gerade in Korea feiert, trainieren 3 Stars täglich solo in München. Kein Applaus, kein Publikum, keine Kameras. Jamal Musiala – Metallplatte raus, Teamtraining-Ziel: 8. August. Lennart Karl – nach Muskelbündelriss ZURÜCK im Training, Ziel: Telekom Cup am 15. August. Serge Gnabry – Adduktorenriss seit April, täglich stärker, 64 Länderspiele. Alle drei haben dieselbe Mission: FIT sein, wenn Klopp am 15. August das Amt übernimmt. Supercup am 22. August – Klopps erstes Live-Scouting mit Bayern und BVB. Wer überzeugt ihn als Erster?",
+  "uploadCaption": "Während Bayern in Südkorea spielt, bereiten sich Musiala, Karl und Gnabry in München still für den größten Moment ihrer Karriere vor – Klopp kommt am 15. August. Wer überzeugt ihn als Erster?",
+  "uploadHashtags": "#DFB #Klopp #Musiala #LennartKarl #Gnabry #Bayern #WM2030 #Bundestrainer #Fussball",
+  "images": [
+    { "file": "musiala_jubel.jpg",      "search": "Jamal Musiala" },
+    { "file": "musiala_portrait.jpg",   "search": "Jamal Musiala Torjubel DFB" },
+    { "file": "karl.jpg",               "search": "Lennart Karl" },
+    { "file": "gnabry.jpg",             "search": "Serge Gnabry Bayern" },
+    { "file": "klopp.jpg",              "search": "Jürgen Klopp" },
+    { "file": "allianz_arena.jpg",      "search": "Allianz Arena München" },
+    { "file": "dfb_team.jpg",           "search": "DFB Nationalmannschaft 2026" },
+    { "file": "fans_deutschland.jpg",   "search": "DFB Fans Deutschland" },
+    { "file": "fans_brandenburger.jpg", "search": "DFB Fans Brandenburger Tor Berlin" },
+    { "file": "wm_pokal.jpg",           "search": "WM Pokal FIFA" },
+    { "file": "korea_stadion.jpg",      "search": "Bayern Summer Tour Jeju Südkorea 2026" },
+    { "file": "training_solo.jpg",      "search": "Fußball Einzeltraining München solo", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "SIE SIND NICHT IN KOREA.",
+      "image": "musiala_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB · August 2026",
+      "title": "Klopps Geheimwaffe wartet in München",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_portrait.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 | Metallplatte raus",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "karl.jpg",
+      "name": "Lennart Karl",
+      "role": "Sturm · 18 | zurück im Training",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "gnabry.jpg",
+      "name": "Serge Gnabry",
+      "role": "Außen · 31 | 64 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer ab 15. August",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Countdown – Wann Klopp sie sieht",
+      "stats": [
+        { "label": "Musiala Teamtraining-Ziel", "value": "08.08." },
+        { "label": "Klopp-Amtsantritt DFB",     "value": "15.08." },
+        { "label": "Supercup / Live-Scouting",  "value": "22.08." }
+      ],
+      "image": "allianz_arena.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "korea_stadion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "training_solo.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_deutschland.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Musiala, Karl oder Gnabry –",
+      "subtitle": "Wer überzeugt Klopp am 22. August?",
+      "image": "fans_brandenburger.jpg",
+      "weight": 1.0
+    }
+  ]
+}
