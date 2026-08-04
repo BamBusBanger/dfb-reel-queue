@@ -1,0 +1,97 @@
+{
+  "slug": "wirtz-ganz-liverpool-liebt-klopp",
+  "createdAt": "2026-08-04T17:33:00Z",
+  "title": "\"Ganz Liverpool liebt ihn\" – Wirtz spioniert Klopp aus",
+  "script": "125 Millionen Pfund. 0 WM-Tore. Florian Wirtz stand nach der WM unter Beschuss – doch sein neuer Chef interessiert ihn gerade viel mehr. Wirtz fragte seine Liverpool-Teamkollegen nach Klopp. Das Ergebnis? Einhellig: Ganz Liverpool liebt ihn. Klopp, der Wirtz NIE trainiert hat, verteidigt ihn sofort: Einmal-in-einem-Jahrhundert-Talent. Und der heimliche Informant? Ryan Gravenberch – gleichzeitig Klopp-Zeuge UND Deutschland-Gegner am 24. September in Amsterdam. Kann Wirtz unter Klopp endlich explodieren?",
+  "uploadCaption": "Wirtz hat seinen neuen Bundestrainer durch Liverpool-Teamkollegen ausgespioniert – und was er hörte, macht Hoffnung. 125 Mio. Pfund, 0 WM-Tore, aber vielleicht der Wendepunkt für WM 2030.",
+  "uploadHashtags": "#Wirtz #Klopp #DFB #WM2030 #Nationalmannschaft #Liverpool #Bundestrainer #Fussball #Wusiala",
+  "images": [
+    { "file": "wirtz_jubel.jpg",    "search": "Florian Wirtz" },
+    { "file": "wirtz_training.jpg", "search": "Florian Wirtz" },
+    { "file": "wirtz_presse.jpg",   "search": "Florian Wirtz" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "dfb_team.jpg",       "search": "DFB Nationalmannschaft 2026" },
+    { "file": "liverpool_team.jpg", "search": "Liverpool FC training 2026" },
+    { "file": "gravenberch.jpg",    "search": "Ryan Gravenberch Liverpool 2026" },
+    { "file": "fans.jpg",           "search": "DFB Fans" },
+    { "file": "musiala.jpg",        "search": "Jamal Musiala" },
+    { "file": "amsterdam.jpg",      "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "pokal.jpg",          "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DER AGENT DES NEUEN BUNDESTRAINERS",
+      "image": "wirtz_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "GEHEIMNIS",
+      "title": "Wirtz spioniert Klopp aus",
+      "image": "wirtz_training.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_presse.jpg",
+      "name": "Florian Wirtz",
+      "role": "Zehn · 23 · FC Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer DFB · ab 15. August",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wirtz nach der WM 2026",
+      "stats": [
+        { "label": "Ablöse (£)", "value": "125 Mio." },
+        { "label": "WM-Tore", "value": "0" },
+        { "label": "Minuten gespielt", "value": "360" }
+      ],
+      "image": "dfb_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "liverpool_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "gravenberch.jpg",
+      "name": "Ryan Gravenberch",
+      "role": "Liverpool · Niederlande · Klopp-Zeuge",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 23 · FC Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Kann Wirtz unter Klopp endlich explodieren?",
+      "subtitle": "Meinung in die Kommentare!",
+      "image": "pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
