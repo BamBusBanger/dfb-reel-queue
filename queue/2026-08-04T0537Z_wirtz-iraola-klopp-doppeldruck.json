@@ -1,0 +1,107 @@
+{
+  "slug": "wirtz-iraola-klopp-doppeldruck",
+  "createdAt": "2026-08-04T05:37:00Z",
+  "title": "Wirtz: 2 Chefs, 1 Mission – Doppeldruck!",
+  "script": "125 Millionen Pfund, 0 Tore bei der WM. Florian Wirtz startet JETZT in die wichtigste Saison seines Lebens. Beim FC Liverpool fordert Neu-Coach Iraola: Er soll der NEUE CHEF werden – als Zehner die volle Verantwortung. Gleichzeitig wartet Bundestrainer Klopp auf sein erstes DFB-Tor. 7 Tore, 10 Vorlagen in Saison 1 – für den teuersten Deutschen aller Zeiten nicht genug. Wirtz selbst sagt: Wir müssen viele Dinge besser machen. Aber für wen liefert er zuerst?",
+  "uploadCaption": "125 Mio. Pfund, 0 WM-Tore – Florian Wirtz steht in Saison 2 unter doppeltem Druck wie nie zuvor. Iraola will ihn als Zehner zum Liverpool-Chef formen, Klopp wartet auf das erste DFB-Tor. Wer bekommt den echten Wirtz zuerst zu sehen?",
+  "uploadHashtags": "#FlorianWirtz #DFB #Liverpool #JürgenKlopp #Iraola #NationsLeague #WM2026 #Bundestrainer #Fussball",
+  "images": [
+    { "file": "wirtz_portrait.jpg",   "search": "Florian Wirtz" },
+    { "file": "wirtz_training.jpg",   "search": "Florian Wirtz" },
+    { "file": "wirtz_jubel.jpg",      "search": "Florian Wirtz" },
+    { "file": "wirtz_zweikampf.jpg",  "search": "Florian Wirtz" },
+    { "file": "wirtz_presse.jpg",     "search": "Florian Wirtz" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "iraola.jpg",           "search": "Andoni Iraola Liverpool" },
+    { "file": "wm_logo.jpg",          "search": "WM 2026 FIFA" },
+    { "file": "dfb_fans.jpg",         "search": "DFB Fans Deutschland" },
+    { "file": "anfield.jpg",          "search": "Anfield Liverpool Stadion" },
+    { "file": "dfb_trikot.jpg",       "search": "DFB Trikot Nationalmannschaft" },
+    { "file": "wirtz_jubel2.jpg",     "search": "Florian Wirtz" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "125 MIO. £. 0 WM-TORE. JETZT ZÄHLT ES.",
+      "image": "wirtz_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "SAISON 2 · DOPPELDRUCK",
+      "title": "Iraola vs. Klopp – beide wollen Wirtz",
+      "image": "wirtz_training.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23 · FC Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Saison 1 Liverpool",
+      "stats": [
+        { "label": "Tore", "value": "7" },
+        { "label": "Vorlagen", "value": "10" },
+        { "label": "Ablöse", "value": "£125 Mio." }
+      ],
+      "image": "wirtz_zweikampf.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "iraola.jpg",
+      "name": "Andoni Iraola",
+      "role": "Cheftrainer · FC Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · DFB",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM 2026 Wirtz",
+      "stats": [
+        { "label": "Tore", "value": "0" },
+        { "label": "Minuten", "value": "360" },
+        { "label": "Auswechslungen", "value": "4×" }
+      ],
+      "image": "wm_logo.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz_presse.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "anfield.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_trikot.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Für wen liefert Wirtz zuerst?",
+      "subtitle": "Iraola oder Klopp – kommentiert!",
+      "image": "wirtz_jubel2.jpg",
+      "weight": 1.0
+    }
+  ]
+}
