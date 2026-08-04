@@ -1,0 +1,98 @@
+{
+  "slug": "nmecha-klopp-geheimschluessel",
+  "createdAt": "2026-08-04T09:34:00Z",
+  "title": "Nmechas geheime Rolle unter Klopp",
+  "script": "Dieser Mann könnte Klopps heimlicher Schlüssel sein – und kaum jemand redet darüber. Felix Nmecha, 25, BVB: 269 WM-Minuten, 1 Tor, 2 Vorlagen, alle 4 Spiele dabei. 34,8 km/h Topspeed, 11 Kilometer pro 90 Minuten – perfekte DNA für Klopps Gegenpressing. Nach dem Elfmeter-Aus gegen Paraguay: Kampfansage beim BVB. Jetzt wartet das Klopp-Debüt – 24. September, Amsterdam. Während alle über Wirtz diskutieren, könnte Nmecha Klopps wichtigster Mann im Mittelfeld werden. Hast du ihn auf dem Zettel?",
+  "uploadCaption": "Felix Nmecha – Klopps geheime Schlüsselfigur? 269 WM-Minuten, 1 Tor, 2 Vorlagen, alle 4 Spiele – und 34,8 km/h Topspeed. Genau die Gegenpressing-DNA, die Klopp braucht. Klopp-Debüt: 24. September vs. Niederlande in Amsterdam.",
+  "uploadHashtags": "#DFB #WM2026 #FelixNmecha #Klopp #Nationalmannschaft #Fussball #BVB #Bundesliga",
+  "images": [
+    { "file": "nmecha_aktion.jpg",    "search": "Felix Nmecha" },
+    { "file": "nmecha_spielszene.jpg","search": "Felix Nmecha DFB" },
+    { "file": "nmecha_portrait.jpg",  "search": "Felix Nmecha" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg",     "search": "Signal Iduna Park Dortmund" },
+    { "file": "pavlovic.jpg",         "search": "Aleksandar Pavlović" },
+    { "file": "kimmich.jpg",          "search": "Joshua Kimmich" },
+    { "file": "amsterdam_arena.jpg",  "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "dfb_fans.jpg",         "search": "DFB Fans" },
+    { "file": "dfb_team.jpg",         "search": "DFB Teamfoto 2026" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KAUM JEMAND REDET ÜBER IHN.",
+      "image": "nmecha_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · KLOPP-ÄRA",
+      "title": "Nmechas geheime Rolle",
+      "image": "signal_iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "nmecha_portrait.jpg",
+      "name": "Felix Nmecha",
+      "role": "Mittelfeld · 25 · BVB",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM 2026 Bilanz",
+      "stats": [
+        { "label": "Minuten", "value": "269" },
+        { "label": "Tore",    "value": "1" },
+        { "label": "Vorlagen","value": "2" },
+        { "label": "Spiele",  "value": "4" }
+      ],
+      "image": "nmecha_spielszene.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · ab 15.8.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pavlovic.jpg",
+      "name": "Aleksandar Pavlović",
+      "role": "Doppel-Sechs · Bayern · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 LS",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam_arena.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopps heimlicher Trumpf?",
+      "subtitle": "Hast du Nmecha auf dem Zettel – ja oder nein?",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
