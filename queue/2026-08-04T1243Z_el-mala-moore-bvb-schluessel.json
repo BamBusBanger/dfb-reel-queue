@@ -1,0 +1,33 @@
+{
+  "slug": "el-mala-moore-bvb-schluessel",
+  "createdAt": "2026-08-04T12:43:00Z",
+  "title": "El Mala zum BVB: Mikey Moore ist der Schlüssel",
+  "script": "ER RETTET KLOPPS PLAN! Mikey Moore, 18 Jahre jung, wechselt von Tottenham auf Leihbasis zu Köln – und löst damit die Transfer-Bombe aus. Denn jetzt öffnet Köln die Tür für Said El Mala zum BVB. Der 19-Jährige erzielte 13 Bundesliga-Tore in der letzten Saison – Klopps WM-2030-Juwel! Der BVB bietet 42 Millionen Euro, Köln fordert 50 Millionen. Die Lücke? Gerade mal 8 Millionen Euro Bonusse. Das Domino fällt – der Transfer-Sommer der Bundesliga explodiert.",
+  "uploadCaption": "TRANSFER-ALARM! Mikey Moore (18, Tottenham) zu Köln – und plötzlich wird der El-Mala-BVB-Deal Realität! Köln fordert 50 Mio., BVB bietet 42 Mio. Nur 8 Millionen Bonusse trennen Klopps WM-2030-Juwel vom Dortmunder Traum. Das Domino fällt – der Sommer brennt!",
+  "uploadHashtags": "#ElMala #BVB #Köln #MikeyMoore #Bundesliga #Transfer #Klopp #WM2030 #DFB #Fussball",
+  "images": [
+    { "file": "el_mala_portrait.jpg", "search": "Said El Mala" },
+    { "file": "el_mala_tor.jpg", "search": "Said El Mala Tor Köln Bundesliga" },
+    { "file": "el_mala_jubel.jpg", "search": "Said El Mala Jubel Bundesliga" },
+    { "file": "moore.jpg", "search": "Mikey Moore" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "bvb_stadion.jpg", "search": "Signal Iduna Park Dortmund" },
+    { "file": "koeln_stadion.jpg", "search": "RheinEnergieStadion Köln" },
+    { "file": "transfer_news.jpg", "search": "Bundesliga Transfer Sommer Gerücht", "thematic": true },
+    { "file": "wm_2030_trophy.jpg", "search": "FIFA WM 2030 Pokal", "thematic": true },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans Jubel WM 2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER RETTET KLOPPS PLAN!", "image": "el_mala_portrait.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "TRANSFER-HAMMER", "title": "El Mala zu BVB wird Realität", "image": "transfer_news.jpg", "weight": 0.7 },
+    { "type": "image", "image": "el_mala_portrait.jpg", "name": "Said El Mala", "role": "Stürmer · 19 · 1. FC Köln", "weight": 0.8 },
+    { "type": "image", "image": "moore.jpg", "name": "Mikey Moore", "role": "Flügel · 18 · Tottenham Hotspur", "weight": 0.8 },
+    { "type": "stats", "title": "Die Transfer-Gleichung", "stats": [{ "label": "Köln fordert", "value": "50 Mio." }, { "label": "BVB bietet", "value": "42 Mio." }, { "label": "Lücke (Bonusse)", "value": "8 Mio." }], "image": "koeln_stadion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "DFB-Cheftrainer ab 15. August", "weight": 0.8 },
+    { "type": "image", "image": "bvb_stadion.jpg", "weight": 0.8 },
+    { "type": "image", "image": "el_mala_tor.jpg", "weight": 0.8 },
+    { "type": "image", "image": "el_mala_jubel.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wm_2030_trophy.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Klopps WM-2030-Juwel", "subtitle": "Kommt El Mala zum BVB – oder bleibt er in Köln?", "image": "dfb_fans.jpg", "weight": 1.0 }
+  ]
+}
