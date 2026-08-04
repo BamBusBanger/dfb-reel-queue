@@ -337,3 +337,4 @@
 2026-08-04 | wirtz-iraola-klopp-doppeldruck | Wirtz unter Doppeldruck Saison 2: Iraola will ihn als Liverpool-Chef/Zehner, Klopp wartet auf erstes DFB-Tor, 125 Mio. Pfund 0 WM-Tore 360 Min. 4× ausgewechselt, beide Trainer erst 2026 neu (DUELL/VERGLEICH)
 2026-08-04 | nmecha-klopp-geheimschluessel | Felix Nmecha (25, BVB) Klopps geheime Schlüsselfigur: 269 WM-Minuten 1 Tor 2 Vorlagen alle 4 Spiele, 34,8 km/h Topspeed 11 km/90 Min Gegenpressing-DNA, Kampfansage BVB nach Elfmeter-Aus Paraguay, Klopp-Debüt 24.9. Amsterdam (GEHEIMNIS)
 2026-08-04 | el-mala-moore-bvb-schluessel | Said El Mala BVB-Transfer durch Mikey-Moore-Leihe Köln, 50 Mio. vs 42 Mio. Lücke nur 8 Mio. Bonusse, 13 BL-Tore Saison 25/26 mit 19 Jahren, Klopp WM-2030-Juwel (NEWS-DRAMA)
+2026-08-04 | drei-fakten-klopp-dfb-countdown | Klopp-Amtsantritt in 11 Tagen, 57 Kandidaten 0 Anrufe, Amsterdam-Ticket-Portal heute geöffnet, 4 Spiele in 11 Tagen NL-Start (TOP-3-LISTE)

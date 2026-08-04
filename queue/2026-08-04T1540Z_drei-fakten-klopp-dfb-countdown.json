@@ -1,0 +1,117 @@
+{
+  "slug": "drei-fakten-klopp-dfb-countdown",
+  "createdAt": "2026-08-04T15:40:37Z",
+  "title": "11 Tage bis Klopp – 3 Schock-Fakten zum DFB-Countdown",
+  "script": "ER IST IN 11 TAGEN DA – und hat KEINEN angerufen! Jürgen Klopp übernimmt am 15. August als Bundestrainer und hat seit seiner DFB-Vorstellung am 24. Juli KEINEN der 57 Kandidaten kontaktiert. Erste Nominierung: Mitte September – nur 7 Tage vor dem Debüt. Heute öffnete das DFB-Ticket-Portal für Amsterdam am 24. September – 50 Tage Countdown! Dazu wartet der härteste Nations-League-Start aller Zeiten: 4 Pflichtspiele in nur 11 Tagen. Schafft Klopp es, das Paraguay-Trauma zu heilen – oder wird Amsterdam die nächste Blamage?",
+  "uploadCaption": "11 Tage bis Klopp als Bundestrainer startet – und er hat noch KEINEN Spieler angerufen! 57 Kandidaten warten. Das Amsterdam-Ticket-Portal öffnete heute, 50 Tage Countdown. Dann kommen 4 Spiele in 11 Tagen. Wird er das Paraguay-Trauma heilen?",
+  "uploadHashtags": "#DFB #KloppBundestrainer #NationsLeague #Amsterdam #WM2026 #Nationalmannschaft #Fussball #Klopp",
+  "images": [
+    { "file": "klopp.jpg",       "search": "Jürgen Klopp" },
+    { "file": "teamfoto.jpg",    "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wirtz.jpg",       "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg",     "search": "Joshua Kimmich" },
+    { "file": "musiala.jpg",     "search": "Jamal Musiala" },
+    { "file": "woltemade.jpg",   "search": "Nick Woltemade" },
+    { "file": "amsterdam.jpg",   "search": "Johan Cruyff Arena Amsterdam 2026" },
+    { "file": "fans.jpg",        "search": "DFB Fans" },
+    { "file": "havertz.jpg",     "search": "Kai Havertz" },
+    { "file": "ouedraogo.jpg",   "search": "Assan Ouédraogo" },
+    { "file": "nl_gruppe.jpg",   "search": "Nations League Gruppe Spielplan 4 Spiele 11 Tage", "thematic": true },
+    { "file": "dfb_flagge.jpg",  "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER STARTET IN 11 TAGEN – HAT KEINEN ANGERUFEN.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB 2026/27",
+      "title": "11 Tage bis Klopp | 3 Schock-Fakten",
+      "image": "teamfoto.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 23 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FAKT 1: 0 Anrufe",
+      "stats": [
+        { "label": "Kandidaten auf Klopps Liste", "value": "57" },
+        { "label": "Anrufe seit 24. Juli", "value": "0" },
+        { "label": "Tage bis Amtsantritt (15. Aug.)", "value": "11" }
+      ],
+      "image": "kimmich.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern München · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "Newcastle United · 24 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FAKT 2: Amsterdam-Alarm",
+      "stats": [
+        { "label": "Tage bis Klopp-Debüt (24. Sept.)", "value": "50" },
+        { "label": "Tage Ticket-Portal offen (ab heute 4.8.)", "value": "10" },
+        { "label": "Tage Vorlauf nach Nominierung", "value": "7" }
+      ],
+      "image": "amsterdam.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Arsenal FC · 27 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FAKT 3: Härtester NL-Start",
+      "stats": [
+        { "label": "Pflichtspiele in nur 11 Tagen", "value": "4" },
+        { "label": "Gegner (NL / GRE / SRB / GRE)", "value": "3" },
+        { "label": "Jahre DFB ohne Titel (seit WM 2014)", "value": "12" }
+      ],
+      "image": "nl_gruppe.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "RB Leipzig · 20 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Heilt Klopp das Paraguay-Trauma?",
+      "subtitle": "Deine Prognose für Amsterdam – Kommentar!",
+      "image": "dfb_flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
