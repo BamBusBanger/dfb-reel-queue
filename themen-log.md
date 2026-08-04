@@ -339,3 +339,4 @@
 2026-08-04 | el-mala-moore-bvb-schluessel | Said El Mala BVB-Transfer durch Mikey-Moore-Leihe Köln, 50 Mio. vs 42 Mio. Lücke nur 8 Mio. Bonusse, 13 BL-Tore Saison 25/26 mit 19 Jahren, Klopp WM-2030-Juwel (NEWS-DRAMA)
 2026-08-04 | drei-fakten-klopp-dfb-countdown | Klopp-Amtsantritt in 11 Tagen, 57 Kandidaten 0 Anrufe, Amsterdam-Ticket-Portal heute geöffnet, 4 Spiele in 11 Tagen NL-Start (TOP-3-LISTE)
 2026-08-04 | wirtz-ganz-liverpool-liebt-klopp | Wirtz fragt Liverpool-Teamkollegen nach Klopp, "Ganz Liverpool liebt ihn" Zitat, 125 Mio. Pfund 0 WM-Tore 360 Min, Gravenberch als Klopp-Zeuge und Deutschland-Gegner 24.9. Amsterdam, Klopp verteidigt Wirtz "Einmal-in-einem-Jahrhundert-Talent", Debüt 24.9. Amsterdam (GEHEIMNIS)
+2026-08-04 | nl-abstiegsangst-dfb-worst-case | DFB Nations League A Abstiegs-Gefahr, 2018 Wiederholung, Klopp FIFA-Rang 12, Gruppe A2 Niederlande/Serbien/Griechenland, 51 Tage bis Debüt, 0 Trainingseinheiten (NEWS-DRAMA)

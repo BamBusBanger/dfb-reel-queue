@@ -1,0 +1,36 @@
+{
+  "slug": "nl-abstiegsangst-dfb-worst-case",
+  "createdAt": "2026-08-04T19:34:00Z",
+  "title": "Nations-League-Albtraum: DFB kann wieder absteigen",
+  "script": "2018 passierte es – Deutschland stieg als LETZTER aus der Nations League A ab. Jetzt ist es WIEDER möglich. FIFA-Rang 12, 3 WM-Frühaus in Folge, und Klopp leitet erst ab 15. August. Gruppe A2: Niederlande, Serbien, Griechenland. Nur Top 2 kommen weiter – die anderen 2 spielen Relegation. 51 Tage bis zum Debüt. 0 Trainingseinheiten. Klopp muss ohne ein einziges gemeinsames Training liefern. Schafft Deutschland das – oder droht 2018 in Runde 2?",
+  "uploadCaption": "2018 stieg Deutschland aus der Nations League A ab – jetzt könnte es wieder passieren 🚨 Klopp übernimmt auf FIFA-Rang 12, mit 0 Trainingseinheiten vor dem Debüt. Niederlande, Serbien, Griechenland warten in Gruppe A2. Nur die Top 2 sind sicher – die anderen 2 spielen Relegation. 51 Tage. 4 Spiele. Alles oder nichts. Was tippt ihr?",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #Deutschland #Fussball #WM2030 #Nationalmannschaft",
+  "images": [
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "teamfoto.jpg",     "search": "DFB Nationalmannschaft 2026" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "entsetzen.jpg",    "search": "DFB Fans Enttäuschung" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",      "search": "Jamal Musiala" },
+    { "file": "ruediger.jpg",     "search": "Antonio Rüdiger" },
+    { "file": "niederlande.jpg",  "search": "Niederlande Nationalelf Nations League 2026" },
+    { "file": "dfb2018.jpg",      "search": "DFB Mannschaftsfoto 2018" },
+    { "file": "fanzone.jpg",      "search": "DFB Fans Brandenburger Tor" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "2018 STIEG DEUTSCHLAND AB.", "image": "entsetzen.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "NATIONS LEAGUE 2026/27", "title": "Klopps Abstiegs-Albtraum", "image": "teamfoto.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp.jpg",       "name": "Jürgen Klopp",       "role": "Bundestrainer · Amtsantritt 15. August", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",     "name": "Joshua Kimmich",     "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "stats", "title": "Die Gefahr in Zahlen", "stats": [
+      { "label": "FIFA-Rang Deutschland", "value": "12" },
+      { "label": "Tage bis Klopp-Debüt",  "value": "51" },
+      { "label": "2018: NL-Gruppenplatz", "value": "3/3" }
+    ], "image": "dfb2018.jpg", "weight": 0.9 },
+    { "type": "image", "image": "niederlande.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",       "name": "Florian Wirtz",      "role": "Liverpool · 125 Mio. £", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg",     "name": "Jamal Musiala",      "role": "Bayern München · 22 J.", "weight": 0.8 },
+    { "type": "image", "image": "ruediger.jpg",    "name": "Antonio Rüdiger",    "role": "Real Madrid · 83 Länderspiele", "weight": 0.8 },
+    { "type": "outro", "title": "Klopp schafft's – oder Abstieg?", "subtitle": "Was tippt ihr? Kommentiert!", "image": "fanzone.jpg", "weight": 1.0 }
+  ]
+}
