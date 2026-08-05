@@ -1,0 +1,97 @@
+{
+  "slug": "atubolu-bank-klopp-dfb-krise",
+  "createdAt": "2026-08-05T09:34:00Z",
+  "title": "Atubolu: Klopps DFB-Torwart-Problem",
+  "script": "Das DFB-Torwartjuwel hat seinen Traum selbst zerstört. Noah Atubolu, 24, hält den DFB-U21-Rekord mit 22 Caps. Doch er blockierte monatelang seine Vertragsverlängerung bei Freiburg. Konsequenz: Freiburg holte Mio Backhaus als neue Nummer 1. Der Newcastle-Wechsel? Nie zustande gekommen. Hull City und Coventry? Beide abgelehnt. Im schlimmsten Fall sitzt Atubolu die gesamte Saison 2026/27 auf der Bank – ein Jahr vor Vertragsende. Und Klopp schaut zu: Wer wird die neue DFB-Nummer 1 nach Neuers Karriereende?",
+  "uploadCaption": "Das DFB-Torwartjuwel hat seinen Traum selbst zerstört! Noah Atubolu blockierte seine Vertragsverlängerung bei Freiburg – und bekam Mio Backhaus als neue Nummer 1 vor die Nase gesetzt. Newcastle kam nie. Hull City und Coventry abgelehnt. Jetzt droht die Bank für eine ganze Saison. Klopp braucht eine neue DFB-Nummer 1 nach Neuer – und Atubolu schießt sich selbst aus dem Rennen.",
+  "uploadHashtags": "#NoahAtubolu #DFB #Klopp #Bundesliga #SCFreiburg #Torwart #TransferDrama #WM2030 #KloppDFB",
+  "images": [
+    { "file": "atubolu.jpg",  "search": "Noah Atubolu" },
+    { "file": "klopp.jpg",   "search": "Jürgen Klopp" },
+    { "file": "neuer.jpg",   "search": "Manuel Neuer" },
+    { "file": "backhaus.jpg","search": "Mio Backhaus SC Freiburg" },
+    { "file": "urbig.jpg",   "search": "Jonas Urbig Bayern München" },
+    { "file": "baumann.jpg", "search": "Oliver Baumann" },
+    { "file": "dfb-team.jpg","search": "DFB Nationalmannschaft 2026" },
+    { "file": "freiburg.jpg","search": "SC Freiburg Stadion Torwart" },
+    { "file": "dfb-fans.jpg","search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER HAT ALLES VERSPIELT.",
+      "image": "atubolu.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "NEWS-DRAMA",
+      "title": "Atubolu: Klopps DFB-Torwart-Problem",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "atubolu.jpg",
+      "name": "Noah Atubolu",
+      "role": "Torwart · 24 · SC Freiburg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "neuer.jpg",
+      "name": "Manuel Neuer",
+      "role": "DFB-Legende · 128 Länderspiele · Karriereende",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "backhaus.jpg",
+      "name": "Mio Backhaus",
+      "role": "Neue Nr. 1 SC Freiburg · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Atubolu in Zahlen",
+      "stats": [
+        { "label": "DFB-U21-Caps (Rekord)", "value": "22" },
+        { "label": "Akzeptierte Wechselangebote", "value": "0" },
+        { "label": "Monate bis Vertragsende", "value": "12" }
+      ],
+      "image": "dfb-team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "freiburg.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "urbig.jpg",
+      "name": "Jonas Urbig",
+      "role": "Klopp-Kandidat Nr. 1 · 22 · FC Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "baumann.jpg",
+      "name": "Oliver Baumann",
+      "role": "Klopp-Kandidat · 36 · Erfahrung",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Ist Atubolu für Klopp noch eine Option?",
+      "subtitle": "Hat er es komplett verspielt? Kommentiert! 👇",
+      "image": "dfb-team.jpg",
+      "weight": 1.0
+    }
+  ]
+}

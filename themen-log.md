@@ -341,3 +341,4 @@
 2026-08-04 | wirtz-ganz-liverpool-liebt-klopp | Wirtz fragt Liverpool-Teamkollegen nach Klopp, "Ganz Liverpool liebt ihn" Zitat, 125 Mio. Pfund 0 WM-Tore 360 Min, Gravenberch als Klopp-Zeuge und Deutschland-Gegner 24.9. Amsterdam, Klopp verteidigt Wirtz "Einmal-in-einem-Jahrhundert-Talent", Debüt 24.9. Amsterdam (GEHEIMNIS)
 2026-08-04 | nl-abstiegsangst-dfb-worst-case | DFB Nations League A Abstiegs-Gefahr, 2018 Wiederholung, Klopp FIFA-Rang 12, Gruppe A2 Niederlande/Serbien/Griechenland, 51 Tage bis Debüt, 0 Trainingseinheiten (NEWS-DRAMA)
 2026-08-05 | brandt-goretzka-klopp-comeback | Julian Brandt ablösefrei BVB→Ajax Amsterdam 57 LS Klopp-Debüt-Stadion, Goretzka Chicago Fire MLS 70 LS, Klopp 57 Kandidaten 26 Plätze, Comeback-Kampf (DUELL/VERGLEICH)
+2026-08-05 | atubolu-bank-klopp-dfb-krise | Atubolu 24 DFB-U21-Rekord 22 Caps Transfer-Fiasco Freiburg Backhaus-Verdrängung Newcastle kein Kontakt Klopp sucht DFB-Nr.1 nach Neuer (NEWS-DRAMA)
