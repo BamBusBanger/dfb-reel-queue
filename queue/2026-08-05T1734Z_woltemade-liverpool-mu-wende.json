@@ -1,0 +1,98 @@
+{
+  "slug": "woltemade-liverpool-mu-wende",
+  "createdAt": "2026-08-05T17:34:00Z",
+  "title": "Woltemade: Liverpool oder BVB?",
+  "script": "75 Millionen Euro – und Newcastle gibt ihn trotzdem frei. Nick Woltemade, Deutschlands teuerster Stürmer, bekommt die Leihe-Freigabe. West Ham wollte ihn – aber die sind abgestiegen. Jetzt kämpfen Liverpool, Manchester United und der BVB um ihn. Bei Liverpool würde Woltemade neben Wirtz spielen. Klopp hat ihn öffentlich gelobt: 'Ich mag seine Abschlussqualitäten.' In 6 Wochen nominiert Klopp seinen ersten DFB-Kader. 0 Bundesliga-Tore, 0 WM-Minuten, 1 Elfmeter daneben – reicht das für ein Comeback?",
+  "uploadCaption": "75 Mio. € – und Newcastle gibt Woltemade trotzdem frei! Liverpool, Manchester United und BVB kämpfen jetzt um Deutschlands teuersten Stürmer. Klopp nominiert in 6 Wochen seinen ersten DFB-Kader. Wo landet er?",
+  "uploadHashtags": "#NickWoltemade #DFB #Klopp #WM2026 #Liverpool #BVB #Bundesliga #Transfer",
+  "images": [
+    { "file": "woltemade.jpg",    "search": "Nick Woltemade" },
+    { "file": "woltemade_jubel.jpg", "search": "Nick Woltemade" },
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "anfield.jpg",      "search": "Anfield Liverpool Stadium" },
+    { "file": "newcastle.jpg",    "search": "St James Park Newcastle United" },
+    { "file": "bvb_stadion.jpg",  "search": "Signal Iduna Park" },
+    { "file": "dfb_fans.jpg",     "search": "DFB Fans" },
+    { "file": "undav.jpg",        "search": "Deniz Undav" },
+    { "file": "havertz.jpg",      "search": "Kai Havertz" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "75 MIO. – ER DARF GEHEN.",
+      "image": "woltemade.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "TRANSFER-WENDE",
+      "title": "Woltemade: Liverpool oder BVB?",
+      "image": "woltemade_jubel.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · 75 Mio. € · Newcastle",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Woltemade bei WM 2026",
+      "stats": [
+        { "label": "Gruppenminuten", "value": "0" },
+        { "label": "Elfmeter verschossen", "value": "1" },
+        { "label": "Ablöse (Mio. €)", "value": "75" }
+      ],
+      "image": "newcastle.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Amtsantritt 15.8.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "anfield.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 125 Mio. £",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "bvb_stadion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "undav.jpg",
+      "name": "Deniz Undav",
+      "role": "Klopp-Konkurrent · 3 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Premier-League-Meister · Klopp-Stürmer",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Liverpool, BVB oder Bundesliga?",
+      "subtitle": "Schreib es in die Kommentare!",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}

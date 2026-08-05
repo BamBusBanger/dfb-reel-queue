@@ -344,3 +344,4 @@
 2026-08-05 | atubolu-bank-klopp-dfb-krise | Atubolu 24 DFB-U21-Rekord 22 Caps Transfer-Fiasco Freiburg Backhaus-Verdrängung Newcastle kein Kontakt Klopp sucht DFB-Nr.1 nach Neuer (NEWS-DRAMA)
 2026-08-05 | klopp-countdown-drei-entscheidungen | Klopp-Countdown 10 Tage bis Amtsantritt 15.8., El Mala BVB-Transfer 200.000€-Lücke 13 BL-Tore 19J., Musiala OP-Comeback Ziel 8.8. Beckenbauer-Supercup, Wirtz Saison 2 Liverpool erstes Tor, 3 offene Fälle vor Klopp-Debüt 24.9. Amsterdam (TOP-3-LISTE)
 2026-08-05 | terstegen-ajax-letzte-chance | ter Stegen (34) Leihe Ajax Amsterdam bestätigt 4.8., Klopp-Debüt 24.9. Johan Cruyff Arena, letzter Anlauf DFB-Nummer 1 nach WM-Verpassen 2026, Rivalen Urbig 22/Nübel 29/Baumann 36/Atubolu 24 (GEHEIMNIS)
+2026-08-05 | woltemade-liverpool-mu-wende | Woltemade 75 Mio. Newcastle-Leihe frei West Ham abgestiegen Liverpool Manchester United BVB im Rennen Klopp-Lob öffentlich 6 Wochen bis Kader-Nominierung (NEWS-DRAMA)
