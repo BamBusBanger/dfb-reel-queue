@@ -1,0 +1,101 @@
+{
+  "slug": "klopp-countdown-drei-entscheidungen",
+  "createdAt": "2026-08-05T12:34:00Z",
+  "title": "Klopp-Countdown: 3 Fälle die sich noch klären müssen",
+  "script": "10 TAGE – dann übernimmt Klopp. Aber DREI Fälle müssen sich VORHER lösen. Erstens: Said El Mala – 13 Bundesliga-Tore, erst 19, auf Klopps 57er-Liste. Nur 200.000 Euro trennen BVB und Köln. Zweitens: Musiala – kommt nach OP zurück ins Training, Ziel 8. August. Klopp braucht SEINEN Jahrhunderttalent beim Beckenbauer-Supercup am 22. Drittens: Wirtz – Saison 2 Liverpool hat begonnen, erstes Tor gegen Leeds, Iraola bestätigt ihn als Zehner. Klopp hat ihn in 360 WM-Minuten nie trainiert. 24. September Amsterdam – Klopp vor seinem ersten Spiel. Schaffst du's, Jürgen?",
+  "uploadCaption": "10 Tage noch – dann startet die Klopp-Ära beim DFB. Aber El Mala, Musiala und Wirtz müssen sich VORHER klären. Die 3 größten offenen Fälle vor dem DFB-Neustart. Welcher Fall ist der kritischste?",
+  "uploadHashtags": "#DFB #Klopp #Musiala #Wirtz #ElMala #WM2026 #Bundestrainer #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "klopp_01.jpg",         "search": "Jürgen Klopp" },
+    { "file": "dfb_team_01.jpg",       "search": "DFB Nationalmannschaft 2026" },
+    { "file": "el_mala_01.jpg",        "search": "Said El Mala Köln" },
+    { "file": "signal_iduna_01.jpg",   "search": "Signal Iduna Park" },
+    { "file": "musiala_01.jpg",        "search": "Jamal Musiala" },
+    { "file": "karl_01.jpg",           "search": "Lennart Karl Bayern" },
+    { "file": "wirtz_01.jpg",          "search": "Florian Wirtz" },
+    { "file": "ouedraogo_01.jpg",      "search": "Assan Ouédraogo RB Leipzig" },
+    { "file": "amsterdam_01.jpg",      "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "fans_01.jpg",           "search": "DFB Fans" },
+    { "file": "public_viewing_01.jpg", "search": "Public Viewing Deutschland Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "10 TAGE NOCH.",
+      "image": "klopp_01.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP-ÄRA STARTET 15.8.",
+      "title": "3 offene Fälle",
+      "image": "dfb_team_01.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "el_mala_01.jpg",
+      "name": "Said El Mala",
+      "role": "Offensiv · 19 · 1. FC Köln",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Fall 1: El Mala zu BVB?",
+      "stats": [
+        { "label": "BL-Tore mit 19 Jahren", "value": "13" },
+        { "label": "Fehlende Euro BVB↔Köln", "value": "200.000" }
+      ],
+      "image": "signal_iduna_01.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala_01.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern · WM-Enttäuschung · OP-Comeback",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Fall 2: Musiala fit für Supercup?",
+      "stats": [
+        { "label": "WM-Tore 2026", "value": "1" },
+        { "label": "Mal ausgewechselt in 4 WM-Spielen", "value": "4" }
+      ],
+      "image": "karl_01.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz_01.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 125 Mio. £ · 0 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo_01.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "RB Leipzig · 20 J. · Klopp-Kandidat",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam_01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schaffst du's, Jürgen?",
+      "subtitle": "Klopp-Debüt 24. Sept. Amsterdam",
+      "image": "public_viewing_01.jpg",
+      "weight": 1.0
+    }
+  ]
+}
