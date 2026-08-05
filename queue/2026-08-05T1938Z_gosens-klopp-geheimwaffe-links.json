@@ -1,0 +1,99 @@
+{
+  "slug": "gosens-klopp-geheimwaffe-links",
+  "createdAt": "2026-08-05T19:38:50Z",
+  "title": "Gosens: Klopps vergessene Linksaußen-Geheimwaffe",
+  "script": "58 Länderspiele – und ALLE haben ihn vergessen. Dabei sucht Klopp genau diesen Typ. Robin Gosens, 32, jetzt FC Schalke 04: Sprint-Maschine, linker Fuß, Pressing-Wahnsinn. EM 2021: 4 Assists in einer einzigen Gruppenphase – das schaffte Weltklasse. Dann kam Nagelsmann – und Gosens verschwand. Drei Turniere in Folge verpasst. Jetzt ist Klopp da. 4-4-2, Gegenpressing. Kein einziger klassischer Linksaußen auf seiner 57er-Liste. Gosens sagt selbst: Ich halte am Traum fest. Jürgen – ruf einfach an.",
+  "uploadCaption": "58 Länderspiele, 4 EM-2021-Assists in einer Gruppenphase, 3 Turniere verpasst – und NIEMAND redet mehr über Robin Gosens. Aber Klopp braucht einen Linksaußen. Diese Rechnung könnte aufgehen 👀",
+  "uploadHashtags": "#Gosens #Klopp #DFB #Nationalmannschaft #WM2030 #Schalke04 #NationsLeague #Comeback",
+  "images": [
+    { "file": "gosens_dfb.jpg",     "search": "Robin Gosens DFB Nationalmannschaft" },
+    { "file": "klopp_bts.jpg",      "search": "Jürgen Klopp" },
+    { "file": "gosens_em2021.jpg",  "search": "Robin Gosens EM 2021" },
+    { "file": "gosens_atalanta.jpg","search": "Robin Gosens Atalanta" },
+    { "file": "gosens_schalke.jpg", "search": "Robin Gosens Schalke 04" },
+    { "file": "schalke.jpg",        "search": "Schalke 04 Bundesliga 2026" },
+    { "file": "dfb_team.jpg",       "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "dfb_fans.jpg",       "search": "DFB Fans" },
+    { "file": "leweling.jpg",       "search": "Jamie Leweling" },
+    { "file": "signal_iduna.jpg",   "search": "Signal Iduna Park BVB" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "58 LÄNDERSPIELE. ALLE HABEN IHN VERGESSEN.",
+      "image": "gosens_dfb.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2030 · KLOPPS GEHEIMNIS",
+      "title": "Gosens – die vergessene Geheimwaffe",
+      "image": "klopp_bts.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "gosens_em2021.jpg",
+      "name": "Robin Gosens",
+      "role": "EM 2021 · 4 Assists · Gruppe",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "gosens_atalanta.jpg",
+      "name": "Robin Gosens",
+      "role": "Linksaußen · 32 · 58 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Gosens Zahlen",
+      "stats": [
+        { "label": "EM-Assists 2021 Gruppenphase", "value": "4" },
+        { "label": "Länderspiele gesamt", "value": "58" },
+        { "label": "Turniere verpasst (WM22/EM24/WM26)", "value": "3" }
+      ],
+      "image": "gosens_schalke.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "schalke.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps 4-4-2 Linksaußen-Lücke",
+      "stats": [
+        { "label": "Klassische LW auf Klopps 57er-Liste", "value": "0" },
+        { "label": "Gosens Pressing-Laufleistung km/Spiel", "value": "9,5" }
+      ],
+      "image": "gosens_dfb.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "leweling.jpg",
+      "name": "Jamie Leweling",
+      "role": "Linksaußen-Kandidat · BVB · 0 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "signal_iduna.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Verdient Gosens eine zweite Chance unter Klopp?",
+      "subtitle": "Ja oder Nein – kommentier unten 👇",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
