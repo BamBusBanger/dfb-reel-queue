@@ -1,0 +1,98 @@
+{
+  "slug": "brandt-goretzka-klopp-comeback",
+  "createdAt": "2026-08-05T05:34:58Z",
+  "title": "Brandt vs. Goretzka – Wer bekommt Klopps Karte?",
+  "script": "2 deutsche Mittelfeldstars, 2 neue Klubs, BEIDE kämpfen um Klopps Aufmerksamkeit. Julian Brandt, 30 Jahre, 57 Länderspiele – wechselt ablösefrei vom BVB zu Ajax Amsterdam. Sein Geständnis nach 7 Jahren Dortmund: „Es war hart." Leon Goretzka, 31 Jahre, 70 Länderspiele, Champions-League-Sieger 2020 – wechselt zu Chicago Fire in die MLS. Klopp hat genau 57 Kandidaten für 26 Kaderplätze. Brandt trainiert täglich im Johan Cruyff Arena – Klopps Debüt-Stadion am 24. September gegen die Niederlande. Goretzka trainiert 6.800 Kilometer entfernt in Chicago. Wer zieht die bessere Karte?",
+  "uploadCaption": "Julian Brandt zu Ajax, Leon Goretzka zu Chicago Fire – beide auf Klopps 57er-Liste. Einer trainiert täglich im Debüt-Stadion des neuen Bundestrainers. Wessen Comeback ist realistischer?",
+  "uploadHashtags": "#DFB #Klopp #JulianBrandt #Goretzka #Bundestrainer #WM2030 #NationsLeague #Ajax #ChicagoFire",
+  "images": [
+    { "file": "brandt_portrait.jpg",  "search": "Julian Brandt" },
+    { "file": "brandt_ajax.jpg",       "search": "Julian Brandt Ajax Amsterdam 2026" },
+    { "file": "goretzka_portrait.jpg", "search": "Leon Goretzka DFB" },
+    { "file": "goretzka_training.jpg", "search": "Leon Goretzka Training Bayern" },
+    { "file": "goretzka_mls.jpg",      "search": "Leon Goretzka Chicago Fire 2026" },
+    { "file": "klopp_portrait.jpg",    "search": "Jürgen Klopp" },
+    { "file": "arena_amsterdam.jpg",   "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "dfb_fans.jpg",          "search": "DFB Fans" },
+    { "file": "wm_pokal.jpg",          "search": "WM Pokal" },
+    { "file": "dfb_flagge.jpg",        "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "2 DFB-Stars. 2 neue Klubs. EINER kommt zurück.",
+      "image": "brandt_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP-ÄRA · AUGUST 2026",
+      "title": "Brandt vs. Goretzka – der Comeback-Kampf",
+      "image": "klopp_portrait.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "brandt_portrait.jpg",
+      "name": "Julian Brandt",
+      "role": "Ajax Amsterdam · 30 J. · 57 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "brandt_ajax.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "goretzka_portrait.jpg",
+      "name": "Leon Goretzka",
+      "role": "Chicago Fire · 31 J. · 70 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "goretzka_mls.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der Kader-Kampf",
+      "stats": [
+        { "label": "Klopp-Kandidaten", "value": "57" },
+        { "label": "Kaderplätze",      "value": "26" },
+        { "label": "Brandt Länderspiele",   "value": "57" },
+        { "label": "Goretzka Länderspiele", "value": "70" }
+      ],
+      "image": "klopp_portrait.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "arena_amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "goretzka_training.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Brandt oder Goretzka?",
+      "subtitle": "Wer verdient Klopps DFB-Ruf?",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
