@@ -1,0 +1,34 @@
+{
+  "slug": "klopp-2019-dfb-plan-grindel-geheimnis",
+  "createdAt": "2026-08-06T15:37:56Z",
+  "title": "Das 7-Jahre-Geheimnis: Klopp war 2019 fast schon Bundestrainer",
+  "script": "DAS ist Klopps geheimste Geschichte. 2019 flogen DFB-Vertreter extra nach Liverpool, um ihm den Plan zu erklären: Klopp soll Löw-Nachfolger werden. Dann trat Grindel zurück – alles verpuffte. 2022, noch als aktiver Liverpool-Trainer, handelte Mateschitz ihn heimlich für Red Bull. 3 lange Jahre Geheimnis. Helmut Marko: 'Unfassbar, wie so ein Mega-Deal so lange geheim bleibt.' Jetzt, 7 Jahre nach dem ersten DFB-Besuch in Liverpool, übernimmt Klopp am 15. August. War das Schicksal?",
+  "uploadCaption": "7 Jahre lang war das ein DFB-Geheimnis 🤫 Schon 2019 wollte er Löw-Nachfolger werden – Grindels Rücktritt stoppte alles. 2022 folgte der heimliche Red-Bull-Deal mit Mateschitz, noch während Klopp Liverpool trainierte. Erst jetzt, 2026, ist er Bundestrainer. Schicksal oder Masterplan?",
+  "uploadHashtags": "#Klopp #DFB #Bundestrainer #WM2026 #WM2030 #Geheimnis #Fussball",
+  "images": [
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "klopp_pk.jpg",        "search": "Klopp DFB Pressekonferenz Frankfurt 2026" },
+    { "file": "grindel.jpg",         "search": "Reinhard Grindel DFB Präsident" },
+    { "file": "mateschitz.jpg",      "search": "Dietrich Mateschitz Red Bull" },
+    { "file": "anfield.jpg",         "search": "Anfield Liverpool FC Stadion" },
+    { "file": "nagelsmann.jpg",      "search": "Julian Nagelsmann" },
+    { "file": "wm_logo.jpg",         "search": "WM 2026 Logo" },
+    { "file": "dfb_fans.jpg",        "search": "DFB Fans Deutschland" },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal" },
+    { "file": "geheimplan.jpg",      "search": "Geheimtreffen Konferenzraum Masterplan Fußball", "thematic": true },
+    { "file": "klopp_unterschrift.jpg", "search": "Klopp DFB Vertrag Unterschrift 2026" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "7 JAHRE GEHEIM.",                    "image": "klopp.jpg",           "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026",    "title": "Klopps geheimste Geschichte", "image": "wm_logo.jpg",     "weight": 0.7 },
+    { "type": "image", "image": "klopp_pk.jpg",        "name": "Jürgen Klopp",       "role": "Bundestrainer ab 15.8.2026",   "weight": 0.8 },
+    { "type": "image", "image": "grindel.jpg",         "name": "Reinhard Grindel",   "role": "Ex-DFB-Präsident 2013–2019",   "weight": 0.8 },
+    { "type": "stats", "title": "Der geheime Zeitplan", "stats": [{ "label": "2019", "value": "Liverpool-Plan" }, { "label": "2022", "value": "Mateschitz-Deal" }, { "label": "7 Jahre", "value": "Geheimnis" }], "image": "geheimplan.jpg", "weight": 0.9 },
+    { "type": "image", "image": "anfield.jpg",                                                                                                                        "weight": 0.8 },
+    { "type": "image", "image": "mateschitz.jpg",      "name": "Dietrich Mateschitz","role": "Red-Bull-Gründer †2022",        "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg",      "name": "Julian Nagelsmann",  "role": "Übernimmt stattdessen 2021",   "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg",                                                                                                                       "weight": 0.8 },
+    { "type": "image", "image": "wm_pokal.jpg",                                                                                                                       "weight": 0.8 },
+    { "type": "outro", "title": "War es Schicksal?",  "subtitle": "Schreib's in die Kommentare!", "image": "klopp_unterschrift.jpg", "weight": 1.0 }
+  ]
+}
