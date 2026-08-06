@@ -1,0 +1,117 @@
+{
+  "slug": "nl-schock-dfb-kein-favorit",
+  "createdAt": "2026-08-06T09:34:15Z",
+  "title": "3 Schock-Fakten: DFB kein Favorit in der Nations League",
+  "script": "Schock-Alarm: Deutschland ist in der Nations League 2026/27 NICHT der Favorit! Fakt eins: Die Niederlande bringen 2 Liverpool-Stars – Gakpo und Gravenberch kennen Klopps System ein Jahr früher als jeder DFB-Spieler. Fakt zwei: Serbien steht auf FIFA-Rang 30 – und Pavlovićs Heimatland-Feuer kann das Spiel kippen. Fakt drei: Der DFB liegt auf FIFA-Rang 12 mit exakt 0 Trainingseinheiten unter Klopp vor dem Debüt am 24. September in Amsterdam. Schafft Klopp das Wunder?",
+  "uploadCaption": "Deutschland ist in der Nations League 2026/27 NICHT der Favorit – und diese 3 Zahlen beweisen es. Was denkst du: Schafft Klopp das Wunder in Amsterdam?",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #Deutschland #WM2030 #Bundestrainer #Nationalmannschaft",
+  "images": [
+    { "file": "musiala.png",        "search": "Jamal Musiala" },
+    { "file": "teamfoto.jpg",       "search": "DFB Team 2026" },
+    { "file": "kimmich.png",        "search": "Joshua Kimmich" },
+    { "file": "gakpo.jpg",          "search": "Cody Gakpo Netherlands" },
+    { "file": "fans_tribuene.jpg",  "search": "DFB Fans Stadion" },
+    { "file": "pavlovic.png",       "search": "Aleksandar Pavlović" },
+    { "file": "serbien.jpg",        "search": "Serbia national football team 2026" },
+    { "file": "wirtz.png",          "search": "Florian Wirtz" },
+    { "file": "tah.png",            "search": "Jonathan Tah" },
+    { "file": "wm_logo.webp",       "search": "WM 2026 Logo FIFA" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "fans_fanzone.jpg",   "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DFB IST NICHT DER FAVORIT!",
+      "image": "musiala.png",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "NATIONS LEAGUE 2026/27",
+      "title": "3 Schock-Fakten",
+      "image": "teamfoto.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "kimmich.png",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 31",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "gakpo.jpg",
+      "name": "Cody Gakpo",
+      "role": "Niederlande · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Fakt 1: Niederlande-Insider",
+      "stats": [
+        { "label": "NL-Stars bei Liverpool (kennen Klopp-System)", "value": "2" },
+        { "label": "DFB-Trainings unter Klopp vor Debüt", "value": "0" }
+      ],
+      "image": "fans_tribuene.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "pavlovic.png",
+      "name": "Aleksandar Pavlović",
+      "role": "Bayern · Serbien-Herzensduell",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Fakt 2: Serbien-Schock",
+      "stats": [
+        { "label": "FIFA-Rang Serbien", "value": "30" },
+        { "label": "Pavlovićs Heimatland als Gruppe-Gegner", "value": "1" }
+      ],
+      "image": "serbien.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.png",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 23 · 0 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tah.png",
+      "name": "Jonathan Tah",
+      "role": "Bayern · Abwehrchef",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Fakt 3: DFB unter Druck",
+      "stats": [
+        { "label": "DFB FIFA-Rang", "value": "12" },
+        { "label": "Trainings unter Klopp vor Debüt 24.9.", "value": "0" },
+        { "label": "Spiele in 11 Tagen (NL-Marathon)", "value": "4" }
+      ],
+      "image": "wm_logo.webp",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Amtsantritt 15.8.",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopp-Wunder in Amsterdam?",
+      "subtitle": "JA oder NEIN – schreib es in die Kommentare",
+      "image": "fans_fanzone.jpg",
+      "weight": 1.0
+    }
+  ]
+}

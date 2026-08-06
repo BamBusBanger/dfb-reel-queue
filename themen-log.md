@@ -347,3 +347,4 @@
 2026-08-05 | woltemade-liverpool-mu-wende | Woltemade 75 Mio. Newcastle-Leihe frei West Ham abgestiegen Liverpool Manchester United BVB im Rennen Klopp-Lob öffentlich 6 Wochen bis Kader-Nominierung (NEWS-DRAMA)
 2026-08-05 | gosens-klopp-geheimwaffe-links | Robin Gosens 32 Schalke 04, 58 Länderspiele vergessen, Klopp 4-4-2 Linksaußen-Lücke, WM 2030 Comeback-Kandidat (GEHEIMNIS)
 2026-08-06 | musiala-gnabry-klopp-comeback-duell | Musiala Teamtraining-Comeback 8.8. nach OP vs Gnabry Adduktorenriss WM-Aus, Bayern-Duell um Klopp-Flügelposition 4-4-2, Nominierung Mitte September (DUELL/VERGLEICH)
+2026-08-06 | nl-schock-dfb-kein-favorit | DFB NICHT Favorit Nations League 2026/27, Niederlande Liverpool-Insider Gakpo+Gravenberch kennen Klopp-System, Serbien FIFA-30 Pavlovic-Herzensduell, DFB FIFA-12 null Trainings vor Debüt 24.9. Amsterdam (TOP-3-LISTE)
