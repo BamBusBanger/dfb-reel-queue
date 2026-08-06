@@ -1,0 +1,100 @@
+{
+  "slug": "beier-vs-sane-rechtsaussen-klopp",
+  "createdAt": "2026-08-06T17:35:00Z",
+  "title": "Beier vs. Sané – Klopps Rechtsaußen-Frage",
+  "script": "0 Tore in 13 Turnieren – darf Sané wirklich nochmal? Klopp braucht auf der rechten Seite endlich eine Antwort. Sané, 30 Jahre, zieht zur Galatasaray – weg aus der Bundesliga. Beier, 23 Jahre, bekommt bei BVB von Coach Kovač die Winger-Rolle dauerhaft übertragen. 33 Tore in 103 Bundesliga-Spielen, über 20 Torbeteiligungen letzte Saison – und null WM-Minuten unter Nagelsmann. Am 22. August sieht Klopp beide im Beckenbauer-Supercup live. Am 24. September in Amsterdam muss er entscheiden.",
+  "uploadCaption": "0 Tore in 13 Turnieren – und Sané soll nochmal starten? Klopp hat am 24. September in Amsterdam die Wahl. Beier oder Sané auf rechts? 👇",
+  "uploadHashtags": "#DFB #WM2026 #Beier #Sané #Klopp #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "sane_aktion.jpg",     "search": "Leroy Sané" },
+    { "file": "beier_aktion.jpg",    "search": "Maximilian Beier" },
+    { "file": "sane_avatar.png",     "search": "Leroy Sané DFB" },
+    { "file": "beier_avatar.png",    "search": "Maximilian Beier DFB" },
+    { "file": "sane_spielszene.jpg", "search": "Leroy Sané Nationalmannschaft" },
+    { "file": "dfb_fans.jpg",        "search": "DFB Fans" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "beier_dfb.jpg",       "search": "Maximilian Beier BVB Winger" },
+    { "file": "signal_iduna.jpg",    "search": "Signal Iduna Park" },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "0 TORE. 13 TURNIERE. DARF SANÉ NOCHMAL?",
+      "image": "sane_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "Klopps Rechtsaußen-Frage",
+      "title": "Beier vs. Sané",
+      "image": "beier_aktion.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "sane_avatar.png",
+      "name": "Leroy Sané",
+      "role": "Galatasaray · 30 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beier_avatar.png",
+      "name": "Maximilian Beier",
+      "role": "BVB · 23 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Sanés Turnier-Fluch",
+      "stats": [
+        { "label": "Länderspiele", "value": "75" },
+        { "label": "Bundesliga-Tore", "value": "16" },
+        { "label": "Turnier-Tore", "value": "0" }
+      ],
+      "image": "sane_spielszene.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · ab 15. Aug.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Beiers Argumente",
+      "stats": [
+        { "label": "BL-Tore", "value": "33" },
+        { "label": "Scorer letzte Saison", "value": "20+" },
+        { "label": "Winger-Rolle BVB", "value": "NEU" }
+      ],
+      "image": "beier_dfb.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "signal_iduna.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Sané oder Beier?",
+      "subtitle": "Wer startet am 24.9. in Amsterdam?",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
