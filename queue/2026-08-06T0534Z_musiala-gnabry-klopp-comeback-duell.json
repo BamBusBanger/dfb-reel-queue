@@ -1,0 +1,105 @@
+{
+  "slug": "musiala-gnabry-klopp-comeback-duell",
+  "createdAt": "2026-08-06T05:34:00Z",
+  "title": "Musiala vs. Gnabry: Wer überzeugt Klopp zuerst?",
+  "script": "ZWEI Bayern-Stars. EINE Klopp-Position. Die Uhr tickt. Jamal Musiala (22) kehrt in 2 Tagen zurück ins Teamtraining – nach OP, Metallplatten im Bein, WM-Krise: nur 239 Minuten gespielt, 1 Tor, 4-mal ausgewechselt. Serge Gnabry (31) verpasste die komplette WM 2026 wegen Adduktorenriss – 64 Länderspiele, nun Comeback-Ziel Beckenbauer-Supercup am 22. August. Klopp startet am 15. August. Sein 4-4-2 braucht SOFORT Flügelspieler. Erste DFB-Nominierung Mitte September. Beide spielen für Bayern. Beide sind hungrig. Wer schlägt schneller zurück?",
+  "uploadCaption": "2 Stars, 1 Position – Klopp schaut zu! Musiala in 2 Tagen zurück nach OP, Gnabry nach komplettem WM-Aus. Wer macht das Rennen für Amsterdam am 24.9.? #DFB #Klopp #Musiala #Gnabry",
+  "uploadHashtags": "#DFB #WM2030 #Klopp #Musiala #Gnabry #Bayern #Bundestrainer #NationsLeague",
+  "images": [
+    { "file": "klopp_dfb.jpg",       "search": "Jürgen Klopp DFB Bundestrainer 2026" },
+    { "file": "dfb_trikot.jpg",      "search": "DFB Trikot 2026" },
+    { "file": "musiala_aktion.jpg",  "search": "Jamal Musiala" },
+    { "file": "musiala_training.jpg","search": "Jamal Musiala Bayern Training 2026" },
+    { "file": "gnabry_dfb.jpg",      "search": "Serge Gnabry" },
+    { "file": "allianz_arena.jpg",   "search": "Allianz Arena" },
+    { "file": "teamfoto_dfb.jpg",    "search": "Deutschland Mannschaft 2026" },
+    { "file": "dfb_fans.jpg",        "search": "Deutschland Fans" },
+    { "file": "gnabry_training.jpg", "search": "Serge Gnabry Bayern Training August 2026" },
+    { "file": "pokal_wm.jpg",        "search": "WM Pokal" },
+    { "file": "wm26_logo.jpg",       "search": "WM 2026 Logo" },
+    { "file": "pyro_fans.jpg",       "search": "Fans Pyro Stadion" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ZWEI STARS. EINE POSITION. KLOPP ENTSCHEIDET.",
+      "image": "klopp_dfb.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB · DUELL/VERGLEICH",
+      "title": "Musiala vs. Gnabry",
+      "image": "dfb_trikot.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_aktion.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern · 22 J. · Comeback in 2 Tagen",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Musiala WM 2026",
+      "stats": [
+        { "label": "Minuten gespielt", "value": "239" },
+        { "label": "Tore", "value": "1" },
+        { "label": "Auswechslungen", "value": "4×" }
+      ],
+      "image": "musiala_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "gnabry_dfb.jpg",
+      "name": "Serge Gnabry",
+      "role": "Bayern · 31 J. · WM verpasst · Comeback 22. Aug",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Gnabry Comeback",
+      "stats": [
+        { "label": "Länderspiele", "value": "64" },
+        { "label": "WM 2026", "value": "verpasst" },
+        { "label": "Comeback-Ziel", "value": "22. Aug" }
+      ],
+      "image": "allianz_arena.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "teamfoto_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "gnabry_training.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pokal_wm.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm26_logo.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Musiala oder Gnabry?",
+      "subtitle": "Wer startet für Klopp in Amsterdam am 24.9.?",
+      "image": "pyro_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
