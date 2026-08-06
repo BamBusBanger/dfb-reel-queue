@@ -1,0 +1,40 @@
+{
+  "slug": "undav-jetzt-oder-nie-klopp",
+  "createdAt": "2026-08-06T12:40:00Z",
+  "title": "Undavs Kampf um die Startelf unter Klopp",
+  "script": "ER WILL DIE STARTELF. 3 Tore und 2 Vorlagen in nur 56 WM-Minuten – Deniz Undav war Deutschlands gefährlichste Waffe. Doch immer nur als Joker. Jetzt kommt Klopp. Im Stuttgarter Trainingslager in Grassau gibt Undav ein klares Statement: 'Es ist neue Energie da – jeder Spieler muss sich neu beweisen.' Mit 30 Jahren ist das seine letzte große Chance auf den Stammplatz. Klopp wählt 26 Spieler aus 57 Kandidaten. Undav hat Hunger – aber Havertz ist Premier-League-Meister. Wer kriegt die Startelf?",
+  "uploadCaption": "Deniz Undav kämpft unter Klopp um seinen DFB-Stammplatz! 3 Tore in nur 56 WM-Minuten – aber immer nur als Joker. Reicht das endlich für die Startelf? 🔥",
+  "uploadHashtags": "#DFB #Klopp #Undav #WM2026 #Nationalmannschaft #Bundestrainer #Fussball",
+  "images": [
+    { "file": "undav_aktion.jpg",    "search": "Deniz Undav Aktion" },
+    { "file": "undav_portrait.jpg",  "search": "Deniz Undav" },
+    { "file": "undav_training.jpg",  "search": "Deniz Undav Training" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "havertz.jpg",         "search": "Kai Havertz" },
+    { "file": "havertz_tor.jpg",     "search": "Kai Havertz Torjubel" },
+    { "file": "dfb_team.jpg",        "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "fans.jpg",            "search": "DFB Fans" },
+    { "file": "trainingslager.jpg",  "search": "Fußball Trainingslager Bayern Alpen", "thematic": true },
+    { "file": "flagge.jpg",          "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER WILL DIE STARTELF.",                      "image": "undav_aktion.jpg",   "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB · KLOPP IN 9 TAGEN",
+                       "title": "Undavs letzter Kampf",                       "image": "klopp.jpg",          "weight": 0.7 },
+    { "type": "image", "name": "Deniz Undav",  "role": "Stürmer · 30 Jahre", "image": "undav_portrait.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "WM 2026 – Nur als Joker",
+      "stats": [
+        { "label": "Tore",     "value": "3"  },
+        { "label": "Vorlagen", "value": "2"  },
+        { "label": "Minuten",  "value": "56" }
+      ],                                                                        "image": "undav_training.jpg", "weight": 0.9 },
+    { "type": "image",                                                          "image": "trainingslager.jpg", "weight": 0.8 },
+    { "type": "image", "name": "Kai Havertz",
+                       "role": "Stürmer · Premier-League-Meister",             "image": "havertz.jpg",        "weight": 0.8 },
+    { "type": "image",                                                          "image": "havertz_tor.jpg",    "weight": 0.8 },
+    { "type": "image",                                                          "image": "dfb_team.jpg",       "weight": 0.8 },
+    { "type": "image",                                                          "image": "fans.jpg",           "weight": 0.8 },
+    { "type": "outro", "title": "Undav: Startelf oder Bank?",
+                       "subtitle": "Verdient er jetzt seinen Platz? ⬇️",      "image": "flagge.jpg",         "weight": 1.0 }
+  ]
+}
