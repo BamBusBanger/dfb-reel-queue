@@ -1,0 +1,103 @@
+{
+  "slug": "havertz-lautaro-klopps-sturm-aufgabe",
+  "createdAt": "2026-08-06T19:34:00Z",
+  "title": "Klopp's Sturm-Krise: Havertz vs. die Weltklasse",
+  "script": "Klopp startet in 9 Tagen – und hat sofort ein Riesenproblem. Der Stürmer. Kai Havertz: 2 Tore nur gegen Curaçao, danach 0 Treffer in 3 Spielen und einen verschossenen Elfmeter beim WM-Aus. Undav: Traumquote 3 WM-Tore – aber alle als Joker in nur 56 Minuten. Woltemade: 75 Millionen Euro, null Turniersekunden. Argentiniens Lautaro Martínez dagegen: Halbfinale-Siegtor in Minute 90+2, 17 Serie-A-Tore. 4 Jahre bis WM 2030. Wer ist Klopps Nummer 9?",
+  "uploadCaption": "Klopp übernimmt in 9 Tagen – und das Stürmer-Problem ist riesig. 2 WM-Tore gegen Curaçao, dann Stille. Havertz, Undav oder Woltemade: Wer wird Klopps Nummer 9 bis 2030? Schreib es in die Kommentare!",
+  "uploadHashtags": "#DFB #WM2030 #Havertz #Klopp #Bundestrainer #DFBTeam #Fussball #Nummer9 #Lautaro",
+  "images": [
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "havertz_jubel.jpg",   "search": "Kai Havertz" },
+    { "file": "havertz_training.jpg","search": "Kai Havertz DFB Training" },
+    { "file": "lautaro.jpg",         "search": "Lautaro Martínez Argentina" },
+    { "file": "argentina_hf.jpg",    "search": "Argentinien England Halbfinale WM 2026" },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal" },
+    { "file": "undav.jpg",           "search": "Deniz Undav" },
+    { "file": "woltemade.jpg",       "search": "Nick Woltemade" },
+    { "file": "metlife.jpg",         "search": "MetLife Stadium WM 2026" },
+    { "file": "dfb_fans.jpg",        "search": "DFB Fans Deutschland" },
+    { "file": "dfb_flagge.jpg",      "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP'S PROBLEM NUMMER 1.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2030 · DFB",
+      "title": "Der Stürmer – Klopps größte Baustelle",
+      "image": "havertz_training.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "havertz_jubel.jpg",
+      "name": "Kai Havertz",
+      "role": "Stürmer · Leverkusen · 27",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Havertz WM 2026",
+      "stats": [
+        { "label": "WM-Tore gesamt",    "value": "2" },
+        { "label": "Tore nach Curaçao", "value": "0" },
+        { "label": "Elfmeter verschossen", "value": "1" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "undav.jpg",
+      "name": "Deniz Undav",
+      "role": "DFB Joker · 28",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · Newcastle · 24",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "lautaro.jpg",
+      "name": "Lautaro Martínez",
+      "role": "Argentinien · 27",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Lautaro WM 2026",
+      "stats": [
+        { "label": "HF-Siegtor Minute", "value": "90+2" },
+        { "label": "K.O.-Tore",         "value": "3" },
+        { "label": "Serie-A-Tore 25/26","value": "17" }
+      ],
+      "image": "argentina_hf.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "metlife.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Havertz oder neuer Stürmer?",
+      "subtitle": "Schreib es in die Kommentare!",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
