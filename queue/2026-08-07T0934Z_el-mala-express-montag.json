@@ -1,0 +1,115 @@
+{
+  "slug": "el-mala-express-montag",
+  "createdAt": "2026-08-07T09:34:26Z",
+  "title": "El Mala – Express-Transfer zum BVB?",
+  "script": "NUR 200.000 EURO FEHLEN! Said El Mala, gerade 19 Jahre alt und 13 Bundesligatore auf dem Konto – und schon am Montag könnte er seinen BVB-Medizincheck bestehen. BVB-Rekordtransfer für 50 Millionen Euro. 3 Fakten, warum dieser Express-Transfer Klopps WM-2030-Plan auf ein neues Level hebt. Denn 2030 ist El Mala genau 23 – im absoluten Stürmer-Prime. U17-Weltmeister 2023, Jahresgehalt 5 Millionen Euro bis 2031. Klopp braucht genau diesen Typen: jung, hungrig, doppeltstark. Kommt der Deal am Montag durch – oder platzt er wieder?",
+  "uploadCaption": "Said El Mala: 19 Jahre, 13 Bundesligatore, U17-Weltmeister 2023 – und möglicherweise schon am Montag beim BVB. 3 Fakten zum explosivsten Transfer des Sommers. Was bedeutet das für Klopps WM-2030-Plan?",
+  "uploadHashtags": "#ElMala #BVB #DFB #Klopp #WM2030 #Bundesliga #Transfernews #DFBTeam",
+  "images": [
+    { "file": "el-mala-portrait.jpg", "search": "Said El Mala Köln" },
+    { "file": "bvb_stadion.jpg",       "search": "Signal Iduna Park Dortmund" },
+    { "file": "el-mala-action.jpg",    "search": "Said El Mala BVB Transfer 2026" },
+    { "file": "fans.jpg",              "search": "DFB Fans Deutschland" },
+    { "file": "ouedraogo.jpg",         "search": "Assan Ouédraogo" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",             "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg",           "search": "Joshua Kimmich" },
+    { "file": "nmecha.jpg",            "search": "Felix Nmecha" },
+    { "file": "dfb_flagge.jpg",        "search": "Deutschland Flagge" },
+    { "file": "wm2026_mural.jpg",      "search": "WM 2026 Mural USA" },
+    { "file": "wm_pokal.jpg",          "search": "WM Pokal Gold" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER KOMMT MONTAG!",
+      "image": "el-mala-portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BVB-REKORDTRANSFER",
+      "title": "El Mala Express-Deal?",
+      "image": "bvb_stadion.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "el-mala-action.jpg",
+      "name": "Said El Mala",
+      "role": "Köln · 19 J. · Klopps Juwel",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FAKT 1: DER EXPRESS",
+      "stats": [
+        { "label": "BVB-Angebot",   "value": "50 Mio." },
+        { "label": "Medizincheck",  "value": "Montag" },
+        { "label": "Vertrag bis",   "value": "2031" }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Leipzig · 20 J. · U17-WM 2023",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FAKT 2: SEINE ZAHLEN",
+      "stats": [
+        { "label": "BL-Tore 25/26",    "value": "13" },
+        { "label": "Alter",            "value": "19 J." },
+        { "label": "Jahresgehalt BVB", "value": "5 Mio." }
+      ],
+      "image": "klopp.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 31 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "FAKT 3: KLOPP 2030",
+      "stats": [
+        { "label": "El Mala bei WM 2030", "value": "23 J." },
+        { "label": "U17-WM-Titel",        "value": "2023" },
+        { "label": "Klopp-Amtsantritt",   "value": "15. Aug." }
+      ],
+      "image": "nmecha.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "dfb_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm2026_mural.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Ist El Mala der deutsche Yamal?",
+      "subtitle": "Kommentiert unten!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
