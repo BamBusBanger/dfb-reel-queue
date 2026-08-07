@@ -1,0 +1,38 @@
+{
+  "slug": "coulibaly-dfb-elfenbeinkueste-wahl",
+  "createdAt": "2026-08-07T17:34:29Z",
+  "title": "Verliert der DFB Coulibaly an die Elfenbeinküste?",
+  "script": "DFB verliert das nächste große Talent? Karim Coulibaly, nur 19 Jahre alt und schon Stammkraft bei Werder Bremen – einer der vielversprechendsten Innenverteidiger der letzten 10 Jahre. Doch seine Eltern kommen aus der Elfenbeinküste! Nationaltrainer Emerse Faé hat bereits mit ihm gesprochen und ihn umworben. Problem: Coulibaly hat erst 4 U19-Spiele für Deutschland absolviert, noch kein einziges A-Länderspiel. Er kann noch wechseln. Klopp hat ihn auf seiner 57er-Liste. Die Nominierung kommt in Wochen – dann ist die Entscheidung gefallen.",
+  "uploadCaption": "DFB in höchster Alarm-Stufe! Karim Coulibaly (19) ist eines der größten Defensiv-Talente Deutschlands – und die Elfenbeinküste will ihn! Nur 4 U19-Spiele, 0 A-Caps, auf Klopps 57er-Liste. Die Uhr tickt für den neuen Bundestrainer. Entscheidet er sich für die Elefanten oder trägt er das DFB-Trikot?",
+  "uploadHashtags": "#DFB #Coulibaly #WerderBremen #Klopp #Bundestrainer #WM2030 #Nationalmannschaft #Fussball #WM2026",
+  "images": [
+    { "file": "coulibaly.jpg",        "search": "Karim Coulibaly Werder Bremen" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "elfenbeinkueste_fahne.jpg", "search": "Elfenbeinküste Fahne" },
+    { "file": "dfb_fans.jpg",         "search": "Deutschland Fans" },
+    { "file": "dfb_flagge.jpg",       "search": "Deutschland Flagge Berlin" },
+    { "file": "dfb_mannschaft.jpg",   "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal Gold" },
+    { "file": "fae.jpg",              "search": "Emerse Faé Elfenbeinküste Trainer" },
+    { "file": "coulibaly_aktion.jpg", "search": "Coulibaly Werder Bremen Aktion" },
+    { "file": "entscheidung.jpg",     "search": "Zwei Flaggen Fußball Entscheidung symbolisch", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "DFB VERLIERT IHN?!", "image": "coulibaly.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPP-ALARM", "title": "Coulibaly vor dem Verbandswechsel!", "image": "dfb_flagge.jpg", "weight": 0.7 },
+    { "type": "image", "image": "coulibaly.jpg",        "name": "Karim Coulibaly", "role": "IV · Werder Bremen · 19", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",            "name": "Jürgen Klopp",   "role": "DFB-Bundestrainer",      "weight": 0.8 },
+    { "type": "image", "image": "elfenbeinkueste_fahne.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Die Fakten", "stats": [
+        { "label": "Alter",                        "value": "19" },
+        { "label": "U19-Spiele für Deutschland",   "value": "4"  },
+        { "label": "A-Länderspiele",               "value": "0"  }
+      ], "image": "dfb_fans.jpg", "weight": 0.9 },
+    { "type": "image", "image": "fae.jpg",              "name": "Emerse Faé",     "role": "Trainer Elfenbeinküste", "weight": 0.8 },
+    { "type": "image", "image": "dfb_mannschaft.jpg",   "weight": 0.8 },
+    { "type": "image", "image": "coulibaly_aktion.jpg", "weight": 0.8 },
+    { "type": "image", "image": "entscheidung.jpg",     "weight": 0.8 },
+    { "type": "image", "image": "wm_pokal.jpg",         "weight": 0.8 },
+    { "type": "outro", "title": "Deutschland oder Elfenbeinküste?", "subtitle": "Schreib's in die Kommentare!", "image": "dfb_fans.jpg", "weight": 1.0 }
+  ]
+}
