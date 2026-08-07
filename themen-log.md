@@ -357,3 +357,4 @@
 2026-08-07 | kosicke-klopps-dfb-schattenmann | Marc Kosicke offizieller Co-Trainer DFB Strategie Innovation, 20 Jahre Klopp-Berater, Bierhoff-Nachfolger, DFB-Novum 125 Jahre, Amtsantritt 15. August (NEWS-DRAMA)
 2026-08-07 | karl-alarm-musiala-supercup | Lennart Karl Rückschlag Rückenprobleme Aufbautraining 6.8. Supercup-Einsatz fraglich, Musiala Metallplatten-OP Teamtraining HEUTE 8.8., Klopp erstes Scouting Beckenbauer-Supercup 22.8. BVB vs Bayern Signal Iduna, 6 Wochen bis Kader-Nominierung (DUELL/VERGLEICH)
 2026-08-07 | coulibaly-dfb-elfenbeinkueste-wahl | Karim Coulibaly 19 Werder Bremen Doppelstaatler DFB vs Elfenbeinküste 4 U19-Caps 0 A-Caps Klopp 57er-Liste Emerse Faé umwirbt Talent (NEWS-DRAMA)
+2026-08-07 | klopp-tsimikas-spion-griechenland | Klopp Ex-Spieler Tsimikas Griechenland Nations League Liga A erstmals, 4 Jahre Liverpool, Insider-Spion-Vorteil, 27. September Augsburg (GEHEIMNIS)

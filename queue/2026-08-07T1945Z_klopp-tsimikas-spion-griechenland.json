@@ -1,0 +1,34 @@
+{
+  "slug": "klopp-tsimikas-spion-griechenland",
+  "createdAt": "2026-08-07T19:45:51Z",
+  "title": "Klopps Ex-Spieler als DFB-Gegner",
+  "script": "ER KENNT ALLE GEHEIMNISSE VON JÜRGEN KLOPP! Kostas Tsimikas spielte 4 Jahre unter Klopp bei Liverpool – und ist jetzt sein Gegner. Griechenland ist ERSTMALS überhaupt in der Nations League Liga A. Am 27. September trifft Deutschland in Augsburg auf die Griechen. Tsimikas kennt Klopps Pressing-System in- und auswendig. Klopp kennt aber auch seine Schwachstellen. 46 Länderspiele, FA-Cup-Finalist 2022. Das ist Spionage auf Weltklasse-Niveau. Wer hat den größeren Insider-Vorteil?",
+  "uploadCaption": "Klopps Ex-Spieler jetzt sein Gegner! Tsimikas spielte 4 Jahre unter ihm – und kennt ALLES. 27. September Augsburg, Nations League. Wer zieht den größeren Vorteil? 👀",
+  "uploadHashtags": "#DFB #NationsLeague2026 #Klopp #Tsimikas #Griechenland #Deutschland #Fussball #WM2030",
+  "images": [
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "tsimikas.jpg", "search": "Kostas Tsimikas" },
+    { "file": "klopp_cl.jpg", "search": "Klopp Liverpool Champions League 2019" },
+    { "file": "tsimikas_griechenland.jpg", "search": "Tsimikas Greece national team football" },
+    { "file": "dfb_flagge.jpg", "search": "Deutschland Flagge" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" },
+    { "file": "klopp_dfb.jpg", "search": "Klopp Bundestrainer DFB 2026" },
+    { "file": "nations_league.jpg", "search": "UEFA Nations League" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "dfb_team.jpg", "search": "DFB Nationalmannschaft" },
+    { "file": "griechenland_fans.jpg", "search": "Greece football fans celebration" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER KENNT KLOPPS GEHEIMNISSE.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "Nations League 2026", "title": "Klopps Ex-Spieler als Gegner", "image": "klopp_cl.jpg", "weight": 0.7 },
+    { "type": "image", "image": "tsimikas.jpg", "name": "Kostas Tsimikas", "role": "Griechenland · 4 Jahre Liverpool unter Klopp", "weight": 0.8 },
+    { "type": "image", "image": "tsimikas_griechenland.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Tsimikas' Insider-Wissen", "stats": [{"label": "Jahre unter Klopp", "value": "4"}, {"label": "GRE-Länderspiele", "value": "46+"}, {"label": "DFB vs Griechenland", "value": "27. Sep"}], "image": "dfb_flagge.jpg", "weight": 0.9 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "klopp_dfb.jpg", "weight": 0.8 },
+    { "type": "image", "image": "nations_league.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_team.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Insider-Vorteil oder Fluch?", "subtitle": "Klopp oder Tsimikas – wer profitiert mehr?", "image": "griechenland_fans.jpg", "weight": 1.0 }
+  ]
+}
