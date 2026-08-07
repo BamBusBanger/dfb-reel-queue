@@ -1,0 +1,98 @@
+{
+  "slug": "diomande-madrid-ouedraogo-gewinner",
+  "createdAt": "2026-08-07T05:40:00Z",
+  "title": "Der 140-Mio-Effekt für Klopp",
+  "script": "140 MILLIONEN EURO – und der DFB ist heimlich der größte Gewinner! Yan Diomandé, erst 19 Jahre alt, wechselt von RB Leipzig zu Real Madrid – Afrikas teuerster Transfer der Geschichte. Beim WM 2026 war er noch Deutschlands Albtraum. Jetzt schafft sein Abgang 3 geheime Vorteile für Klopp. Erstens: Assan Ouédraogo wird sofort Stammkraft in Leipzig – genau vor der September-Nominierung. Zweitens: Leipzig nutzt 125 Millionen für El Malas BVB-Wechsel. Und drittens: 2030 wartet Diomandé als 23-Jähriger bei Real auf Deutschlands Revanche.",
+  "uploadCaption": "140 Millionen – und der DFB gewinnt heimlich mit! Diomandés Rekordwechsel zu Real Madrid hat 3 geheime Folgen für Klopp & die Nationalmannschaft. Wer profitiert wirklich? 🔥",
+  "uploadHashtags": "#DFB #WM2030 #Klopp #Diomandé #RealMadrid #Leipzig #Nationalmannschaft #WM2026 #Fussball",
+  "images": [
+    { "file": "diomande.jpg",  "search": "Yan Diomandé" },
+    { "file": "ouedraogo.jpg", "search": "Assan Ouédraogo" },
+    { "file": "klopp.jpg",     "search": "Jürgen Klopp" },
+    { "file": "tah.jpg",       "search": "Jonathan Tah" },
+    { "file": "wirtz.jpg",     "search": "Florian Wirtz" },
+    { "file": "fans.jpg",      "search": "DFB Fans" },
+    { "file": "pokal.jpg",     "search": "WM-Pokal" },
+    { "file": "el-mala.jpg",   "search": "Said El Mala" },
+    { "file": "bernabeu.jpg",  "search": "Real Madrid Santiago Bernabéu 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "140 MIO. € – UND DER DFB GEWINNT HEIMLICH MIT?",
+      "image": "diomande.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "GEHEIMNIS",
+      "title": "Der Diomandé-Effekt",
+      "image": "tah.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "diomande.jpg",
+      "name": "Yan Diomandé",
+      "role": "Real Madrid · 19 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Rekord-Transfer",
+      "stats": [
+        { "label": "Ablöse (Basis)", "value": "125 Mio. €" },
+        { "label": "Ablöse (max.)", "value": "140 Mio. €" },
+        { "label": "Alter", "value": "19 Jahre" },
+        { "label": "BL-Tore 25/26", "value": "12" }
+      ],
+      "image": "bernabeu.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "RB Leipzig · 20 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "el-mala.jpg",
+      "name": "Said El Mala",
+      "role": "1. FC Köln · 19 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 23 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Ouédraogo oder Diomandé?",
+      "subtitle": "Wer spielt 2030 die bessere WM?",
+      "image": "tah.jpg",
+      "weight": 1.0
+    }
+  ]
+}
