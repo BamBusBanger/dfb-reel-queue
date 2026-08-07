@@ -1,0 +1,101 @@
+{
+  "slug": "karl-alarm-musiala-supercup",
+  "createdAt": "2026-08-07T15:36:00Z",
+  "title": "Karl-Alarm vs. Musiala-Comeback – Wer schafft's zum Supercup?",
+  "script": "KARLSALARM – nur 15 Tage vor Klopps Amtsantritt! Bayern-Juwel Lennart Karl (18) erlitt am 6. August einen Rückschlag: Rückenprobleme beim Aufbautraining, Supercup-Einsatz am 22. August fraglich. Zur selben Zeit kehrt Jamal Musiala HEUTE nach seiner Metallplatten-OP ins Teamtraining zurück – der 22-Jährige liegt voll auf Kurs. Am Franz-Beckenbauer-Supercup am 22. August schaut Klopp zum ERSTEN Mal als Bundestrainer live hin. 6 Wochen bis zur ersten Kader-Nominierung für die Nations League. Karl oder Musiala: Wer landet früher auf Klopps Liste?",
+  "uploadCaption": "15 Tage vor Klopps Amtsantritt – und schon das erste Drama! Karl mit Rückschlag, Musiala HEUTE zurück im Teamtraining. Wer schafft's rechtzeitig zum Supercup? ⚽ #DFB #Klopp #Musiala #LennartKarl",
+  "uploadHashtags": "#DFB #Klopp #Musiala #LennartKarl #WM2030 #BeckenbauerSupercup #FCBayern #Nationalmannschaft",
+  "images": [
+    { "file": "musiala_jubel.jpg",   "search": "Jamal Musiala" },
+    { "file": "signal_iduna.jpg",    "search": "Signal Iduna Park Dortmund" },
+    { "file": "karl.jpg",            "search": "Lennart Karl" },
+    { "file": "karl_reha.jpg",       "search": "Lennart Karl Bayern Reha August 2026" },
+    { "file": "musiala_aktion.jpg",  "search": "Jamal Musiala Bayern Training" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "klopp_dfb.jpg",       "search": "Jürgen Klopp DFB Bundestrainer 2026" },
+    { "file": "dfb_team.jpg",        "search": "DFB Nationalmannschaft 2026" },
+    { "file": "fans_dfb.jpg",        "search": "DFB Fans" },
+    { "file": "dfb_flagge.jpg",      "search": "Deutschland Flagge Fußball" },
+    { "file": "musiala_dfb.jpg",     "search": "Jamal Musiala DFB Trikot" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KARLSALARM! 15 TAGE VOR KLOPPS START!",
+      "image": "musiala_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "22. AUGUST | BECKENBAUER-SUPERCUP",
+      "title": "Karl vs. Musiala",
+      "image": "signal_iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "karl.jpg",
+      "name": "Lennart Karl",
+      "role": "Sturm · 18 · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "karl_reha.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Karls Rückschlag (6. August)",
+      "stats": [
+        { "label": "WM-Aus", "value": "Muskelbündelriss" },
+        { "label": "Neues Problem", "value": "Rückenprobleme" },
+        { "label": "Supercup 22.8.", "value": "fraglich" }
+      ],
+      "image": "klopp.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala_aktion.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Musialas Comeback-Plan",
+      "stats": [
+        { "label": "Metallplatten-OP", "value": "erfolgreich" },
+        { "label": "Teamtraining", "value": "8. August" },
+        { "label": "Supercup 22.8.", "value": "on track" }
+      ],
+      "image": "dfb_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp_dfb.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · DFB ab 15.8.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Karl oder Musiala?",
+      "subtitle": "Wer landet früher auf Klopps September-Liste?",
+      "image": "dfb_flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
