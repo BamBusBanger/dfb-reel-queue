@@ -1,0 +1,32 @@
+{
+  "slug": "kosicke-klopps-dfb-schattenmann",
+  "createdAt": "2026-08-07T12:42:14Z",
+  "title": "Marc Kosicke: Klopps geheimer Schattenmann beim DFB",
+  "script": "Dieser Mann arbeitet jetzt offiziell beim DFB - und kaum jemand kennt ihn. Marc Kosicke, 20 Jahre der persönliche Berater von Jürgen Klopp, wurde als offizieller Co-Trainer für Strategie, Entwicklung und Innovation vorgestellt. Er koordiniert alle 4 Co-Trainer, hat Zugang zu jedem DFB-Bereich. Vergleich: Oliver Bierhoff war 18 Jahre das mächtigste Gesicht hinter der Nationalmannschaft. Kosicke übernimmt diese Rolle ab dem 15. August. Ein Novum in 125 Jahren DFB-Geschichte. Das neue Machtzentrum ist da.",
+  "uploadCaption": "Jürgen Klopp bringt seinen engsten Vertrauten mit: Marc Kosicke, 20 Jahre sein persönlicher Berater, ist jetzt offizieller DFB Co-Trainer für Strategie, Entwicklung und Innovation. Ein Novum in 125 Jahren DFB-Geschichte. Kann dieses Führungsteam Deutschland 2030 zum Weltmeister machen?",
+  "uploadHashtags": "#DFB #Klopp #WM2030 #Nationalmannschaft #Bundestrainer #Fussball #DFBTeam",
+  "images": [
+    { "file": "klopp_01.jpg",    "search": "Jürgen Klopp" },
+    { "file": "kosicke_01.jpg",  "search": "Marc Kosicke" },
+    { "file": "dfb_flagge_01.jpg", "search": "Deutschland Flagge Berlin" },
+    { "file": "bierhoff_01.jpg", "search": "Oliver Bierhoff DFB" },
+    { "file": "krawietz_01.jpg", "search": "Peter Krawietz Trainer" },
+    { "file": "teamfoto_01.jpg", "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wm_pokal_01.jpg", "search": "WM Pokal Gold" },
+    { "file": "fans_01.jpg",     "search": "Deutsche Fußballfans Stadion" },
+    { "file": "klopp_pk_01.jpg", "search": "Jürgen Klopp DFB Pressekonferenz Bundestrainer" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "DIESER MANN arbeitet ab sofort beim DFB – und du kennst ihn nicht.", "image": "klopp_pk_01.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB-NEUSTART · 15. AUG 2026", "title": "Klopps geheimer Schattenmann", "image": "klopp_01.jpg", "weight": 0.7 },
+    { "type": "image", "image": "kosicke_01.jpg", "name": "Marc Kosicke", "role": "Co-Trainer Strategie · DFB", "weight": 0.8 },
+    { "type": "image", "image": "klopp_pk_01.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer ab 15. Aug.", "weight": 0.8 },
+    { "type": "stats", "title": "Kosickes Macht in Zahlen", "stats": [{ "label": "Jahre Klopp-Berater", "value": "20" }, { "label": "Co-Trainer koordiniert", "value": "4" }, { "label": "DFB-Novum (Jahre)", "value": "125" }], "image": "dfb_flagge_01.jpg", "weight": 0.9 },
+    { "type": "image", "image": "bierhoff_01.jpg", "name": "Oliver Bierhoff", "role": "DFB-Direktor 2004–2022", "weight": 0.8 },
+    { "type": "image", "image": "krawietz_01.jpg", "name": "Peter Krawietz", "role": "Co-Trainer · 808 Einsätze", "weight": 0.8 },
+    { "type": "image", "image": "teamfoto_01.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wm_pokal_01.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans_01.jpg",     "weight": 0.8 },
+    { "type": "outro", "title": "Team Klopp: Schafft Deutschland 2030 den 5. Stern?", "subtitle": "JA oder NEIN – kommentier jetzt!", "image": "kosicke_01.jpg", "weight": 1.0 }
+  ]
+}

@@ -354,3 +354,4 @@
 2026-08-06 | havertz-lautaro-klopps-sturm-aufgabe | Havertz 2 WM-Tore Elfmeter-Aus vs Lautaro Siegtor 90+2, Undav 3 Joker-Tore 56 Min, Woltemade 75 Mio 0 Minuten, Klopp Sturm-Problem 9 Tage bis Amtsantritt WM-2030-Nummer-9-Frage (NEWS-DRAMA)
 2026-08-07 | diomande-madrid-ouedraogo-gewinner | Diomandé offiziell Real Madrid 125-140 Mio. Afrikas teuerster Transfer, Leipzig lehnte 115 Mio. ab jetzt fix, Ouédraogo Stammkraft Leipzig vor Klopp-Nominierung, El-Mala-BVB-Transfer finanziert, 2030 Revanche Diomandé 23J. (GEHEIMNIS)
 2026-08-07 | el-mala-express-montag | El Mala BVB Express-Transfer Montag Medizincheck, BVB drittes Angebot 50 Mio., 13 BL-Tore 19 Jahre U17-WM 2023, Klopp WM-2030-Juwel (TOP-3-LISTE)
+2026-08-07 | kosicke-klopps-dfb-schattenmann | Marc Kosicke offizieller Co-Trainer DFB Strategie Innovation, 20 Jahre Klopp-Berater, Bierhoff-Nachfolger, DFB-Novum 125 Jahre, Amtsantritt 15. August (NEWS-DRAMA)
