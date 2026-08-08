@@ -359,3 +359,4 @@
 2026-08-07 | coulibaly-dfb-elfenbeinkueste-wahl | Karim Coulibaly 19 Werder Bremen Doppelstaatler DFB vs Elfenbeinküste 4 U19-Caps 0 A-Caps Klopp 57er-Liste Emerse Faé umwirbt Talent (NEWS-DRAMA)
 2026-08-07 | klopp-tsimikas-spion-griechenland | Klopp Ex-Spieler Tsimikas Griechenland Nations League Liga A erstmals, 4 Jahre Liverpool, Insider-Spion-Vorteil, 27. September Augsburg (GEHEIMNIS)
 2026-08-08 | musiala-teamtraining-klopp-countdown | Musiala Teamtraining-Comeback heute 8.8. nach Platten-OP, 47 Tage bis Klopp-Debüt Amsterdam, 14 Tage bis Beckenbauer-Supercup, Zehner-Duell Musiala vs. Wirtz im 4-4-2 (TOP-3-LISTE)
+2026-08-08 | klopp-niederlande-rivalitaet-neues-kapitel | Klopp-Debüt 24.9. Amsterdam 47 Tage, DFB vs Oranje Jahrhundertduell 1974 WM-Finale/1988 EM-HF/1990 WM-Achtelfinale, Wirtz 125 Mio. Pfund trifft Liverpool-Kollegen Gakpo+Gravenberch, Koeman weg neuer Coach, Klopp kennt Oranje von innen (DUELL/VERGLEICH)

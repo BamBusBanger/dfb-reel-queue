@@ -1,0 +1,40 @@
+{
+  "slug": "klopp-niederlande-rivalitaet-neues-kapitel",
+  "createdAt": "2026-08-08T09:34:00Z",
+  "title": "Klopp vs Oranje – das Jahrhundertduell kehrt zurück",
+  "script": "DAS Jahrhundertduell ist zurück. In 47 Tagen debütiert Jürgen Klopp als Bundestrainer – ausgerechnet in Amsterdam. Deutsche gegen Holländer: 1974 WM-Finale 2:1 für Deutschland, 1988 EM-Halbfinale 1:2, 1990 WM-Achtelfinale 2:1 – 3 Klassiker, immer Feuer. Jetzt trifft Wirtz – 125 Mio. Pfund, 0 WM-Tore – auf seine Liverpool-Teamkollegen Gakpo und Gravenberch. Klopp kennt die Oranje von innen. Aber auch die Niederländer kennen Klopp. Wem gehört Amsterdam am 24. September?",
+  "uploadCaption": "47 Tage bis zum JAHRHUNDERTDUELL! Klopp debütiert ausgerechnet gegen die Niederlande in Amsterdam – 1974, 1988, 1990: diese Rivalität brennt seit 50 Jahren. Und jetzt? Wirtz trifft auf Liverpool-Kollegen Gakpo & Gravenberch. Das neue Kapitel beginnt am 24. September.",
+  "uploadHashtags": "#DFB #Klopp #Niederlande #NationsLeague #Wirtz #Amsterdam #Jahrhundertduell #Oranje",
+  "images": [
+    { "file": "kimmich_kapitaensbinde_01.webp", "search": "Joshua Kimmich" },
+    { "file": "amsterdam_arena.jpg", "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "juergen_klopp_01.jpg", "search": "Jürgen Klopp" },
+    { "file": "wirtz_jubel_dfb_01.jpg", "search": "Florian Wirtz" },
+    { "file": "gakpo_nl.jpg", "search": "Cody Gakpo Niederlande" },
+    { "file": "gravenberch_nl.jpg", "search": "Ryan Gravenberch Niederlande" },
+    { "file": "fanmeile_berlin_2014_01.jpg", "search": "DFB Fans" },
+    { "file": "wm1974_finale.jpg", "search": "WM 1974 Finale Deutschland Niederlande Frankfurt" },
+    { "file": "musiala_01.png", "search": "Jamal Musiala" },
+    { "file": "rivalitaet_symbol.jpg", "search": "Deutschland Niederlande Fußball Duell Schwarz-Rot-Gold Orange symbolisch", "thematic": true },
+    { "file": "deutschland_fans_01.jpg", "search": "DFB Fans" },
+    { "file": "fanzone_brandenburger_tor_01.jpg", "search": "DFB Fans Berlin" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "JAHRHUNDERTDUELL – 47 TAGE!", "image": "kimmich_kapitaensbinde_01.webp", "weight": 0.5 },
+    { "type": "title", "eyebrow": "24. SEPTEMBER · AMSTERDAM", "title": "Klopp vs Oranje", "image": "amsterdam_arena.jpg", "weight": 0.7 },
+    { "type": "image", "image": "juergen_klopp_01.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · Debüt 24.09.", "weight": 0.8 },
+    { "type": "image", "image": "wirtz_jubel_dfb_01.jpg", "name": "Florian Wirtz", "role": "Liverpool · 125 Mio. £ · 0 WM-Tore", "weight": 0.8 },
+    { "type": "image", "image": "gakpo_nl.jpg", "name": "Cody Gakpo", "role": "Liverpool · Niederlande", "weight": 0.8 },
+    { "type": "image", "image": "gravenberch_nl.jpg", "name": "Ryan Gravenberch", "role": "Liverpool · Niederlande", "weight": 0.8 },
+    { "type": "stats", "title": "DFB vs Oranje – 3 Klassiker", "stats": [
+        { "label": "1974 WM-Finale", "value": "2:1 ✓" },
+        { "label": "1988 EM-Halbfinale", "value": "1:2 ✗" },
+        { "label": "1990 WM-Achtelfinale", "value": "2:1 ✓" }
+      ], "image": "fanmeile_berlin_2014_01.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wm1974_finale.jpg", "weight": 0.8 },
+    { "type": "image", "image": "musiala_01.png", "name": "Jamal Musiala", "role": "Bayern München · WM-Comeback", "weight": 0.8 },
+    { "type": "image", "image": "rivalitaet_symbol.jpg", "weight": 0.8 },
+    { "type": "image", "image": "deutschland_fans_01.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Klopp schlägt die Oranje sofort?", "subtitle": "Kommentiert! 👇", "image": "fanzone_brandenburger_tor_01.jpg", "weight": 1.0 }
+  ]
+}
