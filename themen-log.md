@@ -363,3 +363,4 @@
 2026-08-08 | ouedraogo-comeback-klopp-wartet | Ouédraogo RB Leipzig Bundesliga-Comeback nächste Woche, 0 WM-Minuten 2 Verletzungen, Diomandé-Lücke 130 Mio Real Madrid, 102-Sek-DFB-Tor, Klopp 57er-Liste 6 Wochen bis Nominierung (NEWS-DRAMA)
 2026-08-08 | musiala-platte-raus-staerker-2030 | Musiala Metallplatten-Entfernung Murnau heute Teamtraining-Comeback 364 Tage Reha Knochen 40% stärker Gerd-Müller-Parallele WM 2030 mit 26 Jahren Klopp startet in 7 Tagen (GEHEIMNIS)
 2026-08-08 | el-mala-50mio-klopp-call | Klopp persönlich angerufen noch vor Amtsantritt 15.8., BVB 50 Mio. Vereinsrekord-Gebot, RB Leipzig steigt nach 130-Mio.-Diomandé-Erlös ein, El Mala fehlt im Testspiel (NEWS-DRAMA)
+2026-08-08 | woltemade-5-clubs-jagen | Woltemade 5 Top-Clubs (Liverpool/MU/Atlético/Aston Villa/BVB), Newcastle will €65Mio Dauerverkauf, 0 WM-Minuten trotzdem begehrt, 17 BL-Tore 1,98m Klopp-4-4-2-Typ, öffentliches Klopp-Vertrauen = WM-2030-Signal (TOP-3-LISTE)

@@ -1,0 +1,99 @@
+{
+  "slug": "woltemade-5-clubs-jagen",
+  "createdAt": "2026-08-08T19:44:06Z",
+  "title": "5 Top-Clubs jagen Woltemade",
+  "script": "0 WM-Minuten, verschossener Elfmeter – und doch jagen Liverpool, Manchester United, Atlético Madrid, Aston Villa und der BVB Nick Woltemade gleichzeitig! Newcastle verlangt 65 Millionen Euro. Hier sind die 3 Gründe, warum alle ihn wollen: Erstens: 17 Bundesliga-Tore, 1,98 Meter – er ist die perfekte Klopp-Waffe im 4-4-2. Zweitens: U21-EM-Topschütze – das Tor-Gen ist unbestreitbar. Drittens: Klopp vertraut ihm öffentlich. Wer Klopps Vertrauen hat, spielt 2030 bei der WM.",
+  "uploadCaption": "0 WM-Minuten, Elfmeter verschossen – trotzdem wollen ihn Liverpool, Man United, Atlético, Aston Villa UND der BVB. Das sind die 3 Gründe, warum Nick Woltemade der heißeste Stürmer Europas ist 🔥",
+  "uploadHashtags": "#NickWoltemade #DFB #WM2026 #Transfermarkt #Fussball #Liverpool #BVB #Klopp",
+  "images": [
+    { "file": "woltemade_portrait.jpg",  "search": "Nick Woltemade" },
+    { "file": "woltemade_avatar.jpg",    "search": "Nick Woltemade" },
+    { "file": "woltemade_jubel.jpg",     "search": "Nick Woltemade Jubel" },
+    { "file": "woltemade_training.jpg",  "search": "Nick Woltemade Training" },
+    { "file": "elfmeter_paraguay.jpg",   "search": "Nick Woltemade Elfmeter Paraguay WM 2026" },
+    { "file": "klopp.jpg",              "search": "Jürgen Klopp" },
+    { "file": "clubs_thematic.jpg",     "search": "Premier League Bundesliga Transferpoker Top Clubs", "thematic": true },
+    { "file": "fans_entsetzen.jpg",     "search": "DFB Public Viewing Entsetzen" },
+    { "file": "fans_dfb.jpg",           "search": "DFB Fans Deutschland" },
+    { "file": "fans_hoffen.jpg",        "search": "DFB Fans Spannung" },
+    { "file": "pokal.jpg",              "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "0 WM-MINUTEN. ELFMETER VERSCHOSSEN. TROTZDEM JAGEN IHN 5 GIGANTEN!",
+      "image": "woltemade_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "TOP 3 GRÜNDE",
+      "title": "Warum alle Woltemade wollen",
+      "image": "woltemade_avatar.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "woltemade_jubel.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · 24 J. · 1,98 m",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der Transferpoker",
+      "stats": [
+        { "label": "Ablöse Newcastle", "value": "65 Mio €" },
+        { "label": "Clubs im Rennen", "value": "5" },
+        { "label": "WM-Minuten", "value": "0" }
+      ],
+      "image": "elfmeter_paraguay.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Start 15. Aug.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "3 Gründe – Zahlen lügen nicht",
+      "stats": [
+        { "label": "Bundesliga-Tore", "value": "17" },
+        { "label": "Körpergröße", "value": "1,98 m" },
+        { "label": "U21-EM Tore", "value": "Top-Torschütze" }
+      ],
+      "image": "woltemade_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "clubs_thematic.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_hoffen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopps WM-2030-Waffe?",
+      "subtitle": "Verdient Woltemade eine 2. Chance? Kommentiert ↓",
+      "image": "pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
