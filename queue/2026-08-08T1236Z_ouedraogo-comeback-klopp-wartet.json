@@ -1,0 +1,95 @@
+{
+  "slug": "ouedraogo-comeback-klopp-wartet",
+  "createdAt": "2026-08-08T12:36:00Z",
+  "title": "Ouédraogo kommt zurück – und Klopp wartet",
+  "script": "Er war bei der WM 2026 dabei – mit 0 Spielminuten. Zweimal verletzt in einer Saison, zweimal zurückgekämpft. Und während er auf der Bank saß, kassierte RB Leipzig 130 Millionen Euro für Diomandé. Jetzt ist Assan Ouédraogo der neue Leipzig-Boss. Nächste Woche sein Bundesliga-Comeback. In 6 Wochen die erste Klopp-Nominierung. Der 20-Jährige bewies schon, was er kann: nach 102 Sekunden das DFB-Debüt-Tor. Klopp hat ihn auf der 57er-Liste. Jetzt muss Ouédraogo endlich liefern.",
+  "uploadCaption": "0 WM-Minuten, 2 Verletzungen – und trotzdem Klopps heißester Kandidat! Assan Ouédraogo kehrt nächste Woche in die Bundesliga zurück. Leipzig-Schlüsselspieler nach dem 130-Mio-Abgang von Diomandé. Erstes Klopp-Aufgebot in 6 Wochen. Wird er es schaffen?",
+  "uploadHashtags": "#DFB #WM2030 #Ouédraogo #RBLeipzig #Klopp #Bundesliga #Nationalmannschaft #DFBTeam",
+  "images": [
+    { "file": "ouedraogo.jpg",       "search": "Assan Ouédraogo" },
+    { "file": "ouedraogo_aktion.jpg","search": "Assan Ouédraogo RB Leipzig 2026" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "diomande_madrid.jpg", "search": "Yan Diomandé Real Madrid 2026" },
+    { "file": "teamfoto.jpg",        "search": "DFB Nationalmannschaft 2026" },
+    { "file": "leipzig_stadion.jpg", "search": "Red Bull Arena Leipzig Bundesliga" },
+    { "file": "fans.jpg",            "search": "DFB Fans" },
+    { "file": "wirtz.jpg",           "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",         "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",         "search": "Joshua Kimmich" },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "0 WM-MINUTEN. ABER JETZT.",
+      "image": "ouedraogo.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2030 · KLOPP WARTET",
+      "title": "Ouédraogo – das Comeback",
+      "image": "leipzig_stadion.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo_aktion.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Mittelfeld · RB Leipzig · 20",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Amtsantritt 15.8.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "DIE ZAHLEN",
+      "stats": [
+        { "label": "WM-Minuten 2026", "value": "0" },
+        { "label": "Verletzungen diese Saison", "value": "2" },
+        { "label": "Diomandé-Ablöse Real Madrid", "value": "130 Mio. €" },
+        { "label": "DFB-Debüt-Tor nach", "value": "102 Sek." },
+        { "label": "Wochen bis Klopp-Nominierung", "value": "6" }
+      ],
+      "image": "teamfoto.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "diomande_madrid.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft er es in Klopps erstes Aufgebot?",
+      "subtitle": "Ja oder Nein – kommentiert! 👇",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
