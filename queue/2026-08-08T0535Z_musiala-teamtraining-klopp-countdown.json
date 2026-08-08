@@ -1,0 +1,34 @@
+{
+  "slug": "musiala-teamtraining-klopp-countdown",
+  "createdAt": "2026-08-08T05:35:00Z",
+  "title": "Musiala zurück – 3 Konsequenzen für Klopps Ära",
+  "script": "HEUTE IST DER TAG. Jamal Musiala kehrt am 8. August erstmals seit seiner Platten-OP ins Mannschaftstraining zurück – 47 Tage vor Klopps DFB-Debüt. 3 Konsequenzen: Erstens, in nur 14 Tagen steigt der Beckenbauer-Supercup – Klopps erster Live-Scouting-Termin. Zweitens, Klopp schaut kalt auf Musialas WM-Bilanz: 239 Minuten, 1 Tor, 4-mal ausgewechselt. Drittens, der Kampf um Klopps Zehner-Position im 4-4-2 beginnt jetzt – gegen Florian Wirtz. Wer erkämpft sich den Startelf-Platz: Musiala oder Wirtz?",
+  "uploadCaption": "Musiala ist ZURÜCK im Mannschaftstraining! Heute, 47 Tage vor Klopps DFB-Debüt in Amsterdam, kehrt Bayern-Star Jamal Musiala nach seiner OP ins Teamtraining zurück. 3 Konsequenzen, die du kennen musst – und die entscheidende Frage: Wirtz oder Musiala auf der Zehn?",
+  "uploadHashtags": "#Musiala #JamalMusiala #DFB #Klopp #Bundestrainer #Wirtz #FCBayern #Supercup2026 #WM2026 #Fussball",
+  "images": [
+    { "file": "musiala.jpg",         "search": "Jamal Musiala" },
+    { "file": "musiala_training.jpg", "search": "Jamal Musiala Bayern Training" },
+    { "file": "musiala_dfb.jpg",      "search": "Jamal Musiala DFB" },
+    { "file": "musiala_aktion.jpg",   "search": "Jamal Musiala Aktion" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "klopp_dfb.jpg",        "search": "Jürgen Klopp DFB Bundestrainer" },
+    { "file": "wirtz.jpg",            "search": "Florian Wirtz" },
+    { "file": "wirtz_presse.jpg",     "search": "Florian Wirtz DFB Presse" },
+    { "file": "signal_iduna.jpg",     "search": "Signal Iduna Park" },
+    { "file": "dfb_fans.jpg",         "search": "DFB Fans" },
+    { "file": "zehn_duell.jpg",       "search": "Zwei Spielmacher im Duell Rücken an Rücken Trikot Nummer 10", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "HEUTE IST DER TAG.", "image": "musiala.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "8. AUGUST 2026", "title": "Musiala zurück im Team", "image": "musiala_training.jpg", "weight": 0.7 },
+    { "type": "image", "image": "musiala_dfb.jpg",   "name": "Jamal Musiala", "role": "Offensiv · 22 · zurück im Training", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",          "name": "Jürgen Klopp",  "role": "Bundestrainer ab 15.8.2026", "weight": 0.8 },
+    { "type": "stats", "title": "KONSEQUENZ #1", "stats": [{ "label": "Tage bis Klopp-Debüt Amsterdam", "value": "47" }, { "label": "Tage bis Beckenbauer-Supercup (Klopps Scouting #1)", "value": "14" }], "image": "signal_iduna.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp_dfb.jpg",      "weight": 0.8 },
+    { "type": "stats", "title": "KONSEQUENZ #2 – Musialas WM-Zeugnis", "stats": [{ "label": "WM-Minuten", "value": "239" }, { "label": "WM-Tore", "value": "1" }, { "label": "Mal ausgewechselt", "value": "4×" }], "image": "musiala_aktion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg",          "name": "Florian Wirtz", "role": "Zehner-Konkurrent · 22 · 125 Mio. £", "weight": 0.8 },
+    { "type": "image", "image": "wirtz_presse.jpg",   "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg",       "weight": 0.8 },
+    { "type": "outro", "title": "Musiala oder Wirtz?", "subtitle": "Wer ist Klopps Zehner?", "image": "zehn_duell.jpg", "weight": 1.0 }
+  ]
+}
