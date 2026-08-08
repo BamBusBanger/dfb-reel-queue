@@ -1,0 +1,96 @@
+{
+  "slug": "el-mala-50mio-klopp-call",
+  "createdAt": "2026-08-08T17:34:00Z",
+  "title": "Klopp ruft an: BVB 50 Mio. + Leipzig-Alarm um El Mala",
+  "script": "KLOPP RUFT AN – persönlich, noch vor seinem Amtsantritt am 15. August! Sky Sport enthüllt: Deutschlands neuer Bundestrainer hat Said El Mala bereits angerufen und ihm seinen WM-2030-Plan erklärt. Gleichzeitig legt der BVB jetzt 50 Millionen Euro auf den Tisch – Vereinsrekord! Und RB Leipzig, frisch mit 130 Millionen Euro aus dem Diomandé-Real-Madrid-Deal ausgestattet, steigt als neuer Konkurrent ein. El Mala fehlte heute beim Kölner Test gegen Real Sociedad. Wer gewinnt den Mega-Poker um Klopps WM-2030-Juwel?",
+  "uploadCaption": "🚨 KLOPP greift persönlich ein – NOCH VOR seinem DFB-Start am 15.8.! BVB legt 50 Mio. auf den Tisch (Vereinsrekord), aber RB Leipzig kommt mit 130 Mio. Diomandé-Cash. El Mala fehlte heute im Testspiel. Der Transfer-Poker um Deutschlands WM-2030-Juwel eskaliert! 🇩🇪",
+  "uploadHashtags": "#ElMala #BVB #RBLeipzig #Klopp #DFB #Transfermarkt #Bundesliga #WM2030",
+  "images": [
+    { "file": "el_mala_01.jpg", "search": "Said El Mala" },
+    { "file": "klopp_btr.jpg", "search": "Jürgen Klopp" },
+    { "file": "el_mala_koeln.jpg", "search": "Said El Mala FC Köln" },
+    { "file": "bvb_stadion.jpg", "search": "Signal Iduna Park BVB Dortmund" },
+    { "file": "rb_leipzig_arena.jpg", "search": "Red Bull Arena Leipzig" },
+    { "file": "diomande_madrid.jpg", "search": "Yan Diomandé Real Madrid" },
+    { "file": "ouedraogo.jpg", "search": "Assan Ouédraogo" },
+    { "file": "kovac_bvb.jpg", "search": "Niko Kovač BVB Dortmund" },
+    { "file": "transfer_duell.jpg", "search": "Transfer Poker Fußball Schachbrett zwei Klubs", "thematic": true },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans Deutschland" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP RUFT AN – noch vor dem Amtsantritt!",
+      "image": "el_mala_01.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "TRANSFER-ALARM 8.8.2026",
+      "title": "Klopp greift persönlich ein",
+      "image": "el_mala_koeln.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp_btr.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer ab 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "el_mala_01.jpg",
+      "name": "Said El Mala",
+      "role": "Köln · 19 J. · 13 BL-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der Transfer-Poker",
+      "stats": [
+        { "label": "BVB-Gebot", "value": "50 Mio. €" },
+        { "label": "Diomandé-Erlös", "value": "130 Mio. €" },
+        { "label": "Alter El Mala", "value": "19 J." }
+      ],
+      "image": "bvb_stadion.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "rb_leipzig_arena.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "diomande_madrid.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kovac_bvb.jpg",
+      "name": "Niko Kovač",
+      "role": "BVB-Trainer · sprach mit El Mala",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "RB Leipzig · 20 J. · Klopp-Favorit",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "transfer_duell.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "BVB oder Leipzig?",
+      "subtitle": "Wo spielt El Mala – und wen will Klopp wirklich?",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
