@@ -1,0 +1,36 @@
+{
+  "slug": "musiala-platte-raus-staerker-2030",
+  "createdAt": "2026-08-08T15:39:00Z",
+  "title": "Musialas Geheimnis: Er kommt STÄRKER zurück",
+  "script": "WUSSTEST DU DAS? Jamal Musialas Metallplatte wurde gerade in Murnau entfernt — und das macht ihn stärker als je zuvor! Nach 364 Tagen Reha steht er heute wieder im Bayern-Training. Medizinisch ist es Fakt: Ein geheilter Knochen wird an der Bruchstelle bis zu 40 Prozent HÄRTER als vorher. Gerd Müller brach 1968 sein Bein — und schoss bei der WM 1970 sage und schreibe 10 Tore! Musiala ist 22. Bei WM 2030 wird er 26 sein — das perfekte Alter eines Weltfußballers. Klopp startet in 7 Tagen. Er weiß es bereits.",
+  "uploadCaption": "Das wissen die wenigsten 🔬 Musialas Metallplatte ist raus — und DESHALB kommt er 2030 stärker zurück als je zuvor. 364 Tage Reha. 40% härterer Knochen. Klopp wartet schon. Glaubst du daran?",
+  "uploadHashtags": "#Musiala #DFB #WM2030 #Bayern #Klopp #Bundesliga #Fussball #WM2026",
+  "images": [
+    { "file": "musiala_curacao.jpg",   "search": "Jamal Musiala" },
+    { "file": "musiala_jubel.jpg",     "search": "Jamal Musiala" },
+    { "file": "musiala_aktion.jpg",    "search": "Jamal Musiala" },
+    { "file": "musiala_portrait.jpg",  "search": "Jamal Musiala" },
+    { "file": "platte_op.jpg",         "search": "Titanplatte Knochen Heilung Sportmedizin", "thematic": true },
+    { "file": "bayerntraining.jpg",    "search": "Musiala Bayern Training 2026" },
+    { "file": "klopp_dfb.jpg",         "search": "Jürgen Klopp" },
+    { "file": "gerd_mueller.jpg",      "search": "Gerd Müller WM 1970 Deutschland Tor" },
+    { "file": "dfb_fans.jpg",          "search": "DFB Fans" },
+    { "file": "dfb_team.jpg",          "search": "Deutschland Nationalmannschaft 2026" },
+    { "file": "musiala_comeback.jpg",  "search": "Jamal Musiala Bayern Comeback 2026" },
+    { "file": "wm_pokal.jpg",          "search": "WM Pokal Gold" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "SEINE PLATTE IST RAUS — UND ER WIRD STÄRKER.", "image": "musiala_curacao.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2030 GEHEIMNIS", "title": "Musiala: Er kommt stärker zurück", "image": "musiala_aktion.jpg", "weight": 0.7 },
+    { "type": "image", "image": "musiala_jubel.jpg",    "name": "Jamal Musiala", "role": "Offensiv · Bayern · 22 Jahre", "weight": 0.8 },
+    { "type": "image", "image": "platte_op.jpg",        "weight": 0.8 },
+    { "type": "stats", "title": "Comeback-Fakten heute", "stats": [{ "label": "Reha-Tage", "value": "364" }, { "label": "Knochen stärker", "value": "+40%" }], "image": "musiala_portrait.jpg", "weight": 0.9 },
+    { "type": "image", "image": "bayerntraining.jpg",   "weight": 0.8 },
+    { "type": "image", "image": "gerd_mueller.jpg",     "name": "Gerd Müller", "role": "Bein gebrochen 1968 → WM 1970 · 10 Tore", "weight": 0.8 },
+    { "type": "image", "image": "klopp_dfb.jpg",        "name": "Jürgen Klopp", "role": "DFB-Bundestrainer · ab 15.8.", "weight": 0.8 },
+    { "type": "stats", "title": "WM 2030 Kalkül", "stats": [{ "label": "Musiala-Alter 2030", "value": "26 Jahre" }, { "label": "WM 2026 Tore", "value": "1" }], "image": "wm_pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "dfb_team.jpg",         "weight": 0.8 },
+    { "type": "image", "image": "musiala_comeback.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Musiala 2030 besser als 2026?", "subtitle": "Kommentar hinterlassen!", "image": "dfb_fans.jpg", "weight": 1.0 }
+  ]
+}
