@@ -1,0 +1,34 @@
+{
+  "slug": "klopp-nl-em2028-geheimkalkuel",
+  "createdAt": "2026-08-09T19:44:00Z",
+  "title": "Klopps geheimer EM-2028-Masterplan",
+  "script": "STOP. Das hier ist Klopps ECHTER Plan – und kaum einer redet darüber. Spanien hält den WM-Pokal. Yamal ist erst 19. Ohne Pot-1-Schutz trifft Deutschland diese Titanen SCHON in der EM-2028-Vorrunde. Klopps geheimes Kalkül: 6 Nations-League-Spiele ab dem 24. September. Jeder Sieg verbessert den UEFA-Koeffizienten. Mehr Punkte = Pot 1 für die EM-2028-Auslosung. Nur 710 Tage bis zum Wembley-Finale. Klopp startet in 6 Tagen. Er denkt schon 2 Jahre weiter.",
+  "uploadCaption": "Klopp weiß es – die Nations League entscheidet SCHON die EM 2028. 6 Spiele. 1 geheimes Ziel: Pot 1. Sonst droht Yamal in der Gruppenphase. Schafft Deutschland den Sprung?",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #EM2028 #WM2030 #Wirtz #Musiala #Deutschland",
+  "images": [
+    { "file": "teamfoto.jpg", "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wembley.jpg", "search": "Wembley Stadion London" },
+    { "file": "yamal.jpg", "search": "Lamine Yamal Spanien" },
+    { "file": "pokal.jpg", "search": "WM Pokal FIFA" },
+    { "file": "nl_logo.jpg", "search": "UEFA Nations League", "thematic": true },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "fans.jpg", "search": "DFB Fans Deutschland" },
+    { "file": "dfb_flagge.jpg", "search": "Deutschland Flagge Fußball" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "KLOPPS ECHTER PLAN. KAUM EINER WEISS ES.", "image": "teamfoto.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "GEHEIMPLAN", "title": "Nations League → EM 2028", "image": "wembley.jpg", "weight": 0.7 },
+    { "type": "image", "image": "yamal.jpg", "name": "Lamine Yamal", "role": "Spanien · WM-Sieger 2026 · 19 Jahre", "weight": 0.8 },
+    { "type": "image", "image": "pokal.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Klopps Geheimrechnung", "stats": [{ "label": "NL-Spiele", "value": "6" }, { "label": "Pot-1-Ziel", "value": "Top 4 UEFA" }, { "label": "EM 2028 in Tagen", "value": "~710" }], "image": "nl_logo.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · ab 15. August 2026", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Offensiv · 23 Jahre · Liverpool", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "Offensiv · 23 Jahre · Bayern", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Schafft Klopp den Pot-1-Sprung?", "subtitle": "Kommentier deine Meinung!", "image": "dfb_flagge.jpg", "weight": 1.0 }
+  ]
+}
