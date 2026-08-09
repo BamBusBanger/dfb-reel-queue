@@ -1,0 +1,95 @@
+{
+  "slug": "el-mala-bvb-trikot-2024-geheimnis",
+  "createdAt": "2026-08-09T05:38:00Z",
+  "title": "El Malas geheimes BVB-Trikot von 2024",
+  "script": "Ein Trikot mit der Nummer 10 – seit 2024 gedruckt, nie getragen. BVB druckte es für Said El Mala, doch der Transfer scheiterte an 200.000 Euro. Jetzt, zwei Jahre später, ist alles anders: 50 Millionen Rekordangebot, Klopp rief persönlich an, und morgen Montag erscheint der 19-Jährige zum Medizincheck in Dortmund. Mit 13 Bundesligatoren in seiner Debütsaison ist er Klopps erster Baustein für die WM 2030. Das geheime Trikot hat auf seinen Besitzer gewartet.",
+  "uploadCaption": "Das wusste KEINER: BVB druckte 2024 schon ein Trikot mit seinem Namen – morgen schreibt Said El Mala Geschichte. 🖤💛 #SaidElMala #BVB #DFB #WM2030 #Klopp #Transfer",
+  "uploadHashtags": "#SaidElMala #BVB #Dortmund #DFB #Klopp #WM2030 #Bundesliga #Transfer #Geheimnis #Transfermarkt",
+  "images": [
+    { "file": "el-mala.jpg",       "search": "Said El Mala FC Köln" },
+    { "file": "signal-iduna.jpg",  "search": "Signal Iduna Park Dortmund" },
+    { "file": "trikot-10-bvb.jpg", "search": "BVB Trikot Nummer 10 schwarz gelb", "thematic": true },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "ouedraogo.jpg",     "search": "Assan Ouédraogo" },
+    { "file": "bvb-fans.jpg",      "search": "Borussia Dortmund Fans Jubel Gelbe Wand" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "dfb-team.jpg",      "search": "Deutschland Nationalmannschaft 2026" },
+    { "file": "wm-pokal.jpg",      "search": "WM Pokal Gold" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "EIN TRIKOT. 2 JAHRE. 50 MILLIONEN.",
+      "image": "el-mala.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB · WM 2030",
+      "title": "El Malas geheimes BVB-Trikot",
+      "image": "signal-iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "el-mala.jpg",
+      "name": "Said El Mala",
+      "role": "Stürmer · 19 J. · 13 BL-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "trikot-10-bvb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der 2-Jahres-Krimi",
+      "stats": [
+        { "label": "2024 Transfer geplatzt an", "value": "200k €" },
+        { "label": "2026 BVB zahlt jetzt", "value": "50 Mio. €" },
+        { "label": "Debütsaison Bundesligatoren", "value": "13" }
+      ],
+      "image": "signal-iduna.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · ab 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "bvb-fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "RB Leipzig · WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern München · WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopps WM-2030-Anführer?",
+      "subtitle": "Glaubst du an El Mala?",
+      "image": "wm-pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
