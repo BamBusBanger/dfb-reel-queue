@@ -1,0 +1,109 @@
+{
+  "slug": "klopp-drei-vereine-drei-wunder",
+  "createdAt": "2026-08-09T15:39:00Z",
+  "title": "Klopp: 3 Vereine, 3 Wunder – jetzt der DFB",
+  "script": "Klopp machte es immer gleich – er kam, wenn alle zweifelten, und lieferte das Unmögliche. Mainz: 2× Aufstieg aus Liga 2 – null Geld, null Tradition. Dortmund: 2 Meisterschaften in Folge mit 100 Millionen gegen Bayerns 400. Liverpool: Champions League 2019, Premier League 2020 nach 30 Jahren Warten. 3 Clubs, 3 Wunder. In 6 Tagen startet Klopp beim DFB – nach 3 WM-Frühaus in Folge. Kannst du ihm den 5. Stern glauben?",
+  "uploadCaption": "Mainz. Dortmund. Liverpool. Und jetzt der DFB. Klopps Wunder-Bilanz ist unfassbar – glaubst du an Nummer 4?",
+  "uploadHashtags": "#Klopp #DFB #Nationalmannschaft #WM2030 #Bundestrainer #Fussball #WM2026",
+  "images": [
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "dfb-team.jpg",         "search": "DFB Team 2026" },
+    { "file": "klopp-mainz.jpg",      "search": "Jürgen Klopp Mainz 05 Bundesliga Aufstieg" },
+    { "file": "klopp-bvb.jpg",        "search": "Jürgen Klopp Dortmund Bundesliga Meister" },
+    { "file": "klopp-liverpool-cl.jpg","search": "Jürgen Klopp Liverpool Champions League" },
+    { "file": "fans.jpg",             "search": "DFB Fans" },
+    { "file": "wm-pokal.jpg",         "search": "WM Pokal" },
+    { "file": "wirtz.jpg",            "search": "Florian Wirtz" },
+    { "file": "jubel.jpg",            "search": "DFB Jubel" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER SCHAFFTE ES IMMER. JEDES MAL.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BUNDESTRAINER AB 15. AUGUST",
+      "title": "3 VEREINE. 3 WUNDER.",
+      "image": "dfb-team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp-mainz.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Mainz 05 · 2001–2008",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WUNDER 1: MAINZ",
+      "stats": [
+        { "label": "Aufstiege", "value": "2×" },
+        { "label": "Budget", "value": "Bundesliga-Minimum" }
+      ],
+      "image": "klopp-mainz.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp-bvb.jpg",
+      "name": "Jürgen Klopp",
+      "role": "BVB · 2008–2015",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WUNDER 2: DORTMUND",
+      "stats": [
+        { "label": "Bundesliga-Titel", "value": "2×" },
+        { "label": "Budget vs. Bayern", "value": "100 vs. 400 Mio" }
+      ],
+      "image": "klopp-bvb.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp-liverpool-cl.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Liverpool · 2015–2024",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WUNDER 3: LIVERPOOL",
+      "stats": [
+        { "label": "CL-Titel", "value": "2019" },
+        { "label": "Premier League", "value": "30 Jahre Warten" }
+      ],
+      "image": "klopp-liverpool-cl.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm-pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · Liverpool · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "WUNDER NUMMER 4?",
+      "subtitle": "Kommentiere: JA – ich glaube daran oder NEIN – unmöglich",
+      "image": "jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}
