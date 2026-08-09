@@ -1,0 +1,93 @@
+{
+  "slug": "klopp-anfield-heimkehr",
+  "createdAt": "2026-08-09T12:34:00Z",
+  "title": "Klopp kehrt nach Anfield zurück – als Bundestrainer",
+  "script": "ER KOMMT ZURÜCK. Jürgen Klopp betritt Anfield wieder – aber nicht mehr als Chef. Als Bundestrainer. Sein Ziel: Florian Wirtz. 125 Millionen Pfund Ablöse, 360 WM-Minuten, null Tore – das soll Klopp lösen. Und er hat ihn NIE trainiert: 13 Monate lagen zwischen Klopps Abschied 2024 und Wirtz' Ankunft in Liverpool. In 6 Tagen beginnt Klopps offizieller DFB-Start am 15. August. Jetzt studiert er Wirtz erstmals live in Rot. Als Bonus: Gravenberch und Gakpo – seine WM-Gegner am 24. September – spielen dort auch. Spion oder Mentor?",
+  "uploadCaption": "Klopp ist zurück auf Anfield – diesmal als Bundestrainer. Er beobachtet Wirtz (125 Mio. £, 0 WM-Tore) zum ersten Mal live. 6 Tage bis zu seinem offiziellen DFB-Start. Das könnte die wichtigste Scouting-Reise der WM 2030 sein. 🔥",
+  "uploadHashtags": "#Klopp #DFB #Bundestrainer #FlorianWirtz #WM2026 #Anfield #Liverpool #Deutschland #Fussball #WM2030",
+  "images": [
+    { "file": "anfield.jpg", "search": "Anfield Liverpool Stadium" },
+    { "file": "klopp_dfb.jpg", "search": "Jürgen Klopp" },
+    { "file": "klopp_homecoming.jpg", "search": "Jürgen Klopp Anfield 2024" },
+    { "file": "wirtz_jubel.jpg", "search": "Florian Wirtz" },
+    { "file": "wirtz_liverpool.jpg", "search": "Florian Wirtz Liverpool 2026" },
+    { "file": "gravenberch.jpg", "search": "Ryan Gravenberch Netherlands" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans Deutschland" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER KOMMT ZURÜCK NACH ANFIELD.",
+      "image": "anfield.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2030 Mission",
+      "title": "Klopp kehrt nach Anfield zurück",
+      "image": "klopp_dfb.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_liverpool.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 125 Mio. £ · 0 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Wirtz-Problem",
+      "stats": [
+        { "label": "Ablöse", "value": "125 Mio. £" },
+        { "label": "WM-Tore", "value": "0" },
+        { "label": "WM-Minuten", "value": "360" }
+      ],
+      "image": "wirtz_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "gravenberch.jpg",
+      "name": "Ryan Gravenberch",
+      "role": "Netherlands · Gegner 24.9.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern · DFB Offensiv",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp_homecoming.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Start 15.8.",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wird Wirtz unter Klopp zum DFB-Matchwinner?",
+      "subtitle": "Kommentar↓",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
