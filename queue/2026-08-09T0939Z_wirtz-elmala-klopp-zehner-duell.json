@@ -1,0 +1,34 @@
+{
+  "slug": "wirtz-elmala-klopp-zehner-duell",
+  "createdAt": "2026-08-09T09:39:00Z",
+  "title": "Wirtz vs. El Mala – Klopps Zehner-Duell",
+  "script": "125 Millionen Pfund gegen null A-Länderspiele. Klopp hat eine Entscheidung vor sich. Florian Wirtz, 22 Jahre, Liverpools Superstar – aber null WM-Tore in 360 Minuten. Said El Mala, gerade 19, stürmte mit 13 Bundesligatore direkt zum BVB-Rekord von 50 Millionen – und Klopp rief ihn persönlich an, noch bevor er überhaupt offiziell Bundestrainer war. Beide U17-Weltmeister 2023. Erste DFB-Nominierung: Mitte September. Klopp muss wählen. Wer startet am 24. September in Amsterdam?",
+  "uploadCaption": "Florian Wirtz (125 Mio. £, 0 WM-Tore) gegen Said El Mala (19 J., 13 BL-Tore, BVB-Rekord 50 Mio.) – das ist Klopps erstes Offensiv-Dilemma als Bundestrainer. Erste DFB-Nominierung Mitte September. Wer verdient den Startplatz?",
+  "uploadHashtags": "#DFB #Klopp #Wirtz #ElMala #BVB #WM2030 #Bundestrainer #Fussball",
+  "images": [
+    { "file": "wirtz_jubel.jpg",     "search": "Florian Wirtz Jubel DFB" },
+    { "file": "wirtz_portrait.jpg",  "search": "Florian Wirtz" },
+    { "file": "wirtz_training.jpg",  "search": "Florian Wirtz Training" },
+    { "file": "wirtz_zweikampf.jpg", "search": "Florian Wirtz Zweikampf" },
+    { "file": "el_mala.jpg",         "search": "Said El Mala" },
+    { "file": "el_mala_bvb.jpg",     "search": "Said El Mala BVB 2026" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg",    "search": "Signal Iduna Park" },
+    { "file": "team.jpg",            "search": "DFB Nationalmannschaft" },
+    { "file": "fans.jpg",            "search": "DFB Fans" },
+    { "file": "dfb_flagge.jpg",      "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "125 MIO. £ GEGEN NULL CAPS", "image": "wirtz_jubel.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPPS ZEHNER-CASTING", "title": "Wirtz vs. El Mala", "image": "team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "wirtz_portrait.jpg", "name": "Florian Wirtz", "role": "Offensiv · 22 J. · Liverpool", "weight": 0.8 },
+    { "type": "image", "image": "el_mala.jpg", "name": "Said El Mala", "role": "Offensiv · 19 J. · BVB-Neuling", "weight": 0.8 },
+    { "type": "stats", "title": "Wirtz – Saison 1 Liverpool", "stats": [{ "label": "Spiele", "value": "48" }, { "label": "Tore", "value": "7" }, { "label": "Vorlagen", "value": "8" }, { "label": "WM-Tore", "value": "0" }], "image": "wirtz_training.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz_zweikampf.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "El Mala – Debütsaison 2025/26", "stats": [{ "label": "BL-Tore", "value": "13" }, { "label": "BVB-Ablöse", "value": "50 Mio." }, { "label": "A-Caps", "value": "0" }, { "label": "Alter", "value": "19 J." }], "image": "signal_iduna.jpg", "weight": 0.9 },
+    { "type": "image", "image": "el_mala_bvb.jpg", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · ab 15.8.", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Klopps Wahl", "subtitle": "Wirtz oder El Mala – wer startet in Amsterdam?", "image": "dfb_flagge.jpg", "weight": 1.0 }
+  ]
+}
