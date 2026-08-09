@@ -1,0 +1,93 @@
+{
+  "slug": "ouedraogo-schulter-schock-klopp",
+  "createdAt": "2026-08-09T17:39:00Z",
+  "title": "Ouédraogos Schulter-Schock – Klopps WM-2030-Juwel verletzt",
+  "script": "Klopps WM-2030-Juwel liegt WIEDER am Boden! Assan Ouédraogo, 20 Jahre, schoss sein DFB-Debüt-Tor in nur 102 Sekunden – doch im Trainingslager Saalfelden trifft ihn eine Schulterkapsel-Verletzung. Nur 6 Tage vor Klopps Amtsantritt am 15. August! Konservative Behandlung, Pause: ein paar Wochen. Beckenbauer-Supercup am 22. August – futsch. September-Kader jetzt in Gefahr. 2 Verletzungen, 0 WM-Minuten 2026. Klopp hatte ihn als WM-2030-Geheimplan. Jetzt muss er warten. Ist der 20-Jährige verflucht – oder wird er trotzdem Deutschlands Haaland?",
+  "uploadCaption": "Klopps Geheimplan für WM 2030 liegt verletzt im Trainingslager: Ouédraogo mit Schulterkapsel-Verletzung – nur 6 Tage vor Amtsantritt! Wie lange ist Deutschlands größtes Juwel raus?",
+  "uploadHashtags": "#DFB #WM2030 #Ouedraogo #Klopp #Bundestrainer #RBLeipzig #Verletzung",
+  "images": [
+    { "file": "ouedraogo_aktion.jpg",   "search": "Assan Ouedraogo RB Leipzig" },
+    { "file": "ouedraogo_portrait.jpg", "search": "Assan Ouédraogo" },
+    { "file": "klopp_dfb.jpg",          "search": "Jürgen Klopp" },
+    { "file": "verletzung_konzept.jpg", "search": "Schulterkapsel Verletzung Fußball Training", "thematic": true },
+    { "file": "fans_entsetzen.jpg",     "search": "DFB Fans Entsetzen" },
+    { "file": "dfb_teamfoto.jpg",       "search": "DFB Teamfoto 2026" },
+    { "file": "kimmich_dfb.jpg",        "search": "Joshua Kimmich" },
+    { "file": "wm2026_logo.jpg",        "search": "WM 2026 Logo" },
+    { "file": "wm2030_zukunft.jpg",     "search": "WM 2030 Deutschland Zukunft Hoffnung", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPPS JUWEL – WIEDER VERLETZT!",
+      "image": "ouedraogo_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP-SCHOCK",
+      "title": "Ouédraogo: Schulter-Albtraum",
+      "image": "verletzung_konzept.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo_portrait.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Mittelfeld · 20 · RB Leipzig",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen",
+      "stats": [
+        { "label": "DFB-Debüt-Tor nach", "value": "102 Sek." },
+        { "label": "WM-Minuten 2026",    "value": "0" },
+        { "label": "Verletzungen",        "value": "2" }
+      ],
+      "image": "ouedraogo_aktion.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp_dfb.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer ab 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_teamfoto.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich_dfb.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm2030_zukunft.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "verletzung_konzept.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Verflucht – oder Deutschlands Haaland 2030?",
+      "subtitle": "Schreib's in die Kommentare!",
+      "image": "wm2026_logo.jpg",
+      "weight": 1.0
+    }
+  ]
+}
