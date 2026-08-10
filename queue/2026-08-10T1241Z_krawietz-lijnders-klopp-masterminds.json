@@ -1,0 +1,40 @@
+{
+  "slug": "krawietz-lijnders-klopp-masterminds",
+  "createdAt": "2026-08-10T12:41:02Z",
+  "title": "Klopps geheime 3 – die Männer hinter dem Chef",
+  "script": "DREI MÄNNER führen Klopp – und du kennst keinen. Pepijn Lijnders: Liverpools heimlicher Chef 9 Jahre, kennt die Niederlande von innen, Debüt 24.9. Amsterdam. Peter Krawietz: 25 Jahre Klopps rechte Hand seit Mainz, der Taktik-Analytiker. Sven Bender: Ex-DFB-Spieler unter Klopp, 38 Länderspiele, kennt Kimmich und Havertz als frühere Gegner – jetzt auf der Bank. Wer ist Klopps echter Masterplan-Macher: Krawietz oder Lijnders?",
+  "uploadCaption": "Klopp ist Bundestrainer – aber wer führt wirklich das DFB-Projekt? 3 Namen, die ab 15.8. alles verändern: Lijnders kennt die Niederlande von innen (Debüt 24.9. Amsterdam), Krawietz seit 25 Jahren an Klopps Seite, Bender spielte selbst unter Klopp. Das Dream-Team hinter dem Chef!",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #Lijnders #Krawietz #Bender #WM2030 #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "klopp.jpg",    "search": "Jürgen Klopp" },
+    { "file": "dfbteam.jpg",  "search": "DFB Nationalmannschaft 2026" },
+    { "file": "krawietz.jpg", "search": "Peter Krawietz Trainer DFB" },
+    { "file": "lijnders.jpg", "search": "Pepijn Lijnders Liverpool DFB" },
+    { "file": "bender.jpg",   "search": "Sven Bender Co-Trainer DFB" },
+    { "file": "kimmich.jpg",  "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",    "search": "Florian Wirtz" },
+    { "file": "fans.jpg",     "search": "DFB Fans" },
+    { "file": "musiala.jpg",  "search": "Jamal Musiala" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "SIE FÜHREN DEN DFB – UND KAUM EINER KENNT SIE.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2030", "title": "Klopps geheime 3", "image": "dfbteam.jpg", "weight": 0.7 },
+    { "type": "image", "image": "krawietz.jpg", "name": "Peter Krawietz",  "role": "Taktik-Chef · 25 Jahre Klopp-Seite", "weight": 0.8 },
+    { "type": "image", "image": "lijnders.jpg", "name": "Pepijn Lijnders", "role": "Der heimliche Chef · Liverpool 9 Jahre", "weight": 0.8 },
+    { "type": "image", "image": "bender.jpg",   "name": "Sven Bender",     "role": "Ex-DFB-Spieler unter Klopp · 38 LS", "weight": 0.8 },
+    { "type": "stats", "title": "Klopps Dream-Team", "stats": [
+        { "label": "Jahre Krawietz neben Klopp", "value": "25" },
+        { "label": "Jahre Lijnders Liverpool",   "value": "9"  },
+        { "label": "Bender Länderspiele DFB",    "value": "38" }
+      ], "image": "dfbteam.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 108 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",   "name": "Florian Wirtz",  "role": "Schlüsselmann · 22 Jahre", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala",  "role": "Comeback-Star · 22 Jahre", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Klopp-Countdown", "stats": [
+        { "label": "Amtsantritt", "value": "15.8." },
+        { "label": "Debüt Amsterdam", "value": "24.9." }
+      ], "image": "klopp.jpg", "weight": 0.9 },
+    { "type": "outro", "title": "Krawietz oder Lijnders?", "subtitle": "Wer ist Klopps echter Masterplan-Macher?", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
