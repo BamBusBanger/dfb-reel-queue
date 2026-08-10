@@ -1,0 +1,100 @@
+{
+  "slug": "pejcinovic-klopps-geheime-neun",
+  "createdAt": "2026-08-10T15:38:00Z",
+  "title": "Klopps geheime Nummer 9",
+  "script": "Sein Verein ist letzte Saison abgestiegen – er hat trotzdem 12 Tore erzielt. Kaum jemand kennt Dzenan Pejčinović – aber Klopp schon. 21 Jahre alt, 1,90 Meter groß, Linksfuß – genau das Profil eines echten Neuners, das Deutschland bei dieser WM 2026 so schmerzhaft fehlte. VfB Stuttgart hat ihn jetzt für 25 Millionen Euro aus Wolfsburg geholt. DFB-U21-Erfahrung bringt er bereits mit. Klopp liebt diesen Typ: groß, wuchtig, pressing-stark, technisch. Wird Pejčinović seine erste September-Überraschung?",
+  "uploadCaption": "Sein Klub stieg ab. Er schoss trotzdem 12 Tore. Und Klopp hat ihn längst auf dem Zettel. Kennt ihr Dzenan Pejčinović?",
+  "uploadHashtags": "#DFB #Klopp #Nationalmannschaft #Pejcinovic #VfBStuttgart #Bundesliga #Fussball #WM2030",
+  "images": [
+    { "file": "pejcinovic_aktion.jpg",   "search": "Dzenan Pejcinovic" },
+    { "file": "pejcinovic_wolfsburg.jpg", "search": "Pejcinovic Wolfsburg Bundesliga" },
+    { "file": "pejcinovic_tor.jpg",       "search": "Pejcinovic Tor Bundesliga" },
+    { "file": "vfb_stuttgart.jpg",        "search": "VfB Stuttgart Stürmer 2026" },
+    { "file": "dfb_u21.jpg",              "search": "Deutschland U21 Nationalmannschaft" },
+    { "file": "klopp.jpg",                "search": "Jürgen Klopp" },
+    { "file": "wm_pokal.jpg",             "search": "WM Pokal" },
+    { "file": "dfb_fans.jpg",             "search": "DFB Fans" },
+    { "file": "dfb_team.jpg",             "search": "DFB Team 2026" },
+    { "file": "undav.jpg",                "search": "Deniz Undav" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "12 TORE. FÜR EINEN ABSTEIGER.",
+      "image": "pejcinovic_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPPS GEHEIMNIS",
+      "title": "Die Neun, die keiner kennt",
+      "image": "pejcinovic_wolfsburg.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "pejcinovic_aktion.jpg",
+      "name": "Dzenan Pejčinović",
+      "role": "Stürmer · 21 · VfB Stuttgart",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pejcinovic_tor.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen",
+      "stats": [
+        { "label": "Tore 25/26 (Absteiger!)", "value": "12" },
+        { "label": "Ablöse VfB Stuttgart",     "value": "25 Mio. €" },
+        { "label": "Körpergröße",               "value": "1,90 m" },
+        { "label": "Alter",                     "value": "21" }
+      ],
+      "image": "pejcinovic_wolfsburg.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "vfb_stuttgart.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_u21.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer · 57 Kandidaten",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "undav.jpg",
+      "name": "Deniz Undav",
+      "role": "Vergleich: 3 WM-Tore als Joker",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wird er Klopps erste Überraschung?",
+      "subtitle": "JA oder NEIN – kommentiert!",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
