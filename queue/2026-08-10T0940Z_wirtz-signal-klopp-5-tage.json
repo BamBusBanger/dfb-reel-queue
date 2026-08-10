@@ -1,0 +1,103 @@
+{
+  "slug": "wirtz-signal-klopp-5-tage",
+  "createdAt": "2026-08-10T09:40:00Z",
+  "title": "Wirtz sendet Klopp ein Signal",
+  "script": "125 Millionen Pfund. Null WM-Tore. Und jetzt DAS. Wirtz trifft erneut in der Liverpool-Vorbereitung – in 5 Tagen übernimmt Jürgen Klopp als Bundestrainer. Zeitgleich: Musiala kehrt nach Platten-OP zu Bayerns Teamtraining zurück. Klopp hat noch keinen Spieler angerufen. 57 Kandidaten kämpfen um 26 Kaderplätze. 45 Tage bis zum Debüt in Amsterdam. Das Rennen um Klopps Zehner-Position beginnt genau jetzt.",
+  "uploadCaption": "Wirtz trifft – Klopp wird es freuen! In nur 5 Tagen startet der neue Bundestrainer. Wirtz mit 2 Treffern in der Liverpool-Vorbereitung, Musiala zurück im Teamtraining nach Platten-OP. 57 Kandidaten für 26 Plätze. Wer wird Klopps erste Wahl als Zehner?",
+  "uploadHashtags": "#DFB #Klopp #Wirtz #Musiala #Bundestrainer #WM2030 #EM2028 #Nationalmannschaft #Liverpool #FCBayern",
+  "images": [
+    { "file": "wirtz_liverpool.jpg",     "search": "Florian Wirtz" },
+    { "file": "wirtz_jubel.jpg",         "search": "Florian Wirtz" },
+    { "file": "wirtz_presse.jpg",        "search": "Florian Wirtz" },
+    { "file": "wirtz_zweikampf.jpg",     "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",             "search": "Jamal Musiala" },
+    { "file": "musiala_jubel.jpg",       "search": "Jamal Musiala" },
+    { "file": "klopp.jpg",               "search": "Jürgen Klopp" },
+    { "file": "dfb_fans.jpg",            "search": "DFB Fans" },
+    { "file": "dfb_team.jpg",            "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wirtz_liverpool_tor.jpg", "search": "Florian Wirtz Liverpool 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "125 MIO. PFUND – NULL WM-TORE – UND JETZT DAS.",
+      "image": "wirtz_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB | 5 TAGE BIS KLOPP",
+      "title": "Wirtz sendet sein Signal",
+      "image": "wirtz_liverpool.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_liverpool.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · Liverpool · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wirtz-Bilanz 2026",
+      "stats": [
+        { "label": "WM-Tore", "value": "0" },
+        { "label": "Vorbereitung-Tore", "value": "2" },
+        { "label": "Ablöse (Mio. £)", "value": "125" }
+      ],
+      "image": "wirtz_presse.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz_zweikampf.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · Bayern · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopp-Countdown",
+      "stats": [
+        { "label": "Tage bis Amtsantritt", "value": "5" },
+        { "label": "Tage bis Amsterdam", "value": "45" },
+        { "label": "Kandidaten", "value": "57" }
+      ],
+      "image": "klopp.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wirtz ODER Musiala?",
+      "subtitle": "Wer wird Klopps erste Zehner-Wahl – kommentiert!",
+      "image": "wirtz_liverpool_tor.jpg",
+      "weight": 1.0
+    }
+  ]
+}
