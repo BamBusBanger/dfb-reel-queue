@@ -1,0 +1,34 @@
+{
+  "slug": "andrich-klopp-comeback-push",
+  "createdAt": "2026-08-10T19:35:00Z",
+  "title": "Andrichs Comeback-Push: Klopp, ruf mich an!",
+  "script": "ER WAR BEIM WM-STUDIO – NICHT AUF DEM RASEN! Robert Andrich, 31, Europacup-Sieger mit Leverkusen, saß bei der WM 2026 als MagentaTV-Experte neben Klopp – Nagelsmann hatte ihn zuvor gestrichen. 0 Minuten, 0 Nominierung. Jetzt greift Andrich an: 'Wenn ich fit und aggressiv bin, bringe ich genau das mit, was Klopp will.' Der neue Bundestrainer lässt die Tür offen: 'Jeder mit deutschem Pass kann spielen.' In 5 Tagen startet Klopp. Kommt das Comeback?",
+  "uploadCaption": "Er saß beim WM-Finale als TV-Experte – jetzt will Robert Andrich wieder für Deutschland spielen! Klopp startet in 5 Tagen. #DFB #Klopp #Andrich #WM2026",
+  "uploadHashtags": "#DFB #Klopp #Andrich #Leverkusen #WM2026 #NationsLeague #Comeback",
+  "images": [
+    { "file": "andrich_aktion.jpg", "search": "Robert Andrich" },
+    { "file": "andrich_leverkusen.jpg", "search": "Robert Andrich Bayer Leverkusen" },
+    { "file": "andrich_dfb.jpg", "search": "Robert Andrich Deutschland Nationalmannschaft" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp", "bibliothek": "sonstiges/juergen_klopp_01.jpg" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann", "bibliothek": "spieler/nagelsmann_portrait_01.jpg" },
+    { "file": "havertz.jpg", "search": "Kai Havertz", "bibliothek": "spieler/havertz_01.png" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans", "bibliothek": "fans/deutschland_fans_01.jpg" },
+    { "file": "dfb_team.jpg", "search": "DFB Mannschaftsfoto 2026", "bibliothek": "team/deutschland-teamfoto-2026-hochkant.jpg" },
+    { "file": "deutschland_flagge.jpg", "search": "Deutschland Flagge", "bibliothek": "symbole/deutschland_flagge_bodensee_01.jpg" },
+    { "file": "leverkusen_jubel.jpg", "search": "Bayer Leverkusen Europacup Sieger" },
+    { "file": "klopp_magentatv.jpg", "search": "Klopp MagentaTV Experte WM 2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER WAR TV-EXPERTE – NICHT SPIELER!", "image": "andrich_aktion.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "5 TAGE BIS KLOPP-START", "title": "Andrichs Comeback-Push", "image": "andrich_leverkusen.jpg", "weight": 0.7 },
+    { "type": "image", "image": "andrich_dfb.jpg", "name": "Robert Andrich", "role": "Leverkusen · 31 J.", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Ex-Bundestrainer", "weight": 0.8 },
+    { "type": "stats", "title": "Andrichs Bilanz", "stats": [{ "label": "WM-Minuten 2026", "value": "0" }, { "label": "Klopp-Start in", "value": "5 Tagen" }, { "label": "NL-Debüt in", "value": "45 Tagen" }], "image": "dfb_team.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp_magentatv.jpg", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "weight": 0.8 },
+    { "type": "image", "image": "havertz.jpg", "weight": 0.8 },
+    { "type": "image", "image": "leverkusen_jubel.jpg", "weight": 0.8 },
+    { "type": "image", "image": "deutschland_flagge.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Klopp-Comeback-Frage", "subtitle": "Soll Andrich zurück ins DFB-Team?", "image": "dfb_fans.jpg", "weight": 1.0 }
+  ]
+}

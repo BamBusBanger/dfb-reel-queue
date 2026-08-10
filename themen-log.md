@@ -375,3 +375,4 @@
 2026-08-10 | krawietz-lijnders-klopp-masterminds | Klopps Trainerteam Krawietz/Lijnders/Bender, 25+9 Jahre Erfahrung, Niederländer-Vorteil Debüt 24.9. Amsterdam, wer ist echter Chef? (DUELL/VERGLEICH)
 2026-08-10 | pejcinovic-klopps-geheime-neun | Pejčinović DFB-Geheimkandidat Klopp, 12 Tore Absteiger Wolfsburg, 25 Mio Stuttgart, Linksfuß 1,90m Neuner-Profil, DFB-U21, September-Kader erste Überraschung (GEHEIMNIS)
 2026-08-10 | terstegen-brandt-ajax-goetze | ter Stegen Clean Sheet + Brandt Tor Ajax-Debüt heute, Götze-Parallele Holland-Comeback, Klopp debütiert 24.9. Johan Cruyff Arena, September-Kader-Entscheidung (TOP-3-LISTE)
+2026-08-10 | andrich-klopp-comeback-push | Robert Andrich 31 Leverkusen TV-Experte WM 2026 0 Minuten, Nagelsmann aussortiert, Klopp MagentaTV persönlich kennengelernt, öffentlicher Comeback-Push 5 Tage vor Amtsantritt (NEWS-DRAMA)
