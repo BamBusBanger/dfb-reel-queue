@@ -1,0 +1,34 @@
+{
+  "slug": "terstegen-brandt-ajax-goetze",
+  "createdAt": "2026-08-10T17:34:00Z",
+  "title": "Brandt & ter Stegen debütieren für Ajax – die Götze-Parallele",
+  "script": "AMSTERDAM HAT ES WIEDER GETAN. Marc-André ter Stegen debütiert mit CLEAN SHEET für Ajax Amsterdam – 34 Jahre alt, zero WM 2026. Julian Brandt? Tor in der 94. Minute. 57 Länderspiele und trotzdem draußen – bis jetzt. Mario Götze holte sich 2020 in den Niederlanden zurück – und stand 2022 im WM-Kader. Klopp debütiert am 24. September im Johan Cruyff Arena. Genau IHREM Stadion. Die erste Nominierung? Mitte September. Wer schreibt das nächste Götze-Kapitel?",
+  "uploadCaption": "Ajax-Doppelschlag! Ter Stegen hält zu Null, Brandt trifft in der 94. – und Klopp schaut genau hin 👀 Die Götze-Parallele ist zurück.",
+  "uploadHashtags": "#DFB #TerStegen #Brandt #Ajax #Klopp #NationsLeague #GötzeComeback #WM2026 #Fussball",
+  "images": [
+    { "file": "terstegen.jpg",    "search": "Marc-André ter Stegen" },
+    { "file": "terstegen_ajax.jpg","search": "ter Stegen Ajax Amsterdam" },
+    { "file": "brandt.jpg",       "search": "Julian Brandt" },
+    { "file": "goetze.jpg",       "search": "Mario Götze" },
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "ajax_arena.jpg",   "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "dfb_fans.jpg",     "search": "DFB Fans" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "dfb_flag.jpg",     "search": "Deutschland Flagge" },
+    { "file": "fans_hoffen.jpg",  "search": "Deutschland public viewing" },
+    { "file": "fans_jubel.jpg",   "search": "Deutschland Jubel" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "AMSTERDAM HAT ES WIEDER GETAN.", "image": "terstegen.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "GÖTZE-PARALLELE", "title": "Brandt & ter Stegen debütieren für Ajax", "image": "ajax_arena.jpg", "weight": 0.7 },
+    { "type": "image", "image": "terstegen_ajax.jpg", "name": "Marc-André ter Stegen", "role": "Torwart · 34 · Ajax-Debüt", "weight": 0.8 },
+    { "type": "image", "image": "brandt.jpg", "name": "Julian Brandt", "role": "Mittelfeld · 29 · 57 Länderspiele", "weight": 0.8 },
+    { "type": "stats", "title": "Heute in Amsterdam", "stats": [{ "label": "Clean Sheet", "value": "ter Stegen" }, { "label": "Tor 94. Min", "value": "Brandt" }, { "label": "Ajax-Sieg", "value": "2:0" }], "image": "dfb_fans.jpg", "weight": 0.9 },
+    { "type": "image", "image": "goetze.jpg", "name": "Mario Götze", "role": "Holland 2020 → WM-Kader 2022", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans_hoffen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "DFB · Liverpool · 24.9. Amsterdam", "weight": 0.8 },
+    { "type": "image", "image": "dfb_flag.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Götze-Comeback für Brandt & ter Stegen?", "subtitle": "Schreib deine Meinung in die Kommentare!", "image": "fans_jubel.jpg", "weight": 1.0 }
+  ]
+}

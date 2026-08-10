@@ -374,3 +374,4 @@
 2026-08-10 | wirtz-signal-klopp-5-tage | Wirtz 2. Vorbereitung-Tor Liverpool Klopp-wird-es-freuen-Headline, Musiala Teamtraining-Comeback nach Platten-OP, Klopp Amtsantritt 15.8. in 5 Tagen, 57 Kandidaten 26 Kaderplätze, 45 Tage bis Amsterdam-Debüt, Zehner-Duell Wirtz-Musiala (NEWS-DRAMA)
 2026-08-10 | krawietz-lijnders-klopp-masterminds | Klopps Trainerteam Krawietz/Lijnders/Bender, 25+9 Jahre Erfahrung, Niederländer-Vorteil Debüt 24.9. Amsterdam, wer ist echter Chef? (DUELL/VERGLEICH)
 2026-08-10 | pejcinovic-klopps-geheime-neun | Pejčinović DFB-Geheimkandidat Klopp, 12 Tore Absteiger Wolfsburg, 25 Mio Stuttgart, Linksfuß 1,90m Neuner-Profil, DFB-U21, September-Kader erste Überraschung (GEHEIMNIS)
+2026-08-10 | terstegen-brandt-ajax-goetze | ter Stegen Clean Sheet + Brandt Tor Ajax-Debüt heute, Götze-Parallele Holland-Comeback, Klopp debütiert 24.9. Johan Cruyff Arena, September-Kader-Entscheidung (TOP-3-LISTE)
