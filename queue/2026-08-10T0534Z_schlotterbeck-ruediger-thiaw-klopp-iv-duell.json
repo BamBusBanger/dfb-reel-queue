@@ -1,0 +1,36 @@
+{
+  "slug": "schlotterbeck-ruediger-thiaw-klopp-iv-duell",
+  "createdAt": "2026-08-10T05:34:00Z",
+  "title": "Wer spielt neben Tah? Klopps IV-Rätsel für Amsterdam",
+  "script": "Das ist Klopps größtes Rätsel! In 5 Tagen übernimmt er – doch neben Jonathan Tah klafft ein riesiges Loch! Nico Schlotterbeck: Innenbandriss Minute 13 WM – fit Mitte September, aber null Spielpraxis! Antonio Rüdiger: 33 Jahre, 83 Länderspiele, WM-Held mit 97 Prozent Passquote – aber wie lange noch? Malick Thiaw: 25 Jahre, 35 Premier-League-Einsätze Newcastle, null WM-Minuten – Klopps wilde Karte! Debüt: 24. September Amsterdam. Klopp hat 45 Tage um zu entscheiden. Wen würdet ihr aufstellen?",
+  "uploadCaption": "Tah ist gesetzt – aber WER spielt neben ihm? Klopp startet am 15. August und hat sofort ein Millionen-Euro-Rätsel zu lösen. Das IV-Duell für Klopps Debüt in Amsterdam!",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #Fussball #WM2030",
+  "images": [
+    { "file": "tah_portrait.jpg", "search": "Jonathan Tah" },
+    { "file": "ruediger_tah_spiel.jpg", "search": "Antonio Rüdiger Tah Spiel" },
+    { "file": "schlotterbeck_portrait.jpg", "search": "Nico Schlotterbeck" },
+    { "file": "schlotterbeck_jubel.jpg", "search": "Nico Schlotterbeck Torjubel" },
+    { "file": "ruediger_portrait.jpg", "search": "Antonio Rüdiger" },
+    { "file": "ruediger_kopfball.jpg", "search": "Antonio Rüdiger Kopfball" },
+    { "file": "ruediger_aktion.jpg", "search": "Antonio Rüdiger Nahaufnahme" },
+    { "file": "thiaw_portrait.jpg", "search": "Malick Thiaw" },
+    { "file": "thiaw_aktion.jpg", "search": "Malick Thiaw Nationalmannschaft" },
+    { "file": "tah_aktion.jpg", "search": "Jonathan Tah DFB 2024" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "teamfoto.jpg", "search": "DFB Teamfoto 2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "WER SPIELT NEBEN TAH?", "image": "tah_portrait.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "5 TAGE BIS AMTSANTRITT", "title": "Klopps IV-Rätsel", "image": "ruediger_tah_spiel.jpg", "weight": 0.7 },
+    { "type": "image", "image": "schlotterbeck_portrait.jpg", "name": "Nico Schlotterbeck", "role": "Innenverteidiger · 26", "weight": 0.8 },
+    { "type": "stats", "title": "Kandidat 1", "stats": [{"label": "WM-Aus", "value": "Min. 13"}, {"label": "Comeback", "value": "Mitte Sept."}, {"label": "Spielpraxis", "value": "0 Spiele"}], "image": "schlotterbeck_jubel.jpg", "weight": 0.9 },
+    { "type": "image", "image": "ruediger_portrait.jpg", "name": "Antonio Rüdiger", "role": "WM-Held · 33", "weight": 0.8 },
+    { "type": "image", "image": "ruediger_kopfball.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Kandidat 2", "stats": [{"label": "Länderspiele", "value": "83"}, {"label": "Passquote WM", "value": "97%"}, {"label": "Alter", "value": "33 J."}], "image": "ruediger_aktion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "thiaw_portrait.jpg", "name": "Malick Thiaw", "role": "Klopp-Kandidat · 25", "weight": 0.8 },
+    { "type": "stats", "title": "Kandidat 3", "stats": [{"label": "PL-Einsätze", "value": "35"}, {"label": "WM-Minuten", "value": "0"}, {"label": "Alter", "value": "25 J."}], "image": "thiaw_aktion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "tah_aktion.jpg", "name": "Jonathan Tah", "role": "Klopps Fixpunkt · 30", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Schlotterbeck, Rüdiger oder Thiaw?", "subtitle": "Schreib deine Wahl in die Kommentare!", "image": "teamfoto.jpg", "weight": 1.0 }
+  ]
+}
