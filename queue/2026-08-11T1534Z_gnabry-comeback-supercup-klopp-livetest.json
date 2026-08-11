@@ -1,0 +1,99 @@
+{
+  "slug": "gnabry-comeback-supercup-klopp-livetest",
+  "createdAt": "2026-08-11T15:34:00Z",
+  "title": "Gnabry kämpft um seine Chance – Klopp schaut zum ersten Mal live hin",
+  "script": "Serge Gnabry – 64 Länderspiele, 2 Weltmeisterschaften, kein Titel. WM 2026 verpasste er verletzungsbedingt, sah vom Sofa aus zu, wie das DFB-Team gegen Paraguay im Elfmeterschießen unterging. Jetzt ist er zurück – und hat beim Beckenbauer-Supercup am 22. August in Dortmund nur 90 Minuten, um alles zu beweisen. Ausgerechnet dann schaut Jürgen Klopp zum allerersten Mal live hin. Konkurrent Beier glänzte mit 20 Torbeteiligungen, Klopp hat 57 Kandidaten – aber nur 26 Plätze. Gnabry: Jetzt oder nie.",
+  "uploadCaption": "Serge Gnabry kämpft beim Beckenbauer-Supercup (22.8.) um sein DFB-Comeback. Klopps allererster Live-Test: 57 Kandidaten, 26 Plätze – wer überzeugt?",
+  "uploadHashtags": "#DFB #Gnabry #Klopp #BeckenbauerSupercup #WM2030 #Nationalmannschaft #Bundestrainer #Fussball",
+  "images": [
+    { "file": "gnabry.jpg",       "search": "Serge Gnabry" },
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park Dortmund" },
+    { "file": "beier.jpg",        "search": "Maximilian Beier" },
+    { "file": "musiala.jpg",      "search": "Jamal Musiala" },
+    { "file": "sane.jpg",         "search": "Leroy Sané" },
+    { "file": "dfb_fans.jpg",     "search": "DFB Fans" },
+    { "file": "dfb_team.jpg",     "search": "DFB Teamfoto 2026" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER VERPASSTE DIE WM – JETZT KÄMPFT ER UM ALLES.",
+      "image": "gnabry.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "22. AUGUST 2026 · DORTMUND",
+      "title": "Gnabry vs. Klopps erstes Live-Urteil",
+      "image": "signal_iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Amtsantritt 15. Aug.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "gnabry.jpg",
+      "name": "Serge Gnabry",
+      "role": "Rechtsaußen · 31 J. · 64 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Mittelfeld · 22 J. · Fit nach 364 Tagen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beier.jpg",
+      "name": "Maximilian Beier",
+      "role": "Konkurrent · 23 J. · 20+ Torbeteiligungen",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps Rechnung",
+      "stats": [
+        { "label": "Kandidaten",     "value": "57" },
+        { "label": "Kaderplätze",    "value": "26" },
+        { "label": "Tage bis Supercup", "value": "11" }
+      ],
+      "image": "dfb_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "sane.jpg",
+      "name": "Leroy Sané",
+      "role": "Konkurrent · 30 J. · Galatasaray",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Klopp-Fixpunkt · 23 J. · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Gehört Gnabry noch in Klopps Kader?",
+      "subtitle": "JA oder NEIN – in die Kommentare!",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
