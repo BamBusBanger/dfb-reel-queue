@@ -1,0 +1,97 @@
+{
+  "slug": "elmala-ouedraogo-klopps-gen-z",
+  "createdAt": "2026-08-11T09:37:22Z",
+  "title": "El Mala vs. Ouédraogo – Klopps Gen-Z-Dilemma",
+  "script": "KLOPP WARTET! Nur 4 Tage bis zum DFB-Amtsantritt – und seine 2 wichtigsten Gen-Z-Hoffnungen sind nicht verfügbar! Said El Mala: 13 Bundesliga-Tore als 19-Jähriger in seiner Debüt-Saison, Klopp rief ihn persönlich an – aber der Transfer-Poker zwischen 1. FC Köln und BVB geht weiter. Assan Ouédraogo: Debüt-Tor nach nur 102 Sekunden, jüngster DFB-Torschütze seit 1954 – aber jetzt pausiert er wegen Schulterkapsel-Verletzung wochenlang. 2 Youngster. 2 Ausfälle. Klopps WM-2030-Plan braucht genau diese Beiden. Wer ist früher zurück?",
+  "uploadCaption": "El Mala oder Ouédraogo – wer wird Klopps erster Gen-Z-Star? 4 Tage bis zum Amtsantritt und schon das erste Dilemma! 🇩🇪",
+  "uploadHashtags": "#DFB #Klopp #ElMala #Ouedraogo #WM2030 #Bundestrainer #Nationalmannschaft #Generationswechsel",
+  "images": [
+    { "file": "elmala.jpg",     "search": "Said El Mala" },
+    { "file": "ouedraogo.jpg",  "search": "Assan Ouédraogo" },
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "dfbteam.jpg",    "search": "Deutschland Teamfoto 2026" },
+    { "file": "wmpokal.jpg",    "search": "WM Pokal" },
+    { "file": "fans.jpg",       "search": "DFB Fans Jubel" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "wm2026logo.jpg", "search": "WM 2026" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP WARTET VERGEBLICH!",
+      "image": "elmala.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "4 Tage bis Amtsantritt",
+      "title": "El Mala vs. Ouédraogo",
+      "image": "dfbteam.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "elmala.jpg",
+      "name": "Said El Mala",
+      "role": "Köln · 19 J. · 13 BL-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "RB Leipzig · 20 J. · Verletzt",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "El Mala vs. Ouédraogo",
+      "stats": [
+        { "label": "El Mala BL-Tore (19 J.)", "value": "13" },
+        { "label": "Ouédraogo Debüt-Tor", "value": "102 Sek." },
+        { "label": "El Mala Transfer-Poker", "value": "50 Mio. €" },
+        { "label": "Ouédraogo Verletzungen 2026", "value": "2" }
+      ],
+      "image": "wm2026logo.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "elmala.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wmpokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopps erste Wahl?",
+      "subtitle": "El Mala oder Ouédraogo – wer ist früher bereit?",
+      "image": "kimmich.jpg",
+      "weight": 1.0
+    }
+  ]
+}
