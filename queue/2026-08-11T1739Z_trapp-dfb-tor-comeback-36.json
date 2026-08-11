@@ -1,0 +1,99 @@
+{
+  "slug": "trapp-dfb-tor-comeback-36",
+  "createdAt": "2026-08-11T17:39:00Z",
+  "title": "Kevin Trapp: DFB-Comeback mit 36?",
+  "script": "36 Jahre alt – und er schließt das Kapitel nicht. Kevin Trapp, 9 Länderspiele, EL-Sieger mit Frankfurt 2022, hält sich die DFB-Tür offen. Seit November 2023 kein Länderspiel, bei der WM 2026 nicht dabei – doch Klopp verspricht jedem deutschen Spieler mit Leistung eine Chance. Trapps Botschaft: „So ein Buch macht man nie zu." Er fühlt sich fitter als vor 5 Jahren. 5 Konkurrenten, 1 Tor, 1 Traum.",
+  "uploadCaption": "36 Jahre alt – und noch längst nicht fertig! Kevin Trapp (Paris FC) hofft auf sein DFB-Comeback unter Klopp. Zuletzt November 2023 im Länderspiel, bei der WM 2026 draußen – aber Klopp öffnet die Tür für jeden. Verdient er noch eine Chance? 🧤🇩🇪",
+  "uploadHashtags": "#KevinTrapp #DFB #Klopp #Nationalmannschaft #Torwart #Comeback #WM2030 #Fussball",
+  "images": [
+    { "file": "trapp.jpg",          "search": "Kevin Trapp Paris FC 2026" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "neuer_abschied.jpg", "search": "Manuel Neuer" },
+    { "file": "urbig.jpg",          "search": "Jonas Urbig Bayern München" },
+    { "file": "atubolu.jpg",        "search": "Noah Atubolu Freiburg" },
+    { "file": "terstegen.jpg",      "search": "Marc-André ter Stegen Ajax Amsterdam" },
+    { "file": "baumann.jpg",        "search": "Oliver Baumann" },
+    { "file": "dfb_fans.jpg",       "search": "DFB Fans" },
+    { "file": "eintracht_el.jpg",   "search": "Eintracht Frankfurt Europa League Sieg 2022" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "36 JAHRE. KEIN LÄNDERSPIEL SEIT 2023. ER GIBT NICHT AUF.",
+      "image": "trapp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPPS NEUE ÄRA",
+      "title": "Trapps geheime Comeback-Hoffnung",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "trapp.jpg",
+      "name": "Kevin Trapp",
+      "role": "Torwart · 36 · Paris FC",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "neuer_abschied.jpg",
+      "name": "Manuel Neuer",
+      "role": "128 Länderspiele · Karriere beendet",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Kevin Trapps DFB-Bilanz",
+      "stats": [
+        { "label": "Länderspiele", "value": "9" },
+        { "label": "Letztes Spiel", "value": "Nov 2023" },
+        { "label": "Jahre alt", "value": "36" }
+      ],
+      "image": "eintracht_el.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "urbig.jpg",
+      "name": "Jonas Urbig",
+      "role": "Konkurrent · 22 · Bayern München",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "atubolu.jpg",
+      "name": "Noah Atubolu",
+      "role": "Konkurrent · 24 · Freiburg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "terstegen.jpg",
+      "name": "Marc-André ter Stegen",
+      "role": "Konkurrent · 34 · Ajax Amsterdam",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "baumann.jpg",
+      "name": "Oliver Baumann",
+      "role": "Konkurrent · 36 · Hoffenheim",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Verdient Trapp noch eine DFB-Chance?",
+      "subtitle": "Klopp entscheidet im September!",
+      "image": "klopp.jpg",
+      "weight": 1.0
+    }
+  ]
+}
