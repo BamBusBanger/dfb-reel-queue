@@ -378,3 +378,4 @@
 2026-08-10 | andrich-klopp-comeback-push | Robert Andrich 31 Leverkusen TV-Experte WM 2026 0 Minuten, Nagelsmann aussortiert, Klopp MagentaTV persönlich kennengelernt, öffentlicher Comeback-Push 5 Tage vor Amtsantritt (NEWS-DRAMA)
 2026-08-11 | kimmich-sechser-klopp-befreiung | Kimmich als Sechser unter Klopp 4-4-2, Nagelsmann RV-Fehler, 109 Länderspiele Kapitän, 4 WM-Spiele als RV 0 Tore, Matthäus-Forderung jahrelang, Klopp Amtsantritt 15.8. Befreiung, 45 Tage bis Amsterdam (GEHEIMNIS)
 2026-08-11 | elmala-ouedraogo-klopps-gen-z | El Mala Köln-BVB Transfer-Poker 50 Mio. vs Ouédraogo Schulterkapsel-Verletzung, beide 19-20J. Gen-Z Klopp-Hoffnungen nicht verfügbar 4 Tage vor Amtsantritt (DUELL/VERGLEICH)
+2026-08-11 | klopp-torwart-top3-kandidaten | Top 3 Torhüter-Kandidaten für Klopps neue Nummer 1: ter Stegen Ajax 34 vs Nübel Beşiktaş 29 vs Baumann 36, Neuer-Erbe 125 LS 21 WM-Spiele, Amtsantritt 15.8., Kadernominierung September (TOP-3-LISTE)
