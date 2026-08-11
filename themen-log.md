@@ -376,3 +376,4 @@
 2026-08-10 | pejcinovic-klopps-geheime-neun | Pejčinović DFB-Geheimkandidat Klopp, 12 Tore Absteiger Wolfsburg, 25 Mio Stuttgart, Linksfuß 1,90m Neuner-Profil, DFB-U21, September-Kader erste Überraschung (GEHEIMNIS)
 2026-08-10 | terstegen-brandt-ajax-goetze | ter Stegen Clean Sheet + Brandt Tor Ajax-Debüt heute, Götze-Parallele Holland-Comeback, Klopp debütiert 24.9. Johan Cruyff Arena, September-Kader-Entscheidung (TOP-3-LISTE)
 2026-08-10 | andrich-klopp-comeback-push | Robert Andrich 31 Leverkusen TV-Experte WM 2026 0 Minuten, Nagelsmann aussortiert, Klopp MagentaTV persönlich kennengelernt, öffentlicher Comeback-Push 5 Tage vor Amtsantritt (NEWS-DRAMA)
+2026-08-11 | kimmich-sechser-klopp-befreiung | Kimmich als Sechser unter Klopp 4-4-2, Nagelsmann RV-Fehler, 109 Länderspiele Kapitän, 4 WM-Spiele als RV 0 Tore, Matthäus-Forderung jahrelang, Klopp Amtsantritt 15.8. Befreiung, 45 Tage bis Amsterdam (GEHEIMNIS)

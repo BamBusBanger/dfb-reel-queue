@@ -1,0 +1,34 @@
+{
+  "slug": "kimmich-sechser-klopp-befreiung",
+  "createdAt": "2026-08-11T05:34:03Z",
+  "title": "Kimmich endlich als Sechser – Klopps Geheimplan",
+  "script": "3 WM-Frühaus in Folge – und Kimmich spielte alle 4 Spiele als Rechtsverteidiger. Nicht auf seiner Lieblingsposition. Doch Klopp verrät bereits vor seinem Amtsantritt: Er will mit einem echten Rechtsverteidiger spielen. Das bedeutet: Nach 109 Länderspielen kehrt Kimmich als Sechser zurück. Matthäus forderte es jahrelang. Nagelsmann ignorierte es. Klopp ändert es. Am 15. August beginnt Klopps Geheimplan – und 45 Tage bis Amsterdam entscheidet sich, ob der echte Kimmich wiedergeboren wird.",
+  "uploadCaption": "3 WM-Frühaus – und Kimmich spielte 4 Spiele als Rechtsverteidiger. Klopps Geheimplan: Kimmich ENDLICH als echter Sechser zurück ins Mittelfeld. 109 Länderspiele, Kapitän – aber nie auf seiner Stammposition. Am 15. August beginnt die Befreiung.",
+  "uploadHashtags": "#Kimmich #Klopp #DFB #Bundestrainer #Nationalmannschaft #NationsLeague #Sechser #WM2030",
+  "images": [
+    { "file": "kimmich_01.jpg", "search": "Joshua Kimmich" },
+    { "file": "kimmich_binde.jpg", "search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "kimmich_training.jpg", "search": "Joshua Kimmich Training DFB" },
+    { "file": "kimmich_dfb.jpg", "search": "Joshua Kimmich DFB Kapitän" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "nmecha.jpg", "search": "Felix Nmecha" },
+    { "file": "nmecha_aktion.jpg", "search": "Felix Nmecha DFB" },
+    { "file": "matthaeus.jpg", "search": "Lothar Matthäus" },
+    { "file": "fans_dfb.jpg", "search": "DFB Fans" },
+    { "file": "wm2026_logo.jpg", "search": "WM 2026 Nations League" },
+    { "file": "fans_stadion.jpg", "search": "DFB Fans Stadion" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "KLOPPS GEHEIMPLAN ENTHÜLLT.", "image": "kimmich_01.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB · Amtsantritt 15. August", "title": "Kimmich endlich als Sechser", "image": "kimmich_binde.jpg", "weight": 0.7 },
+    { "type": "image", "image": "kimmich_training.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · ab 15. August", "weight": 0.8 },
+    { "type": "stats", "title": "Kimmich als RV – WM 2026", "stats": [{ "label": "Länderspiele", "value": "109" }, { "label": "WM-Spiele als Rechtsverteidiger", "value": "4" }, { "label": "Tore WM 2026", "value": "0" }], "image": "kimmich_dfb.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nmecha.jpg", "name": "Felix Nmecha", "role": "BVB · Mittelfeld · 25 J.", "weight": 0.8 },
+    { "type": "image", "image": "matthaeus.jpg", "name": "Lothar Matthäus", "role": "DFB-Rekordnationalspieler", "weight": 0.8 },
+    { "type": "image", "image": "nmecha_aktion.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans_dfb.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wm2026_logo.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "War Kimmich als Rechtsverteidiger Nagelsmanns größter Fehler?", "subtitle": "Kommentiert eure Meinung!", "image": "fans_stadion.jpg", "weight": 1.0 }
+  ]
+}
