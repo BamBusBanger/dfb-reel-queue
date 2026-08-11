@@ -1,0 +1,109 @@
+{
+  "slug": "iraola-klopp-wirtz-entfesselung",
+  "createdAt": "2026-08-11T19:34:27Z",
+  "title": "Wirtz trifft – Liverpool verliert. Wer entfesselt ihn wirklich?",
+  "script": "Florian Wirtz trifft in JEDEM Liverpool-Vorbereitungsspiel – Leeds, Monaco – und doch verliert sein Klub beide Male. Trainer Iraola hatte Wirtz noch nie zuvor. In 4 Tagen startet Klopp als Bundestrainer: Er kennt Liverpool von innen, nennt Wirtz 'Jahrhunderttalent'. 125 Millionen Pfund, 0 WM-Tore – das Rätsel bleibt. In 45 Tagen trifft Klopp auf Wirtz' Teamkollegen Gravenberch und Gakpo. Kann Klopp beim DFB schaffen, was Iraola bei Liverpool nicht gelingt – Wirtz wirklich entfesseln?",
+  "uploadCaption": "Florian Wirtz trifft in jedem Liverpool-Test – aber sein Klub verliert trotzdem. Klopp startet in 4 Tagen als Bundestrainer und hat Wirtz noch nie trainiert. Wer schafft es wirklich, das 125-Mio-Pfund-Jahrhunderttalent zu entfesseln? Iraola oder Klopp? Kommentiert!",
+  "uploadHashtags": "#DFB #FlorianWirtz #Klopp #Bundestrainer #Liverpool #WM2030 #Nationalmannschaft #Fussball #Iraola",
+  "images": [
+    { "file": "wirtz_jubel.jpg",    "search": "Florian Wirtz DFB" },
+    { "file": "wirtz.jpg",          "search": "Florian Wirtz" },
+    { "file": "wirtz_training.jpg", "search": "Florian Wirtz Liverpool" },
+    { "file": "anfield.jpg",        "search": "Anfield Liverpool Stadium" },
+    { "file": "iraola.jpg",         "search": "Andoni Iraola Liverpool trainer" },
+    { "file": "wirtz_presse.jpg",   "search": "Florian Wirtz" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "klopp_dfb.jpg",      "search": "Jürgen Klopp Bundestrainer DFB 2026" },
+    { "file": "musiala.jpg",        "search": "Jamal Musiala" },
+    { "file": "fans.jpg",           "search": "DFB Fans Deutschland" },
+    { "file": "wm_pokal.jpg",       "search": "WM Pokal Gold" },
+    { "file": "dfb_flagge.jpg",     "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER TRIFFT IN JEDEM TEST – SEIN KLUB VERLIERT TROTZDEM.",
+      "image": "wirtz_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "IRAOLA vs. KLOPP",
+      "title": "Wer rettet Wirtz?",
+      "image": "wirtz.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_training.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · DFB · 23 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Liverpool-Vorbereitung 2026",
+      "stats": [
+        { "label": "Spiele", "value": "2" },
+        { "label": "Liverpool-Siege", "value": "0" },
+        { "label": "Wirtz-Tore", "value": "2" }
+      ],
+      "image": "anfield.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "iraola.jpg",
+      "name": "Andoni Iraola",
+      "role": "Liverpool-Trainer · hat Wirtz nie zuvor gecoacht",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wirtz bei WM 2026",
+      "stats": [
+        { "label": "Minuten", "value": "360" },
+        { "label": "WM-Tore", "value": "0" },
+        { "label": "Ausgewechselt", "value": "4×" }
+      ],
+      "image": "wirtz_presse.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Amtsantritt 15. August",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "DFB · Klopp-Kandidat · 23 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Kann Klopp schaffen, was Iraola nicht gelingt?",
+      "subtitle": "Oder bleibt Wirtz für immer ein teures Rätsel?",
+      "image": "dfb_flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
