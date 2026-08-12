@@ -1,0 +1,109 @@
+{
+  "slug": "musiala-supercup-wirtz-liverpool-duell",
+  "createdAt": "2026-08-12T15:39:00Z",
+  "title": "Klopp sieht nur EINEN live: Musiala vs. Wirtz",
+  "script": "KLOPP SCHAUT ZU – aber NUR EINEN sieht er live! In 10 Tagen steigt der Beckenbauer-Supercup im Signal Iduna Park: BVB gegen Bayern. Musiala – nach 364 Tagen Reha, Platten-OP, jetzt endlich zurück im Teamtraining – bekommt Klopps ERSTEN Live-Check als Bundestrainer. Wirtz? Schon 2 Vorbereitung-Tore für Liverpool – aber 5.000 Kilometer weit weg in England. WM-Bilanz: Musiala 1 Tor in 239 Minuten. Wirtz: 0 Tore in 360 Minuten. Klopp startet in 3 Tagen. Wer überzeugt ihn zuerst?",
+  "uploadCaption": "In 10 Tagen ist Klopps erster Live-Check als Bundestrainer! Beim Beckenbauer-Supercup (22.8., Signal Iduna Park) sieht er Musiala nach 364 Tagen Reha live – aber Wirtz ist 5.000 km weit weg in Liverpool. Wer macht den ersten Schritt im WM-2030-Rennen?",
+  "uploadHashtags": "#DFB #Musiala #Wirtz #Klopp #Bundestrainer #BVBvsBayern #Supercup #WM2030 #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "musiala_aktion.jpg",      "search": "Jamal Musiala" },
+    { "file": "signal_iduna.jpg",         "search": "Signal Iduna Park Dortmund" },
+    { "file": "musiala_portrait.jpg",     "search": "Jamal Musiala" },
+    { "file": "wirtz_portrait.jpg",       "search": "Florian Wirtz" },
+    { "file": "musiala_torjubel.jpg",     "search": "Jamal Musiala DFB" },
+    { "file": "wirtz_training.jpg",       "search": "Florian Wirtz" },
+    { "file": "klopp_bundestrainer.jpg",  "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "wirtz_jubel.jpg",          "search": "Florian Wirtz DFB" },
+    { "file": "allianz_arena.jpg",        "search": "Allianz Arena München Bayern" },
+    { "file": "musiala_aktion2.jpg",      "search": "Jamal Musiala Nationalmannschaft" },
+    { "file": "fans_dfb.jpg",             "search": "DFB Fans Deutschland" },
+    { "file": "wm_pokal.jpg",             "search": "WM Pokal FIFA Trophäe" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP SIEHT NUR EINEN LIVE!",
+      "image": "musiala_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "SUPERCUP · 22. AUGUST",
+      "title": "Klopps erster Live-Check – wer ist dabei?",
+      "image": "signal_iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_portrait.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern München · 22 · Supercup-Kandidat",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_portrait.jpg",
+      "name": "Florian Wirtz",
+      "role": "FC Liverpool · 23 · 5.000 km entfernt",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Musiala – WM 2026",
+      "stats": [
+        { "label": "WM-Tore", "value": "1" },
+        { "label": "Minuten", "value": "239" },
+        { "label": "Reha-Tage", "value": "364" }
+      ],
+      "image": "musiala_torjubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz_training.jpg",
+      "name": "Florian Wirtz",
+      "role": "2 Vorbereitung-Tore · Liverpool 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp_bundestrainer.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wirtz – WM 2026",
+      "stats": [
+        { "label": "WM-Tore", "value": "0" },
+        { "label": "Minuten", "value": "360" },
+        { "label": "Marktwert", "value": "125 Mio. £" }
+      ],
+      "image": "wirtz_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "allianz_arena.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_aktion2.jpg",
+      "name": "Jamal Musiala",
+      "role": "Teamtraining-Comeback · 8. August 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer überzeugt Klopp zuerst?",
+      "subtitle": "Musiala beim Supercup oder Wirtz trotzdem aus Liverpool?",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
