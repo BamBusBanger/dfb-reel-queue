@@ -1,0 +1,107 @@
+{
+  "slug": "woltemade-loan-albtraum",
+  "createdAt": "2026-08-12T05:40:11Z",
+  "title": "Woltemade-Schock: Der 75-Mio-Albtraum",
+  "script": "Er sollte Deutschlands Tormaschine bei der WM werden. Stattdessen: 0 Minuten in 3 Gruppenspielen und ein verschossener Elfmeter im Achtelfinale gegen Paraguay – das WM-2026-Albtraum von Nick Woltemade. Und jetzt DER NÄCHSTE SCHOCK: Newcastle United soll den 75-Millionen-Euro-Rekordkauf in die englische 2. Liga verleihen – zu West Ham, einem Absteiger! Unter neuem Coach Jaissle steht Woltemade auf dem Abstellgleis. Klopp startet in nur 3 Tagen als neuer Bundestrainer – und sein WM-2030-Kandidat hat noch nicht einmal einen gesicherten Stammplatz.",
+  "uploadCaption": "Von der WM-Bank direkt in die 2. Liga? Nick Woltemade erlebt seinen schlimmsten Albtraum – 75 Millionen Euro Ablöse, 0 WM-Minuten, ein verschossener Elfmeter und jetzt der Loan-Schock zu einem Absteiger. Klopp schaut zu. Was sagst du?",
+  "uploadHashtags": "#DFB #WM2026 #WM2030 #Woltemade #Newcastle #Klopp #Fussball",
+  "images": [
+    { "file": "woltemade_portrait.jpg",  "search": "Nick Woltemade" },
+    { "file": "entsetzen.jpg",           "search": "DFB Fans Entsetzen" },
+    { "file": "woltemade_jubel.jpg",     "search": "Nick Woltemade" },
+    { "file": "woltemade_dfb.png",       "search": "Nick Woltemade DFB" },
+    { "file": "klopp.jpg",              "search": "Jürgen Klopp" },
+    { "file": "newcastle.jpg",          "search": "St James Park Newcastle" },
+    { "file": "westham.jpg",            "search": "West Ham Stadium London" },
+    { "file": "pokal.jpg",              "search": "Fußball Trophäe Gold" },
+    { "file": "woltemade_training.jpg",  "search": "Nick Woltemade Newcastle" },
+    { "file": "flagge.jpg",             "search": "Deutschland Flagge" },
+    { "file": "hoffen.jpg",             "search": "DFB Fans" },
+    { "file": "deutschland_fans.jpg",   "search": "Deutschland Fans Stadion" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "SCHOCK! 75-MIO-STAR SOLL IN DIE 2. LIGA!",
+      "image": "woltemade_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 Nachspiel",
+      "title": "Woltemades Albtraum",
+      "image": "entsetzen.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "woltemade_jubel.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · 24 · Newcastle United",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM 2026 Bilanz Woltemade",
+      "stats": [
+        { "label": "WM-Minuten gespielt", "value": "0" },
+        { "label": "Elfmeter verschossen", "value": "1" },
+        { "label": "Ablöse Newcastle 2025", "value": "75 Mio €" }
+      ],
+      "image": "woltemade_dfb.png",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer DFB · Start 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "newcastle.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "westham.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der Loan-Schock",
+      "stats": [
+        { "label": "Ziel-Klub", "value": "West Ham" },
+        { "label": "Liga", "value": "Championship (2. Liga)" },
+        { "label": "PL-Tore Saison 25/26", "value": "4" }
+      ],
+      "image": "pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "woltemade_training.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · 24 · Newcastle United",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "hoffen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Woltemade noch WM 2030?",
+      "subtitle": "Ja oder Nein – sag es in den Kommentaren!",
+      "image": "deutschland_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}

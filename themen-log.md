@@ -382,3 +382,4 @@
 2026-08-11 | gnabry-comeback-supercup-klopp-livetest | Gnabry Comeback Adduktorenriss WM-2026-Ausfall, Beckenbauer-Supercup 22.8. Dortmund Klopps erstes Live-Scouting, 64 Länderspiele 31 Jahre, Konkurrent Beier 20+ Torbeteiligungen, 57 Kandidaten 26 Plätze (NEWS-DRAMA)
 2026-08-11 | trapp-dfb-tor-comeback-36 | Kevin Trapp 36 J. Paris FC DFB-Comeback-Hoffnung unter Klopp, 9 Länderspiele zuletzt Nov 2023, nicht bei WM 2026, "So ein Buch macht man nie zu", fitter als vor 5 Jahren, 5 Konkurrenten Urbig/Atubolu/ter Stegen/Baumann/Nübel (GEHEIMNIS)
 2026-08-11 | iraola-klopp-wirtz-entfesselung | Iraola Liverpool vs Klopp DFB, Wirtz 2 Pre-Season-Tore LFC verliert beide Tests 2:4/2:3, 125 Mio Pfund/0 WM-Tore, Klopp startet 15. August, Wirtz-Entfesselungsfrage (DUELL/VERGLEICH)
+2026-08-12 | woltemade-loan-albtraum | Woltemade Newcastle Loan-Schock West Ham abgestiegen 75 Mio 0 WM-Minuten Jaissle Klopp WM-2030-Plan (NEWS-DRAMA)
