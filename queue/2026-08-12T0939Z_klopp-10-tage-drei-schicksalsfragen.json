@@ -1,0 +1,36 @@
+{
+  "slug": "klopp-10-tage-drei-schicksalsfragen",
+  "createdAt": "2026-08-12T09:39:00Z",
+  "title": "Klopps 3 Schicksalsfragen in 10 Tagen",
+  "script": "In 72 Stunden übernimmt Klopp den DFB. Und sofort warten 3 Schicksalsfragen. Frage 3: El Mala – Transfer-Deadline läuft. 13 Bundesliga-Tore mit 19 Jahren. Klopp rief persönlich an. Fix oder nicht? Frage 2: Musiala live beim Beckenbauer-Supercup am 22. August – nach 364 Tagen Verletzung. Klopps wichtigster Baustein für WM 2030. Kommt er zurück in Topform? Frage 1: 57 Kandidaten. 26 Kaderplätze. Wer bekommt in 43 Tagen den ersten historischen Klopp-Anruf? Finn Jeltsch? Philipp Treu? Einer, der noch gar nicht damit rechnet.",
+  "uploadCaption": "In 72 Stunden startet Klopp – und SOFORT warten 3 Schicksalsfragen: El Mala-Transfer, Musiala live beim Supercup & der erste historische Nominierungsanruf. Wer rechnet noch gar nicht damit? 🇩🇪",
+  "uploadHashtags": "#DFB #Klopp #Musiala #ElMala #WM2030 #Nationalmannschaft #Bundestrainer #Fussball",
+  "images": [
+    { "file": "klopp.jpg", "search": "Jürgen Klopp DFB Bundestrainer" },
+    { "file": "teamfoto.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "elmala.jpg", "search": "Said El Mala BVB 2026" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park Dortmund Beckenbauer Supercup" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich DFB Kapitän" },
+    { "file": "fans.jpg", "search": "DFB Fans Deutschland" },
+    { "file": "beier.jpg", "search": "Maximilian Beier BVB DFB" },
+    { "file": "flagge.jpg", "search": "Deutschland Flagge schwarz rot gold" },
+    { "file": "pokal.jpg", "search": "WM Pokal Trophäe Gold" },
+    { "file": "wm_mural.jpg", "search": "WM 2026 USA Mural" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "IN 72 STUNDEN ÜBERNIMMT KLOPP.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPP-START 15. AUGUST", "title": "3 Schicksalsfragen in 10 Tagen", "image": "teamfoto.jpg", "weight": 0.7 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "Bayern · 22 J. · WM 2030 Schlüssel", "weight": 0.8 },
+    { "type": "image", "image": "elmala.jpg", "name": "Said El Mala", "role": "Stürmer · 19 J. · 13 BL-Tore", "weight": 0.8 },
+    { "type": "stats", "title": "FRAGE 3: EL MALA", "stats": [{ "label": "BL-Tore 2025/26", "value": "13" }, { "label": "Alter", "value": "19 J." }, { "label": "Klopp rief an", "value": "persönlich" }], "image": "signal_iduna.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Liverpool · 23 J. · 0 WM-Tore", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "stats", "title": "FRAGE 2: MUSIALA SUPERCUP", "stats": [{ "label": "Verletzungstage", "value": "364" }, { "label": "Supercup-Datum", "value": "22. Aug" }, { "label": "WM 2030 Alter", "value": "26 J." }], "image": "fans.jpg", "weight": 0.9 },
+    { "type": "image", "image": "beier.jpg", "name": "Maximilian Beier", "role": "BVB · 23 J. · Klopp-Kandidat", "weight": 0.8 },
+    { "type": "image", "image": "flagge.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "FRAGE 1: DER ERSTE ANRUF", "stats": [{ "label": "Kandidaten auf Liste", "value": "57" }, { "label": "Kaderplätze", "value": "26" }, { "label": "Tage bis Debüt", "value": "43" }], "image": "pokal.jpg", "weight": 0.9 },
+    { "type": "outro", "title": "Wen ruft Klopp ZUERST an?", "subtitle": "Kommentier deinen Kandidaten 👇", "image": "wm_mural.jpg", "weight": 1.0 }
+  ]
+}
