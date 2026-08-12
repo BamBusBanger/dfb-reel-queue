@@ -1,0 +1,101 @@
+{
+  "slug": "klopp-dfb-vorstellung-geheime-botschaft",
+  "createdAt": "2026-08-12T12:41:00Z",
+  "title": "Klopps 3 geheime Botschaften an Deutschland",
+  "script": "DIESE 3 Sätze von Klopp bringen Deutschland zum Staunen. Auf seiner DFB-Vorstellung sagte er klipp und klar: Erstens – 'Erfolgreicher Fußball kann ein Land verändern.' Zweitens – das Medien-Ultimatum: 'Wenn ihr meine Familie nicht in Ruhe lasst, bin ich weg.' Drittens – das Versprechen: 'Ein Neustart für alle, die Bock haben.' In 3 Tagen beginnt seine Ära. 4 Länderspiele in 11 Tagen starten am 24. September in Amsterdam. Das ist kein Projekt – das ist eine Mission. Glaubst du ihm?",
+  "uploadCaption": "Klopp sagte bei seiner DFB-Vorstellung 3 Sätze, die keiner vergessen wird. Medien-Ultimatum, Vision und ein Versprechen – sein Start wird alles verändern. In 3 Tagen beginnt die neue Ära. #DFB #Klopp #Bundestrainer",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2030 #Nationalmannschaft #Fussball #Deutschland #NationsLeague",
+  "images": [
+    { "file": "klopp_dfb.jpg",     "search": "Jürgen Klopp DFB 2026" },
+    { "file": "klopp_presse.jpg",  "search": "Klopp DFB Bundestrainer Pressekonferenz 2026" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "tah.jpg",           "search": "Jonathan Tah" },
+    { "file": "krawietz.jpg",      "search": "Peter Krawietz DFB Trainer 2026" },
+    { "file": "fans.jpg",          "search": "DFB Fans" },
+    { "file": "teamfoto.jpg",      "search": "DFB Team 2026" },
+    { "file": "pokal.jpg",         "search": "WM Pokal" },
+    { "file": "flagge.jpg",        "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP SPRICHT – UND DROHT.",
+      "image": "klopp_dfb.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB-VORSTELLUNG 2026",
+      "title": "3 Sätze, die alles verändern",
+      "image": "klopp_presse.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp_presse.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Amtsantritt 15.8.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps 3 Sätze der Stunde",
+      "stats": [
+        { "label": "Vision: Fußball kann ein Land verändern", "value": "1." },
+        { "label": "Ultimatum: Familie? Dann bin ich weg", "value": "2." },
+        { "label": "Versprechen: Neustart für alle mit Bock", "value": "3." }
+      ],
+      "image": "teamfoto.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 22 Jahre · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 Jahre · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "Abwehr · Bayern München",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "krawietz.jpg",
+      "name": "Peter Krawietz",
+      "role": "Co-Trainer · 20 Jahre Klopp-Team",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Kann Klopp Deutschland 2030 zum Weltmeister machen?",
+      "subtitle": "Kommentier deine Prognose 👇",
+      "image": "flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}

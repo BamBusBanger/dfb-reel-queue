@@ -384,3 +384,4 @@
 2026-08-11 | iraola-klopp-wirtz-entfesselung | Iraola Liverpool vs Klopp DFB, Wirtz 2 Pre-Season-Tore LFC verliert beide Tests 2:4/2:3, 125 Mio Pfund/0 WM-Tore, Klopp startet 15. August, Wirtz-Entfesselungsfrage (DUELL/VERGLEICH)
 2026-08-12 | woltemade-loan-albtraum | Woltemade Newcastle Loan-Schock West Ham abgestiegen 75 Mio 0 WM-Minuten Jaissle Klopp WM-2030-Plan (NEWS-DRAMA)
 2026-08-12 | klopp-10-tage-drei-schicksalsfragen | Klopp-Start 15.8. in 3 Tagen, 3 Schicksalsfragen: El Mala BVB-Transfer-Deadline 13 BL-Tore 19J., Musiala Supercup 22.8. nach 364 Tagen, 57 Kandidaten 26 Plätze erster Klopp-Anruf September (TOP-3-LISTE)
+2026-08-12 | klopp-dfb-vorstellung-geheime-botschaft | Klopp DFB-Vorstellung 3 Zitate Medien-Ultimatum Familie-Warnung 'ein Land verändern' Neustart, Amtsantritt 15.8. in 3 Tagen, 4 Länderspiele 11 Tage ab 24.9. Amsterdam (GEHEIMNIS)
