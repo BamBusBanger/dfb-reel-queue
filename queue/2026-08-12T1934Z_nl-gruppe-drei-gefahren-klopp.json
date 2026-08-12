@@ -1,0 +1,36 @@
+{
+  "slug": "nl-gruppe-drei-gefahren-klopp",
+  "createdAt": "2026-08-12T19:34:00Z",
+  "title": "3 Gefahren in Klopps NL-Gruppe",
+  "script": "3 Gegner, 4 Spiele, 11 Tage – das ist Klopps Debüt-Inferno. GEFAHR 1: Die Niederlande. Gravenberch und Gakpo spielten 18 Monate unter ihm – Insider-Wissen aus Liverpool! GEFAHR 2: Serbien. FIFA-Rang 30 – und Pavlović trifft auf seinen eigenen Bundestrainer. Herzens-Duell! GEFAHR 3: Griechenland. Erstmals Liga A – Tsimikas bringt 4 Jahre Anfield-Geheimwissen mit. 40 Tage. Dann ist Klopp live. Schaffst du 4 von 4?",
+  "uploadCaption": "Klopp startet in 3 Tagen – aber sein Debüt-Programm hat 3 versteckte Fallen! 4 Spiele in 11 Tagen, und jeder Gegner hat eine geheime Klopp-Waffe. Was denkst du: Schafft er 4 Siege?",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #Deutschland #Niederlande #Serbien #Griechenland #WM2030 #Fussball #Bundestrainer",
+  "images": [
+    { "file": "klopp_portrait.jpg",       "search": "Jürgen Klopp" },
+    { "file": "amsterdam_arena.jpg",       "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "nl_orange.jpg",             "search": "Niederlande Nationalmannschaft" },
+    { "file": "gravenberch.jpg",           "search": "Ryan Gravenberch Liverpool" },
+    { "file": "gakpo.jpg",                 "search": "Cody Gakpo Liverpool" },
+    { "file": "serbien_symbol.jpg",        "search": "Serbien Fußball Flagge", "thematic": true },
+    { "file": "pavlovic_dfb.jpg",          "search": "Aleksandar Pavlović" },
+    { "file": "griechenland_symbol.jpg",   "search": "Griechenland Fußball Flagge", "thematic": true },
+    { "file": "tsimikas.jpg",              "search": "Kostas Tsimikas Griechenland" },
+    { "file": "kimmich_kapitaen.jpg",      "search": "Joshua Kimmich" },
+    { "file": "dfb_fans.jpg",              "search": "DFB Fans" },
+    { "file": "wm_pokal.jpg",              "search": "WM Pokal" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "3 GEGNER. 11 TAGE. 1 KLOPP.", "image": "klopp_portrait.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "NATIONS LEAGUE 2026", "title": "Klopps Debüt-Inferno", "image": "amsterdam_arena.jpg", "weight": 0.7 },
+    { "type": "stats", "title": "GEFAHR 1: Niederlande", "stats": [{ "label": "Liverpool-Insider", "value": "2" }, { "label": "Spiele in 11 Tagen", "value": "4" }], "image": "nl_orange.jpg", "weight": 0.9 },
+    { "type": "image", "image": "gravenberch.jpg", "name": "Ryan Gravenberch", "role": "Niederlande · Liverpool-Insider", "weight": 0.8 },
+    { "type": "image", "image": "gakpo.jpg",       "name": "Cody Gakpo",       "role": "Niederlande · Liverpool-Flügelstürmer", "weight": 0.8 },
+    { "type": "stats", "title": "GEFAHR 2: Serbien", "stats": [{ "label": "FIFA-Rang Serbien", "value": "30" }, { "label": "Mitrović-Tore", "value": "53" }], "image": "serbien_symbol.jpg", "weight": 0.9 },
+    { "type": "image", "image": "pavlovic_dfb.jpg", "name": "Aleksandar Pavlović", "role": "Serbien · Bayern München", "weight": 0.8 },
+    { "type": "stats", "title": "GEFAHR 3: Griechenland", "stats": [{ "label": "Erstmals Liga A", "value": "2026" }, { "label": "Tsimikas LFC-Jahre", "value": "4" }], "image": "griechenland_symbol.jpg", "weight": 0.9 },
+    { "type": "image", "image": "tsimikas.jpg",      "name": "Kostas Tsimikas", "role": "Griechenland · Ex-Liverpool", "weight": 0.8 },
+    { "type": "image", "image": "kimmich_kapitaen.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Schafft Klopp 4 von 4?", "subtitle": "Kommentiere deine Prognose!", "image": "wm_pokal.jpg", "weight": 1.0 }
+  ]
+}
