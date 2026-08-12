@@ -386,3 +386,4 @@
 2026-08-12 | klopp-10-tage-drei-schicksalsfragen | Klopp-Start 15.8. in 3 Tagen, 3 Schicksalsfragen: El Mala BVB-Transfer-Deadline 13 BL-Tore 19J., Musiala Supercup 22.8. nach 364 Tagen, 57 Kandidaten 26 Plätze erster Klopp-Anruf September (TOP-3-LISTE)
 2026-08-12 | klopp-dfb-vorstellung-geheime-botschaft | Klopp DFB-Vorstellung 3 Zitate Medien-Ultimatum Familie-Warnung 'ein Land verändern' Neustart, Amtsantritt 15.8. in 3 Tagen, 4 Länderspiele 11 Tage ab 24.9. Amsterdam (GEHEIMNIS)
 2026-08-12 | musiala-supercup-wirtz-liverpool-duell | Klopp sieht nur Musiala live im Beckenbauer-Supercup 22.8. Signal Iduna Park, Wirtz 5000km weit weg Liverpool 2 Vorbereitung-Tore, WM-Bilanz Musiala 1 Tor/239 Min vs Wirtz 0 Tore/360 Min, Klopp-Start 15.8. (DUELL/VERGLEICH)
+2026-08-12 | klopp-40-tage-bis-amsterdam | Klopp Amtsantritt 15.8., 40-Tage-Plan bis Amsterdam-Debüt 24.9., Supercup Tag 7, Bundesliga Tag 13, Kadernominierung Tag 31 (NEWS-DRAMA)

@@ -1,0 +1,34 @@
+{
+  "slug": "klopp-40-tage-bis-amsterdam",
+  "createdAt": "2026-08-12T17:33:50Z",
+  "title": "Klopps 40-Tage-Plan: So startet die neue DFB-Ära",
+  "script": "IN 40 TAGEN beginnt die neue DFB-Ära. Jürgen Klopp übernimmt Donnerstag den DFB-Campus. Tag 7: Beckenbauer-Supercup in Dortmund – erster Live-Test gegen 57 Kandidaten für 26 Kaderplätze. Tag 13: Bundesliga-Start Bayern vs Stuttgart – Musiala nach 364 Tagen Reha, Wirtz nach 0 WM-Toren. Tag 31: erste Kaderbekanntgabe Mitte September. Tag 40: Debüt in Amsterdam – Johan Cruyff Arena, 20:45 Uhr. Das WM-Trauma 2026 soll Geschichte werden. Traust du Klopp zu, es zu heilen?",
+  "uploadCaption": "Klopp hat genau 40 Tage bis zu seinem ersten Pflichtspiel als Bundestrainer. So sieht sein Plan aus. 🏆",
+  "uploadHashtags": "#DFB #KloppBundestrainer #NationsLeague #WM2030 #DFBTeam #Fussball #Klopp",
+  "images": [
+    { "file": "dfb_flagge.jpg",    "search": "Deutschland Flagge Schwarz Rot Gold" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "signal_iduna.jpg",  "search": "Signal Iduna Park Dortmund" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich" },
+    { "file": "allianz_arena.jpg", "search": "Allianz Arena München" },
+    { "file": "amsterdam.jpg",     "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "dfb_fans.jpg",      "search": "DFB Fans Deutschland" },
+    { "file": "team_foto.jpg",     "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wm_pokal.jpg",      "search": "WM Pokal FIFA" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "IN 40 TAGEN.", "image": "dfb_flagge.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB 2026", "title": "Klopps 40-Tage-Plan", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "musiala.jpg",       "name": "Jamal Musiala",  "role": "Bayern · Tag-13-Scouting",   "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",          "name": "Florian Wirtz",  "role": "Liverpool · 0 WM-Tore",      "weight": 0.8 },
+    { "type": "stats", "title": "Klopps Countdown", "stats": [{"label": "Tag 7 – Supercup", "value": "22. Aug"}, {"label": "Tag 13 – Bundesliga", "value": "28. Aug"}, {"label": "Tag 31 – Nominierung", "value": "~15. Sep"}, {"label": "Tag 40 – Debüt", "value": "24. Sep"}], "image": "signal_iduna.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich.jpg",        "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "allianz_arena.jpg",  "weight": 0.8 },
+    { "type": "image", "image": "amsterdam.jpg",      "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg",       "weight": 0.8 },
+    { "type": "image", "image": "team_foto.jpg",      "weight": 0.8 },
+    { "type": "outro", "title": "Klopp – 5. Stern 2030?", "subtitle": "ODER frühes WM-Aus? Kommentier's!", "image": "wm_pokal.jpg", "weight": 1.0 }
+  ]
+}
