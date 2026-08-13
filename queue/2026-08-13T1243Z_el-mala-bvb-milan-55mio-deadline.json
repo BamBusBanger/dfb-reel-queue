@@ -1,0 +1,36 @@
+{
+  "slug": "el-mala-bvb-milan-55mio-deadline",
+  "createdAt": "2026-08-13T12:43:00Z",
+  "title": "El Mala: BVB vs. AC Milan – 55 Mio. Deadline",
+  "script": "55 Millionen Euro – und Klopp rief persönlich an. Said El Mala, 19 Jahre, 13 Tore, U17-Weltmeister: Klopps wichtigstes WM-2030-Juwel. Doch Köln will 55 Millionen und BVBs Deadline läuft dieses Wochenende ab. Jetzt lauert AC Milan im Hintergrund – obwohl El Mala Milan und Fulham längst abgesagt hat. BVB erhöhte auf 55 Millionen, Köln bleibt hart. Setzt Mailand trotzdem auf die Macht der Serie A? Klopp braucht El Mala für 2030 – bekommt er ihn?",
+  "uploadCaption": "55 MIO. € UND KLOPP RUFT PERSÖNLICH AN – aber Köln will mehr, AC Milan lauert! BVB vs. Milan im Poker um Said El Mala (19, 13 BL-Tore). Die Deadline fällt DIESES WOCHENENDE. Wer gewinnt den Transfer-Krimi?",
+  "uploadHashtags": "#ElMala #BVB #ACMilan #DFB #Klopp #WM2030 #Transfermarkt #Bundesliga #Dortmund",
+  "images": [
+    { "file": "el_mala_portrait.jpg",  "search": "Said El Mala" },
+    { "file": "bvb_stadion.jpg",        "search": "Signal Iduna Park Dortmund" },
+    { "file": "klopp_dfb.jpg",          "search": "Jürgen Klopp" },
+    { "file": "milan_jersey.jpg",       "search": "AC Milan Trikot 2026" },
+    { "file": "el_mala_aktion.jpg",     "search": "Said El Mala FC Köln Aktion" },
+    { "file": "transfer_poker.jpg",     "search": "Fußball Transfer Poker Spannung", "thematic": true },
+    { "file": "wirtz_dfb.jpg",          "search": "Florian Wirtz" },
+    { "file": "dfb_fans.jpg",           "search": "DFB Fans" },
+    { "file": "wm_pokal.jpg",           "search": "WM Pokal" },
+    { "file": "kimmich_dfb.jpg",        "search": "Joshua Kimmich" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "55 MIO. – KLOPP RIEF SELBST AN!", "image": "el_mala_portrait.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "TRANSFER-KRIMI", "title": "BVB vs. AC Milan", "image": "bvb_stadion.jpg", "weight": 0.7 },
+    { "type": "image", "image": "el_mala_aktion.jpg", "name": "Said El Mala", "role": "Stürmer · FC Köln · 19", "weight": 0.8 },
+    { "type": "image", "image": "klopp_dfb.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer DFB", "weight": 0.8 },
+    { "type": "stats", "title": "El Mala in Zahlen", "stats": [
+        { "label": "BL-Tore 25/26",   "value": "13" },
+        { "label": "BVB-Angebot",      "value": "55 Mio €" },
+        { "label": "Alter",            "value": "19" }
+      ], "image": "transfer_poker.jpg", "weight": 0.9 },
+    { "type": "image", "image": "milan_jersey.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz_dfb.jpg", "name": "Florian Wirtz", "role": "WM-2030-Schlüsselspieler", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wm_pokal.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "BVB oder Milan?", "subtitle": "Kommentier deine Prognose!", "image": "kimmich_dfb.jpg", "weight": 1.0 }
+  ]
+}
