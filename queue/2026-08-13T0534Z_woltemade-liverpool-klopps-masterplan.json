@@ -1,0 +1,94 @@
+{
+  "slug": "woltemade-liverpool-klopps-masterplan",
+  "createdAt": "2026-08-13T05:34:00Z",
+  "title": "Woltemade zu Liverpool – Klopps Masterplan",
+  "script": "75 Millionen Euro für den WM-Elfmeter-Sünder – und jetzt DAS: Nick Woltemade wechselt zum FC Liverpool! Neuer Teamkollege von Florian Wirtz, 125 Millionen Pfund wert. 0 WM-Minuten 2026, 1 verschossener Elfmeter im Paraguay-Schock – und trotzdem: Klopp liebt ihn. Der neue Bundestrainer hat jetzt ZWEI WM-2030-Stars an der Anfield Road. In 40 Tagen stehen beide für Klopps DFB-Debüt gegen die Niederlande parat. Ist das Klopps geniales Geheimrezept für den 5. Stern – oder eine teure Wette auf zwei Flops?",
+  "uploadCaption": "75 Mio. Elfmeter-Sünder trifft 125 Mio. Pfund Flaute – Woltemade jetzt Liverpool-Teamkollege von Wirtz. Klopps WM-2030-Masterplan nimmt Form an! Beide in 40 Tagen beim DFB-Debüt dabei.",
+  "uploadHashtags": "#Woltemade #Liverpool #DFB #Wirtz #Klopp #WM2030 #Nationalmannschaft #Fussball #WM2026",
+  "images": [
+    { "file": "woltemade_portrait.jpg",  "search": "Nick Woltemade" },
+    { "file": "woltemade_training.jpg",  "search": "Nick Woltemade" },
+    { "file": "woltemade_jubel.jpg",     "search": "Nick Woltemade" },
+    { "file": "wirtz_liverpool.jpg",     "search": "Florian Wirtz" },
+    { "file": "wirtz_portrait.jpg",      "search": "Florian Wirtz" },
+    { "file": "klopp.jpg",               "search": "Jürgen Klopp" },
+    { "file": "anfield.jpg",             "search": "Anfield Liverpool" },
+    { "file": "dfb_fans.jpg",            "search": "DFB Fans" },
+    { "file": "dfb_team.jpg",            "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wm_pokal.jpg",            "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "WOLTEMADE ZU LIVERPOOL!",
+      "image": "woltemade_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "NEWS-DRAMA",
+      "title": "Klopps Masterplan enthüllt",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "woltemade_portrait.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · 22 · neu: FC Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Woltemades WM-Bilanz 2026",
+      "stats": [
+        { "label": "WM-Minuten", "value": "0" },
+        { "label": "Elfmeter verschossen", "value": "1" },
+        { "label": "Newcastle-Ablöse", "value": "75 Mio. €" }
+      ],
+      "image": "woltemade_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "woltemade_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_liverpool.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23 · FC Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "anfield.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · ab 15.8.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopps Geheimrezept – oder teure Wette?",
+      "subtitle": "Kommentiert eure Meinung!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
