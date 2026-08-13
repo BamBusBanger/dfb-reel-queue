@@ -1,0 +1,98 @@
+{
+  "slug": "klopp-10-geheimkandidaten-zweitligist",
+  "createdAt": "2026-08-13T09:42:00Z",
+  "title": "Klopps 10 Geheimkandidaten: Sogar ein Zweitligist!",
+  "script": "ER spielt 2. Liga – und Jürgen Klopp WILL ihn im September-Kader! In genau 2 Tagen übernimmt Klopp als Bundestrainer, und seine erste Bombe zündet er schon jetzt: 57 Kandidaten auf der Liste, davon 10 die noch NIE für Deutschland gespielt haben. Einer davon: Rechtsverteidiger Julian Eitschberger – aus der 2. Bundesliga! Klopp selbst: 'Die rechnen damit noch gar nicht.' Stürmer Pejčinović, 21, 12 Tore für Wolfsburg, wird laut Berichten schon kontaktiert. Ein Klopp-Kader wie kein anderer. Gehört ein Zweitligist rein?",
+  "uploadCaption": "Klopp startet in 2 Tagen – und er hat die Bombe schon gezündet: 57 Kandidaten, davon 10 noch nie A-Nationalspieler. Sogar ein Zweitligist soll dabei sein! Klopps Zitat: 'Die rechnen damit noch gar nicht.'",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #NationsLeague #WM2030 #Nationalmannschaft #Eitschberger #Pejcinovic #Deutschland",
+  "images": [
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "team.jpg",         "search": "DFB Nationalmannschaft Teamfoto 2026" },
+    { "file": "eitschberger.jpg", "search": "Julian Eitschberger" },
+    { "file": "pejcinovic.jpg",   "search": "Dženan Pejčinović VfB Stuttgart" },
+    { "file": "musiala.jpg",      "search": "Jamal Musiala" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "amsterdam.jpg",    "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "wm_stimmung.jpg",  "search": "WM 2026 USA Stadion Stimmung" },
+    { "file": "fans.jpg",         "search": "DFB Fans Deutschland" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER SPIELT 2. LIGA.",
+      "image": "eitschberger.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB · 15. AUGUST",
+      "title": "Klopps 10 Geheimkandidaten",
+      "image": "team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Start 15. August",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps 57er-Liste",
+      "stats": [
+        { "label": "Feldspieler-Kandidaten",  "value": "57" },
+        { "label": "Nie A-Nationalspieler",   "value": "10" },
+        { "label": "Zweitligist auf der Liste","value": "1" }
+      ],
+      "image": "wm_stimmung.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "pejcinovic.jpg",
+      "name": "Dženan Pejčinović",
+      "role": "Stürmer · 21 · VfB Stuttgart",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23 · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Gehört ein Zweitligist in Klopps Kader?",
+      "subtitle": "Kommentiere JA oder NEIN!",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
