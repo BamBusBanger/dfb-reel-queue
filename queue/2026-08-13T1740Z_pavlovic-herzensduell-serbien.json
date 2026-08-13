@@ -1,0 +1,34 @@
+{
+  "slug": "pavlovic-herzensduell-serbien",
+  "createdAt": "2026-08-13T17:40:00Z",
+  "title": "Pavlović vs. sein Herzensland Serbien",
+  "script": "Er ist in München geboren – aber seine Eltern kommen aus Serbien. Aleksandar Pavlović, 22 Jahre, lief bei der WM 2026 viermal für Deutschland auf. Am 1. Oktober kommt Serbien zum Nations-League-Heimspiel in die Allianz Arena nach München. FIFA-Rang 30. Stürmer Mitrović bringt 53 Ländertore mit. 75.000 Zuschauer schauen zu, darunter Klopp. Pavlović muss GEGEN sein Herzensland spielen. Das schwerste Spiel seines Lebens – oder der ultimative Beweis für seine DFB-Identität?",
+  "uploadCaption": "In München geboren. Serbisches Herz. Und am 1. Oktober muss Aleksandar Pavlović (22) gegen Serbien spielen – Klopps Heim-Spiel in der Allianz Arena. Mitrović mit 53 Ländertoren wartet. Verrat oder Loyalität? 🇩🇪❤️🇷🇸 #DFB #NationsLeague #WM2030",
+  "uploadHashtags": "#DFB #Pavlovic #Serbien #NationsLeague #Klopp #Bayern #WM2030 #Nationalmannschaft",
+  "images": [
+    { "file": "pavlovic_portrait.png", "search": "Aleksandar Pavlović" },
+    { "file": "pavlovic_aktion.jpg", "search": "Aleksandar Pavlović Bayern" },
+    { "file": "pavlovic_dfb.webp", "search": "Aleksandar Pavlović DFB" },
+    { "file": "serbien_flag.jpg", "search": "Serbien Nationalflagge" },
+    { "file": "mitroovic.jpg", "search": "Aleksandar Mitrović Serbien" },
+    { "file": "allianz_arena.jpg", "search": "Allianz Arena München" },
+    { "file": "klopp_dfb.jpg", "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "nmecha_dfb.png", "search": "Felix Nmecha DFB" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans Deutschland" },
+    { "file": "dfb_pyro.jpg", "search": "DFB Fans Pyro Stadion" },
+    { "file": "dfb_team.jpg", "search": "DFB Nationalmannschaft 2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "SEIN BLUT IST SERBISCH. Und trotzdem muss er gegen Serbien spielen.", "image": "pavlovic_dfb.webp", "weight": 0.5 },
+    { "type": "title", "eyebrow": "Nations League · 1. Oktober · München", "title": "Pavlović vs. sein Herzensland", "image": "pavlovic_aktion.jpg", "weight": 0.7 },
+    { "type": "image", "image": "pavlovic_portrait.png", "name": "Aleksandar Pavlović", "role": "Mittelfeld · 22 · FC Bayern München", "weight": 0.8 },
+    { "type": "stats", "title": "Pavlović – WM 2026", "stats": [{ "label": "WM-Einsätze", "value": "4" }, { "label": "Serbien FIFA-Rang", "value": "30" }, { "label": "Mitrović Ländertore", "value": "53" }], "image": "nmecha_dfb.png", "weight": 0.9 },
+    { "type": "image", "image": "serbien_flag.jpg", "weight": 0.8 },
+    { "type": "image", "image": "mitroovic.jpg", "name": "Aleksandar Mitrović", "role": "Stürmer · 33 · Serbien", "weight": 0.8 },
+    { "type": "image", "image": "allianz_arena.jpg", "weight": 0.8 },
+    { "type": "image", "image": "klopp_dfb.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · DFB", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Das Herzensduell", "stats": [{ "label": "Spieltag", "value": "1. Oktober" }, { "label": "Allianz Arena Kapazität", "value": "75.000" }, { "label": "Tage bis Herzensduell", "value": "49" }], "image": "dfb_team.jpg", "weight": 0.9 },
+    { "type": "outro", "title": "Verrat oder Loyalität?", "subtitle": "Dürfte Pavlović gegen Serbien spielen?", "image": "dfb_pyro.jpg", "weight": 1.0 }
+  ]
+}
