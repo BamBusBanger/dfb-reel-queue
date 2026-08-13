@@ -1,0 +1,34 @@
+{
+  "slug": "klopp-supercup-drei-bayernstars",
+  "createdAt": "2026-08-13T15:37:00Z",
+  "title": "Klopps Supercup-Scouting: 3 Bayern-Stars",
+  "script": "KLOPP CHECKT SIE – AM 22. AUGUST IN DORTMUND! Nur 9 Tage nach seinem Amtsantritt beim DFB reist der neue Bundestrainer zum Beckenbauer-Supercup. 3 Bayern-Stars im Fokus: Jamal Musiala nach 364 Tagen Reha, Metallplatten raus – die Knochen sind jetzt 40 Prozent stärker. Lennart Karl, 18 Jahre, 9 Tore und 8 Vorlagen – doch Rückenprobleme gefährden seinen Einsatz. Serge Gnabry, 64 Länderspiele, kommt vom Adduktorenriss zurück. Alle 3 auf Klopps 57er-Kandidatenliste. Wer überzeugt den neuen Chef als Erster?",
+  "uploadCaption": "Klopp startet Samstag als Bundestrainer – sein erstes Live-Scouting: Beckenbauer-Supercup 22. August in Dortmund. 3 Bayern-Stars müssen ihn überzeugen! 👀🔥",
+  "uploadHashtags": "#DFB #Klopp #Musiala #Bundestrainer #WM2030 #BayernMünchen #Supercup #Fussball",
+  "images": [
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "dfb_team.jpg",      "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "musiala_jubel.jpg", "search": "Jamal Musiala Torjubel DFB" },
+    { "file": "karl.jpg",          "search": "Lennart Karl Bayern" },
+    { "file": "gnabry.jpg",        "search": "Serge Gnabry DFB" },
+    { "file": "signal_iduna.jpg",  "search": "Signal Iduna Park Dortmund" },
+    { "file": "dfb_fans.jpg",      "search": "DFB Fans Deutschland" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich DFB Kapitän" },
+    { "file": "wm_pokal.jpg",      "search": "WM Pokal Gold" },
+    { "file": "dfb_flagge.jpg",    "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "KLOPP CHECKT 3 BAYERNSTARS – AM 22. AUGUST!", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2030", "title": "Klopps Supercup-Scouting", "image": "dfb_team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "musiala.jpg",      "name": "Jamal Musiala",  "role": "Offensiv · 22 J.", "weight": 0.8 },
+    { "type": "stats", "title": "Musiala-Comeback", "stats": [{"label": "Tage Reha", "value": "364"}, {"label": "WM-Tore", "value": "1"}, {"label": "Knochen stärker", "value": "+40%"}], "image": "musiala_jubel.jpg", "weight": 0.9 },
+    { "type": "image", "image": "karl.jpg",         "name": "Lennart Karl",   "role": "Stürmer · 18 J.", "weight": 0.8 },
+    { "type": "image", "image": "gnabry.jpg",       "name": "Serge Gnabry",   "role": "Flügel · 31 J.", "weight": 0.8 },
+    { "type": "image", "image": "signal_iduna.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Supercup-Termin", "stats": [{"label": "Datum", "value": "22.8."}, {"label": "Klopps Tag", "value": "9"}, {"label": "Kandidaten", "value": "57"}], "image": "dfb_fans.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich.jpg",      "name": "Joshua Kimmich", "role": "Kapitän DFB", "weight": 0.8 },
+    { "type": "image", "image": "wm_pokal.jpg",     "weight": 0.8 },
+    { "type": "outro", "title": "Wer überzeugt Klopp zuerst?", "subtitle": "Kommentiere ↓", "image": "dfb_flagge.jpg", "weight": 1.0 }
+  ]
+}

@@ -391,3 +391,4 @@
 2026-08-13 | woltemade-liverpool-klopps-masterplan | Woltemade zu Liverpool Transfer fix, Wirtz-Teamkollege Anfield, Klopp hat 2 DFB-Stars Liverpool 75 Mio. Elfmeter-Sünder + 125 Mio. Pfund Flaute, WM-2030-Masterplan 40 Tage bis Debüt (NEWS-DRAMA)
 2026-08-13 | klopp-10-geheimkandidaten-zweitligist | Klopp 57er-Liste 10 Nie-A-Nationalspieler darunter Zweitligist Eitschberger Pejčinović 21 12-Tore-Wolfsburg DFB-Amtsantritt 15.8. Überraschungs-Kader September (GEHEIMNIS)
 2026-08-13 | el-mala-bvb-milan-55mio-deadline | BVB 55 Mio Angebot AC Milan einsteigt El Mala Köln Transfer-Deadline Wochenende Klopp WM-2030-Juwel persönlicher Anruf (DUELL/VERGLEICH)
+2026-08-13 | klopp-supercup-drei-bayernstars | Klopp erstes Scouting Beckenbauer-Supercup 22.8. Dortmund, 3 Bayern-Stars: Musiala 364 Tage Reha, Karl 18J. Rückenprobleme, Gnabry Adduktorenriss-Comeback, alle 57er-Kandidaten (TOP-3-LISTE)
