@@ -1,0 +1,33 @@
+{
+  "slug": "mertesacker-dfb-boss-klopp-duo",
+  "createdAt": "2026-08-13T19:34:00Z",
+  "title": "Mertesacker wird DFB-Chef – Klopps Macher",
+  "script": "WM-Held kehrt zurück – als DFB-BOSS! Per Mertesacker, Weltmeister 2014, wird ab 1. Januar 2027 DFB-Geschäftsführer Sport. Der 41-Jährige trug 104 Mal das DFB-Trikot, leitete anschließend 6 Jahre lang die Nachwuchsakademie des FC Arsenal – und war ZDF-WM-Experte 2026. Jetzt arbeitet er Seite an Seite mit Klopp. DFB-Präsident Neuendorf nennt ihn 'Brückenbauer'. Mertesacker ersetzt Andreas Rettig. Deutschland baut seinen Fußball neu – von ganz oben. Ist das die richtige Besetzung?",
+  "uploadCaption": "Der WM-Held von 2014 wird DFB-BOSS! Per Mertesacker (41) ist ab Januar 2027 neuer Geschäftsführer Sport beim DFB – Klopps wichtigster Mann im Hintergrund. 104 Länderspiele, 6 Jahre Arsenal Academy, ZDF-WM-Experte 2026 – jetzt DFB-Macher.",
+  "uploadHashtags": "#DFB #Mertesacker #Klopp #WM2030 #Nationalmannschaft #Fussball #WM2026",
+  "images": [
+    { "file": "mertesacker_portrait.jpg", "search": "Per Mertesacker DFB" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "wm2014.jpg", "search": "Deutschland Weltmeister 2014" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal Gold" },
+    { "file": "fanmeile.jpg", "search": "Fanmeile Berlin 2014" },
+    { "file": "mertesacker_pokal.jpg", "search": "Per Mertesacker WM Pokal 2014" },
+    { "file": "arsenal_academy.jpg", "search": "Arsenal Akademie Jugendtraining Nachwuchs", "thematic": true },
+    { "file": "dfb_campus.jpg", "search": "DFB Campus Frankfurt modern", "thematic": true },
+    { "file": "flagge.jpg", "search": "Deutschland Flagge Reichstag" },
+    { "file": "fans_jubel.jpg", "search": "DFB Fans Jubel" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER IST ZURÜCK – ALS DFB-BOSS!", "image": "mertesacker_portrait.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2030 beginnt jetzt", "title": "Mertesacker: DFB-Chef", "image": "wm2014.jpg", "weight": 0.7 },
+    { "type": "image", "image": "mertesacker_portrait.jpg", "name": "Per Mertesacker", "role": "DFB-Geschäftsführer Sport · ab 2027", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · ab 15.8.2026", "weight": 0.8 },
+    { "type": "stats", "title": "Mertesackers DFB-Akte", "stats": [{ "label": "Länderspiele", "value": "104" }, { "label": "Arsenal Academy", "value": "6 J." }, { "label": "WM-Titel", "value": "2014" }], "image": "wm_pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "mertesacker_pokal.jpg", "name": "Per Mertesacker", "role": "Weltmeister 2014", "weight": 0.8 },
+    { "type": "image", "image": "arsenal_academy.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_campus.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fanmeile.jpg", "weight": 0.8 },
+    { "type": "image", "image": "flagge.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Richtige Wahl als DFB-Boss?", "subtitle": "Kommentar hinterlassen ↓", "image": "fans_jubel.jpg", "weight": 1.0 }
+  ]
+}

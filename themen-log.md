@@ -393,3 +393,4 @@
 2026-08-13 | el-mala-bvb-milan-55mio-deadline | BVB 55 Mio Angebot AC Milan einsteigt El Mala Köln Transfer-Deadline Wochenende Klopp WM-2030-Juwel persönlicher Anruf (DUELL/VERGLEICH)
 2026-08-13 | klopp-supercup-drei-bayernstars | Klopp erstes Scouting Beckenbauer-Supercup 22.8. Dortmund, 3 Bayern-Stars: Musiala 364 Tage Reha, Karl 18J. Rückenprobleme, Gnabry Adduktorenriss-Comeback, alle 57er-Kandidaten (TOP-3-LISTE)
 2026-08-13 | pavlovic-herzensduell-serbien | Pavlović (22, Bayern, serbische Wurzeln) vs Serbien Nations League 1. Oktober München, Mitrović 53 Ländertore, Klopp Heim-Spiel 75.000, Herzensduell oder DFB-Identität (GEHEIMNIS)
+2026-08-13 | mertesacker-dfb-boss-klopp-duo | Mertesacker DFB-Geschäftsführer Sport ab 1.1.2027, 104 LS WM-Titel 2014, Arsenal Academy 6 J., Klopp-Partner Rettig-Nachfolger Brückenbauer (NEWS-DRAMA)
