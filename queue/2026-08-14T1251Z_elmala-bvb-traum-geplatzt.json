@@ -1,0 +1,101 @@
+{
+  "slug": "elmala-bvb-traum-geplatzt",
+  "createdAt": "2026-08-14T12:51:13Z",
+  "title": "El Mala BVB-Traum geplatzt – Klopps Wunschspieler bleibt in Köln",
+  "script": "Klopp rief ihn persönlich an – und trotzdem ist dieser Deal heute offiziell tot! Said El Mala, 19 Jahre, 13 Bundesliga-Tore, 5 Vorlagen in seiner Debütsaison: Klopps geplanter WM-2030-Baustein bleibt beim FC Köln. BVB-Boss Lars Ricken bestätigt: kein weiteres Angebot nach drei Versuchen und 55 Millionen Euro. AC Milan, Fulham – El Mala lehnte alles ab und wartete auf Dortmund. Morgen startet Klopp offiziell als Bundestrainer. Sein Lieblingsspieler? Weg.",
+  "uploadCaption": "SCHOCK am Vorabend von Klopps erstem Tag: El Mala lehnte Milan und Fulham ab – wartete monatelang auf den BVB – und trotzdem ist der Transfer geplatzt! BVB-Chef Ricken macht ihn heute offiziell: kein weiteres Angebot. Klopps WM-2030-Juwel bleibt in Köln. 3 Versuche, 55 Mio. €, persönlicher Klopp-Anruf – und trotzdem kein Deal. Wäre El Mala wirklich der Schlüssel für 2030 gewesen? Kommentiert! 👇",
+  "uploadHashtags": "#ElMala #BVB #Klopp #DFB #WM2030 #Bundesliga #Transfer #Fussball",
+  "images": [
+    { "file": "elmala.jpg",     "search": "Said El Mala" },
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "dortmund.jpg",   "search": "Signal Iduna Park Dortmund" },
+    { "file": "bvb_ricken.jpg", "search": "Lars Ricken BVB" },
+    { "file": "fans_schock.jpg","search": "DFB Fans Schock public viewing" },
+    { "file": "pokal.jpg",      "search": "WM Pokal" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "teamfoto.jpg",   "search": "DFB Nationalmannschaft 2026" },
+    { "file": "flagge.jpg",     "search": "Deutschland Flagge" },
+    { "file": "fans_hoffen.jpg","search": "DFB Fans hoffen public viewing" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "GEPLATZT. Klopps Wunschspieler bleibt in Köln.",
+      "image": "elmala.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "14. August 2026",
+      "title": "El Mala sagt BVB Nein",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "elmala.jpg",
+      "name": "Said El Mala",
+      "role": "Angreifer · 19 · 1. FC Köln",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer ab 15. August",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Transfer in Zahlen",
+      "stats": [
+        { "label": "BVB-Angebote", "value": "3" },
+        { "label": "Höchstgebot", "value": "55 Mio. €" },
+        { "label": "BL-Tore 25/26", "value": "13" }
+      ],
+      "image": "dortmund.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "bvb_ricken.jpg",
+      "name": "Lars Ricken",
+      "role": "BVB-Geschäftsführer Sport",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_schock.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "WM-2030-Talent · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "teamfoto.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopp ohne El Mala?",
+      "subtitle": "Wer wird Klopps WM-2030-Juwel stattdessen?",
+      "image": "fans_hoffen.jpg",
+      "weight": 1.0
+    }
+  ]
+}
