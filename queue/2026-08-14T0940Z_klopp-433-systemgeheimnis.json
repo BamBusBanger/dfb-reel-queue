@@ -1,0 +1,34 @@
+{
+  "slug": "klopp-433-systemgeheimnis",
+  "createdAt": "2026-08-14T09:40:00Z",
+  "title": "Klopp sagt 4-3-3: Das System-Geheimnis",
+  "script": "DAS haben alle übersehen. Alle dachten Klopp bringt das Liverpool-System 4-4-2. Doch auf seiner ersten DFB-Pressekonferenz sagte er klar: »Klare Außenstürmer im 4-3-3«. Das ändert alles. El Mala als Natural-Winger? DARUM rief Klopp ihn persönlich an. Sané, Beier, Gnabry: plötzlich Profiteure. Pavlović und Nmecha müssen ihre Rollen neu denken. Wirtz kein klassischer Außenstürmer – seine Position steht auf dem Spiel. 57 Kandidaten, 0 Namen verraten, 1 System-Hinweis. Morgen beginnt Tag 1. Wer spielt bei Klopp außen?",
+  "uploadCaption": "Klopp sagte 4-3-3 – und das ändert ALLES für den DFB-Kader! El Mala als Winger ergibt jetzt Sinn. Wer profitiert, wer verliert? Morgen (15.8.) startet die neue Ära. 57 Kandidaten, 0 Namen, 1 System-Hinweis.",
+  "uploadHashtags": "#DFB #Klopp #WM2030 #Fussball #NationsLeague #Nationalmannschaft #Wirtz #Musiala",
+  "images": [
+    { "file": "klopp.jpg",    "search": "Jürgen Klopp" },
+    { "file": "taktik.jpg",   "search": "Fußball Taktikboard Formation 4-3-3 Aufstellung", "thematic": true },
+    { "file": "musiala.jpg",  "search": "Jamal Musiala" },
+    { "file": "wirtz.jpg",    "search": "Florian Wirtz" },
+    { "file": "el-mala.jpg",  "search": "Said El Mala" },
+    { "file": "sane.jpg",     "search": "Leroy Sané" },
+    { "file": "flagge.jpg",   "search": "Deutschland Flagge" },
+    { "file": "kimmich.jpg",  "search": "Joshua Kimmich" },
+    { "file": "beier.jpg",    "search": "Maximilian Beier" },
+    { "file": "pavlovic.jpg", "search": "Aleksandar Pavlović" },
+    { "file": "fans.jpg",     "search": "DFB Fans" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "DAS haben alle übersehen.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPP-ÄRA · 15. AUGUST", "title": "Das System-Geheimnis", "image": "taktik.jpg", "weight": 0.7 },
+    { "type": "image", "image": "musiala.jpg",  "name": "Jamal Musiala",        "role": "Offensiv · 23",    "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",    "name": "Florian Wirtz",         "role": "Offensiv · 23",    "weight": 0.8 },
+    { "type": "image", "image": "el-mala.jpg",  "name": "Said El Mala",          "role": "Winger · 19",      "weight": 0.8 },
+    { "type": "image", "image": "sane.jpg",     "name": "Leroy Sané",            "role": "Flügel · 30",      "weight": 0.8 },
+    { "type": "stats", "title": "Klopps System-Code", "stats": [{ "label": "Kandidaten", "value": "57" }, { "label": "Namen genannt", "value": "0" }, { "label": "Amtsantritt", "value": "15.8." }], "image": "flagge.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich.jpg",  "name": "Joshua Kimmich",        "role": "Kapitän · 31",     "weight": 0.8 },
+    { "type": "image", "image": "beier.jpg",    "name": "Maximilian Beier",      "role": "Flügel · 23",      "weight": 0.8 },
+    { "type": "image", "image": "pavlovic.jpg", "name": "Aleksandar Pavlović",   "role": "Mittelfeld · 22",  "weight": 0.8 },
+    { "type": "outro", "title": "4-3-3 oder 4-4-2?", "subtitle": "Wer spielt bei Klopp außen?", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}

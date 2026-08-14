@@ -395,3 +395,4 @@
 2026-08-13 | pavlovic-herzensduell-serbien | Pavlović (22, Bayern, serbische Wurzeln) vs Serbien Nations League 1. Oktober München, Mitrović 53 Ländertore, Klopp Heim-Spiel 75.000, Herzensduell oder DFB-Identität (GEHEIMNIS)
 2026-08-13 | mertesacker-dfb-boss-klopp-duo | Mertesacker DFB-Geschäftsführer Sport ab 1.1.2027, 104 LS WM-Titel 2014, Arsenal Academy 6 J., Klopp-Partner Rettig-Nachfolger Brückenbauer (NEWS-DRAMA)
 2026-08-14 | liverpool-duo-klopps-erste-probe | Wirtz + Woltemade erstmals gemeinsam bei Liverpool, PL-Auftakt 23.8. Newcastle, Klopp startet 15.8. (DUELL/VERGLEICH)
+2026-08-14 | klopp-433-systemgeheimnis | Klopp nannte 4-3-3 mit klaren Außenstürmern in DFB-PK, El Mala Winger-Erklärung Klopp-Anruf, Profiteure Sané/Beier, Wirtz-Positions-Frage, 57 Kandidaten 0 Namen, Amtsantritt morgen 15.8. (GEHEIMNIS)
