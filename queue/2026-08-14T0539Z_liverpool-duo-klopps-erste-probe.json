@@ -1,0 +1,98 @@
+{
+  "slug": "liverpool-duo-klopps-erste-probe",
+  "createdAt": "2026-08-14T05:39:41Z",
+  "title": "Wirtz + Woltemade: Klopps erste Liverpool-Probe",
+  "script": "BEIDE BEI LIVERPOOL – und Klopp schaut ab morgen genau hin! Florian Wirtz: 125 Millionen Pfund, null WM-Tore in 360 Minuten. Nick Woltemade: 75 Millionen Euro, null WM-Minuten, verschossener Elfmeter gegen Paraguay. Am 23. August spielen BEIDE erstmals gemeinsam für Liverpool – auswärts in Newcastle, Woltemades Ex-Leihklub. 14 Deutsche kicken in der Premier League, aber diese 2 stehen sofort unter Klopps Lupe. Die erste Kader-Nominierung kommt Mitte September. Das ist ihr erster echter Bewerbungstest.",
+  "uploadCaption": "Wirtz + Woltemade – jetzt BEIDE bei Liverpool! Klopp startet morgen als Bundestrainer und beobachtet die 2 teuersten DFB-Stars gleich am 23.8. beim PL-Auftakt in Newcastle. Wer überzeugt ihn zuerst?",
+  "uploadHashtags": "#DFB #Wirtz #Woltemade #Liverpool #PremierLeague #Klopp #WM2030 #DFBTeam",
+  "images": [
+    { "file": "wirtz_portrait.jpg",      "search": "Florian Wirtz" },
+    { "file": "woltemade_portrait.jpg",  "search": "Nick Woltemade" },
+    { "file": "klopp_dfb.jpg",           "search": "Jürgen Klopp Bundestrainer DFB" },
+    { "file": "wirtz_jubel.jpg",         "search": "Florian Wirtz Jubel" },
+    { "file": "woltemade_jubel.jpg",     "search": "Nick Woltemade Jubel" },
+    { "file": "dfb_fans.jpg",            "search": "DFB Fans" },
+    { "file": "dfb_team.jpg",            "search": "DFB Nationalmannschaft 2026" },
+    { "file": "anfield_stadion.jpg",     "search": "Anfield Stadium Liverpool" },
+    { "file": "liverpool_newcastle.jpg", "search": "Liverpool FC Newcastle United Premier League 2026" },
+    { "file": "deutschland_flagge.jpg",  "search": "Deutschland Flagge" },
+    { "file": "fans_fanmeile.jpg",       "search": "DFB Fans Fanmeile Berlin" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "BEIDE IN LIVERPOOL – KLOPP SCHAUT ZU!",
+      "image": "wirtz_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "Premier League · 23. August 2026",
+      "title": "Wirtz vs. Woltemade: Klopps erste Probe",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_portrait.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 22 J. · 125 Mio. £",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade_portrait.jpg",
+      "name": "Nick Woltemade",
+      "role": "Liverpool · 21 J. · 75 Mio. €",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM 2026 – Das Debakel",
+      "stats": [
+        { "label": "Wirtz WM-Tore",      "value": "0" },
+        { "label": "Wirtz WM-Minuten",   "value": "360" },
+        { "label": "Woltemade WM-Min.",  "value": "0" },
+        { "label": "DFB-Stars in der PL","value": "14" }
+      ],
+      "image": "dfb_fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp_dfb.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Start 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "anfield_stadion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "liverpool_newcastle.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade_jubel.jpg",
+      "name": "Nick Woltemade",
+      "role": "Heimkehr nach Newcastle",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer überzeugt Klopp zuerst?",
+      "subtitle": "Kommentiere: Wirtz oder Woltemade!",
+      "image": "fans_fanmeile.jpg",
+      "weight": 1.0
+    }
+  ]
+}
