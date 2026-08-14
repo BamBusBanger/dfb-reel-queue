@@ -1,0 +1,36 @@
+{
+  "slug": "klopp-tag-eins-nullkontakt",
+  "createdAt": "2026-08-14T19:42:00Z",
+  "title": "Klopps gefährlichstes Geheimnis – Tag 1",
+  "script": "HEUTE beginnt es. Jürgen Klopp – 12 Millionen Euro Jahresgehalt, volle Kaderkontrolle, der mächtigste Start in der Geschichte des DFB. Und trotzdem: kein einziger Spieler am Campus. 0 Anrufe bei Kimmich, Wirtz oder Musiala. 0 Trainingseinheiten bis September. 40 Tage bis zum Debüt in Amsterdam. Wirtz und Woltemade 1.000 Kilometer entfernt in Liverpool. Musiala kämpft in München um seinen Supercup-Einsatz. 57 Kandidaten – alle weit weg. Klopp regiert aus Frankfurt per Videoanalyse. Der mächtigste Bundestrainer aller Zeiten – und der einsamste.",
+  "uploadCaption": "Tag 1! Klopp übernimmt den DFB – aber sein größtes Geheimnis ist: Er hat noch keinen einzigen Spieler angerufen! 0 Anrufe. 0 Training. 40 Tage bis Amsterdam. #DFB #Klopp #Bundestrainer #WM2030",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2030 #Nationalmannschaft #Fussball #Musiala #Wirtz",
+  "images": [
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "klopp_pk.jpg",   "search": "Jürgen Klopp DFB Bundestrainer 2026" },
+    { "file": "campus.jpg",     "search": "DFB Campus Frankfurt", "thematic": true },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich" },
+    { "file": "woltemade.jpg",  "search": "Nick Woltemade" },
+    { "file": "havertz.jpg",    "search": "Kai Havertz" },
+    { "file": "dfbteam.jpg",    "search": "DFB Nationalmannschaft 2026" },
+    { "file": "fans.jpg",       "search": "DFB Fans Deutschland" },
+    { "file": "pokal.jpg",      "search": "WM Pokal FIFA Gold", "thematic": true },
+    { "file": "fans2.jpg",      "search": "Fußball Fans jubeln Deutschland" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "HEUTE. SEIN ERSTER TAG.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB · 15. AUGUST 2026", "title": "Klopps gefährlichstes Geheimnis", "image": "campus.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp_pk.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · 12 Mio. €/Jahr · Amtsantritt 15. August", "weight": 0.8 },
+    { "type": "stats", "title": "Tag 1 – Die Wahrheit", "stats": [{ "label": "Anrufe bei Spielern", "value": "0" }, { "label": "Trainingseinheiten", "value": "0" }, { "label": "Tage bis Amsterdam", "value": "40" }], "image": "dfbteam.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Liverpool · 125 Mio. £ · 0 WM-Tore", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "Bayern München · Supercup 22.8.", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "DFB-Kapitän · 109 Länderspiele · 0 Klopp-Anrufe", "weight": 0.8 },
+    { "type": "image", "image": "woltemade.jpg", "name": "Nick Woltemade", "role": "Liverpool · 75 Mio. · Elfmeter-Sünder", "weight": 0.8 },
+    { "type": "image", "image": "havertz.jpg", "name": "Kai Havertz", "role": "Arsenal · PL-Meister · Elfmeter-Aus Paraguay", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "pokal.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Kann Klopp die DFB retten – OHNE ein einziges Training vor dem ersten Spiel?", "subtitle": "Kommentiert!", "image": "fans2.jpg", "weight": 1.0 }
+  ]
+}

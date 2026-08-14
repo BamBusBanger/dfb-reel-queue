@@ -399,3 +399,4 @@
 2026-08-14 | elmala-bvb-traum-geplatzt | El Mala BVB-Transfer geplatzt, Ricken Bestätigung, 55 Mio 3 Angebote, Köln ablehnt, AC Milan Fulham abgesagt, Klopp Wunschspieler WM-2030-Juwel bleibt Köln, Amtsantritt morgen 15.8. (NEWS-DRAMA)
 2026-08-14 | klopp-premiere-drei-schocks | Klopp morgen 15.8. Amtsantritt, Kimmich 0 Kontakt 109 LS, Musiala Bayern-Dreifach-Comeback Supercup 22.8., 57 Kandidaten 26 Plätze 41 Tage Amsterdam (TOP-3-LISTE)
 2026-08-14 | yamal-vs-wirtz-weltmeister-vergleich | Yamal Weltmeister 19J. Spanien 1:0 AET vs Argentinien Torres 106., Wirtz 360 WM-Min 0 Tore 125 Mio Pfund, Deutschland Sechzehntelfinale Paraguay, Klopp Start 15.8. WM-2030-Mission (DUELL/VERGLEICH)
+2026-08-14 | klopp-tag-eins-nullkontakt | Klopp Tag 1 Amtsantritt Frankfurt 15.8. 0 Anrufe 0 Training 40 Tage bis Amsterdam Einsamkeits-Paradox mächtigster Bundestrainer allein im Campus (GEHEIMNIS)
