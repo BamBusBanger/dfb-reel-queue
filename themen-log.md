@@ -355,11 +355,6 @@
 2026-08-07 | diomande-madrid-ouedraogo-gewinner | Diomandé offiziell Real Madrid 125-140 Mio. Afrikas teuerster Transfer, Leipzig lehnte 115 Mio. ab jetzt fix, Ouédraogo Stammkraft Leipzig vor Klopp-Nominierung, El-Mala-BVB-Transfer finanziert, 2030 Revanche Diomandé 23J. (GEHEIMNIS)
 2026-08-07 | el-mala-express-montag | El Mala BVB Express-Transfer Montag Medizincheck, BVB drittes Angebot 50 Mio., 13 BL-Tore 19 Jahre U17-WM 2023, Klopp WM-2030-Juwel (TOP-3-LISTE)
 2026-08-07 | kosicke-klopps-dfb-schattenmann | Marc Kosicke offizieller Co-Trainer DFB Strategie Innovation, 20 Jahre Klopp-Berater, Bierhoff-Nachfolger, DFB-Novum 125 Jahre, Amtsantritt 15. August (NEWS-DRAMA)
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
-=======
->>>>>>> 2859d07 (elmala-bvb-traum-geplatzt)
 2026-08-07 | karl-alarm-musiala-supercup | Lennart Karl Rückschlag Rückenprobleme Aufbautraining 6.8. Supercup-Einsatz fraglich, Musiala Metallplatten-OP Teamtraining HEUTE 8.8., Klopp erstes Scouting Beckenbauer-Supercup 22.8. BVB vs Bayern Signal Iduna, 6 Wochen bis Kader-Nominierung (DUELL/VERGLEICH)
 2026-08-07 | coulibaly-dfb-elfenbeinkueste-wahl | Karim Coulibaly 19 Werder Bremen Doppelstaatler DFB vs Elfenbeinküste 4 U19-Caps 0 A-Caps Klopp 57er-Liste Emerse Faé umwirbt Talent (NEWS-DRAMA)
 2026-08-07 | klopp-tsimikas-spion-griechenland | Klopp Ex-Spieler Tsimikas Griechenland Nations League Liga A erstmals, 4 Jahre Liverpool, Insider-Spion-Vorteil, 27. September Augsburg (GEHEIMNIS)
@@ -402,3 +397,4 @@
 2026-08-14 | liverpool-duo-klopps-erste-probe | Wirtz + Woltemade erstmals gemeinsam bei Liverpool, PL-Auftakt 23.8. Newcastle, Klopp startet 15.8. (DUELL/VERGLEICH)
 2026-08-14 | klopp-433-systemgeheimnis | Klopp nannte 4-3-3 mit klaren Außenstürmern in DFB-PK, El Mala Winger-Erklärung Klopp-Anruf, Profiteure Sané/Beier, Wirtz-Positions-Frage, 57 Kandidaten 0 Namen, Amtsantritt morgen 15.8. (GEHEIMNIS)
 2026-08-14 | elmala-bvb-traum-geplatzt | El Mala BVB-Transfer geplatzt, Ricken Bestätigung, 55 Mio 3 Angebote, Köln ablehnt, AC Milan Fulham abgesagt, Klopp Wunschspieler WM-2030-Juwel bleibt Köln, Amtsantritt morgen 15.8. (NEWS-DRAMA)
+2026-08-14 | klopp-premiere-drei-schocks | Klopp morgen 15.8. Amtsantritt, Kimmich 0 Kontakt 109 LS, Musiala Bayern-Dreifach-Comeback Supercup 22.8., 57 Kandidaten 26 Plätze 41 Tage Amsterdam (TOP-3-LISTE)

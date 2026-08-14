@@ -1,0 +1,36 @@
+{
+  "slug": "klopp-premiere-drei-schocks",
+  "createdAt": "2026-08-14T15:43:00Z",
+  "title": "Klopp-Premiere morgen: Diese 3 Fakten schocken alle",
+  "script": "MORGEN startet die Klopp-Ära – und es gibt 3 Fakten, die wirklich ALLE schocken. Erstens: Joshua Kimmich, unser Kapitän mit 109 Länderspielen, hatte bis heute NULL Kontakt zu Klopp. Kein Telefonat, kein Meeting. Zweitens: Bayern feiert ein Dreifach-Comeback zum Supercup am 22. August – Musiala nach 364 Tagen, plus Saibari und Davies. Klopp sieht Jamal ERSTMALS live. Drittens: 57 Kandidaten, 26 Kaderplätze, nur 31 Tage bis zur ersten Nominierung. Wer schafft es rein?",
+  "uploadCaption": "Klopp startet MORGEN als Bundestrainer – und diese 3 Schock-Fakten hat niemand erwartet! Kimmich hatte 0 Kontakt zu ihm, Musiala kämpft nach 364 Tagen Pause um seinen Platz und 57 Kandidaten jagen 26 Kaderplätze. Bist du bereit für die neue DFB-Ära?",
+  "uploadHashtags": "#Klopp #DFB #Bundestrainer #Kimmich #Musiala #WM2030 #Nationalmannschaft #Fussball #Deutschland",
+  "images": [
+    { "file": "kimmich_binde.jpg",   "search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal" },
+    { "file": "kimmich.jpg",         "search": "Joshua Kimmich" },
+    { "file": "kimmich_training.jpg","search": "Joshua Kimmich Training DFB" },
+    { "file": "musiala.jpg",         "search": "Jamal Musiala" },
+    { "file": "signal_iduna.jpg",    "search": "Signal Iduna Park Dortmund" },
+    { "file": "musiala_jubel.jpg",   "search": "Jamal Musiala Jubel DFB" },
+    { "file": "beier.jpg",           "search": "Max Beier DFB" },
+    { "file": "dfb_team.jpg",        "search": "DFB Nationalmannschaft 2026 Teamfoto" },
+    { "file": "fans.jpg",            "search": "Deutschland Fans" },
+    { "file": "pokal_gold.jpg",      "search": "WM Pokal Gold" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "MORGEN startet die KLOPP-ÄRA – und DIESE 3 Fakten schocken alle!", "image": "kimmich_binde.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "15. August 2026", "title": "3 Schock-Fakten zum Klopp-Start", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "wm_pokal.jpg", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "stats", "title": "Schock Nr. 1", "stats": [{ "label": "Kimmich-Klopp-Kontakte bis heute", "value": "0" }, { "label": "Länderspiele Kimmich", "value": "109" }], "image": "kimmich_training.jpg", "weight": 0.9 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "Offensiv · 22 · 364 Tage Pause", "weight": 0.8 },
+    { "type": "stats", "title": "Schock Nr. 2", "stats": [{ "label": "Bayern-Stars für Supercup 22.8.", "value": "3" }, { "label": "Tage Musiala-Pause", "value": "364" }], "image": "signal_iduna.jpg", "weight": 0.9 },
+    { "type": "image", "image": "musiala_jubel.jpg", "weight": 0.8 },
+    { "type": "image", "image": "beier.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Schock Nr. 3", "stats": [{ "label": "Kandidaten auf Klopps Liste", "value": "57" }, { "label": "Kaderplätze", "value": "26" }, { "label": "Tage bis Debüt Amsterdam", "value": "41" }], "image": "dfb_team.jpg", "weight": 0.9 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wer ruft Klopp morgen ZUERST an?", "subtitle": "Kimmich oder Musiala? Kommentar & Folgen!", "image": "pokal_gold.jpg", "weight": 1.0 }
+  ]
+}
