@@ -1,0 +1,98 @@
+{
+  "slug": "yamal-vs-wirtz-weltmeister-vergleich",
+  "createdAt": "2026-08-14T17:36:41Z",
+  "title": "Yamal: Weltmeister mit 19. Wirtz: 0 WM-Tore in 360 Minuten.",
+  "script": "DIESER 19-JÄHRIGE hat die Fußball-Welt verändert. Lamine Yamal: Schlüsselspieler, Weltmeister, 19 Jahre – Spanien schlägt Argentinien 1:0 nach Verlängerung, Tor Torres 106. Minute. Florian Wirtz: 125 Millionen Pfund teuer, 360 WM-Minuten – null Tore. Deutschland raus im Sechzehntelfinale gegen Paraguay. Morgen, am 15. August, startet Klopp seinen DFB-Neustart. 41 Tage bis zum Debüt in Amsterdam. Seine Mission: Wirtz bis WM 2030 zum Weltklasse-Angreifer machen. Doch kann er das Yamal-Niveau jemals erreichen?",
+  "uploadCaption": "Yamal ist Weltmeister mit 19 – Wirtz hatte 360 WM-Minuten und kein Tor. Klopp startet morgen seinen Neuaufbau. Was glaubst du: Erreicht Wirtz bis 2030 das Weltklasse-Niveau? 👇",
+  "uploadHashtags": "#DFB #WM2026 #Wirtz #Yamal #Klopp #WM2030 #Weltmeister #Spanien #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "yamal_aktion.jpg",      "search": "Lamine Yamal WM 2026" },
+    { "file": "yamal_jubel.jpg",       "search": "Lamine Yamal Weltmeister Jubel Spanien" },
+    { "file": "wirtz_portrait.jpg",    "search": "Florian Wirtz" },
+    { "file": "wirtz_training.jpg",    "search": "Florian Wirtz Liverpool" },
+    { "file": "wirtz_jubel.jpg",       "search": "Florian Wirtz DFB" },
+    { "file": "spanien_team.jpg",      "search": "Spanien Nationalmannschaft WM 2026 Jubel" },
+    { "file": "wm_pokal.jpg",          "search": "WM Pokal 2026" },
+    { "file": "metlife.jpg",           "search": "MetLife Stadium New Jersey" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "deutschland_fans.jpg",  "search": "Deutschland Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DIESER 19-JÄHRIGE ist Weltmeister. Wirtz hatte 360 Minuten – und kein einziges Tor.",
+      "image": "yamal_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026",
+      "title": "Yamal – Weltmeister. Wirtz – Null.",
+      "image": "wm_pokal.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "yamal_jubel.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · Weltmeister · 19 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_portrait.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB · 23 Jahre · 0 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der bittere Vergleich",
+      "stats": [
+        { "label": "Wirtz WM-Minuten", "value": "360" },
+        { "label": "Wirtz WM-Tore",    "value": "0" },
+        { "label": "Spanien Sterne",    "value": "2" }
+      ],
+      "image": "spanien_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "yamal_aktion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_training.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 125 Mio. Pfund · Klopp wartet",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "metlife.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer · Start 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel.jpg",
+      "name": "Florian Wirtz",
+      "role": "WM 2030 – seine zweite Chance",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Erreicht Wirtz 2030 das Yamal-Niveau?",
+      "subtitle": "Kommentier: Ja oder nie!",
+      "image": "deutschland_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
