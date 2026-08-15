@@ -1,0 +1,40 @@
+{
+  "slug": "musiala-schock-klopp-tag1",
+  "createdAt": "2026-08-15T19:34:00Z",
+  "title": "Musiala-Schock an Klopp-Tag 1",
+  "script": "Klopps erster offizieller Tag als Bundestrainer – und direkt der erste Schock. Musiala kehrt nach 364 Tagen Verletzungspause als Joker beim Telekom Cup zurück, Bayern schlägt Leipzig 3:1. Brown trifft in der 57. Minute. Doch dann: Kollision, Musiala liegt am Boden, Sanitäter eilen auf den Rasen. Klopp sitzt derweil in Frankfurt – kein Live-Scouting heute. Ouédraogo? Schulterkapsel, fehlt komplett. Karl? Rückenprobleme, auch weg. 3 Top-Kandidaten – 2 verletzt, 1 neuer Schockmoment. Wie ernst ist Musialas Verletzung wirklich?",
+  "uploadCaption": "Klopp-Tag 1 als Bundestrainer – und der erste Schrecken kommt sofort. Musiala kehrt nach 364 Tagen zurück und liegt kurz darauf verletzt am Boden. Brown trifft, Ouédraogo und Karl fehlen komplett. Wie ernst ist es? 👇",
+  "uploadHashtags": "#DFB #Klopp #Musiala #TelekomCup #Nationalmannschaft #WM2030 #Fussball",
+  "images": [
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "musiala_aktion.jpg","search": "Jamal Musiala DFB" },
+    { "file": "brown_tor.jpg",     "search": "Nathaniel Brown" },
+    { "file": "allianz.jpg",       "search": "Allianz Arena München" },
+    { "file": "ouedraogo.jpg",     "search": "Assan Ouédraogo" },
+    { "file": "karl.jpg",          "search": "Lennart Karl Bayern" },
+    { "file": "fans_schock.jpg",   "search": "DFB Fans Entsetzen" },
+    { "file": "dfb_trikot.jpg",    "search": "DFB Trikot WM 2026" },
+    { "file": "fans_jubel.jpg",    "search": "Fußball Fans Jubel" },
+    { "file": "fans_masse.jpg",    "search": "Fanmeile Fußball Deutschland" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "SCHOCK AN KLOPP-TAG 1!",                   "image": "musiala.jpg",      "weight": 0.5 },
+    { "type": "title", "eyebrow": "BUNDESTRAINER · TAG 1",                 "title": "Musiala verletzt?","image": "klopp.jpg",        "weight": 0.7 },
+    { "type": "image", "image": "musiala_aktion.jpg", "name": "Jamal Musiala",      "role": "Comeback nach 364 Tagen · 22", "weight": 0.8 },
+    { "type": "image", "image": "brown_tor.jpg",      "name": "Nathaniel Brown",    "role": "Tor 57. Min · Linksverteidiger · 23", "weight": 0.8 },
+    { "type": "stats", "title": "Telekom Cup 2026",
+      "stats": [
+        { "label": "Bayern – Leipzig",        "value": "3:1"  },
+        { "label": "Musiala-Reha in Tagen",   "value": "364"  },
+        { "label": "DFB-Kandidaten verletzt", "value": "3"    }
+      ],
+      "image": "allianz.jpg", "weight": 0.9 },
+    { "type": "image", "image": "ouedraogo.jpg", "name": "Assan Ouédraogo", "role": "Fehlt · Schulterkapsel · 20", "weight": 0.8 },
+    { "type": "image", "image": "karl.jpg",      "name": "Lennart Karl",    "role": "Fehlt · Rückenprobleme · 18", "weight": 0.8 },
+    { "type": "image", "image": "fans_schock.jpg",  "weight": 0.8 },
+    { "type": "image", "image": "dfb_trikot.jpg",   "weight": 0.8 },
+    { "type": "image", "image": "fans_jubel.jpg",   "weight": 0.8 },
+    { "type": "outro", "title": "Wie ernst ist Musialas Verletzung?", "subtitle": "Kommentar hinterlassen ⬇️", "image": "fans_masse.jpg", "weight": 1.0 }
+  ]
+}

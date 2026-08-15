@@ -405,3 +405,4 @@
 2026-08-15 | wirtz-klopp-kein-anruf-insider | Wirtz kennt Klopp ohne Anruf, Liverpool-Insider Gravenberch/Gakpo schwärmen täglich, 0 Kontakt 125 Mio Pfund, Klopp Tag 1 Amtsantritt, 41 Tage bis Amsterdam (GEHEIMNIS)
 2026-08-15 | havertz-undav-klopp-neun-duell | Havertz 60 LS 2 WM-Tore Elfmeter-Aus vs Undav 3 Tore 2 Vorlagen 68 Min Joker, Klopp Tag 1 Neuner-Frage 40 Tage Amsterdam-Debüt (DUELL/VERGLEICH)
 2026-08-15 | klopp-niemand-abgeschrieben-neustart | Klopp Amtsantritt Tag 1, Clean-Slate-Botschaft niemand abgeschrieben, Havertz/Woltemade/Tah Elfmeter-Sünder Paraguay zweite Chance, Kimmich 109 LS Wirtz 125 Mio kein Platz garantiert, 57 Kandidaten 26 Plätze 40 Tage Amsterdam (NEWS-DRAMA)
+2026-08-15 | musiala-schock-klopp-tag1 | Musiala Verletzungsschock Telekom Cup Bayern 3:1 Leipzig, Comeback nach 364 Tagen, Brown Tor 57. Min, Ouédraogo Schulterkapsel Karl Rückenprobleme beide absent, Klopp Tag 1 kein Live-Scouting Frankfurt (GEHEIMNIS)
