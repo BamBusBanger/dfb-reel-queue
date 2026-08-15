@@ -1,0 +1,105 @@
+{
+  "slug": "wirtz-klopp-kein-anruf-insider",
+  "createdAt": "2026-08-15T12:34:00Z",
+  "title": "Wirtz kennt Klopp – ohne je mit ihm gesprochen zu haben",
+  "script": "KLOPP sitzt heute in Frankfurt – und Wirtz kennt ihn schon besser als du denkst. 0 Anrufe, 0 Treffen, 0 Kontakt – und trotzdem sagt der 125-Millionen-Pfund-Star: 'Ganz Liverpool liebt ihn.' Gravenberch, Gakpo und Kollegen liefern täglich Insider-Berichte aus erster Hand. Tag 1 von 41 bis zum Amsterdam-Debüt. Braucht Klopp überhaupt noch Anrufe – oder reicht der Ruf einer Legende?",
+  "uploadCaption": "Jürgen Klopp ist seit heute Bundestrainer – und Wirtz kennt ihn bereits besser als gedacht. 0 Anrufe, 0 Treffen. Trotzdem: 'Ganz Liverpool liebt ihn.' Gravenberch, Gakpo & Co. als DFB-Insider. Tag 1, 41 Tage bis Amsterdam.",
+  "uploadHashtags": "#DFB #Klopp #Wirtz #Bundestrainer #Liverpool #NationsLeague #WM2030 #Fussball",
+  "images": [
+    { "file": "klopp_01.jpg",                           "search": "Jürgen Klopp" },
+    { "file": "wirtz_training_01.jpg",                  "search": "Florian Wirtz" },
+    { "file": "wirtz_presse_01.jpg",                    "search": "Florian Wirtz" },
+    { "file": "wirtz_01.png",                           "search": "Florian Wirtz" },
+    { "file": "gravenberch.jpg",                        "search": "Ryan Gravenberch Liverpool" },
+    { "file": "musiala_01.png",                         "search": "Jamal Musiala" },
+    { "file": "havertz_01.png",                         "search": "Kai Havertz" },
+    { "file": "kimmich_kapitaensbinde_01.webp",         "search": "Joshua Kimmich" },
+    { "file": "deutschland_fans_01.jpg",                "search": "DFB Fans" },
+    { "file": "deutschland-teamfoto.jpg",               "search": "DFB Team Deutschland 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP IN FRANKFURT. WIRTZ WEISS SCHON ALLES.",
+      "image": "klopp_01.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "15. August 2026 · Tag 1",
+      "title": "Kein Anruf – trotzdem Insider",
+      "image": "wirtz_training_01.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp_01.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Amtsantritt heute",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_presse_01.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23 · Liverpool · 125 Mio. £",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "gravenberch.jpg",
+      "name": "Ryan Gravenberch",
+      "role": "Liverpool · Klopp-Insider",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen",
+      "stats": [
+        { "label": "Klopp-Anrufe bei Wirtz", "value": "0" },
+        { "label": "Mio. Pfund Marktwert Wirtz", "value": "125" },
+        { "label": "Tage bis Amsterdam-Debüt", "value": "41" }
+      ],
+      "image": "deutschland_fans_01.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz_01.png",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_01.png",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 23 · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz_01.png",
+      "name": "Kai Havertz",
+      "role": "Stürmer · 27 · Arsenal",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich_kapitaensbinde_01.webp",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland-teamfoto.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Team Klopp?",
+      "subtitle": "Klopp-Fan oder wäre Streich besser gewesen?",
+      "image": "deutschland_fans_01.jpg",
+      "weight": 1.0
+    }
+  ]
+}
