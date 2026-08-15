@@ -1,0 +1,108 @@
+{
+  "slug": "klopp-kapitaen-3-kandidaten",
+  "createdAt": "2026-08-15T09:34:00Z",
+  "title": "Wer wird Klopps Kapitän?",
+  "script": "Klopp startet HEUTE als Bundestrainer – und seine erste große Frage ist schon gestellt. Wer bindet sich die Kapitänsbinde um? Joshua Kimmich führte Deutschland mit 109 Länderspielen in die WM – doch der Elfmeter-Fluch brennt noch. Antonio Rüdiger: 83 Länderspiele, 2 Champions-League-Titel, Passquote 97 Prozent in der WM-Abwehr. Kai Havertz traf im CL-Finale für 2 verschiedene Klubs, schoss 2 WM-Tore – verschoss aber auch den entscheidenden Elfmeter in Foxborough. 40 Tage bis Amsterdam. Klopp muss jetzt entscheiden.",
+  "uploadCaption": "Klopp ist seit HEUTE Bundestrainer – und die erste riesige Frage steht: Wer bekommt die Kapitänsbinde? Kimmich, Rüdiger oder Havertz? Kommentiere deine Wahl! 🏆",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #Kimmich #Rüdiger #Havertz #WM2030 #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "kimmich.jpg",        "search": "Joshua Kimmich" },
+    { "file": "kimmich_binde.jpg",  "search": "Kimmich Kapitänsbinde" },
+    { "file": "ruediger.jpg",       "search": "Antonio Rüdiger" },
+    { "file": "ruediger_nah.jpg",   "search": "Antonio Rüdiger Nahaufnahme" },
+    { "file": "havertz.jpg",        "search": "Kai Havertz" },
+    { "file": "havertz_jubel.jpg",  "search": "Kai Havertz Torjubel" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "team.jpg",           "search": "DFB Nationalmannschaft 2026" },
+    { "file": "fans.jpg",           "search": "DFB Fans" },
+    { "file": "pokal.jpg",          "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "HEUTE TAG 1. KLOPP ENTSCHEIDET.",
+      "image": "team.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP & DFB – TAG 1",
+      "title": "Wer wird Kapitän?",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "kimmich_binde.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän WM 2026 · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "KANDIDAT 1: KIMMICH",
+      "stats": [
+        { "label": "Länderspiele", "value": "109" },
+        { "label": "WM-Spiele als Kapitän", "value": "4" }
+      ],
+      "image": "kimmich.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "ruediger.jpg",
+      "name": "Antonio Rüdiger",
+      "role": "Innenverteidiger · 83 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "KANDIDAT 2: RÜDIGER",
+      "stats": [
+        { "label": "CL-Titel", "value": "2" },
+        { "label": "Passquote WM", "value": "97%" }
+      ],
+      "image": "ruediger_nah.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Stürmer · Arsenal · CL-Finalist 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "KANDIDAT 3: HAVERTZ",
+      "stats": [
+        { "label": "WM-Tore 2026", "value": "2" },
+        { "label": "CL-Finale Tore", "value": "2 Klubs" }
+      ],
+      "image": "havertz_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Kimmich, Rüdiger oder Havertz?",
+      "subtitle": "Wer soll Klopps Kapitän werden?",
+      "image": "team.jpg",
+      "weight": 1.0
+    }
+  ]
+}
