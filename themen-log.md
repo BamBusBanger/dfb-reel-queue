@@ -403,3 +403,4 @@
 2026-08-15 | klopp-auftakt-anrufe-erste-40-tage | Klopp offizieller Amtsantritt 15.8., 40 Tage bis Amsterdam-Debüt 24.9., 57 Kandidaten erste Telefonate, Beckenbauer-Supercup 22.8. erstes Scouting, Kadernominierung Mitte September, 4 Spiele 11 Tage (NEWS-DRAMA)
 2026-08-15 | klopp-kapitaen-3-kandidaten | Wer wird Klopps Kapitän? Kimmich 109 LS vs Rüdiger 83 LS 2 CL-Titel vs Havertz 2 WM-Tore/Elfmeter-Aus, Klopp Tag 1 Amtsantritt 15.8., 40 Tage bis Amsterdam (TOP-3-LISTE)
 2026-08-15 | wirtz-klopp-kein-anruf-insider | Wirtz kennt Klopp ohne Anruf, Liverpool-Insider Gravenberch/Gakpo schwärmen täglich, 0 Kontakt 125 Mio Pfund, Klopp Tag 1 Amtsantritt, 41 Tage bis Amsterdam (GEHEIMNIS)
+2026-08-15 | havertz-undav-klopp-neun-duell | Havertz 60 LS 2 WM-Tore Elfmeter-Aus vs Undav 3 Tore 2 Vorlagen 68 Min Joker, Klopp Tag 1 Neuner-Frage 40 Tage Amsterdam-Debüt (DUELL/VERGLEICH)

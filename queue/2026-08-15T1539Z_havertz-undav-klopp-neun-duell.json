@@ -1,0 +1,105 @@
+{
+  "slug": "havertz-undav-klopp-neun-duell",
+  "createdAt": "2026-08-15T15:39:00Z",
+  "title": "Klopps Neuner-Rätsel: Havertz oder Undav?",
+  "script": "HAVERTZ ODER UNDAV – das ist Klopps erstes Rätsel am Tag 1! Havertz: 24 Jahre, 60 Länderspiele, 2 WM-Tore – und DER verschossene Elfmeter beim WM-Aus gegen Paraguay. Undav: 3 Tore, 2 Vorlagen in nur 68 Minuten als Joker! Doppelpack in der 68. und 90.+4. Klopp setzt auf ein echtes 4-4-2 – und braucht einen Pressing-Neuner. 40 Tage bis zum Debüt in Amsterdam. Die Entscheidung fällt bald – wen würdet ihr aufstellen?",
+  "uploadCaption": "Klopps größte Frage an Tag 1: Havertz mit Klasse-Anspruch oder Undav mit Killer-Instinkt? 3 Tore in 68 Minuten vs. 2 Tore und 1 Elfmeter-Katastrophe. Wer verdient die Startelf in Amsterdam?",
+  "uploadHashtags": "#DFB #Klopp #Havertz #Undav #WM2030 #Nationalmannschaft #Fussball #KloppEra #4411 #Amsterdam",
+  "images": [
+    { "file": "havertz_jubel.jpg",    "search": "Kai Havertz" },
+    { "file": "havertz_torjubel.jpg", "search": "Kai Havertz Torjubel DFB" },
+    { "file": "undav_joker.jpg",      "search": "Deniz Undav" },
+    { "file": "undav_dfb.jpg",        "search": "Deniz Undav DFB" },
+    { "file": "klopp_dfb.jpg",        "search": "Jürgen Klopp" },
+    { "file": "klopp_presse.jpg",     "search": "Jürgen Klopp DFB Bundestrainer 2026" },
+    { "file": "dfb_fans.jpg",         "search": "DFB Fans" },
+    { "file": "amsterdam_arena.jpg",  "search": "Johan Cruyff Arena Amsterdam Nations League 2026" },
+    { "file": "taktik_442.jpg",       "search": "Fußball 4-4-2 Taktik Aufstellung Pressing", "thematic": true },
+    { "file": "woltemade_dfb.jpg",    "search": "Nick Woltemade" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "HAVERTZ ODER UNDAV?",
+      "image": "havertz_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP TAG 1",
+      "title": "Das Neuner-Rätsel",
+      "image": "klopp_dfb.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "havertz_torjubel.jpg",
+      "name": "Kai Havertz",
+      "role": "Stürmer · Arsenal · 24 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Havertz WM 2026",
+      "stats": [
+        { "label": "Länderspiele", "value": "60" },
+        { "label": "WM-Tore", "value": "2" },
+        { "label": "Elfmeter verschossen", "value": "1" }
+      ],
+      "image": "havertz_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "undav_joker.jpg",
+      "name": "Deniz Undav",
+      "role": "Stürmer · 28 Jahre · Joker-König",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Undav WM 2026 (als Joker!)",
+      "stats": [
+        { "label": "WM-Tore", "value": "3" },
+        { "label": "Vorlagen", "value": "2" },
+        { "label": "Minuten gespielt", "value": "68" }
+      ],
+      "image": "undav_dfb.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp_presse.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "taktik_442.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam_arena.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade_dfb.jpg",
+      "name": "Nick Woltemade",
+      "role": "Alternative · 24 · Newcastle · 75 Mio. €",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer spielt in Amsterdam?",
+      "subtitle": "Havertz, Undav oder Woltemade – kommentiert!",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
