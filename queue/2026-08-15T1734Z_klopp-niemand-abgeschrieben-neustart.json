@@ -1,0 +1,38 @@
+{
+  "slug": "klopp-niemand-abgeschrieben-neustart",
+  "createdAt": "2026-08-15T17:34:00Z",
+  "title": "Klopp Day 1: Niemand ist abgeschrieben",
+  "script": "NIEMAND IST ABGESCHRIEBEN. Jürgen Klopp übernimmt heute offiziell als Bundestrainer – und seine erste Botschaft zündet: 'Heute ist niemand abgeschrieben, es ist ein Neustart.' Havertz, Woltemade, Tah – die Elfmeter-Sünder von Paraguay – alle haben eine zweite Chance. Aber auch das Gegenteil gilt: Kein Platz ist garantiert. Nicht für Kimmich mit 109 Länderspielen, nicht für Wirtz trotz 125 Millionen Pfund. 57 Kandidaten, 26 Plätze, 40 Tage bis Amsterdam. Der Wettbewerb hat begonnen.",
+  "uploadCaption": "Klopp übernimmt und verkündet: NIEMAND IST ABGESCHRIEBEN. Havertz, Woltemade, Tah – alle haben eine zweite Chance. Aber auch kein Platz ist garantiert. 57 Kandidaten. 26 Plätze. 40 Tage bis Amsterdam. Wer verdient seinen Platz?",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2030 #Fussball #Havertz #Woltemade #Wirtz #Musiala #Amsterdam #Neustart",
+  "images": [
+    { "file": "klopp.jpg",     "search": "Jürgen Klopp" },
+    { "file": "klopp_pk.jpg",  "search": "Klopp DFB Bundestrainer Pressekonferenz 2026" },
+    { "file": "havertz.jpg",   "search": "Kai Havertz" },
+    { "file": "woltemade.jpg", "search": "Nick Woltemade" },
+    { "file": "tah.jpg",       "search": "Jonathan Tah" },
+    { "file": "kimmich.jpg",   "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",     "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",   "search": "Jamal Musiala" },
+    { "file": "fans.jpg",      "search": "DFB Fans" },
+    { "file": "fanzone.jpg",   "search": "DFB Fanzone Berlin" },
+    { "file": "flagge.jpg",    "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "NIEMAND IST ABGESCHRIEBEN!", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "15. AUGUST 2026", "title": "Klopp übernimmt", "image": "klopp_pk.jpg", "weight": 0.7 },
+    { "type": "image", "image": "havertz.jpg",   "name": "Kai Havertz",     "role": "Stürmer · 26 · Elfmeter Paraguay", "weight": 0.8 },
+    { "type": "image", "image": "woltemade.jpg", "name": "Nick Woltemade",  "role": "Stürmer · 24 · Elfmeter Paraguay", "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg",       "name": "Jonathan Tah",    "role": "IV · 30 · Phantom-Tor Paraguay",   "weight": 0.8 },
+    { "type": "stats", "title": "Klopps Kader-Mission", "stats": [
+        { "label": "Kandidaten",         "value": "57" },
+        { "label": "Kaderplätze",        "value": "26" },
+        { "label": "Tage bis Amsterdam", "value": "40" }
+      ], "image": "fans.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",   "name": "Florian Wirtz",  "role": "Offensiv · 23 · 125 Mio. £",  "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala",  "role": "Offensiv · 23",               "weight": 0.8 },
+    { "type": "image", "image": "flagge.jpg",  "weight": 0.8 },
+    { "type": "outro", "title": "Wer verdient seinen Platz?", "subtitle": "Dein Tipp für Klopps ersten Kader!", "image": "fanzone.jpg", "weight": 1.0 }
+  ]
+}
