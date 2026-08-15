@@ -1,0 +1,105 @@
+{
+  "slug": "klopp-auftakt-anrufe-erste-40-tage",
+  "createdAt": "2026-08-15T05:34:00Z",
+  "title": "Klopp startet: 40 Tage bis Amsterdam",
+  "script": "Jürgen Klopp ist heute offiziell Bundestrainer. Und er macht sofort Tempo: keine Antritts-Romantik, sondern harte Arbeit. 57 Kandidaten, 40 Tage bis zum Debüt in Amsterdam gegen die Niederlande am 24. September. Ab heute klingeln die Telefone. Kimmich, Wirtz, Musiala, Nmecha, Woltemade – wer bekommt den ersten Anruf? In 7 Tagen wartet der Beckenbauer-Supercup in Dortmund, Klopps erstes Live-Scouting. Kadernominierung kommt Mitte September. 4 Spiele in 11 Tagen, darunter Niederlande, Griechenland und Serbien. Die Ära Klopp beginnt jetzt.",
+  "uploadCaption": "Tag 1! Klopp startet als Bundestrainer 🇩🇪 57 Kandidaten, 40 Tage bis Amsterdam. Wer bekommt den ersten Anruf?",
+  "uploadHashtags": "#DFB #JürgenKlopp #NationsLeague #WM2030 #Nationalmannschaft #Fussball #Deutschland",
+  "images": [
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",      "search": "Jamal Musiala" },
+    { "file": "nmecha.jpg",       "search": "Felix Nmecha" },
+    { "file": "woltemade.jpg",    "search": "Nick Woltemade" },
+    { "file": "dfbteam.jpg",      "search": "DFB Nationalmannschaft 2026" },
+    { "file": "fans.jpg",         "search": "DFB Fans Deutschland" },
+    { "file": "amsterdam.jpg",    "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park Dortmund" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER HAT ANGEFANGEN. 40 TAGE BIS AMSTERDAM.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "15. AUGUST 2026",
+      "title": "Klopp startet · Tag 1",
+      "image": "dfbteam.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 125 Mio. £ Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 J., nach OP zurück",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps Countdown",
+      "stats": [
+        { "label": "Tage bis Debüt Amsterdam", "value": "40" },
+        { "label": "Kandidaten auf Klopps Liste", "value": "57" },
+        { "label": "Spiele in 11 Tagen", "value": "4" }
+      ],
+      "image": "amsterdam.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "nmecha.jpg",
+      "name": "Felix Nmecha",
+      "role": "Mittelfeld · 269 WM-Minuten",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "signal_iduna.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · 75 Mio. € · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer · ab 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Klopp das Wunder?",
+      "subtitle": "Kimmich, Wirtz oder Musiala: Wer kriegt Klopps ersten Anruf?",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
