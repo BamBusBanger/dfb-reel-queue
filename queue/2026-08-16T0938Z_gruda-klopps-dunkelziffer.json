@@ -1,0 +1,102 @@
+{
+  "slug": "gruda-klopps-dunkelziffer",
+  "createdAt": "2026-08-16T09:38:52Z",
+  "title": "Brajan Gruda: Klopps geheimster Kandidat",
+  "script": "0 Länderspiele. Null Anrufe von Nagelsmann. Trotzdem steht Brajan Gruda auf Klopps geheimer 57er-Liste! Der 21-Jährige brilliert bei RB Leipzig als Leihspieler von Brighton – und wurde unter Nagelsmann komplett ignoriert. Klopp sagt öffentlich: Er will Spieler berufen, die noch gar nicht damit rechnen. Gruda ist exakt dieses Profil: blitzschneller Außenstürmer im 4-3-3, torgefährlich, technisch top. Erste Nominierung Mitte September, Debüt vielleicht schon am 24. September in Amsterdam. Ist Gruda die größte Überraschung der Klopp-Ära?",
+  "uploadCaption": "Kennt ihr Brajan Gruda? Der 21-jährige Leipzig-Angreifer steht auf Klopps 57er-Schattenliste – ohne ein einziges A-Länderspiel! Erste Kader-Nominierung Mitte September. Kommt er gegen die Niederlande?",
+  "uploadHashtags": "#DFB #Klopp #BrajanGruda #Nationalmannschaft #WM2030 #DFBTeam #Bundestrainer #EM2028",
+  "images": [
+    { "file": "gruda.jpg",            "search": "Brajan Gruda RB Leipzig" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "beier.jpg",            "search": "Maximilian Beier" },
+    { "file": "wirtz.jpg",            "search": "Florian Wirtz" },
+    { "file": "nagelsmann.jpg",       "search": "Julian Nagelsmann" },
+    { "file": "teamfoto.jpg",         "search": "DFB Team" },
+    { "file": "fans.jpg",             "search": "DFB Fans" },
+    { "file": "deutschland_flagge.jpg","search": "Deutschland Flagge" },
+    { "file": "rb_arena.jpg",         "search": "RB Leipzig Red Bull Arena" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER RECHNET NICHT DAMIT.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP-ÄRA",
+      "title": "Klopps geheimster Kandidat",
+      "image": "gruda.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "gruda.jpg",
+      "name": "Brajan Gruda",
+      "role": "Außenstürmer · 21 · Brighton/Leipzig",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps 57er-Liste",
+      "stats": [
+        { "label": "A-Länderspiele", "value": "0" },
+        { "label": "Kandidaten gesichtet", "value": "57" },
+        { "label": "Alter", "value": "21" }
+      ],
+      "image": "teamfoto.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · seit 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "rb_arena.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Ex-Bundestrainer · ignorierte Gruda komplett",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beier.jpg",
+      "name": "Maximilian Beier",
+      "role": "Konkurrent · Außenstürmer · BVB",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "125 Mio. £ · Klopp-Zehner",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Gruda in Amsterdam?",
+      "subtitle": "Schreibt euren Tipp in die Kommentare!",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
