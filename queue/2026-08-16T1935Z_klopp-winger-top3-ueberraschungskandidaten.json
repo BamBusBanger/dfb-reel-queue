@@ -1,0 +1,114 @@
+{
+  "slug": "klopp-winger-top3-ueberraschungskandidaten",
+  "createdAt": "2026-08-16T19:35:00Z",
+  "title": "Top 3: Diese Winger wollen Klopp überzeugen",
+  "script": "WER FÜLLT KLOPPS FLÜGEL? Im 4-3-3 braucht der Bundestrainer ZWEI echte Außenstürmer – die Top 3 überraschen. Platz 3: Said El Mala, 19 Jahre, 13 Bundesliga-Tore – Klopp rief ihn persönlich an. Platz 2: Leroy Sané, 30, Galatasaray. Türkische Presse nach 2:2-Debakel gegen Aufsteiger Çorum: «furchtbar!» – aber Klopp schreibt ihn NICHT ab. Platz 1: Karim Adeyemi, 24, jetzt bei Barcelona – von Nagelsmann komplett ignoriert, jetzt klare Ansage: ICH WILL ZURÜCK. Wer überzeugt Klopp wirklich?",
+  "uploadCaption": "Klopps 4-3-3 braucht echte Winger – und diese 3 Kandidaten hätte keiner erwartet! Sané «furchtbar» in Istanbul, Adeyemi-Comeback aus Barcelona, El Mala mit Klopp-Direktanruf. Wer setzt sich durch?",
+  "uploadHashtags": "#DFB #Klopp #Nationalmannschaft #Adeyemi #Sané #ElMala #WM2030 #Fussball",
+  "images": [
+    { "file": "sane.jpg",           "search": "Leroy Sané" },
+    { "file": "sane_galatasaray.jpg","search": "Leroy Sané Galatasaray" },
+    { "file": "elmala.jpg",          "search": "Said El Mala" },
+    { "file": "adeyemi.jpg",         "search": "Karim Adeyemi Barcelona" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "klopp_dfb.jpg",       "search": "Jürgen Klopp DFB Bundestrainer" },
+    { "file": "beier.jpg",           "search": "Maximilian Beier" },
+    { "file": "fans.jpg",            "search": "DFB Fans" },
+    { "file": "dfb_team.jpg",        "search": "DFB Nationalmannschaft 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "WER FÜLLT KLOPPS FLÜGEL?",
+      "image": "sane.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2030 · 4-3-3",
+      "title": "Top 3: Klopps Winger-Geheimnis",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Debüt 24.9. Amsterdam",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "elmala.jpg",
+      "name": "Said El Mala",
+      "role": "Linksaußen · 19 · 1. FC Köln",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Platz 3: Said El Mala",
+      "stats": [
+        { "label": "BL-Tore Debütsaison", "value": "13" },
+        { "label": "Alter", "value": "19" },
+        { "label": "Klopp: persönlicher Anruf", "value": "✓" }
+      ],
+      "image": "elmala.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "sane_galatasaray.jpg",
+      "name": "Leroy Sané",
+      "role": "Winger · 30 · Galatasaray",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Platz 2: Leroy Sané",
+      "stats": [
+        { "label": "Galatasaray-Saisonstart", "value": "2:2" },
+        { "label": "Türkei-Presse-Urteil", "value": "«furchtbar!»" },
+        { "label": "Klopp schreibt ihn ab?", "value": "NEIN" }
+      ],
+      "image": "sane.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "adeyemi.jpg",
+      "name": "Karim Adeyemi",
+      "role": "Rechtsaußen · 24 · FC Barcelona",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Platz 1: Karim Adeyemi",
+      "stats": [
+        { "label": "Transfer-Ablöse Barcelona", "value": "22 Mio. €" },
+        { "label": "WM 2026 nominiert", "value": "NEIN" },
+        { "label": "DFB-Comeback-Ansage", "value": "glasklar" }
+      ],
+      "image": "dfb_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "beier.jpg",
+      "name": "Maximilian Beier",
+      "role": "Stammwinger · 23 · BVB",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer wird Klopps Winger-Nummer 1?",
+      "subtitle": "Adeyemi, Sané oder Überraschung?",
+      "image": "klopp_dfb.jpg",
+      "weight": 1.0
+    }
+  ]
+}

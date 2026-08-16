@@ -411,3 +411,4 @@
 2026-08-16 | bisseck-vs-thiaw-klopp-iv-battle | Yann Bisseck Inter Milan CL-Sieger 0 Gegentore vs Malick Thiaw AC Milan 0 WM-Minuten, beide 25J., Klopp dritter IV-Platz September-Kader, Fake-Kamerun-Email-Skandal (DUELL/VERGLEICH)
 2026-08-16 | xavi-klopp-doppel-debut | Xavi neuer Bondscoach Niederlande 133 LS 1 WM-Titel 2 EM-Titel, Debüt 24.9. Amsterdam gegen Klopp/DFB, beide Coaches erstmals Nationaltrainer im selben Spiel, Wirtz vs Liverpool-Kollegen Gravenberch/Gakpo (GEHEIMNIS)
 2026-08-16 | musiala-tor-kollaps-supercup | Musiala Tor 81. Min 3:1 Bayern-Leipzig Telekom Cup, Kreislaufkollaps 83. Min Schwindel Hitze >30°C, Eberl Entwarnung 'sehr sicher beim Supercup', Klopp Tag 2 bestätigt Prognose, Supercup 22. August Signal Iduna Park (NEWS-DRAMA)
+2026-08-16 | klopp-winger-top3-ueberraschungskandidaten | Klopp 4-3-3 Winger-Top 3, El Mala 13 BL-Tore Klopp-Anruf, Sané Galatasaray «furchtbar» 2:2 Fehlstart, Adeyemi Barcelona Comeback-Ansage (TOP-3-LISTE)
