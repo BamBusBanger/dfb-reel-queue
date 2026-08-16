@@ -1,0 +1,34 @@
+{
+  "slug": "xavi-klopp-doppel-debut",
+  "createdAt": "2026-08-16T15:40:00Z",
+  "title": "Xavi vs. Klopp – Das Doppel-Debüt",
+  "script": "Dieses Detail kennt fast niemand: Am 24. September treffen in Amsterdam zwei Trainer in ihrem allerersten Länderspiel aufeinander. Xavi – Spaniens Weltmeister 2010, Sieger von 2 Europameisterschaften, 133 Länderspiele – ist der neue Bondscoach der Niederlande. Klopp debütiert gleichzeitig als Bundestrainer. Beide kennen sich aus dem Fußball, aber NIE als Nationaltrainer-Gegner. Wirtz trifft auf Liverpool-Teamkollegen Gravenberch und Gakpo. Historisch einmalig: Beide Coaches, ein erstes Spiel, alles auf dem Spiel. Wessen Debüt wird das werden?",
+  "uploadCaption": "24. September – Amsterdam: KLOPP gegen XAVI. Das Doppel-Debüt, das die Fußballwelt nicht kannte! 🔥🏟️ Klopp trifft auf Xavi, Wirtz auf Liverpool-Kollegen – wessen Debüt wird es? #DFB #Klopp #Xavi #NationsLeague #Amsterdam",
+  "uploadHashtags": "#DFB #NationsLeague #Klopp #Xavi #Amsterdam #Nationalmannschaft #WM2030 #Fussball",
+  "images": [
+    { "file": "doppeldebut.jpg", "search": "Doppel-Debüt zwei Nationaltrainer Fußball", "thematic": true },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "xavi.jpg", "search": "Xavi Hernandez Netherlands coach 2026" },
+    { "file": "amsterdam_arena.jpg", "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "gravenberch.jpg", "search": "Ryan Gravenberch Liverpool" },
+    { "file": "gakpo.jpg", "search": "Cody Gakpo Liverpool" },
+    { "file": "dfb_team.jpg", "search": "Deutschland Nationalmannschaft 2026" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "amsterdam_nacht.jpg", "search": "Johan Cruyff Arena Nacht Flutlicht Nations League" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "BEIDE DEBÜTIEREN – IM SELBEN SPIEL.", "image": "doppeldebut.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "24. September · Amsterdam", "title": "Klopp vs. Xavi", "image": "amsterdam_arena.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · 1. Länderspiel", "weight": 0.8 },
+    { "type": "image", "image": "xavi.jpg", "name": "Xavi Hernandez", "role": "Bondscoach Niederlande · 1. Spiel", "weight": 0.8 },
+    { "type": "stats", "title": "Xavi – Der Weltmeister", "stats": [{ "label": "WM-Titel", "value": "2010" }, { "label": "EM-Titel", "value": "2×" }, { "label": "Länderspiele", "value": "133" }], "image": "dfb_team.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Liverpool · DFB-Schlüssel", "weight": 0.8 },
+    { "type": "image", "image": "gravenberch.jpg", "name": "Ryan Gravenberch", "role": "Liverpool · Niederlande", "weight": 0.8 },
+    { "type": "image", "image": "gakpo.jpg", "name": "Cody Gakpo", "role": "Liverpool · Niederlande", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "outro", "title": "Wessen Debüt wird es?", "subtitle": "Klopp oder Xavi – kommentiert!", "image": "amsterdam_nacht.jpg", "weight": 1.0 }
+  ]
+}

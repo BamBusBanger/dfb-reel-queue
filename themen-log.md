@@ -409,3 +409,4 @@
 2026-08-16 | klopp-medien-fehler-tag1 | Klopp räumt Medienfehler ein Tag 1, PK-Drohung 24. Juli Wenn Familie nicht in Ruhe gelassen bin ich weg, Liverpool-Tabloid-Trauma Erklärung, Selbstkritik Das war mein Fehler (TOP-3-LISTE)
 2026-08-16 | gruda-klopps-dunkelziffer | Brajan Gruda (21, Brighton/Leipzig) auf Klopps 57er-Liste, 0 A-Länderspiele, Klopp "Spieler berufen die nicht damit rechnen", September-Nominierung möglich, Debüt 24.9. Amsterdam (NEWS-DRAMA)
 2026-08-16 | bisseck-vs-thiaw-klopp-iv-battle | Yann Bisseck Inter Milan CL-Sieger 0 Gegentore vs Malick Thiaw AC Milan 0 WM-Minuten, beide 25J., Klopp dritter IV-Platz September-Kader, Fake-Kamerun-Email-Skandal (DUELL/VERGLEICH)
+2026-08-16 | xavi-klopp-doppel-debut | Xavi neuer Bondscoach Niederlande 133 LS 1 WM-Titel 2 EM-Titel, Debüt 24.9. Amsterdam gegen Klopp/DFB, beide Coaches erstmals Nationaltrainer im selben Spiel, Wirtz vs Liverpool-Kollegen Gravenberch/Gakpo (GEHEIMNIS)
