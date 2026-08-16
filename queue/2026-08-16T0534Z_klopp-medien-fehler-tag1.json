@@ -1,0 +1,32 @@
+{
+  "slug": "klopp-medien-fehler-tag1",
+  "createdAt": "2026-08-16T05:34:00Z",
+  "title": "Klopp räumt Fehler ein: Das war mein Fehler",
+  "script": "Klopp drohte der Presse – und bereut es schon 3 Wochen später. Am 24. Juli sagte er: Wenn ihr meine Familie nicht in Ruhe lasst, bin ich weg. Der Grund: Englische Boulevardmedien griffen ihn nach dem Liverpool-Ende wie Heuschrecken an. Jetzt, Tag 1 als Bundestrainer: Das war mein Fehler. Ich wollte nur 2 Dinge klarstellen. In diesen 3 Punkten verrät Klopps Selbstkritik alles über den neuen Bundestrainer. Findet ihr Entschuldigungen von Trainern ein Zeichen von Stärke oder von Schwäche?",
+  "uploadCaption": "Jürgen Klopp gibt an Tag 1 als Bundestrainer zu: Die Medien-Drohung vom 24. Juli war ein Fehler. Was diese Selbstkritik über den neuen DFB-Coach verrät – und warum es wichtig ist. 👇",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2030 #Fussball #Nationalmannschaft #JuergenKlopp",
+  "images": [
+    { "file": "klopp_portrait.jpg", "search": "Jürgen Klopp" },
+    { "file": "klopp_pk.jpg", "search": "Klopp DFB Pressekonferenz Bundestrainer 2026" },
+    { "file": "klopp_liverpool.jpg", "search": "Klopp Liverpool Abschied Anfield 2024" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "fans.jpg", "search": "DFB Fans Deutschland" },
+    { "file": "flagge.jpg", "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER BEREUT ES.", "image": "klopp_portrait.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB TAG 1 – 15. AUGUST 2026", "title": "Klopp räumt Fehler ein", "image": "klopp_pk.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp_portrait.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · 59 J.", "weight": 0.8 },
+    { "type": "stats", "title": "PUNKT 1: DIE PK-DROHUNG", "stats": [{ "label": "24. Juli 2026", "value": "Erste DFB-PK" }, { "label": "Klopp-Zitat", "value": "Ich bin weg" }], "image": "klopp_pk.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp_liverpool.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "PUNKT 2: DAS LIVERPOOL-TRAUMA", "stats": [{ "label": "Problem", "value": "Tabloid-Attacken" }, { "label": "Ziel der Attacken", "value": "Klopps Familie" }], "image": "klopp_liverpool.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "DFB · 23 J.", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "DFB Kapitän · 31 J.", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "DFB · 23 J.", "weight": 0.8 },
+    { "type": "stats", "title": "PUNKT 3: DAS EINGESTÄNDNIS", "stats": [{ "label": "Klopp Tag 1", "value": "Das war mein Fehler" }, { "label": "Klopp-Erklärung", "value": "2 Dinge klarstellen" }], "image": "flagge.jpg", "weight": 0.9 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Stärke oder Schwäche?", "subtitle": "Trainer, der sich entschuldigt – euer Kommentar?", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
