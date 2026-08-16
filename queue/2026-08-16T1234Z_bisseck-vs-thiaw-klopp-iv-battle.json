@@ -1,0 +1,106 @@
+{
+  "slug": "bisseck-vs-thiaw-klopp-iv-battle",
+  "createdAt": "2026-08-16T12:34:15Z",
+  "title": "Bisseck vs. Thiaw – Wer wird Klopps dritter Innenverteidiger?",
+  "script": "KAMERUN WOLLTE IHN KLAUEN – mit einer gefälschten E-Mail beim DFB! Yann Bisseck, 25, Innenverteidiger Inter Milan: null Gegentore in der Champions League, Serie-A- und CL-Doppelsieger – doch Nagelsmann ließ ihn beim WM-Kader 2026 komplett zuhause. Malick Thiaw, ebenfalls 25, AC Milan: null Minuten bei der WM. Beide wollen jetzt Klopps dritten IV-Platz neben Tah und Rüdiger. Klopp nominiert Mitte September – 26 Plätze für 57 Kandidaten. Wen würdest du aufstellen?",
+  "uploadCaption": "KAMERUN WOLLTE IHN KLAUEN – mit einer Fake-E-Mail! Yann Bisseck half Inter Milan zum CL-Titel: 0 Gegentore in der Champions League. Nagelsmann ließ ihn trotzdem zuhause. Malick Thiaw: ebenfalls 0 WM-Minuten. Beide 25 Jahre alt. Beide wollen Klopps dritten IV-Spot neben Tah und Rüdiger. Wer bekommt den Anruf im September?",
+  "uploadHashtags": "#DFB #Klopp #Bisseck #Thiaw #Nationalmannschaft #EM2028 #WM2030 #Fussball #InterMilan",
+  "images": [
+    { "file": "kamerun.jpg", "search": "Kamerun Nationalmannschaft Fußball" },
+    { "file": "dfb_team.jpg", "search": "DFB Nationalmannschaft 2026" },
+    { "file": "bisseck.jpg", "search": "Yann Bisseck" },
+    { "file": "inter_cl.jpg", "search": "Inter Milan Champions League 2026" },
+    { "file": "thiaw.jpg", "search": "Malick Thiaw" },
+    { "file": "thiaw_aktion.jpg", "search": "Malick Thiaw AC Milan" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "tah.jpg", "search": "Jonathan Tah" },
+    { "file": "ruediger.jpg", "search": "Antonio Rüdiger" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp DFB" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal Gold" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KAMERUN WOLLTE IHN KLAUEN.",
+      "image": "kamerun.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DUELL/VERGLEICH",
+      "title": "Bisseck vs. Thiaw",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "bisseck.jpg",
+      "name": "Yann Bisseck",
+      "role": "Innenverteidiger · Inter Milan · 25 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "inter_cl.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "thiaw.jpg",
+      "name": "Malick Thiaw",
+      "role": "Innenverteidiger · AC Milan · 25 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "thiaw_aktion.jpg",
+      "name": "Malick Thiaw",
+      "role": "0 WM-Minuten 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Duell in Zahlen",
+      "stats": [
+        { "label": "Bisseck CL-Gegentore", "value": "0" },
+        { "label": "Thiaw WM-Minuten", "value": "0" },
+        { "label": "Klopp-Kader September", "value": "26 Plätze" }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "DFB Abwehrchef · gesetzt",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ruediger.jpg",
+      "name": "Antonio Rüdiger",
+      "role": "83 Länderspiele · gesetzt",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer seit 15.8.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Bisseck oder Thiaw?",
+      "subtitle": "Schreib's in die Kommentare!",
+      "image": "inter_cl.jpg",
+      "weight": 1.0
+    }
+  ]
+}

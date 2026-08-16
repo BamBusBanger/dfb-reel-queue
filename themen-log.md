@@ -408,3 +408,4 @@
 2026-08-15 | musiala-schock-klopp-tag1 | Musiala Verletzungsschock Telekom Cup Bayern 3:1 Leipzig, Comeback nach 364 Tagen, Brown Tor 57. Min, Ouédraogo Schulterkapsel Karl Rückenprobleme beide absent, Klopp Tag 1 kein Live-Scouting Frankfurt (GEHEIMNIS)
 2026-08-16 | klopp-medien-fehler-tag1 | Klopp räumt Medienfehler ein Tag 1, PK-Drohung 24. Juli Wenn Familie nicht in Ruhe gelassen bin ich weg, Liverpool-Tabloid-Trauma Erklärung, Selbstkritik Das war mein Fehler (TOP-3-LISTE)
 2026-08-16 | gruda-klopps-dunkelziffer | Brajan Gruda (21, Brighton/Leipzig) auf Klopps 57er-Liste, 0 A-Länderspiele, Klopp "Spieler berufen die nicht damit rechnen", September-Nominierung möglich, Debüt 24.9. Amsterdam (NEWS-DRAMA)
+2026-08-16 | bisseck-vs-thiaw-klopp-iv-battle | Yann Bisseck Inter Milan CL-Sieger 0 Gegentore vs Malick Thiaw AC Milan 0 WM-Minuten, beide 25J., Klopp dritter IV-Platz September-Kader, Fake-Kamerun-Email-Skandal (DUELL/VERGLEICH)
