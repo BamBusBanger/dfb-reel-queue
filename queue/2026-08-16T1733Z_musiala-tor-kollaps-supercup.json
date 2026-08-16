@@ -1,0 +1,95 @@
+{
+  "slug": "musiala-tor-kollaps-supercup",
+  "createdAt": "2026-08-16T17:33:50Z",
+  "title": "Musiala: Tor, Kollaps, Entwarnung",
+  "script": "Schock beim Telekom Cup! 81. Minute – Musiala trifft zum 3:1 gegen Leipzig. Nur 2 Minuten später bricht er zusammen – Schwindel, Kreislaufprobleme, über 30 Grad Hitze. Sekunden der Angst. Dann Entwarnung: Bayern-Notarzt gibt sofort das Zeichen. Eberl spricht Klartext: 'Das Wichtigste ist, dass es ihm gut geht.' Und beim Supercup am 22. August? 'Ich bin sehr sicher, dass er dabei ist.' Klopp – Tag 2 als Bundestrainer – bestätigt die Prognose. Signal Iduna Park. Countdown läuft.",
+  "uploadCaption": "81. Minute Tor, 83. Minute Kollaps – Musialas Telekom-Cup-Drama hat ein Happy End. Eberl und Klopp bestätigen: Supercup 22. August ist das Ziel.",
+  "uploadHashtags": "#Musiala #FCBayern #Supercup2026 #DFB #Klopp #Bundesliga2026 #WM2026",
+  "images": [
+    { "file": "musiala_kollaps.jpg",  "search": "Jamal Musiala Kreislaufkollaps Telekom Cup 2026" },
+    { "file": "musiala_aktion.jpg",   "search": "Jamal Musiala Aktion DFB" },
+    { "file": "musiala_portrait.jpg", "search": "Jamal Musiala Bayern" },
+    { "file": "musiala_torjubel.jpg", "search": "Musiala Torjubel DFB" },
+    { "file": "musiala_comeback.jpg", "search": "Jamal Musiala Comeback Bayern 2026" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp Bundestrainer DFB" },
+    { "file": "eberl.jpg",            "search": "Max Eberl Bayern Sportdirektor 2026" },
+    { "file": "signal_iduna.jpg",     "search": "Signal Iduna Park Dortmund Supercup" },
+    { "file": "fans_entsetzen.jpg",   "search": "Fans Entsetzen Schock Public Viewing" },
+    { "file": "telekom_cup.jpg",      "search": "Telekom Cup Bayern Leipzig München 2026" },
+    { "file": "dfb_fans.jpg",         "search": "DFB Fans Deutschland" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "2 MINUTEN nach dem Tor – Musiala bricht zusammen!",
+      "image": "musiala_kollaps.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "16. August 2026",
+      "title": "Tor · Kollaps · Entwarnung",
+      "image": "musiala_aktion.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_portrait.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · FC Bayern · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "telekom_cup.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "2 Minuten – alles",
+      "stats": [
+        { "label": "81. Min – Tor", "value": "3:1" },
+        { "label": "83. Min – Kollaps", "value": "Hitze" },
+        { "label": "Temperatur", "value": ">30°C" }
+      ],
+      "image": "musiala_torjubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "eberl.jpg",
+      "name": "Max Eberl",
+      "role": "Sportdirektor FC Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer · Tag 2",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "signal_iduna.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_comeback.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Supercup 22. August?",
+      "subtitle": "Kommt Musiala – oder schont Bayern ihn?",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
