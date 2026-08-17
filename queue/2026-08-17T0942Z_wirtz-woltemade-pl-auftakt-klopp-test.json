@@ -1,0 +1,33 @@
+{
+  "slug": "wirtz-woltemade-pl-auftakt-klopp-test",
+  "createdAt": "2026-08-17T09:42:00Z",
+  "title": "Klopps geheimer DFB-Test: Liverpool vs Newcastle",
+  "script": "IN 6 TAGEN entscheidet ein Premier-League-Spiel über Klopps ersten DFB-Kader! Liverpool gegen Newcastle am 23. August – Florian Wirtz mit 125 Millionen Pfund Ablöse und null WM-Toren muss sich endlich zeigen. Nick Woltemade kommt zu seinem Ex-Klub zurück: null WM-Minuten, 1 verschossener Elfmeter, 75 Millionen Euro Marktwert. Beide Stars auf dem Prüfstand – im selben Spiel, zur selben Zeit. Nur 22 Tage später kommt Klopps erste Nominierung. Wer liefert – und wer sitzt im September auf der Tribüne?",
+  "uploadCaption": "IN 6 TAGEN! Wirtz und Woltemade unter Klopps DFB-Lupe beim Premier-League-Kracher Liverpool vs Newcastle. Das erste echte Pflichtspiel entscheidet über den September-Kader. 🔥",
+  "uploadHashtags": "#DFB #Wirtz #Woltemade #Klopp #Liverpool #PremierLeague #NationsLeague #WM2030",
+  "images": [
+    { "file": "wirtz.jpg",          "search": "Florian Wirtz" },
+    { "file": "woltemade.jpg",       "search": "Nick Woltemade" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "anfield.jpg",         "search": "Anfield Stadium Liverpool Premier League" },
+    { "file": "stjames.jpg",         "search": "St James Park Newcastle stadium" },
+    { "file": "dfb_fans.jpg",        "search": "DFB Fans Nationalmannschaft" },
+    { "file": "kimmich.jpg",         "search": "Joshua Kimmich" },
+    { "file": "wirtz_jubel.jpg",     "search": "Florian Wirtz DFB Jubel" },
+    { "file": "woltemade_jubel.jpg", "search": "Nick Woltemade Jubel" },
+    { "file": "dfb_trikot.jpg",      "search": "DFB Trikot weiß WM 2026" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "IN 6 TAGEN: Klopps GEHEIMER DFB-TEST!", "image": "anfield.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "PREMIER LEAGUE · 23. AUGUST", "title": "Liverpool vs Newcastle", "image": "stjames.jpg", "weight": 0.7 },
+    { "type": "image", "image": "wirtz.jpg",         "name": "Florian Wirtz",   "role": "Liverpool FC · Offensiv · 22 Jahre",       "weight": 0.8 },
+    { "type": "stats", "title": "Wirtz – WM 2026",   "stats": [{"label":"WM-Tore","value":"0"},{"label":"Einsatzminuten","value":"360"},{"label":"Ablöse","value":"125 Mio £"}], "image": "wirtz_jubel.jpg", "weight": 0.9 },
+    { "type": "image", "image": "woltemade.jpg",      "name": "Nick Woltemade", "role": "Liverpool FC · Stürmer · 23 Jahre",        "weight": 0.8 },
+    { "type": "stats", "title": "Woltemade – WM 2026","stats": [{"label":"WM-Minuten","value":"0"},{"label":"verschossene Elfmeter","value":"1"},{"label":"Marktwert","value":"75 Mio €"}], "image": "woltemade_jubel.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp.jpg",          "name": "Jürgen Klopp",   "role": "DFB-Bundestrainer seit 15.8.2026",        "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg",       "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",        "name": "Joshua Kimmich", "role": "DFB-Kapitän · 109 Länderspiele",          "weight": 0.8 },
+    { "type": "image", "image": "dfb_trikot.jpg",     "weight": 0.8 },
+    { "type": "outro", "title": "Wirtz oder Woltemade – wer enttäuscht Klopp am 23. August?", "subtitle": "Kommentar & folgen für Teil 2!", "image": "anfield.jpg", "weight": 1.0 }
+  ]
+}
