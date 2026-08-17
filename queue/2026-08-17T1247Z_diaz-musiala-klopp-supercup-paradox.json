@@ -1,0 +1,100 @@
+{
+  "slug": "diaz-musiala-klopp-supercup-paradox",
+  "createdAt": "2026-08-17T12:47:00Z",
+  "title": "Klopps Díaz-Paradox: Das eigene Liverpool-Erbe",
+  "script": "Klopp hat ein Problem – und er hat es selbst erschaffen! Luis Díaz: Von Klopp 2022 für 37,5 Millionen Pfund zu Liverpool geholt. Dann für 75 Millionen Euro zu Bayern verkauft. Am 22. August scoutet Klopp beim Beckenbauer-Supercup Jamal Musiala – direkt neben Díaz. Musiala: 1 WM-Tor in 239 Minuten, viermal ausgewechselt. Lennart Karl? Rückenprobleme – Supercup gestrichen. Klopp schaut live zu, während sein eigener Transfer-Fund den DFB-Kandidaten Nummer 1 in den Schatten stellt. Wer bekommt Klopps Stempel – das Bayern-Juwel oder sein Liverpool-Erbe?",
+  "uploadCaption": "Klopp scoutet am 22. August seinen eigenen Transfer-Fluch 👀 Díaz von Liverpool zu Bayern – während Musiala 1 WM-Tor in 239 Minuten hatte. Und Lennart Karl? Rücken-Alarm! Wer bekommt Klopps Stempel beim Supercup? 🏆",
+  "uploadHashtags": "#DFB #Klopp #Musiala #LuisDiaz #BeckenauerSupercup #Bayern #BVB #WM2030 #Bundestrainer #DFBTeam",
+  "images": [
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park Dortmund" },
+    { "file": "diaz_aktion.jpg", "search": "Luis Diaz Bayern München" },
+    { "file": "musiala_dfb.jpg", "search": "Jamal Musiala" },
+    { "file": "diaz_liverpool.jpg", "search": "Luis Diaz Liverpool" },
+    { "file": "karl_dfb.jpg", "search": "Lennart Karl Bayern München" },
+    { "file": "musiala_jubel.jpg", "search": "Jamal Musiala Torjubel DFB" },
+    { "file": "fans_pyro.jpg", "search": "Fans Pyro Stimmung Stadion" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal Gold" },
+    { "file": "supercup_stadion.jpg", "search": "Beckenbauer Supercup BVB Bayern 2026" },
+    { "file": "fans_dfb.jpg", "search": "DFB Fans Deutschland" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER HAT ES SELBST ERSCHAFFEN.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "22. AUGUST · BECKENBAUER-SUPERCUP",
+      "title": "Klopps Díaz-Paradox",
+      "image": "signal_iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "diaz_aktion.jpg",
+      "name": "Luis Díaz",
+      "role": "Außenstürmer · Bayern München",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_dfb.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · Bayern · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps Millionen-Transfer",
+      "stats": [
+        { "label": "Klopp holte Díaz zu Liverpool (2022)", "value": "37,5 Mio. £" },
+        { "label": "Bayern zahlte für Díaz (2025)", "value": "75 Mio. €" }
+      ],
+      "image": "diaz_liverpool.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "karl_dfb.jpg",
+      "name": "Lennart Karl",
+      "role": "Stürmer · Bayern · 18 · Rücken-Alarm",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Musiala WM 2026",
+      "stats": [
+        { "label": "WM-Tore", "value": "1" },
+        { "label": "Einsatz-Minuten", "value": "239" },
+        { "label": "Auswechslungen", "value": "4×" }
+      ],
+      "image": "musiala_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans_pyro.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "supercup_stadion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Musiala oder Díaz?",
+      "subtitle": "Wer bekommt Klopps Stempel beim Supercup?",
+      "image": "fans_dfb.jpg",
+      "weight": 1.0
+    }
+  ]
+}
