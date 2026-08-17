@@ -1,0 +1,46 @@
+{
+  "slug": "klopp-bvb-trio-supercup",
+  "createdAt": "2026-08-17T15:41:00Z",
+  "title": "3 BVB-Stars unter Klopp-Druck",
+  "script": "5 TAGE bis zu Klopps erstem Live-Scouting! Beim Franz-Beckenbauer-Supercup am 22. August in Dortmund schauen nicht nur Bayern-Fans auf Musiala – auch drei BVB-Stars stehen massiv unter Druck. Felix Nmecha spielte bei der WM 269 Minuten, erzielte 1 Tor und 2 Vorlagen. Jetzt muss er Klopp als Pressing-Motor überzeugen. Maximilian Beier hatte 20 Torbeteiligungen – aber keine einzige WM-Minute. Seine Bewerbung beginnt am Samstag. Und Nico Schlotterbeck – Innenbandriss in Minute 13 gegen die Elfenbeinküste – kämpft um sein Comeback auf der ganz großen Bühne.",
+  "uploadCaption": "5 Tage bis zum ersten Klopp-Scouting! Nmecha, Beier & Schlotterbeck – wer überzeugt den neuen Bundestrainer beim Beckenbauer-Supercup am 22. August in Dortmund?",
+  "uploadHashtags": "#DFB #Klopp #BVB #Supercup #Nmecha #Beier #Schlotterbeck #Bundesliga #WM2030 #Nationalmannschaft",
+  "images": [
+    { "file": "stadion.jpg",              "search": "Signal Iduna Park" },
+    { "file": "klopp.jpg",               "search": "Jürgen Klopp" },
+    { "file": "nmecha.jpg",              "search": "Felix Nmecha" },
+    { "file": "nmecha_aktion.jpg",       "search": "Felix Nmecha Wolfsburg" },
+    { "file": "beier.jpg",               "search": "Maximilian Beier" },
+    { "file": "beier_aktion.jpg",        "search": "Maximilian Beier DFB" },
+    { "file": "schlotterbeck.jpg",       "search": "Nico Schlotterbeck" },
+    { "file": "schlotterbeck_aktion.jpg","search": "Nico Schlotterbeck Dortmund" },
+    { "file": "fans.jpg",                "search": "DFB Fans" },
+    { "file": "dfb_team.jpg",            "search": "DFB Nationalmannschaft 2026" },
+    { "file": "klopp_dfb.jpg",           "search": "Jürgen Klopp Bundestrainer DFB 2026" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "5 TAGE BIS ZUM KLOPP-TEST!", "image": "stadion.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "BECKENBAUER-SUPERCUP 22. AUGUST", "title": "3 BVB-Stars unter Druck", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "nmecha.jpg", "name": "Felix Nmecha", "role": "Mittelfeld · 25 · BVB", "weight": 0.8 },
+    { "type": "stats", "title": "Nmecha WM 2026",
+      "stats": [
+        { "label": "Minuten",  "value": "269" },
+        { "label": "Tore",     "value": "1"   },
+        { "label": "Vorlagen", "value": "2"   }
+      ],
+      "image": "nmecha_aktion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "beier.jpg", "name": "Maximilian Beier", "role": "Stürmer · 23 · BVB", "weight": 0.8 },
+    { "type": "stats", "title": "Beier Saison 25/26",
+      "stats": [
+        { "label": "Torbeteiligungen", "value": "20+" },
+        { "label": "WM-Minuten",       "value": "0"   },
+        { "label": "Alter",            "value": "23"  }
+      ],
+      "image": "beier_aktion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "schlotterbeck.jpg", "name": "Nico Schlotterbeck", "role": "Innenverteidigung · 25 · BVB", "weight": 0.8 },
+    { "type": "image", "image": "schlotterbeck_aktion.jpg", "weight": 0.8 },
+    { "type": "image", "image": "klopp_dfb.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · erstes Scouting 22.8.", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Nmecha, Beier oder Schlotterbeck?", "subtitle": "Wer schafft's in Klopps ersten Kader?", "image": "dfb_team.jpg", "weight": 1.0 }
+  ]
+}
