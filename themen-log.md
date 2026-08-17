@@ -416,3 +416,4 @@
 2026-08-17 | wirtz-woltemade-pl-auftakt-klopp-test | Liverpool vs Newcastle 23. Aug Premier League, Klopp heimlicher DFB-Test, Wirtz 125 Mio Pfund 0 WM-Tore + Woltemade 0 WM-Min Elfmeter-Aus, Nominierung in 22 Tagen (NEWS-DRAMA)
 2026-08-17 | diaz-musiala-klopp-supercup-paradox | Luis Díaz 75 Mio € Bayern (Klopp-Entdeckung Liverpool 37,5 Mio £ 2022), Supercup 22.8. Klopp scoutet Musiala 1 WM-Tor 239 Min 4× ausgewechselt direkt neben Díaz, Lennart Karl Rücken-Alarm Supercup gestrichen (GEHEIMNIS)
 2026-08-17 | klopp-bvb-trio-supercup | Klopp erstes Live-Scouting Supercup 22.8., Nmecha/Beier/Schlotterbeck BVB-Trio unter Druck, 269 WM-Min, 20 Torbeteiligungen, Comeback Innenbandriss (TOP-3-LISTE)
+2026-08-17 | adeyemi-barca-dfb-comeback | Adeyemi WM 2026 nicht nominiert 0 Minuten 22 Mio Barcelona Flick Ex-Bundestrainer Klopp 57er-Liste September-Kader 28 Tage (NEWS-DRAMA)

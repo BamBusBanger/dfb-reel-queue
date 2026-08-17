@@ -1,0 +1,98 @@
+{
+  "slug": "adeyemi-barca-dfb-comeback",
+  "createdAt": "2026-08-17T17:41:02Z",
+  "title": "Adeyemi: Von Nagelsmann ignoriert – Klopp-Comeback?",
+  "script": "NIEMAND hat mit ihm gerechnet – Nagelsmann ignorierte Karim Adeyemi komplett! Kein WM-Kader, null Minuten bei der WM 2026. Dabei ist der 24-Jährige einer der explosivsten deutschen Stürmer. Er schlug zurück: 22 Millionen Euro Transfer, FC Barcelona! Sein Trainer dort: Ausgerechnet Hansi Flick – der frühere DFB-Bundestrainer! Jetzt steht Adeyemi auf Klopps 57er-Liste. Klopps Versprechen: Niemand ist abgeschrieben! In 28 Tagen fällt der erste September-Kader. Adeyemis Kampfansage: Keine Angst! Verdient er eine zweite Chance?",
+  "uploadCaption": "Von Nagelsmann komplett ignoriert – kein WM-Kader, null Minuten! Karim Adeyemi (24) schlug zurück: 22 Mio € Transfer zu Barcelona, sein Trainer dort ist ausgerechnet Ex-Bundestrainer Hansi Flick. Jetzt steht er auf Klopps 57er-Liste. In 28 Tagen fällt der erste September-Kader. Verdient er eine zweite Chance im DFB-Trikot?",
+  "uploadHashtags": "#Adeyemi #DFB #Klopp #Nationalmannschaft #WM2026 #WM2030 #Barcelona #NationsLeague",
+  "images": [
+    { "file": "adeyemi_barca.jpg",   "search": "Karim Adeyemi Barcelona 2026" },
+    { "file": "klopp_dfb.jpg",       "search": "Jürgen Klopp" },
+    { "file": "adeyemi_action.jpg",  "search": "Karim Adeyemi Borussia Dortmund" },
+    { "file": "flick_barca.jpg",     "search": "Hansi Flick FC Barcelona 2026" },
+    { "file": "wirtz_dfb.jpg",       "search": "Florian Wirtz" },
+    { "file": "musiala_dfb.jpg",     "search": "Jamal Musiala" },
+    { "file": "havertz_dfb.jpg",     "search": "Kai Havertz" },
+    { "file": "dfb_fans.jpg",        "search": "Deutschland Fans" },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal" },
+    { "file": "dfb_fanmeile.jpg",    "search": "DFB Fans Fanmeile Berlin" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER WURDE KOMPLETT IGNORIERT.",
+      "image": "adeyemi_barca.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB COMEBACK",
+      "title": "Adeyemi schlägt zurück",
+      "image": "klopp_dfb.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "adeyemi_action.jpg",
+      "name": "Karim Adeyemi",
+      "role": "Rechtsaußen · 24",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "flick_barca.jpg",
+      "name": "Hansi Flick",
+      "role": "FC Barcelona · Ex-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Adeyemis Zahlen",
+      "stats": [
+        { "label": "WM-Minuten 2026", "value": "0" },
+        { "label": "Transfer Barcelona", "value": "22 Mio €" },
+        { "label": "Klopp-Kandidaten", "value": "57" }
+      ],
+      "image": "adeyemi_barca.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz_dfb.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_dfb.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz_dfb.jpg",
+      "name": "Kai Havertz",
+      "role": "Stürmer · 27",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Zweite Chance verdient?",
+      "subtitle": "Kommentiert! ↓",
+      "image": "dfb_fanmeile.jpg",
+      "weight": 1.0
+    }
+  ]
+}
