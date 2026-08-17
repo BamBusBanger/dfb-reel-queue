@@ -1,0 +1,44 @@
+{
+  "slug": "musiala-stiller-klopp-scouting-duell",
+  "createdAt": "2026-08-17T05:36:00Z",
+  "title": "Musiala vs Stiller: Klopps 2-Spiel-Entscheidung",
+  "script": "5 Tage bis Klopps erstem Live-Scouting! Im Supercup am 22. August in Dortmund beobachtet er Musiala nach dem Kreislaufkollaps – Eberl und Klopp gaben Entwarnung. Dann, 6 Tage später: Bayern vs Stuttgart am 28. August in München. Dort wartet Angelo Stiller – 0 WM-Minuten unter Nagelsmann, jetzt sein Moment. Klopp bestätigte: Er kommt zu beiden Spielen. 2 Spiele, 2 Schicksale, 13 Tage – die erste Nations-League-Nominierung für Amsterdam am 24. September entscheidet sich jetzt.",
+  "uploadCaption": "5 Tage. Dann noch mal 6. Klopp schaut zu und entscheidet. Musiala beim Supercup 22.8. in Dortmund vs Angelo Stiller beim Bundesliga-Auftakt 28.8. in München – in nur 13 Tagen fällt Klopps erste September-Nominierung. #DFB #Klopp #Bundesliga #Supercup",
+  "uploadHashtags": "#DFB #WM2030 #Klopp #Musiala #Stiller #Bundesliga #Supercup #Nationalmannschaft #BundesligaStart",
+  "images": [
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "stiller.jpg", "search": "Angelo Stiller" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "gnabry.jpg", "search": "Serge Gnabry" },
+    { "file": "pavlovic.jpg", "search": "Aleksandar Pavlović" },
+    { "file": "tah.jpg", "search": "Jonathan Tah" },
+    { "file": "allianz_arena.jpg", "search": "Allianz Arena" },
+    { "file": "fans.jpg", "search": "DFB Fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "5 TAGE BIS KLOPPS ERSTEM LIVE-SCOUTING!", "image": "musiala.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2030", "title": "2 Spiele. 2 Schicksale.", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "stiller.jpg", "name": "Angelo Stiller", "role": "Mittelfeld · 25 J. · VfB Stuttgart", "weight": 0.8 },
+    { "type": "image", "image": "signal_iduna.jpg", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · Bayern · Supercup 22.8.", "weight": 0.8 },
+    {
+      "type": "stats",
+      "title": "Klopps Live-Kalender",
+      "stats": [
+        { "label": "Supercup Dortmund", "value": "22.8." },
+        { "label": "BL-Auftakt München", "value": "28.8." },
+        { "label": "NL-Debüt Amsterdam", "value": "24.9." }
+      ],
+      "image": "stiller.jpg",
+      "weight": 0.9
+    },
+    { "type": "image", "image": "gnabry.jpg", "name": "Serge Gnabry", "role": "Comeback · 64 Länderspiele · Bayern", "weight": 0.8 },
+    { "type": "image", "image": "pavlovic.jpg", "name": "Aleksandar Pavlović", "role": "Bayern · Sechser · 22 J.", "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "DFB-Abwehrchef · Bayern", "weight": 0.8 },
+    { "type": "image", "image": "allianz_arena.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wen rufst du im September an?", "subtitle": "Musiala oder Stiller – wer überzeugt Klopp?", "image": "klopp.jpg", "weight": 1.0 }
+  ]
+}
