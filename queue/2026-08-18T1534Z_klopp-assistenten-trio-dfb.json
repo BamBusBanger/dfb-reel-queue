@@ -1,0 +1,34 @@
+{
+  "slug": "klopp-assistenten-trio-dfb",
+  "createdAt": "2026-08-18T15:34:00Z",
+  "title": "Klopps Assistenten-Trio: Der Mann von Guardiola ist dabei",
+  "script": "Ein Mann von Guardiola im DFB-Stab – das verrät alles über Klopps Ambitionen. Pepijn Lijnders (43) verließ Pep Guardiolas Manchester City und folgte Klopp zum DFB. 2 Jahre Premier-League-Insiderwissen, jetzt für Deutschland genutzt. Dazu Peter Krawietz: 808 Co-Trainer-Einsätze seit Mainz 2011, Klopps loyalste rechte Hand. Und Sven Bender: 7 Länderspiele, 2 Jahre DFB-Nachwuchs-Experte, Zwillingsbruder von Ex-Leverkusen-Star Lars. Drei absolute Topexperten hinter Klopp. Eine gemeinsame Mission: WM 2030. Aber wer von den dreien ist Klopps gefährlichste Waffe?",
+  "uploadCaption": "Klopps Dream-Team ist komplett! Einer kommt direkt von Pep Guardiolas Man City zum DFB – das ist der geheime Plan für WM 2030! 🔥 Wer ist Klopps stärkste Waffe im Staff?",
+  "uploadHashtags": "#DFB #Klopp #Nationalmannschaft #Lijnders #Krawietz #SvenBender #WM2030 #Bundestrainer #Fussball",
+  "images": [
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "lijnders.jpg", "search": "Pepijn Lijnders" },
+    { "file": "krawietz.jpg", "search": "Peter Krawietz DFB" },
+    { "file": "bender.jpg", "search": "Sven Bender Trainer" },
+    { "file": "mancity.jpg", "search": "Manchester City Pep Guardiola" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park" },
+    { "file": "dfb_flagge.jpg", "search": "Deutschland Flagge" },
+    { "file": "wm_mural.jpg", "search": "WM 2026 Mural" },
+    { "file": "wm_zukunft.jpg", "search": "WM 2030 Zukunft Pokal", "thematic": true },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal Gold" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "EIN MANN VON GUARDIOLA IM DFB-STAB.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPPS DREAM-TEAM", "title": "3 Assistenten – 1 Mission", "image": "signal_iduna.jpg", "weight": 0.7 },
+    { "type": "image", "image": "lijnders.jpg", "name": "Pepijn Lijnders", "role": "Ex-Man-City-Assistent · 43", "weight": 0.8 },
+    { "type": "image", "image": "mancity.jpg", "weight": 0.8 },
+    { "type": "image", "image": "krawietz.jpg", "name": "Peter Krawietz", "role": "Co-Trainer · 808 Einsätze", "weight": 0.8 },
+    { "type": "stats", "title": "Klopp & Krawietz", "stats": [{ "label": "Gemeinsame Spiele", "value": "808" }, { "label": "CL-Sieg", "value": "2019" }, { "label": "PL-Titel", "value": "2020" }], "image": "fans.jpg", "weight": 0.9 },
+    { "type": "image", "image": "bender.jpg", "name": "Sven Bender", "role": "7 Länderspiele · DFB-Nachwuchs", "weight": 0.8 },
+    { "type": "image", "image": "dfb_flagge.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wm_mural.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wm_zukunft.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wer ist Klopps stärkste Waffe?", "subtitle": "Schreib es in die Kommentare!", "image": "wm_pokal.jpg", "weight": 1.0 }
+  ]
+}

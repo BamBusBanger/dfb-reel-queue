@@ -421,3 +421,4 @@
 2026-08-18 | klopp-geheimplan-erste-72h | Klopp erste 72 Stunden Bundestrainer, geheime Jugendtrainer-Vorstellung U15-U21, Dinner mit Völler Frankfurt, 57 Kandidaten 26 Plätze 37 Tage Amsterdam (GEHEIMNIS)
 2026-08-18 | schlotterbeck-supercup-aus-september-zittern | Schlotterbeck BVB verpasst Supercup 22.8. Innenbandriss nicht ausgeheilt, früheste Rückkehr Mitte September = exakt Klopps erste Kader-Nominierung, Konkurrenten Tah/Rüdiger/Thiaw (NEWS-DRAMA)
 2026-08-18 | sane-elmala-fluegel-battle | Sané Galatasaray-Fehlstart 2:2 «furchtbar» vs El Mala Köln BVB/Milan-Transfer geplatzt, Flügelduell für Klopps ersten September-Kader, 75 LS vs 13 BL-Tore (DUELL/VERGLEICH)
+2026-08-18 | klopp-assistenten-trio-dfb | Klopps Assistenten-Trio: Lijnders von Man City (43, 2 Jahre Guardiola-System), Krawietz 808 Co-Trainer-Einsätze seit Mainz 2011, Sven Bender 7 Länderspiele 2 Jahre DFB-Nachwuchs, Supercup 22.8. erstes Live-Scouting (TOP-3-LISTE)
