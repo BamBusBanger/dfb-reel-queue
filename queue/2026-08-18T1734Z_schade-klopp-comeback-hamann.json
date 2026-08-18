@@ -1,0 +1,37 @@
+{
+  "slug": "schade-klopp-comeback-hamann",
+  "createdAt": "2026-08-18T17:34:04Z",
+  "title": "Hamann stellt Klopp 4 Namen hin",
+  "script": "ER WURDE ABGESCHRIEBEN. Doch Sky-Legende Dietmar Hamann knallt Klopp einen klaren Forderungszettel auf den Tisch: Kevin Schade, 24, Brentford – 3 Premier-League-Tore, 4 Vorlagen zuletzt – hätte zur WM fahren sollen! Dazu Bisseck, El Mala mit seinen 13 Bundesliga-Toren und Geheimtipp Tresoldi, 21, aus Brügge – noch nie im A-Team! Alle 4 hat Nagelsmann ignoriert. BVB schnuppert schon an Schade für einen Transfer. September-Kader in 3 Wochen. Klopp – holst du sie alle zurück?",
+  "uploadCaption": "Hamann knallt Klopp den Forderungszettel hin: Schade, Bisseck, El Mala, Tresoldi – ALLE hätten zur WM gesollt! Jetzt die erste echte Klopp-Chance. Wer kommt in den September-Kader?",
+  "uploadHashtags": "#DFB #KevinSchade #Klopp #Hamann #Nationalmannschaft #NationsLeague #WM2030 #Fussball",
+  "images": [
+    { "file": "schade.jpg",   "search": "Kevin Schade Brentford" },
+    { "file": "hamann.jpg",   "search": "Dietmar Hamann" },
+    { "file": "beier.jpg",    "search": "Maximilian Beier" },
+    { "file": "sane.jpg",     "search": "Leroy Sané" },
+    { "file": "elmala.jpg",   "search": "Said El Mala Köln" },
+    { "file": "fans.jpg",     "search": "DFB Fans" },
+    { "file": "flagge.jpg",   "search": "Deutschland Flagge" },
+    { "file": "kimmich.jpg",  "search": "Joshua Kimmich" },
+    { "file": "dfbteam.jpg",  "search": "DFB Team 2026" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER WURDE ABGESCHRIEBEN.", "image": "schade.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB NEWS", "title": "Hamann: 4 Namen für Klopp", "image": "hamann.jpg", "weight": 0.7 },
+    { "type": "image", "image": "schade.jpg", "name": "Kevin Schade", "role": "Brentford · 24 · Winger", "weight": 0.8 },
+    { "type": "image", "image": "hamann.jpg", "name": "Dietmar Hamann", "role": "Sky-Experte & DFB-Legende", "weight": 0.8 },
+    { "type": "stats", "title": "Hamanns 4 Klopp-Forderungen", "stats": [
+      { "label": "Kevin Schade", "value": "Brentford · 24J" },
+      { "label": "Yann Bisseck", "value": "Inter · CL-Sieger" },
+      { "label": "Said El Mala", "value": "Köln · 13 Tore" },
+      { "label": "Nicolò Tresoldi", "value": "Brügge · 0 A-Caps" }
+    ], "image": "dfbteam.jpg", "weight": 0.9 },
+    { "type": "image", "image": "beier.jpg",   "name": "Maximilian Beier",  "role": "Offensiv · 23 · BVB",        "weight": 0.8 },
+    { "type": "image", "image": "sane.jpg",    "name": "Leroy Sané",         "role": "Rechtsaußen · 30 · Galatasaray", "weight": 0.8 },
+    { "type": "image", "image": "elmala.jpg",  "name": "Said El Mala",       "role": "Rechtsaußen · 19 · Köln",    "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich",     "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",    "weight": 0.8 },
+    { "type": "outro", "title": "Wen holst du in Klopps Kader?", "subtitle": "Schade, El Mala, Beier oder Sané?", "image": "flagge.jpg", "weight": 1.0 }
+  ]
+}
