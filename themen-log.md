@@ -423,3 +423,4 @@
 2026-08-18 | sane-elmala-fluegel-battle | Sané Galatasaray-Fehlstart 2:2 «furchtbar» vs El Mala Köln BVB/Milan-Transfer geplatzt, Flügelduell für Klopps ersten September-Kader, 75 LS vs 13 BL-Tore (DUELL/VERGLEICH)
 2026-08-18 | klopp-assistenten-trio-dfb | Klopps Assistenten-Trio: Lijnders von Man City (43, 2 Jahre Guardiola-System), Krawietz 808 Co-Trainer-Einsätze seit Mainz 2011, Sven Bender 7 Länderspiele 2 Jahre DFB-Nachwuchs, Supercup 22.8. erstes Live-Scouting (TOP-3-LISTE)
 2026-08-18 | schade-klopp-comeback-hamann | Hamann fordert 4 WM-Abgeschriebene unter Klopp: Schade/Bisseck/El Mala/Tresoldi, BVB-Transfer-Interesse an Schade, September-Kader 3 Wochen (NEWS-DRAMA)
+2026-08-18 | klopp-heimkehr-signal-iduna | Klopp kehrt erstmals als Bundestrainer zu Signal Iduna Park zurück, 7 Jahre BVB 2 Bundesliga-Titel 2013-CL-Finale, 22.8. Beckenbauer-Supercup erstes Live-Scouting 3 DFB-Kandidaten Musiala/Nmecha/Beier (TOP-3-LISTE)

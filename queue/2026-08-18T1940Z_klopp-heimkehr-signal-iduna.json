@@ -1,0 +1,44 @@
+{
+  "slug": "klopp-heimkehr-signal-iduna",
+  "createdAt": "2026-08-18T19:40:00Z",
+  "title": "Klopp kehrt heim – Signal Iduna Park",
+  "script": "Jürgen Klopp kehrt heim. Am Samstag betritt er erstmals wieder den Signal Iduna Park – jetzt als Bundestrainer. Hier gewann er in 7 Jahren 2 Bundesliga-Titel und machte die Gelbe Wand mit 25.000 Fans zur lautesten Tribüne der Welt. Aber diesmal kommt er als Beobachter: 3 DFB-Kandidaten im Fokus – Musiala nach 364 Tagen Reha, Nmecha mit 34,8 km/h Topspeed, Beier mit 20 Torbeteiligungen. Sein erster Live-Test auf dem Weg zur WM 2030 – in 4 Tagen. Bist du nervös?",
+  "uploadCaption": "Jürgen Klopp kehrt am 22. August erstmals als Bundestrainer zu seinem alten Wirkungsort zurück – dem Signal Iduna Park. 7 Jahre, 2 Bundesliga-Titel, 25.000 Menschen in der Gelben Wand. Jetzt scoutet er 3 DFB-Kandidaten live für WM 2030: Musiala, Nmecha, Beier. Das große Heimspiel – ohne Ball.",
+  "uploadHashtags": "#DFB #Klopp #SignalIdunapark #GelbeWand #WM2030 #BVB #Bundestrainer #Musiala #Nmecha #Beier #Fussball",
+  "images": [
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park Dortmund" },
+    { "file": "klopp_bvb.jpg", "search": "Jürgen Klopp BVB Bundesliga Meisterschaft" },
+    { "file": "gelbe_wand.jpg", "search": "Gelbe Wand BVB Dortmund Fans Stimmung" },
+    { "file": "pyro.jpg", "search": "BVB Fans Pyro Stimmung Tribüne" },
+    { "file": "scouting_taktik.jpg", "search": "Bundestrainer Scouting Taktikboard Notizen", "thematic": true },
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "nmecha.jpg", "search": "Felix Nmecha" },
+    { "file": "beier.jpg", "search": "Maximilian Beier" },
+    { "file": "fans_sw.jpg", "search": "Fußball Fans Jubel Menge Stadion" },
+    { "file": "wm2030_vision.jpg", "search": "WM 2030 Fußball Pokal Vision Traum", "thematic": true },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER KEHRT HEIM.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB · 22. August 2026", "title": "Klopps Heimkehr", "image": "signal_iduna.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp_bvb.jpg", "name": "Jürgen Klopp", "role": "BVB-Trainer 2008–2015", "weight": 0.8 },
+    { "type": "image", "image": "gelbe_wand.jpg", "weight": 0.8 },
+    { "type": "image", "image": "pyro.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Klopps BVB-Bilanz", "stats": [
+      { "label": "Bundesliga-Titel", "value": "2" },
+      { "label": "Jahre als BVB-Chef", "value": "7" },
+      { "label": "CL-Finalist", "value": "2013" }
+    ], "image": "scouting_taktik.jpg", "weight": 0.9 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "Offensiv · 22", "weight": 0.8 },
+    { "type": "image", "image": "nmecha.jpg", "name": "Felix Nmecha", "role": "Mittelfeld · 25", "weight": 0.8 },
+    { "type": "image", "image": "beier.jpg", "name": "Maximilian Beier", "role": "Angriff · 23", "weight": 0.8 },
+    { "type": "image", "image": "fans_sw.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "3 DFB-Kandidaten im Fokus", "stats": [
+      { "label": "Musiala – Reha-Tage", "value": "364" },
+      { "label": "Nmecha – Topspeed", "value": "34,8 km/h" },
+      { "label": "Beier – Torbeteiligungen", "value": "20+" }
+    ], "image": "wm2030_vision.jpg", "weight": 0.9 },
+    { "type": "outro", "title": "Welche Klopp-Ära wird größer?", "subtitle": "BVB oder DFB – kommentier's!", "image": "wm_pokal.jpg", "weight": 1.0 }
+  ]
+}
