@@ -1,0 +1,91 @@
+{
+  "slug": "sane-elmala-fluegel-battle",
+  "createdAt": "2026-08-18T12:34:21Z",
+  "title": "Sané vs. El Mala: Klopps Flügelduell",
+  "script": "Klopp braucht Flügelspieler – KLARE WINGER im 4-3-3. Und er hat ein Monster-Duell: Leroy Sané, 30 Jahre, 75 Länderspiele, 16 Tore – aber sein Galatasaray-Start war «furchtbar»: 2:2, kein Treffer, kein Assist. Dagegen: Said El Mala, 19 Jahre, 13 Bundesliga-Tore in einer Saison. Klopp rief ihn persönlich an. BVB-Transfer geplatzt, Milan abgesagt – er bleibt in Köln, und er ist hungrig. Wer kriegt Klopps Winger-Spot Mitte September? Sané die Legende – oder El Mala der Hunger?",
+  "uploadCaption": "Klopp braucht KLARE WINGER – und dieses Duell entscheidet seinen ersten DFB-Kader im September! Sané 75 Länderspiele vs. El Mala 13 BL-Tore mit 19 Jahren. Wer setzt sich durch?",
+  "uploadHashtags": "#DFB #Klopp #LeroySane #ElMala #NationsLeague #Nationalmannschaft #WM2030 #Fussball",
+  "images": [
+    { "file": "sane.jpg",           "search": "Leroy Sané" },
+    { "file": "sane_aktion.jpg",    "search": "Leroy Sané DFB" },
+    { "file": "sane_training.jpg",  "search": "Leroy Sané Training" },
+    { "file": "elmala.jpg",         "search": "Said El Mala" },
+    { "file": "elmala_action.jpg",  "search": "El Mala Köln Bundesliga" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",          "search": "Florian Wirtz" },
+    { "file": "galatasaray.jpg",    "search": "Galatasaray Istanbul" },
+    { "file": "dfb_team.jpg",       "search": "DFB Nationalmannschaft 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER BRAUCHT KLARE WINGER.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP · ERSTER KADER SEPTEMBER",
+      "title": "Flügelduell: Sané vs. El Mala",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "sane.jpg",
+      "name": "Leroy Sané",
+      "role": "Winger · 30 · 75 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "elmala.jpg",
+      "name": "Said El Mala",
+      "role": "Winger · 19 · 13 BL-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "sane_aktion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "galatasaray.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen",
+      "stats": [
+        { "label": "Sané Länderspiele", "value": "75" },
+        { "label": "El Mala BL-Tore", "value": "13" },
+        { "label": "Klopp-Kader Sep.", "value": "26 Plätze" }
+      ],
+      "image": "dfb_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "sane_training.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "elmala_action.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Sané oder El Mala?",
+      "subtitle": "Wen holt Klopp in seinen ersten Kader?",
+      "image": "klopp.jpg",
+      "weight": 1.0
+    }
+  ]
+}
