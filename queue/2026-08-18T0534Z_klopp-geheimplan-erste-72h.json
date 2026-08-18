@@ -1,0 +1,106 @@
+{
+  "slug": "klopp-geheimplan-erste-72h",
+  "createdAt": "2026-08-18T05:34:02Z",
+  "title": "Klopps geheimer Masterplan – die ersten 72 Stunden",
+  "script": "Was Klopp in seinen ersten 72 Stunden als Bundestrainer WIRKLICH tat – kaum jemand weiß es! Er stellte sich persönlich ALLEN DFB-Jugendtrainern vor – von der U15 bis zur U21. Dann ein geheimes Abendessen mit Rudi Völler – keine Pressekonferenz, keine Kameras. Danach: Telefonate mit 57 Kandidaten, 26 Kaderplätze. 37 Tage bis zum Debüt in Amsterdam. Klopp will nicht nur Wirtz, Musiala und Tah bändigen – er will das gesamte DFB-System von der Wurzel verändern. Schafft er den 5. Stern?",
+  "uploadCaption": "Jürgen Klopp startete als neuer Bundestrainer nicht hinter dem Schreibtisch – sondern mit einem geheimen Masterplan! Was er in den ersten 72 Stunden wirklich tat, weiß kaum einer. Persönliche Vorstellung bei allen DFB-Jugendtrainern, geheimes Dinner mit Völler, 57 Kandidaten für 26 Plätze. Supercup-Scouting am 22. August – dann geht es richtig los.",
+  "uploadHashtags": "#DFB #Klopp #Nationalmannschaft #WM2030 #Bundestrainer #Fussball #WM2026 #Klopp2030",
+  "images": [
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "dfb_team.jpg",     "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "jugendtraining.jpg","search": "DFB Jugendtraining Nachwuchs geheimes Meeting", "thematic": true },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",      "search": "Jamal Musiala" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park Dortmund" },
+    { "file": "woltemade.jpg",    "search": "Nick Woltemade" },
+    { "file": "tah.jpg",          "search": "Jonathan Tah" },
+    { "file": "fans.jpg",         "search": "DFB Fans" },
+    { "file": "wm_pokal.jpg",     "search": "WM Pokal Gold" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPPS GEHEIMPLAN – in 72 Stunden!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2030",
+      "title": "Die ersten 72 Stunden als Bundestrainer",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · seit 15. August",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "jugendtraining.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps Zahlen",
+      "stats": [
+        { "label": "Kandidaten auf Klopps Liste", "value": "57" },
+        { "label": "Kaderplätze verfügbar", "value": "26" },
+        { "label": "Tage bis Amsterdam-Debüt", "value": "37" }
+      ],
+      "image": "signal_iduna.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 125 Mio. £ · 0 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 Jahre · Klopp-Schlüssel",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "Newcastle · 75 Mio. € · Neuanfang",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "Abwehrchef · Bayern München",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Klopp den 5. Stern 2030?",
+      "subtitle": "Kommentier deinen Tipp!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
