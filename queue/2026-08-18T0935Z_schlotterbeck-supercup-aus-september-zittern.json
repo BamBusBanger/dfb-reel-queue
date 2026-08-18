@@ -1,0 +1,99 @@
+{
+  "slug": "schlotterbeck-supercup-aus-september-zittern",
+  "createdAt": "2026-08-18T09:35:00Z",
+  "title": "Schlotterbeck fehlt beim Supercup – September-Kader in Gefahr",
+  "script": "Er wollte sich beim Supercup zurückmelden. Jetzt ist es offiziell: Nico Schlotterbeck FEHLT am 22. August! BVB bestätigt – Innenbandriss noch nicht ausgeheilt. Frühester Termin: Mitte September. Das Problem: Klopp benennt seinen ERSTEN Kader genau DANN. Schlotterbeck muss zusehen, wie Tah, Rüdiger und Thiaw die IV-Spots verteilen – ohne eine einzige Spielminute gezeigt zu haben. Hat der Ex-WM-Starter noch eine Chance?",
+  "uploadCaption": "Schlotterbeck verpasst den Supercup! Klopp sieht den BVB-Abwehrchef nicht live – und benennt Mitte September seinen ersten Kader. Reicht die Zeit für ein Comeback? 🇩🇪",
+  "uploadHashtags": "#DFB #Schlotterbeck #Klopp #Supercup #Bundestrainer #WM2026 #Fussball",
+  "images": [
+    { "file": "schlotterbeck.jpg",          "search": "Nico Schlotterbeck" },
+    { "file": "supercup.jpg",               "search": "Signal Iduna Park Dortmund" },
+    { "file": "schlotterbeck_schock.jpg",   "search": "Nico Schlotterbeck DFB" },
+    { "file": "klopp.jpg",                  "search": "Jürgen Klopp" },
+    { "file": "fans.jpg",                   "search": "DFB Fans" },
+    { "file": "tah.jpg",                    "search": "Jonathan Tah" },
+    { "file": "ruediger.jpg",               "search": "Antonio Rüdiger" },
+    { "file": "thiaw.jpg",                  "search": "Malick Thiaw" },
+    { "file": "schlotterbeck_klatschen.jpg","search": "Nico Schlotterbeck BVB" },
+    { "file": "flagge.jpg",                 "search": "Deutschland Flagge" },
+    { "file": "pokal.jpg",                  "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER FEHLT.",
+      "image": "schlotterbeck.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB-ALARM",
+      "title": "Supercup-Aus für Schlotterbeck",
+      "image": "supercup.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "schlotterbeck_schock.jpg",
+      "name": "Nico Schlotterbeck",
+      "role": "Innenverteidiger · BVB · 26 · WM-Aus Min. 13",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Kader-Nominierung Mitte Sept.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Timing-Problem",
+      "stats": [
+        { "label": "Spielminuten 2026/27", "value": "0" },
+        { "label": "Früheste Rückkehr",    "value": "Mitte Sept." },
+        { "label": "Klopp-Kader-Termin",   "value": "Mitte Sept." }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "Abwehrchef · Bayern · WM-gesetzt",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ruediger.jpg",
+      "name": "Antonio Rüdiger",
+      "role": "Real Madrid · 33 · WM-Retter",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "thiaw.jpg",
+      "name": "Malick Thiaw",
+      "role": "AC Milan · 25 · Klopp-Option",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "schlotterbeck_klatschen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Hat Schlotterbeck noch eine Chance?",
+      "subtitle": "Klopp-Kader oder nicht?",
+      "image": "pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}

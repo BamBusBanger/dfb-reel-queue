@@ -419,3 +419,4 @@
 2026-08-17 | adeyemi-barca-dfb-comeback | Adeyemi WM 2026 nicht nominiert 0 Minuten 22 Mio Barcelona Flick Ex-Bundestrainer Klopp 57er-Liste September-Kader 28 Tage (NEWS-DRAMA)
 2026-08-17 | bischof-vs-pavlovic-klopp-duell | Tom Bischof Bayern #8 vs Pavlović 28 LS, Klopp 57er-Liste, Supercup 22.8. erstes Live-Scouting, Mittelfeld-Duell September-Kader (DUELL/VERGLEICH)
 2026-08-18 | klopp-geheimplan-erste-72h | Klopp erste 72 Stunden Bundestrainer, geheime Jugendtrainer-Vorstellung U15-U21, Dinner mit Völler Frankfurt, 57 Kandidaten 26 Plätze 37 Tage Amsterdam (GEHEIMNIS)
+2026-08-18 | schlotterbeck-supercup-aus-september-zittern | Schlotterbeck BVB verpasst Supercup 22.8. Innenbandriss nicht ausgeheilt, früheste Rückkehr Mitte September = exakt Klopps erste Kader-Nominierung, Konkurrenten Tah/Rüdiger/Thiaw (NEWS-DRAMA)
