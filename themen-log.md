@@ -427,3 +427,4 @@
 2026-08-19 | klopp-5-geheimkandidaten | Klopp 57er-Liste 5 Überraschungskandidaten Pejčinović Gruda Andrich Bisseck Ouédraogo September-Kader 36 Tage Amsterdam (GEHEIMNIS)
 2026-08-19 | nmecha-stiller-klopp-sechs-duell | Nmecha BVB 269 WM-Min Rekordtor 6. Min vs Stiller VfB 7 LS 0 WM-Min 9 Tore 9 Vorlagen, Klopp 4-3-3 eine Sechs, Scouting 28.8. München BL-Auftakt (DUELL/VERGLEICH)
 2026-08-19 | kimmich-kapitaen-klopp-zittern | Klopp 4 Tage kein Anruf bei Kimmich 109 LS WM-Kapitän, Kimmich öffentlich kein Kontakt zu Klopp, Klopp nur Ich gehe mal davon aus statt klares Ja, Völler Galionsfigur-Verteidigung, Kapitänsbinde-Zittern vor Debüt 24.9. Amsterdam (NEWS-DRAMA)
+2026-08-19 | musiala-training-supercup-klopp-ersttest | Musiala Trainings-Comeback 18.8. nach Kreislaufkollaps (Telekom Cup 16.8.), Supercup 22.8. Klopps ERSTER Live-Test, 35 Tage bis September-Kader, Zehner-Duell Wirtz 0 WM-Tore/360 Min vs Musiala 1 Tor/239 Min (TOP-3-LISTE)

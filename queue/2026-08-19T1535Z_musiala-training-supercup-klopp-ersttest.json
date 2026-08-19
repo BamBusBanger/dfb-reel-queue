@@ -1,0 +1,111 @@
+{
+  "slug": "musiala-training-supercup-klopp-ersttest",
+  "createdAt": "2026-08-19T15:35:00Z",
+  "title": "Musiala Top 3: Comeback, Klopps erster Live-Test & Zehner-Duell",
+  "script": "WIEDER IM TRAINING – nach nur 2 Tagen! Nach Musialas Kreislaufkollaps am 16. August beim Telekom Cup trainiert er am 18. August bereits wieder mit dem Ball. Comeback Nummer 3 in 14 Monaten. Am 22. August sieht Klopp ihn ERSTMALS live beim Beckenbauer-Supercup in Dortmund – nur 35 Tage vor der September-Kader-Nominierung. Das Duell mit Wirtz: 360 Minuten, 0 WM-Tore. Musiala: 239 Minuten, 1 Tor. Wer ist Klopps Nummer 10?",
+  "uploadCaption": "3 Fakten, die du über Musialas Comeback wissen musst 🔥 Klopp sieht ihn ERSTMALS live beim Supercup – und der Kaderkampf mit Wirtz ist brutal eng.",
+  "uploadHashtags": "#Musiala #DFB #WM2026 #Klopp #Supercup #Wirtz #Comeback #Fussball",
+  "images": [
+    { "file": "musiala_aktion.jpg",   "search": "Jamal Musiala" },
+    { "file": "musiala_portrait.jpg", "search": "Jamal Musiala" },
+    { "file": "musiala_jubel.jpg",    "search": "Jamal Musiala" },
+    { "file": "musiala_training.jpg", "search": "Jamal Musiala Training" },
+    { "file": "klopp_dfb.jpg",        "search": "Jürgen Klopp DFB Bundestrainer" },
+    { "file": "signal_iduna.jpg",     "search": "Signal Iduna Park Dortmund" },
+    { "file": "fans_dfb.jpg",         "search": "DFB Fans Tribuene" },
+    { "file": "wirtz_dfb.jpg",        "search": "Florian Wirtz" },
+    { "file": "allianz_muenchen.jpg", "search": "Allianz Arena München" },
+    { "file": "dfb_team.jpg",         "search": "DFB Teamfoto 2026" },
+    { "file": "fans_rejoice.jpg",     "search": "Fans Jubel Stadion" },
+    { "file": "dfb_flagge.jpg",       "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "WIEDER IM TRAINING – nach 2 Tagen!",
+      "image": "musiala_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB Top-3",
+      "title": "Musiala – Klopps erster Live-Test",
+      "image": "musiala_portrait.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_jubel.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "#1 Comeback Nummer 3",
+      "stats": [
+        { "label": "Monate seit erstem Comeback", "value": "14" },
+        { "label": "Tage nach Kreislaufkollaps", "value": "2" },
+        { "label": "Comebacks in 14 Monaten", "value": "3" }
+      ],
+      "image": "musiala_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp_dfb.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer seit 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "#2 Klopps erster Live-Test",
+      "stats": [
+        { "label": "Tage bis September-Kader", "value": "35" },
+        { "label": "Live-Tests vor Supercup", "value": "0" },
+        { "label": "Spiele Klopp–Musiala zusammen", "value": "0" }
+      ],
+      "image": "signal_iduna.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "#3 Zehner-Duell",
+      "stats": [
+        { "label": "Wirtz WM-Tore in 360 Min", "value": "0" },
+        { "label": "Musiala WM-Tore in 239 Min", "value": "1" },
+        { "label": "Kadertage bis Deadline", "value": "35" }
+      ],
+      "image": "wirtz_dfb.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "allianz_muenchen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_rejoice.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Musiala oder Wirtz?",
+      "subtitle": "Wer ist Klopps Nummer 10?",
+      "image": "dfb_flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
