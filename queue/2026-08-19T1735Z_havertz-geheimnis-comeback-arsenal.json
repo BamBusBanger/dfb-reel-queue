@@ -1,0 +1,103 @@
+{
+  "slug": "havertz-geheimnis-comeback-arsenal",
+  "createdAt": "2026-08-19T17:35:00Z",
+  "title": "Havertz' geheimes Comeback",
+  "script": "7 Wochen nach dem verschossenen Elfmeter gegen Paraguay – und Kai Havertz trifft wieder. Am 16. August zerstörte er Manchester City beim 3:0. Nach dem WM-Schock kehrte er zu Arsenal zurück und traf bereits gegen Girona. Sein Geheimnis? Arsenal-Coach Iraola nennt ihn 'mental den Stärksten im Kader'. Er trägt den Meistertitel mit – erster Arsenal-PL-Titel seit 22 Jahren. Und Klopp beobachtet jeden Schritt, denn Havertz hat noch eine Rechnung mit dem DFB-Trikot offen.",
+  "uploadCaption": "7 Wochen nach dem WM-Horror gegen Paraguay – und Havertz trifft schon wieder für Arsenal! Was steckt hinter diesem unglaublichen Comeback? Klopp schaut zu – und das nächste DFB-Kapitel beginnt.",
+  "uploadHashtags": "#Havertz #Arsenal #DFB #WM2026 #PremierLeague #Klopp #Comeback #Fussball",
+  "images": [
+    { "file": "havertz_main.jpg",     "search": "Kai Havertz" },
+    { "file": "havertz_action.jpg",   "search": "Kai Havertz Arsenal" },
+    { "file": "havertz_jubel.jpg",    "search": "Kai Havertz Torjubel" },
+    { "file": "havertz_dfb.jpg",      "search": "Kai Havertz DFB" },
+    { "file": "havertz_training.jpg", "search": "Kai Havertz Training DFB" },
+    { "file": "elfmeter.jpg",         "search": "Havertz Elfmeter Paraguay WM 2026" },
+    { "file": "arsenal_trophy.jpg",   "search": "Arsenal Premier League Meister 2026 Trophäe" },
+    { "file": "emirates.jpg",         "search": "Emirates Stadium Arsenal London" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "dfb_fans.jpg",         "search": "DFB Fans" },
+    { "file": "mental_comeback.jpg",  "search": "mentale Stärke Comeback Fußball", "thematic": true },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal Gold" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "7 WOCHEN. 2 TORE. ER IST ZURÜCK.",
+      "image": "havertz_main.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB · ARSENAL 2026",
+      "title": "Havertz' geheimes Comeback",
+      "image": "havertz_action.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "elfmeter.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz_dfb.jpg",
+      "name": "Kai Havertz",
+      "role": "Stürmer · 60 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Nach dem WM-Schock",
+      "stats": [
+        { "label": "Tore Post-WM Pre-Season", "value": "2" },
+        { "label": "Arsenal PL-Titel-Warte", "value": "22 Jahre" }
+      ],
+      "image": "havertz_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "arsenal_trophy.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "emirates.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "PL-Titelverteidigung startet",
+      "stats": [
+        { "label": "Arsenal vs Man City (16.8.)", "value": "3:0" },
+        { "label": "PL-Saison 26/27 Start", "value": "22.8." }
+      ],
+      "image": "mental_comeback.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Verdient Havertz seinen DFB-Platz sofort zurück?",
+      "subtitle": "Schreibt eure Meinung in die Kommentare!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
