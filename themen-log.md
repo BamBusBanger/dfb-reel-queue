@@ -425,3 +425,4 @@
 2026-08-18 | schade-klopp-comeback-hamann | Hamann fordert 4 WM-Abgeschriebene unter Klopp: Schade/Bisseck/El Mala/Tresoldi, BVB-Transfer-Interesse an Schade, September-Kader 3 Wochen (NEWS-DRAMA)
 2026-08-18 | klopp-heimkehr-signal-iduna | Klopp kehrt erstmals als Bundestrainer zu Signal Iduna Park zurück, 7 Jahre BVB 2 Bundesliga-Titel 2013-CL-Finale, 22.8. Beckenbauer-Supercup erstes Live-Scouting 3 DFB-Kandidaten Musiala/Nmecha/Beier (TOP-3-LISTE)
 2026-08-19 | klopp-5-geheimkandidaten | Klopp 57er-Liste 5 Überraschungskandidaten Pejčinović Gruda Andrich Bisseck Ouédraogo September-Kader 36 Tage Amsterdam (GEHEIMNIS)
+2026-08-19 | nmecha-stiller-klopp-sechs-duell | Nmecha BVB 269 WM-Min Rekordtor 6. Min vs Stiller VfB 7 LS 0 WM-Min 9 Tore 9 Vorlagen, Klopp 4-3-3 eine Sechs, Scouting 28.8. München BL-Auftakt (DUELL/VERGLEICH)

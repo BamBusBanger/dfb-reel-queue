@@ -1,0 +1,105 @@
+{
+  "slug": "nmecha-stiller-klopp-sechs-duell",
+  "createdAt": "2026-08-19T09:35:00Z",
+  "title": "Nmecha vs. Stiller – Klopps heißes Mittelfeld-Duell",
+  "script": "NUR EINER SCHAFFT ES. Klopps 4-3-3 hat Platz für genau EINE klassische Sechs – und der Kampf ist eröffnet. Felix Nmecha, 25, BVB: Nagelsmanns Stamm-Sechser. 269 WM-Minuten. Rekordtor in der 6. Minute beim 7:1 gegen Curaçao. Angelo Stiller, 25, VfB Stuttgart: nur 7 Länderspiele – 0 WM-Minuten. Aber: 9 Tore und 9 Vorlagen in einer einzigen Saison. Klopp scoutet Stiller am 28. August beim Bundesliga-Auftakt in München. Wer gewinnt Klopps erste Sechs?",
+  "uploadCaption": "Klopps 4-3-3 hat Platz für nur EINE Sechs – und Nmecha und Stiller kämpfen mit allem darum 🔥 Wer startet in Klopps erstem DFB-Kader? #DFB #Klopp #NationsLeague",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #Nmecha #Stiller #Nationalmannschaft #WM2030 #Bundesliga",
+  "images": [
+    { "file": "nmecha.jpg",          "search": "Felix Nmecha" },
+    { "file": "nmecha_aktion.jpg",   "search": "Felix Nmecha" },
+    { "file": "stiller.jpg",         "search": "Angelo Stiller" },
+    { "file": "stiller_aktion.jpg",  "search": "Angelo Stiller" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "dortmund.jpg",        "search": "Signal Iduna Park Dortmund" },
+    { "file": "muenchen.jpg",        "search": "Allianz Arena München" },
+    { "file": "fans.jpg",            "search": "DFB Fans" },
+    { "file": "teamfoto.jpg",        "search": "Deutschland Teamfoto 2026" },
+    { "file": "kimmich.jpg",         "search": "Joshua Kimmich" },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal FIFA" },
+    { "file": "deutschland_flagge.jpg", "search": "Deutschland Flagge schwarz-rot-gold" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NUR EINER SCHAFFT ES – WER WIRD KLOPPS ERSTE SECHS?",
+      "image": "nmecha.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB · Duell",
+      "title": "Nmecha vs. Stiller",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "nmecha_aktion.jpg",
+      "name": "Felix Nmecha",
+      "role": "BVB · Mittelfeld · 25",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "stiller.jpg",
+      "name": "Angelo Stiller",
+      "role": "VfB Stuttgart · Mittelfeld · 25",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Nmecha bei der WM 2026",
+      "stats": [
+        { "label": "WM-Minuten", "value": "269" },
+        { "label": "Rekordtor", "value": "6. Min" },
+        { "label": "WM-Sieg", "value": "7:1" }
+      ],
+      "image": "dortmund.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "stats",
+      "title": "Stiller – Klopps Geheimfavorit",
+      "stats": [
+        { "label": "Länderspiele", "value": "7" },
+        { "label": "WM-Minuten", "value": "0" },
+        { "label": "Tore + Vorlagen (Saison)", "value": "9+9" }
+      ],
+      "image": "stiller_aktion.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "muenchen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Euer Urteil!",
+      "subtitle": "Nmecha oder Stiller – wer startet in Klopps erstem Kader?",
+      "image": "teamfoto.jpg",
+      "weight": 1.0
+    }
+  ]
+}
