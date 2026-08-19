@@ -1,0 +1,40 @@
+{
+  "slug": "serbien-vlahovic-klopp-muenchen",
+  "createdAt": "2026-08-19T19:38:00Z",
+  "title": "Serbien: Die hungrige Gefahr für Klopp",
+  "script": "Serbien HAT DIE WM 2026 VERPASST – und das macht sie gefährlicher als je zuvor. Am 1. Oktober: Allianz Arena München – Klopps erster echter Heimtest als Bundestrainer, nur 36 Tage nach seinem Amtsantritt. Dušan Vlahović, Juventus-Topstürmer und Serbiens Gesicht, führt eine Mannschaft, die seit der EM 2024 kein WM-Ticket löste. Klopp bekommt Serbien als drittes Gruppenspiel – noch ohne ein einziges Testspiel davor. Nach dem Elfmeter-Aus gegen Paraguay: Tah, Rüdiger, Kimmich – wer stoppt Serbiens Hunger?",
+  "uploadCaption": "Serbien hat die WM 2026 verpasst – und genau das macht sie zur größten Gefahr für Klopps Neustart! Am 1. Oktober in München wartet Vlahović. Klopps erster Heimtest als Bundestrainer, nur 36 Tage nach dem Amtsantritt. Tah, Rüdiger und Kimmich müssen liefern.",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #Serbien #Vlahovic #Deutschland #WM2026 #Nationalmannschaft",
+  "images": [
+    { "file": "serbien-team.jpg",       "search": "Serbia national football team 2026" },
+    { "file": "vlahovic-aktion.jpg",    "search": "Dušan Vlahović" },
+    { "file": "vlahovic-portrait.jpg",  "search": "Dušan Vlahović Serbien" },
+    { "file": "klopp.jpg",              "search": "Jürgen Klopp" },
+    { "file": "tah.jpg",                "search": "Jonathan Tah" },
+    { "file": "ruediger.jpg",           "search": "Antonio Rüdiger" },
+    { "file": "kimmich.jpg",            "search": "Joshua Kimmich" },
+    { "file": "allianz.jpg",            "search": "Allianz Arena München" },
+    { "file": "wirtz.jpg",              "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",            "search": "Jamal Musiala" },
+    { "file": "fans.jpg",               "search": "DFB Fans" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "SIE HABEN DIE WM VERPASST.", "image": "serbien-team.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "Nations League · Gruppe 2", "title": "Serbien: Hungrig & Gefährlich", "image": "vlahovic-aktion.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp.jpg",           "name": "Jürgen Klopp",      "role": "Bundestrainer · ab 15. Aug.",       "weight": 0.8 },
+    { "type": "image", "image": "vlahovic-portrait.jpg","name": "Dušan Vlahović",   "role": "Serbien · Juventus · Topstürmer",   "weight": 0.8 },
+    { "type": "stats", "title": "Klopps NL-Spielplan",
+      "stats": [
+        { "label": "24. Sept.", "value": "Amsterdam" },
+        { "label": "27. Sept.", "value": "Augsburg" },
+        { "label": "1. Okt.",   "value": "München" }
+      ],
+      "image": "allianz.jpg", "weight": 0.9 },
+    { "type": "image", "image": "tah.jpg",     "name": "Jonathan Tah",     "role": "Abwehrchef · Bayern",          "weight": 0.8 },
+    { "type": "image", "image": "ruediger.jpg","name": "Antonio Rüdiger",  "role": "Innenverteidigung · 83 LS",    "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich",   "role": "Kapitän · 109 Länderspiele",   "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",   "name": "Florian Wirtz",    "role": "Offensiv · 23 J.",             "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala",    "role": "Offensiv · 23 J.",             "weight": 0.8 },
+    { "type": "outro", "title": "Welches NL-Spiel macht dir mehr Angst?", "subtitle": "Amsterdam oder München?", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
