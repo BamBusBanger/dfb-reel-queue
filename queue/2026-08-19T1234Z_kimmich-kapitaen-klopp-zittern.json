@@ -1,0 +1,99 @@
+{
+  "slug": "kimmich-kapitaen-klopp-zittern",
+  "createdAt": "2026-08-19T12:34:00Z",
+  "title": "Kimmich zittert: Klopp schweigt zur Kapitänsfrage",
+  "script": "4 Tage – kein einziger Anruf. Joshua Kimmich, 31 Jahre, 109 Länderspiele, WM-Kapitän – und Jürgen Klopp hat sich noch immer nicht gemeldet. Kimmich gestand öffentlich: 'Ich habe noch nicht mit Klopp gesprochen.' Traditionsbruch: Neue Bundestrainer rufen ihren Kapitän zuerst an. Klopps einzige Antwort: 'Ich gehe mal davon aus.' Kein klares Ja. Völler springt ein – nennt Kimmich Galionsfigur. Aber wer trägt am 24. September in Amsterdam die Binde?",
+  "uploadCaption": "4 Tage. Kein Anruf. Kimmich wartet – und Klopp antwortet nur: 'Ich gehe mal davon aus.' Ist die Kapitänsbinde nach 109 Länderspielen wirklich sicher? 🫦 #DFB #Kimmich #Klopp #Bundestrainer #WM2030",
+  "uploadHashtags": "#DFB #Kimmich #Klopp #Bundestrainer #NationaleMannschaft #WM2030 #Kapitän",
+  "images": [
+    { "file": "kimmich_binde.webp",    "search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "klopp_dfb.jpg",         "search": "Jürgen Klopp" },
+    { "file": "kimmich_kapitaen.jpg",  "search": "Joshua Kimmich Kapitän DFB" },
+    { "file": "kimmich_training.jpg",  "search": "Joshua Kimmich Training DFB" },
+    { "file": "voeller.jpg",           "search": "Rudi Völler DFB Sportdirektor" },
+    { "file": "matthaeus.jpg",         "search": "Lothar Matthäus" },
+    { "file": "fans_dfb.jpg",          "search": "DFB Fans" },
+    { "file": "kimmich_avatar.png",    "search": "Joshua Kimmich" },
+    { "file": "signal_iduna.jpg",      "search": "Signal Iduna Park Dortmund" },
+    { "file": "pokal.jpg",             "search": "WM Pokal" },
+    { "file": "flagge_de.jpg",         "search": "Deutschland Flagge schwarz rot gold" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "4 TAGE. KEIN ANRUF.",
+      "image": "kimmich_binde.webp",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB-DRAMA",
+      "title": "Kimmich zittert",
+      "image": "fans_dfb.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "kimmich_kapitaen.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp_dfb.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer seit 15. August",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Stille nach dem WM-Aus",
+      "stats": [
+        { "label": "Kimmichs Länderspiele", "value": "109" },
+        { "label": "Tage ohne Klopp-Anruf", "value": "4" },
+        { "label": "Klopps Kapitäns-Garantie", "value": "0" }
+      ],
+      "image": "kimmich_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "voeller.jpg",
+      "name": "Rudi Völler",
+      "role": "DFB-Sportdirektor",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "matthaeus.jpg",
+      "name": "Lothar Matthäus",
+      "role": "DFB-Rekordnationalspieler · 150 LS",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich_avatar.png",
+      "name": "Joshua Kimmich",
+      "role": "FC Bayern · Erstmals ohne Kapitäns-Gewissheit",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "signal_iduna.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Verdient Kimmich noch die Binde?",
+      "subtitle": "Kommentar ↓",
+      "image": "flagge_de.jpg",
+      "weight": 1.0
+    }
+  ]
+}
