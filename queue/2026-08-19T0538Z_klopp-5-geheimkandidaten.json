@@ -1,0 +1,38 @@
+{
+  "slug": "klopp-5-geheimkandidaten",
+  "createdAt": "2026-08-19T05:38:46Z",
+  "title": "Klopps 5 Geheimkandidaten",
+  "script": "5 Spieler, die selbst nicht damit rechnen – Klopp beruft sie trotzdem! Bundestrainer Jürgen Klopp hat 57 Kandidaten auf seiner Liste und verspricht Überraschungen: Stürmer Pejčinović mit 12 Toren beim Abstiegsklub, Gruda mit null A-Länderspielen, Andrich nach null WM-Minuten 2026, Bisseck als Champions-League-Sieger ohne Nationalteam-Erfahrung. Klopp: \"Die rechnen damit noch gar nicht.\" Mitte September entscheidet sich alles – 36 Tage bis zum Debüt in Amsterdam. Wen nennst du als größte Überraschung?",
+  "uploadCaption": "Klopp kündigt DFB-Kader-Überraschungen an: 5 Spieler, die selbst nicht damit rechnen, dass sie nominiert werden! Mitte September ist die erste Kader-Bekanntgabe – 36 Tage bis zum Debüt in Amsterdam. 🔴⚽",
+  "uploadHashtags": "#DFB #Klopp #Nationalmannschaft #NationsLeague #WM2030 #Fussball #Bundestrainer",
+  "images": [
+    { "file": "klopp.jpg",       "search": "Jürgen Klopp" },
+    { "file": "pejcinovic.jpg",  "search": "Pejčinović VfB Stuttgart" },
+    { "file": "andrich.jpg",     "search": "Robert Andrich Leverkusen" },
+    { "file": "gruda.jpg",       "search": "Brajan Gruda RB Leipzig" },
+    { "file": "bisseck.jpg",     "search": "Yann Bisseck Inter Milan" },
+    { "file": "ouedraogo.jpg",   "search": "Assan Ouédraogo" },
+    { "file": "kimmich.jpg",     "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",       "search": "Florian Wirtz" },
+    { "file": "fans.jpg",        "search": "DFB Fans" },
+    { "file": "stadion.jpg",     "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "logo.jpg",        "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "5 SPIELER, DIE ES SELBST NICHT WISSEN.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPP-GEHEIMNIS", "title": "5 Spieler, die nicht damit rechnen", "image": "kimmich.jpg", "weight": 0.7 },
+    { "type": "image", "image": "pejcinovic.jpg", "name": "Milan Pejčinović", "role": "Stürmer · 21 · VfB Stuttgart", "weight": 0.8 },
+    { "type": "image", "image": "andrich.jpg",    "name": "Robert Andrich",   "role": "Mittelfeld · 31 · Leverkusen", "weight": 0.8 },
+    { "type": "image", "image": "gruda.jpg",      "name": "Brajan Gruda",     "role": "Flügel · 21 · RB Leipzig", "weight": 0.8 },
+    { "type": "image", "image": "bisseck.jpg",    "name": "Yann Bisseck",     "role": "Innenverteidiger · 25 · Inter Milan", "weight": 0.8 },
+    { "type": "image", "image": "ouedraogo.jpg",  "name": "Assan Ouédraogo",  "role": "Mittelfeld · 20 · RB Leipzig", "weight": 0.8 },
+    { "type": "stats", "title": "Klopps erste Nominierung", "stats": [
+        { "label": "Kandidaten",        "value": "57" },
+        { "label": "Kaderplätze",       "value": "26" },
+        { "label": "Tage bis Amsterdam","value": "36" }
+      ], "image": "fans.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg",   "name": "Florian Wirtz", "role": "Offensiv · 23 · Liverpool", "weight": 0.8 },
+    { "type": "image", "image": "stadion.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wen würdest DU nominieren?", "subtitle": "Kommentier deinen Favoriten!", "image": "logo.jpg", "weight": 1.0 }
+  ]
+}
