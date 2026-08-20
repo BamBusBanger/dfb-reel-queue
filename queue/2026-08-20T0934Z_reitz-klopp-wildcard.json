@@ -1,0 +1,33 @@
+{
+  "slug": "reitz-klopp-wildcard",
+  "createdAt": "2026-08-20T09:34:00Z",
+  "title": "Rocco Reitz: Klopps erste Wild Card?",
+  "script": "20 Millionen Euro – und Klopp hat den Deal persönlich durchgeboxt! Rocco Reitz: 17 U21-Länderspiele, kein einziger Einsatz im A-Team – und trotzdem plötzlich Kandidat Nummer eins für September. 3 Gründe, warum er Klopps erste Überraschung wird. Erstens: Klopp kannte Reitz schon als Red-Bull-Chef – er genehmigte den 20-Millionen-Transfer zu Leipzig höchstpersönlich. Zweitens: Reitz ist die Box-to-Box-Maschine für Klopps 4-3-3. Drittens: Goretzka, Andrich und Stiller haben keinen Klopp-Bonus. Verdient Reitz seinen Platz – oder ist das Vetternwirtschaft?",
+  "uploadCaption": "20 Millionen Euro und Klopp-Connection: Rocco Reitz könnte Klopps erste große Überraschung im September-Kader werden. 0 A-Länderspiele – aber Klopp kennt ihn besser als alle anderen. Schafft er den Sprung nach Amsterdam?",
+  "uploadHashtags": "#DFB #Klopp #RoccoReitz #Nationalmannschaft #RBLeipzig #Bundesliga #NationsLeague",
+  "images": [
+    { "file": "reitz_portrait.jpg", "search": "Rocco Reitz RB Leipzig" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "reitz_aktion.jpg", "search": "Rocco Reitz Bundesliga" },
+    { "file": "stiller.jpg", "search": "Angelo Stiller" },
+    { "file": "nmecha.jpg", "search": "Felix Nmecha" },
+    { "file": "goretzka.jpg", "search": "Leon Goretzka" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" },
+    { "file": "wm_logo.jpg", "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "20 MIO. EURO – KLOPP HAT DEN DEAL SELBST GEMACHT.", "image": "reitz_portrait.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB · SEPTEMBER 2026", "title": "Klopps erste Wild Card?", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "reitz_portrait.jpg", "name": "Rocco Reitz", "role": "Mittelfeld · RB Leipzig · 23", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · seit 15.8.2026", "weight": 0.8 },
+    { "type": "stats", "title": "Reitz in Zahlen", "stats": [{ "label": "Ablöse", "value": "20 Mio €" }, { "label": "U21-Einsätze", "value": "17" }, { "label": "A-Länderspiele", "value": "0" }], "image": "reitz_aktion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "reitz_aktion.jpg", "weight": 0.8 },
+    { "type": "image", "image": "stiller.jpg", "name": "Angelo Stiller", "role": "Konkurrenz · VfB Stuttgart", "weight": 0.8 },
+    { "type": "image", "image": "nmecha.jpg", "name": "Felix Nmecha", "role": "Konkurrenz · BVB", "weight": 0.8 },
+    { "type": "image", "image": "goretzka.jpg", "name": "Leon Goretzka", "role": "Konkurrenz · vereinslos", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Klopp-Bonus oder Leistung?", "subtitle": "Verdient Reitz seinen Platz?", "image": "wm_logo.jpg", "weight": 1.0 }
+  ]
+}
