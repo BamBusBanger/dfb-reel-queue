@@ -1,0 +1,34 @@
+{
+  "slug": "musiala-neurologie-kollaps-supercup",
+  "createdAt": "2026-08-20T12:33:00Z",
+  "title": "Musialas mysteriöse Kollapsserie – was stimmt nicht?",
+  "script": "ZWEIMAL zusammengebrochen – was stimmt nicht mit Musiala? Erst beim Telekom Cup gegen Leipzig, dann ERNEUT im Testspiel gegen Heidenheim bricht Jamal Musiala nach der Einwechslung zusammen. Die Diagnose der Bayern-Ärzte: neurologische Dysfunktion. 239 WM-Minuten, nur 1 Tor, 4-mal ausgewechselt. Jetzt soll er am Samstag beim Beckenbauer-Supercup spielen – Klopps erstem Live-Scouting-Test als Bundestrainer. Doch die Bayern schweigen über die wahren Ursachen. Was steckt wirklich dahinter? Deutschland wartet.",
+  "uploadCaption": "😱 ZWEIMAL zusammengebrochen – was stimmt nicht mit Musiala? Neurologische Dysfunktion beim Telekom Cup UND beim Heidenheim-Testspiel. Klopps erstes Scouting am Samstag beim Supercup in Gefahr. Spielt Musiala oder nicht? ⬇️ #DFB #Musiala #Supercup2026",
+  "uploadHashtags": "#DFB #Musiala #BeckenauerSupercup #Klopp #Bundestrainer #WM2026 #Bayern #Fussball #NeurologischeDysfunktion",
+  "images": [
+    { "file": "musiala_portrait.jpg", "search": "Jamal Musiala" },
+    { "file": "dfb_team.jpg", "search": "Deutschland Nationalmannschaft 2026" },
+    { "file": "musiala_torjubel.jpg", "search": "Jamal Musiala Torjubel DFB" },
+    { "file": "musiala_wm_aktion.jpg", "search": "Jamal Musiala WM 2026 Curaçao" },
+    { "file": "nervensystem.jpg", "search": "neurologische Dysfunktion Sportler Symbol", "thematic": true },
+    { "file": "telekom_cup.jpg", "search": "Bayern München Telekom Cup 2026 Leipzig" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park Dortmund" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp DFB Bundestrainer 2026" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz DFB" },
+    { "file": "fans_dfb.jpg", "search": "DFB Fans Deutschland" },
+    { "file": "fans_entsetzen.jpg", "search": "Deutschland Fans Public Viewing Entsetzen" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ZWEIMAL ZUSAMMENGEBROCHEN.", "image": "musiala_portrait.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · DFB", "title": "Musialas Geheimnis", "image": "dfb_team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "musiala_torjubel.jpg", "name": "Jamal Musiala", "role": "Offensiv · Bayern · 22", "weight": 0.8 },
+    { "type": "stats", "title": "Musialas WM-Bilanz 2026", "stats": [{ "label": "WM-Minuten", "value": "239" }, { "label": "Tore", "value": "1" }, { "label": "Ausgewechselt", "value": "4×" }], "image": "musiala_wm_aktion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nervensystem.jpg", "weight": 0.8 },
+    { "type": "image", "image": "telekom_cup.jpg", "weight": 0.8 },
+    { "type": "image", "image": "signal_iduna.jpg", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · DFB", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Offensiv · Liverpool · 22", "weight": 0.8 },
+    { "type": "image", "image": "fans_dfb.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Spielt Musiala den Supercup?", "subtitle": "Kommentiert eure Meinung! ⬇️", "image": "fans_entsetzen.jpg", "weight": 1.0 }
+  ]
+}
