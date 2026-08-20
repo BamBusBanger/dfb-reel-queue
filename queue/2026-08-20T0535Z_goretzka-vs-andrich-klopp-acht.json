@@ -1,0 +1,34 @@
+{
+  "slug": "goretzka-vs-andrich-klopp-acht",
+  "createdAt": "2026-08-20T05:35:49Z",
+  "title": "Goretzka vs. Andrich – Klopps Acht-Duell",
+  "script": "2 Profis, DERSELBE Platz in Klopps 4-3-3 – und ein Detail macht das Duell einzigartig. Goretzka: 70 Länderspiele, CL-Sieger 2020 – und seit dem 1. Juli VEREINSLOS. Bayern verlängerte nicht. Er kämpft um sein DFB-Comeback ohne Klub. Andrich: Leverkusen-Stammspieler, auf Klopps stiller Top-5-Liste – von Nagelsmann fast komplett ignoriert. Jetzt ist sein Moment. Mitte September nennt Klopp 26 Namen aus 57 Kandidaten für das Nations-League-Debüt am 24. September in Amsterdam. Wer hat mehr Recht auf die Acht?",
+  "uploadCaption": "Goretzka VEREINSLOS vs. Andrich GEHEIMFAVORIT – wer bekommt Klopps wichtigsten Mittelfeld-Job? 70 Länderspiele gegen null Rückendeckung von Nagelsmann. September entscheidet. Was sagt ihr? 👇",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #Goretzka #Andrich #WM2030 #NationsLeague #Fussball",
+  "images": [
+    { "file": "goretzka_portrait.jpg", "search": "Leon Goretzka" },
+    { "file": "goretzka_training.jpg", "search": "Leon Goretzka Training" },
+    { "file": "andrich.jpg", "search": "Robert Andrich" },
+    { "file": "andrich_leverkusen.jpg", "search": "Robert Andrich Bayer Leverkusen" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park Dortmund" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans Deutschland" },
+    { "file": "dfb_team.jpg", "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wm_logo.jpg", "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "VEREINSLOS – TROTZDEM DFB?", "image": "goretzka_portrait.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DUELL UM DIE ACHT", "title": "Goretzka vs. Andrich", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "goretzka_portrait.jpg", "name": "Leon Goretzka", "role": "Mittelfeld · 31 · vereinslos seit 1.7.", "weight": 0.8 },
+    { "type": "image", "image": "goretzka_training.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Goretzka – die Bilanz", "stats": [{ "label": "Länderspiele", "value": "70" }, { "label": "CL-Titel", "value": "2020" }, { "label": "WM-Minuten 2026", "value": "27" }], "image": "goretzka_portrait.jpg", "weight": 0.9 },
+    { "type": "image", "image": "andrich.jpg", "name": "Robert Andrich", "role": "Mittelfeld · Bayer Leverkusen", "weight": 0.8 },
+    { "type": "image", "image": "andrich_leverkusen.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Andrich – der Joker", "stats": [{ "label": "Klopp-Geheimlist", "value": "Top 5" }, { "label": "Nagelsmann-Einsätze", "value": "kaum" }, { "label": "NL-Debüt", "value": "24. Sep" }], "image": "andrich_leverkusen.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · Amtsantritt 15. Aug", "weight": 0.8 },
+    { "type": "image", "image": "signal_iduna.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Goretzka oder Andrich?", "subtitle": "Wer soll in Klopps ersten Kader?", "image": "dfb_team.jpg", "weight": 1.0 }
+  ]
+}
