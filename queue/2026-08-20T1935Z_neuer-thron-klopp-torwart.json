@@ -1,0 +1,34 @@
+{
+  "slug": "neuer-thron-klopp-torwart",
+  "createdAt": "2026-08-20T19:35:00Z",
+  "title": "Klopps Torwart-Krise – Wer beerbt Neuer?",
+  "script": "MANUEL NEUERS THRON IST LEER. 125 Länderspiele, 21 WM-Spiele – beides Weltrekord. Nach dem Elfmeter-Drama gegen Paraguay hat der Weltklasse-Keeper seinen Abschied erklärt. Jetzt hat Klopp ein riesiges Problem: Baumann ist 36 – nur Übergangslösung. Nübel spielt in der Türkei. Ter Stegen? Kam nach langer Verletzung zurück – zuletzt 'Man of the Match'. Und Youngster Atubolu (24) aus Freiburg: sogar Manuel Neuer selbst empfiehlt einen Nachwuchskeeper. 35 Tage bis Amsterdam. Wer steht für euch im DFB-Tor?",
+  "uploadCaption": "Neuer ist weg – und Klopp steht vor der größten Torwart-Frage seit Jahren. Wer erbt den Thron?",
+  "uploadHashtags": "#DFB #Klopp #ManuelNeuer #OliverBaumann #TerStegen #AlexanderNübel #Atubolu #WM2030 #Bundestrainer #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "neuer.jpg", "search": "Manuel Neuer" },
+    { "file": "neuer_parade.jpg", "search": "Manuel Neuer DFB Parade" },
+    { "file": "neuer_baumann.jpg", "search": "Neuer Baumann DFB Training" },
+    { "file": "baumann.jpg", "search": "Oliver Baumann" },
+    { "file": "nuebel.jpg", "search": "Alexander Nübel" },
+    { "file": "ter_stegen.jpg", "search": "Marc-André ter Stegen Barcelona 2026" },
+    { "file": "atubolu.jpg", "search": "Noah Atubolu SC Freiburg 2026" },
+    { "file": "klopp.jpg", "search": "juergen klopp" },
+    { "file": "flagge.jpg", "search": "deutschland flagge" },
+    { "file": "teamfoto.jpg", "search": "deutschland teamfoto" },
+    { "file": "fans.jpg", "search": "deutschland fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "NEUERS THRON IST LEER.", "image": "neuer.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB TORWART-KRISE", "title": "Klopps größtes Rätsel", "image": "neuer_parade.jpg", "weight": 0.7 },
+    { "type": "image", "image": "neuer_baumann.jpg", "weight": 0.8 },
+    { "type": "image", "image": "baumann.jpg", "name": "Oliver Baumann", "role": "Torwart · 36 · Hoffenheim", "weight": 0.8 },
+    { "type": "image", "image": "nuebel.jpg", "name": "Alexander Nübel", "role": "Torwart · 29 · Beşiktaş (Bayern-Leihe)", "weight": 0.8 },
+    { "type": "image", "image": "ter_stegen.jpg", "name": "Marc-André ter Stegen", "role": "Torwart · 34 · FC Barcelona", "weight": 0.8 },
+    { "type": "stats", "title": "Klopps Torwart-Problem", "stats": [{ "label": "Kandidaten", "value": "5+" }, { "label": "Tage bis Amsterdam", "value": "35" }, { "label": "Neuer-Länderspiele", "value": "125" }], "image": "klopp.jpg", "weight": 0.9 },
+    { "type": "image", "image": "atubolu.jpg", "name": "Noah Atubolu", "role": "Torwart · 24 · SC Freiburg · 22 U21-LS", "weight": 0.8 },
+    { "type": "image", "image": "flagge.jpg", "weight": 0.8 },
+    { "type": "image", "image": "teamfoto.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wer hütet das DFB-Tor?", "subtitle": "Euren Favoriten in die Kommentare!", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
