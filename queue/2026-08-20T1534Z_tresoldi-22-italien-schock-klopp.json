@@ -1,0 +1,36 @@
+{
+  "slug": "tresoldi-22-italien-schock-klopp",
+  "createdAt": "2026-08-20T15:34:00Z",
+  "title": "Tresoldi wird 22 – Italien-Schock für Klopp",
+  "script": "Er wird HEUTE 22 – und Deutschland verliert ihn gleich an Italien! Nicolò Tresoldi, belgischer Meister mit Club Brügge, 19 Ligatore, 23 insgesamt in 48 Spielen, Champions-League-Treffer gegen Barcelona, Atlético und Monaco. Eiskalt auf Klopps geheimer 57er-Liste. Sky-Hamann fordert die sofortige Nominierung. Doch ausgerechnet am 22. Geburtstag bietet sich Tresoldi Italien-Coach Gattuso an: Mein Telefon ist eingeschaltet. 3 Pässe, 35 Tage bis Amsterdam. Nominiert Klopp den Geheim-Neuner – oder schnappt sich Italien ihn?",
+  "uploadCaption": "Der DFB-Geheim-Neuner hat heute Geburtstag – und wackelt zu Italien. Klopp muss handeln, bevor Gattuso zuschlägt!",
+  "uploadHashtags": "#DFB #WM2026 #Klopp #Tresoldi #ClubBruegge #Bundestrainer #Nationalmannschaft #Fussball #NationsLeague",
+  "images": [
+    { "file": "tresoldi.jpg",    "search": "Nicolò Tresoldi Club Brügge" },
+    { "file": "klopp.jpg",       "search": "Jürgen Klopp" },
+    { "file": "bruegge.jpg",     "search": "Club Brugge Torjubel" },
+    { "file": "wm_pokal.jpg",    "search": "WM Pokal" },
+    { "file": "gattuso.jpg",     "search": "Gennaro Gattuso Italien Trainer" },
+    { "file": "italien.jpg",     "search": "Italien Nationalmannschaft Trikot" },
+    { "file": "woltemade.jpg",   "search": "Nick Woltemade" },
+    { "file": "undav.jpg",       "search": "Deniz Undav" },
+    { "file": "havertz.jpg",     "search": "Kai Havertz" },
+    { "file": "dfb_team.jpg",    "search": "DFB Teamfoto 2026" },
+    { "file": "dfb_fans.jpg",    "search": "DFB Fans" },
+    { "file": "wm2026_logo.jpg", "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "HEUTE 22 – UND WEG NACH ITALIEN?", "image": "tresoldi.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "WM 2026 · KLOPP", "title": "Der Geburtstags-Schock", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "bruegge.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Tresoldi-Bilanz", "stats": [{ "label": "Ligatore", "value": "19" }, { "label": "Spiele", "value": "48" }, { "label": "Alter heute", "value": "22" }], "image": "wm_pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "gattuso.jpg", "name": "Gennaro Gattuso", "role": "Italien · Coach", "weight": 0.8 },
+    { "type": "image", "image": "italien.jpg", "weight": 0.8 },
+    { "type": "image", "image": "woltemade.jpg", "name": "Nick Woltemade", "role": "Sturm · 22", "weight": 0.8 },
+    { "type": "image", "image": "undav.jpg", "name": "Deniz Undav", "role": "Sturm · 29", "weight": 0.8 },
+    { "type": "image", "image": "havertz.jpg", "name": "Kai Havertz", "role": "Sturm · 27", "weight": 0.8 },
+    { "type": "image", "image": "dfb_team.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Klopps Countdown", "stats": [{ "label": "57er-Liste", "value": "1" }, { "label": "Pässe", "value": "3" }, { "label": "Tage bis Amsterdam", "value": "35" }], "image": "dfb_fans.jpg", "weight": 0.9 },
+    { "type": "outro", "title": "Nominiert Klopp ihn?", "subtitle": "Oder holt Italien den Geheim-Neuner?", "image": "wm2026_logo.jpg", "weight": 1.0 }
+  ]
+}
