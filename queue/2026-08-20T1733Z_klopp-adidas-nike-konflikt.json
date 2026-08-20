@@ -1,0 +1,32 @@
+{
+  "slug": "klopp-adidas-nike-konflikt",
+  "createdAt": "2026-08-20T17:33:00Z",
+  "title": "Klopps geheime Sponsoren-Zwickmühle",
+  "script": "PIKANTES DETAIL im Klopp-Vertrag. Nach über 70 Jahren Adidas-Tradition wechselt der DFB ab 2027 zu Nike – für mindestens 100 Millionen Euro pro Jahr, 7 Jahre Laufzeit, bis 2034 fast 800 Millionen. Nur ein Problem: Der neue Bundestrainer ist seit Jahren Werbegesicht von... Adidas! Amtsantritt 15. August – Neuendorf muss Klopps Adidas-Werbedeal jetzt schnell auflösen. 35 Tage bis Amsterdam. Wem drückst du die Daumen – Adidas oder Nike?",
+  "uploadCaption": "70 Jahre Adidas, dann Nike – und Klopp mittendrin. So pikant ist der DFB-Sponsorenwechsel.",
+  "uploadHashtags": "#DFB #Klopp #Nike #Adidas #WM2030 #Bundestrainer #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "klopp.jpg", "search": "juergen klopp" },
+    { "file": "trikot.jpg", "search": "deutschlandtriko" },
+    { "file": "adidas.jpg", "search": "adidas drei streifen logo werbebanner", "thematic": true },
+    { "file": "nike.jpg", "search": "nike swoosh logo grosses werbeplakat", "thematic": true },
+    { "file": "teamfoto.jpg", "search": "deutschland teamfoto" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "campus.jpg", "search": "DFB Campus Frankfurt" },
+    { "file": "pokal.jpg", "search": "wm pokal" },
+    { "file": "flagge.jpg", "search": "deutschland flagge" },
+    { "file": "fans.jpg", "search": "deutschland fans" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "KLOPPS GEHEIMER KONFLIKT.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "Nach 70 Jahren", "title": "Adidas vs Nike", "image": "trikot.jpg", "weight": 0.7 },
+    { "type": "image", "image": "adidas.jpg", "weight": 0.8 },
+    { "type": "image", "image": "nike.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Der Nike-Deal", "stats": [{ "label": "Mio. €/Jahr", "value": "100" }, { "label": "Laufzeit", "value": "7 J." }, { "label": "Ende", "value": "2034" }], "image": "teamfoto.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "campus.jpg", "weight": 0.8 },
+    { "type": "image", "image": "pokal.jpg", "weight": 0.8 },
+    { "type": "image", "image": "flagge.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Adidas oder Nike?", "subtitle": "Wem drückst du die Daumen?", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
