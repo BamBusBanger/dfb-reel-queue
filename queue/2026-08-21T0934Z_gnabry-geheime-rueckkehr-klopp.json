@@ -1,0 +1,35 @@
+{
+  "slug": "gnabry-geheime-rueckkehr-klopp",
+  "createdAt": "2026-08-21T09:34:00Z",
+  "title": "Gnabrys geheimes Comeback",
+  "script": "Er verpasste die komplette WM wegen eines Adduktorenrisses. Jetzt kämpft Serge Gnabry um sein Comeback auf der DFB-Bühne. 47 Länderspiele, 22 Tore – aber seit April ohne Einsatz. Klopp braucht für sein 4-3-3 klare Flügelstürmer – genau Gnabrys Profil über die rechte Seite. Gnabry: »Ich spüre Fortschritte mit jeder Einheit.« Klopp: »Niemand ist abgeschrieben.« Morgen Supercup Signal Iduna Park – Klopps erstes Live-Scouting. Nur noch 24 Tage bis zum ersten September-Kader. Ist Gnabry wirklich Klopps geheime Waffe?",
+  "uploadCaption": "Er verpasste die WM wegen Adduktorenriss – jetzt will Gnabry zurück. Klopp braucht klare Winger für sein 4-3-3. 47 Länderspiele, 22 Tore. Ist er Klopps geheime Waffe für Amsterdam?",
+  "uploadHashtags": "#DFB #Gnabry #Klopp #NationsLeague2026 #Nationalmannschaft #Comeback #WM2026 #Bundestrainer",
+  "images": [
+    { "file": "gnabry.jpg",       "search": "Serge Gnabry" },
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "sane.jpg",         "search": "Leroy Sané" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "beier.jpg",        "search": "Maximilian Beier" },
+    { "file": "musiala.jpg",      "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park Dortmund" },
+    { "file": "fans.jpg",         "search": "Deutschland Fans" },
+    { "file": "flagge.jpg",       "search": "Deutschland Flagge" },
+    { "file": "team2026.jpg",     "search": "DFB Team 2026" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "DER VERGESSENE WINGER.", "image": "gnabry.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB 2026", "title": "Gnabrys geheimes Comeback", "image": "signal_iduna.jpg", "weight": 0.7 },
+    { "type": "image", "image": "gnabry.jpg",      "name": "Serge Gnabry",    "role": "Flügel · Bayern · 31", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",        "name": "Jürgen Klopp",    "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "stats", "title": "Gnabry für Deutschland", "stats": [{ "label": "Länderspiele", "value": "47" }, { "label": "Tore", "value": "22" }, { "label": "WM 2026", "value": "0 Min" }], "image": "team2026.jpg", "weight": 0.9 },
+    { "type": "image", "image": "sane.jpg",         "name": "Leroy Sané",      "role": "Flügel-Konkurrent", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",        "name": "Florian Wirtz",   "role": "Klopp-Star · Liverpool", "weight": 0.8 },
+    { "type": "image", "image": "beier.jpg",        "name": "Maximilian Beier","role": "Klopp-Kandidat", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg",      "name": "Jamal Musiala",   "role": "Klopp-Favorit", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",         "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",      "name": "Joshua Kimmich",  "role": "DFB-Kapitän · 109 LS", "weight": 0.8 },
+    { "type": "outro", "title": "Holt Klopp Gnabry zurück?", "subtitle": "Schreibt eure Meinung unten!", "image": "flagge.jpg", "weight": 1.0 }
+  ]
+}
