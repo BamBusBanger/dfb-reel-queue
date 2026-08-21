@@ -1,0 +1,36 @@
+{
+  "slug": "terstegen-ajax-geheimplan",
+  "createdAt": "2026-08-21T17:36:00Z",
+  "title": "Ter Stegens geheimer Ajax-Plan",
+  "script": "Er war ABGESCHRIEBEN. Seit 2024 verletzt, WM verpasst, bei Barça degradiert. Doch Marc-André ter Stegen hat einen Geheimplan: Leihe zu Ajax Amsterdam für die komplette Saison 2026/27 – direkt in Jürgen Klopps Sichtfeld. Der 34-Jährige hat 48 Länderspiele, 250+ Barça-Spiele und 1 Champions-League-Titel. Klopp braucht einen neuen DFB-Torwart nach Neuers Rücktritt mit 125 Länderspielen. Und ter Stegen will beweisen: Er ist noch die Nummer 1. Wer steht am 24. September in Amsterdam im Tor?",
+  "uploadCaption": "Alle haben ihn abgeschrieben. Er nicht. Ter Stegens geheimer Plan, wieder Deutschlands Nummer 1 zu werden – direkt in Klopps Sichtfeld bei Ajax Amsterdam.",
+  "uploadHashtags": "#TerStegen #DFB #Klopp #Ajax #Torwart #WM2030 #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "terstegen_dfb.jpg",    "search": "Marc-André ter Stegen DFB" },
+    { "file": "terstegen_ajax.jpg",   "search": "ter Stegen Ajax 2026" },
+    { "file": "neuer.jpg",            "search": "Manuel Neuer" },
+    { "file": "baumann.jpg",          "search": "Oliver Baumann" },
+    { "file": "atubolu.jpg",          "search": "Noah Atubolu Freiburg" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp DFB" },
+    { "file": "amsterdam_arena.jpg",  "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "fans.jpg",             "search": "DFB Fans" },
+    { "file": "comeback_konzept.jpg", "search": "Torwart Comeback Glanzparade Held", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER WAR ABGESCHRIEBEN.", "image": "terstegen_dfb.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB TORWART-FRAGE", "title": "Ter Stegens Geheimplan", "image": "terstegen_ajax.jpg", "weight": 0.7 },
+    { "type": "image", "image": "terstegen_dfb.jpg", "name": "Marc-André ter Stegen", "role": "Torwart · 34", "weight": 0.8 },
+    { "type": "stats", "title": "Ter Stegens Zahlen", "stats": [
+        { "label": "Länderspiele DFB", "value": "48" },
+        { "label": "Barça-Spiele",     "value": "250+" },
+        { "label": "CL-Titel",         "value": "1" }
+      ], "image": "terstegen_ajax.jpg", "weight": 0.9 },
+    { "type": "image", "image": "neuer.jpg",           "name": "Manuel Neuer",       "role": "125 LS · Rücktritt 2026",  "weight": 0.8 },
+    { "type": "image", "image": "baumann.jpg",         "name": "Oliver Baumann",     "role": "Torwart · 36",             "weight": 0.8 },
+    { "type": "image", "image": "atubolu.jpg",         "name": "Noah Atubolu",       "role": "Torwart · 24",             "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",           "name": "Jürgen Klopp",       "role": "Bundestrainer",            "weight": 0.8 },
+    { "type": "image", "image": "amsterdam_arena.jpg", "weight": 0.8 },
+    { "type": "image", "image": "comeback_konzept.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Ter Stegen oder Atubolu?", "subtitle": "Wer startet am 24.9. in Amsterdam – schreib's in die Kommentare!", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
