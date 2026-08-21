@@ -1,0 +1,36 @@
+{
+  "slug": "klopp-48h-scouting-marathon",
+  "createdAt": "2026-08-21T15:34:00Z",
+  "title": "Klopps 48h-Scouting-Marathon",
+  "script": "JETZT ENTSCHEIDET KLOPP. Morgen Supercup Dortmund: 8 DFB-Kandidaten kämpfen live um einen Platz im September-Kader. Übermorgen Premier League Liverpool vs. Newcastle: Wirtz und Woltemade unter der Klopp-Lupe. 48 STUNDEN. 14 Spieler auf dem Prüfstand. Das größte Scouting-Wochenende der DFB-Geschichte. Und Musiala? Fehlt – neurologische Probleme zwingen ihn zum Zuschauen. Gnabry kehrt nach 5 Monaten Pause zurück. Nmecha will Wiedergutmachung für das WM-Elfmeter-Aus. 26 Plätze. 57 Kandidaten. Wer überzeugt Klopp in nur 90 Minuten?",
+  "uploadCaption": "48 Stunden, 14 DFB-Kandidaten live – Klopps größtes Scouting-Wochenende beginnt morgen. Ohne Musiala. Wer schlägt zu? #DFB #Klopp #Supercup #WM2030",
+  "uploadHashtags": "#DFB #Klopp #Supercup #WM2030 #Bundestrainer #Nationalmannschaft #Musiala #Wirtz",
+  "images": [
+    { "file": "signal_iduna.jpg",  "search": "Signal Iduna Park Dortmund" },
+    { "file": "dfbteam.jpg",        "search": "DFB Nationalmannschaft 2026" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "wm2026.jpg",         "search": "WM 2026 Logo" },
+    { "file": "musiala.jpg",        "search": "Jamal Musiala" },
+    { "file": "gnabry.jpg",         "search": "Serge Gnabry" },
+    { "file": "nmecha.jpg",         "search": "Felix Nmecha" },
+    { "file": "beier.jpg",          "search": "Maximilian Beier" },
+    { "file": "wirtz.jpg",          "search": "Florian Wirtz" },
+    { "file": "woltemade.jpg",      "search": "Nick Woltemade" },
+    { "file": "fans.jpg",           "search": "DFB Fans" },
+    { "file": "outro_fans.jpg",     "search": "DFB Fanmeile" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "48 STUNDEN ENTSCHEIDEN ALLES.", "image": "signal_iduna.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB 2026", "title": "Klopps Scouting-Marathon", "image": "dfbteam.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp.jpg",     "name": "Jürgen Klopp",     "role": "Bundestrainer · seit 15.8.", "weight": 0.8 },
+    { "type": "stats", "title": "Das Wochenende", "stats": [{ "label": "DFB-Kandidaten live", "value": "14" }, { "label": "Stunden", "value": "48" }, { "label": "Kaderplätze", "value": "26" }], "image": "wm2026.jpg", "weight": 0.9 },
+    { "type": "image", "image": "musiala.jpg",   "name": "Jamal Musiala",   "role": "Fehlt · Neurologie", "weight": 0.8 },
+    { "type": "image", "image": "gnabry.jpg",    "name": "Serge Gnabry",    "role": "Comeback · 5 Monate Pause", "weight": 0.8 },
+    { "type": "image", "image": "nmecha.jpg",    "name": "Felix Nmecha",    "role": "Wiedergutmachung · BVB", "weight": 0.8 },
+    { "type": "image", "image": "beier.jpg",     "name": "Maximilian Beier","role": "Angreifer · BVB", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",     "name": "Florian Wirtz",   "role": "Liverpool · 0 WM-Tore", "weight": 0.8 },
+    { "type": "image", "image": "woltemade.jpg", "name": "Nick Woltemade",  "role": "Liverpool · Wiedergutmachung", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",      "weight": 0.8 },
+    { "type": "outro", "title": "Wer überzeugt Klopp?", "subtitle": "Musiala fehlt – wer schlägt jetzt zu?", "image": "outro_fans.jpg", "weight": 1.0 }
+  ]
+}
