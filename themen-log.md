@@ -438,3 +438,4 @@
 2026-08-20 | neuer-thron-klopp-torwart | Neuer Rueckritt Rekord 125 LS 21 WM-Spiele, Klopp Torwart-Krise 5 Kandidaten Baumann 36 Nuebel Besiktas TerStegen Barcelona Comeback Man of the Match Atubolu 24 Freiburg 22 U21-LS, Neuer empfiehlt Youngster, 35 Tage Amsterdam-Debuet (NEWS-DRAMA)
 2026-08-21 | klopp-supercup-ohne-musiala | Musiala neurologische Dysfunktion Supercup-Ausfall, Klopp erstes Scouting 22.8. Signal Iduna Park, Nmecha/Gnabry/Beier 3 Kandidaten kämpfen um WM-Platz (TOP-3-LISTE)
 2026-08-21 | gnabry-geheime-rueckkehr-klopp | Gnabry Adduktorenriss April WM 2026 verpasst, Comeback Bayern, Klopp 4-3-3 Flügelstürmer-Profil, 47 LS 22 Tore, Supercup-Scouting 22.8. Dortmund, 24 Tage bis September-Kader (GEHEIMNIS)
+2026-08-21 | kompany-klopp-musiala-machtkampf | Kompany bestätigt Musiala-Ausfall Supercup neurologische Absencen Medikamentenwechsel, Klopp 34 Tage bis Amsterdam-Debüt September-Kader 24 Tage, Eberl zurück-in-den-Zustand (DUELL/VERGLEICH)

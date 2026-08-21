@@ -1,0 +1,99 @@
+{
+  "slug": "kompany-klopp-musiala-machtkampf",
+  "createdAt": "2026-08-21T12:39:35Z",
+  "title": "Kompany vs. Klopp: Der Musiala-Machtkampf",
+  "script": "Wer hat die MACHT über Musiala – Bayern oder Klopp? Kompany bestätigt: Musiala fehlt MORGEN im Supercup. Die Diagnose: neurologische Absencen – kurze Ohnmachtsmomente durch einen Medikamentenwechsel. Kompany sagt »Ich bin total ruhig« und schützt seinen Star. Klopp dagegen wartet auf der Tribüne – Debüt in Amsterdam schon in 34 Tagen! Musiala: 3 Zusammenbrüche in 3 Wochen. September-Kader in 24 Tagen. Bayern will »zurück in den Zustand vor den Absencen« – aber reicht die Zeit?",
+  "uploadCaption": "Kompany schützt Musiala – Klopp braucht ihn dringend. 34 Tage bis Amsterdam, September-Kader in 24 Tagen. Wer setzt sich durch? #DFB #Musiala #Klopp #Kompany #Supercup #NationsLeague",
+  "uploadHashtags": "#DFB #Musiala #Klopp #Kompany #Supercup #NationsLeague #WM2030 #Fussball",
+  "images": [
+    { "file": "musiala_aktion.jpg",       "search": "Jamal Musiala" },
+    { "file": "kompany.jpg",              "search": "Vincent Kompany Bayern München 2026" },
+    { "file": "klopp.jpg",               "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg",         "search": "Signal Iduna Park Dortmund" },
+    { "file": "musiala_torjubel.jpg",     "search": "Jamal Musiala" },
+    { "file": "musiala_dfb.jpg",          "search": "Jamal Musiala" },
+    { "file": "eberl.jpg",               "search": "Max Eberl FC Bayern München" },
+    { "file": "deutschland_teamfoto.jpg", "search": "DFB Team 2026" },
+    { "file": "fans.jpg",                "search": "DFB Fans" },
+    { "file": "amsterdam.jpg",           "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "musiala_curacao.jpg",     "search": "Jamal Musiala" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KOMPANY vs. KLOPP – wer hat MACHT über MUSIALA?",
+      "image": "musiala_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "SUPERCUP-DRAMA",
+      "title": "Der Musiala-Machtkampf",
+      "image": "signal_iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "kompany.jpg",
+      "name": "Vincent Kompany",
+      "role": "Bayern-Trainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · DFB",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Musialas Krise",
+      "stats": [
+        { "label": "Zusammenbrüche (3 Wochen)", "value": "3" },
+        { "label": "WM-Tore (239 Min.)", "value": "1" }
+      ],
+      "image": "musiala_torjubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala_dfb.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "eberl.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps Countdown",
+      "stats": [
+        { "label": "Tage bis Amsterdam-Debüt", "value": "34" },
+        { "label": "Kandidaten auf Klopp-Liste", "value": "57" }
+      ],
+      "image": "deutschland_teamfoto.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Spielt Musiala am 24. Sept. in Amsterdam?",
+      "subtitle": "Schreibt's in die Kommentare!",
+      "image": "musiala_curacao.jpg",
+      "weight": 1.0
+    }
+  ]
+}
