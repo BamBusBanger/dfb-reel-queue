@@ -1,0 +1,111 @@
+{
+  "slug": "klopp-supercup-ohne-musiala",
+  "createdAt": "2026-08-21T05:36:00Z",
+  "title": "Klopp schaut OHNE Musiala",
+  "script": "MUSIALA FEHLT – ausgerechnet beim ersten Live-Scouting von Bundestrainer Klopp! Bayern lässt den 23-Jährigen wegen neurologischer Dysfunktion zu Hause. Das ist die Riesenchance für diese 3: Felix Nmecha hatte 269 WM-Minuten und will die Sechs unter Klopp besetzen. Serge Gnabry kommt nach monatelangem Adduktorenriss zurück – jetzt oder nie mit 64 Länderspielen. Und Max Beier: 20 Plus Torbeteiligungen, 0 WM-Minuten – er wartet seit Jahren auf diesen Moment. Morgen 20:30 Uhr Signal Iduna Park – wer schreibt sich in Klopps Notizbuch?",
+  "uploadCaption": "Klopp beim Supercup live – aber OHNE Musiala! Wer nutzt jetzt die Chance und sichert sich den September-Kader-Platz?",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #Supercup #Musiala #Nmecha #Gnabry #Beier #BVB #FCBayern #WM2030",
+  "images": [
+    { "file": "musiala_avatar.png",   "search": "Jamal Musiala" },
+    { "file": "signal_iduna.jpg",     "search": "Signal Iduna Park" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "musiala_jubel.webp",   "search": "Jamal Musiala Torjubel DFB" },
+    { "file": "nmecha_avatar.png",    "search": "Felix Nmecha" },
+    { "file": "nmecha_aktion.jpg",    "search": "Felix Nmecha Aktion" },
+    { "file": "gnabry.jpg",           "search": "Serge Gnabry DFB" },
+    { "file": "beier_avatar.png",     "search": "Maximilian Beier" },
+    { "file": "beier_spielszene.jpg", "search": "Max Beier DFB Spielszene" },
+    { "file": "dfb_fans.jpg",         "search": "DFB Fans" },
+    { "file": "dfb_team.jpg",         "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "pyro.jpg",             "search": "Fußball Pyro Stimmung" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "MUSIALA FEHLT – und DIESE 3 wollen seinen Platz!",
+      "image": "musiala_avatar.png",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "SUPERCUP MORGEN · 20:30 UHR",
+      "title": "Klopps erste Scouting-Nacht ohne seinen Star",
+      "image": "signal_iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Tag 7",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_jubel.webp",
+      "name": "Jamal Musiala",
+      "role": "Fällt aus · Neurologische Dysfunktion",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nmecha_avatar.png",
+      "name": "Felix Nmecha",
+      "role": "Mittelfeld · BVB · 25 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Nmecha WM 2026",
+      "stats": [
+        { "label": "Einsätze",    "value": "4" },
+        { "label": "WM-Minuten", "value": "269" },
+        { "label": "Tore",       "value": "1" }
+      ],
+      "image": "nmecha_aktion.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "gnabry.jpg",
+      "name": "Serge Gnabry",
+      "role": "Flügel · Bayern · 64 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beier_avatar.png",
+      "name": "Maximilian Beier",
+      "role": "Stürmer · BVB · 23 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Beier Saison 25/26",
+      "stats": [
+        { "label": "Torbeteiligungen", "value": "20+" },
+        { "label": "WM-Minuten",       "value": "0" },
+        { "label": "Alter",            "value": "23" }
+      ],
+      "image": "beier_spielszene.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer überzeugt Klopp morgen?",
+      "subtitle": "Nmecha, Gnabry oder Beier – kommentier deinen Favoriten!",
+      "image": "pyro.jpg",
+      "weight": 1.0
+    }
+  ]
+}
