@@ -1,0 +1,97 @@
+{
+  "slug": "karl-zweiter-schock-klopp-test",
+  "createdAt": "2026-08-21T19:38:00Z",
+  "title": "Lennart Karl: Zweiter Schock vor Klopps erstem Test",
+  "script": "ER IST WIEDER NICHT DABEI. Lennart Karl, 18 Jahre, Bayerns aufgehender Stern: 5 Bundesliga-Tore, 4 Champions-League-Tore letzte Saison - und trotzdem 0 WM-Minuten. Ein Oberschenkelriss im allerletzten Training vor dem USA-Test zerstörte seinen WM-Traum. Nagelsmann: 'Riesiger Schock.' Ersatz Ouédraogo traf historisch - 102 Sekunden nach Einwechslung, jüngster DFB-Torschütze seit 1954. Jetzt Rückenprobleme - Karl fehlt auch morgen beim Supercup, Klopps ERSTEM Live-Test. 57 Kandidaten, 26 Plätze. Schafft das Wunderkind Klopps September-Kader noch?",
+  "uploadCaption": "Das Wunderkind, das nie spielen darf. Lennart Karl sollte DFB-Zukunft sein - verpasste WM mit Verletzung, jetzt auch Supercup und Klopps ersten Live-Test. In 24 Tagen muss er im September-Kader stehen. Kommt er noch rechtzeitig?",
+  "uploadHashtags": "#DFB #WM2026 #Klopp #LennartKarl #Bundestrainer #Deutschland #Fussball #Nationalmannschaft #Supercup",
+  "images": [
+    { "file": "karl.jpg",         "search": "Lennart Karl" },
+    { "file": "team.jpg",         "search": "DFB Nationalmannschaft 2026" },
+    { "file": "musiala.jpg",      "search": "Jamal Musiala" },
+    { "file": "nagelsmann.jpg",   "search": "Julian Nagelsmann" },
+    { "file": "fans.jpg",         "search": "DFB Fans" },
+    { "file": "ouedraogo.jpg",    "search": "Assan Ouédraogo" },
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park Dortmund" },
+    { "file": "wm_pokal.jpg",     "search": "WM Pokal FIFA Gold" },
+    { "file": "flagge.jpg",       "search": "Deutschland Flagge" },
+    { "file": "fanmeile.jpg",     "search": "DFB Fanmeile Berlin" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER IST WIEDER NICHT DABEI.",
+      "image": "karl.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP-ERSTTEST 22.8.",
+      "title": "Karl fehlt schon wieder",
+      "image": "team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Auch absent: Neurologisch · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Ex-Trainer · Riesiger Schock",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Karls letzte Saison",
+      "stats": [
+        { "label": "Bundesliga-Tore", "value": "5" },
+        { "label": "CL-Tore", "value": "4" },
+        { "label": "WM-Minuten", "value": "0" }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Karls Ersatz · 102-Sek.-Tor · 20",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Debüt 24.9. Amsterdam",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "signal_iduna.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Karls Comeback oder Klopp-Aus?",
+      "subtitle": "September-Kader in 24 Tagen",
+      "image": "fanmeile.jpg",
+      "weight": 1.0
+    }
+  ]
+}

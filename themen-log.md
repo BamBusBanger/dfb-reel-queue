@@ -441,3 +441,4 @@
 2026-08-21 | kompany-klopp-musiala-machtkampf | Kompany bestätigt Musiala-Ausfall Supercup neurologische Absencen Medikamentenwechsel, Klopp 34 Tage bis Amsterdam-Debüt September-Kader 24 Tage, Eberl zurück-in-den-Zustand (DUELL/VERGLEICH)
 2026-08-21 | klopp-48h-scouting-marathon | Klopp 48h-Scouting-Wochenende: Supercup 22.8. Dortmund 8 DFB-Kandidaten + Liverpool PL 23.8. Wirtz/Woltemade, 14 Spieler live 48 Stunden, Musiala fehlt neurologisch, Gnabry Comeback 5 Monate, Nmecha Wiedergutmachung, 26 Plätze 57 Kandidaten (NEWS-DRAMA)
 2026-08-21 | terstegen-ajax-geheimplan | Ter Stegen Leihe Ajax 2026/27, 48 LS verletzt WM verpasst, Barça degradiert, Geheimplan DFB-Nr.1 unter Klopp, 34J. vs Atubolu/Baumann/Nübel, Amsterdam-Debüt 24.9. (GEHEIMNIS)
+2026-08-21 | karl-zweiter-schock-klopp-test | Lennart Karl Rückenprobleme Supercup-Ausfall Klopps ERSTER Live-Test 22.8., WM verpasst Oberschenkel 102-Sek-Tor Ouédraogo, 57 Kandidaten 26 Plätze September-Kader (NEWS-DRAMA)
