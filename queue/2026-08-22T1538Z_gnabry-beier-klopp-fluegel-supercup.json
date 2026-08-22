@@ -1,0 +1,91 @@
+{
+  "slug": "gnabry-beier-klopp-fluegel-supercup",
+  "createdAt": "2026-08-22T15:38:00Z",
+  "title": "Gnabry vs. Beier – Klopp wählt heute Nacht",
+  "script": "KLOPP WÄHLT HEUTE NACHT! Signal Iduna Park, 20:30 Uhr – auf der Tribüne sitzt ein Mann, der jeden Spieler röntgt. Serge Gnabry: 31 Jahre, 64 Länderspiele, 5 Monate Pause nach Adduktorenriss – jetzt will er beweisen, dass er Klopps Rechtsaußen ist. Maximilian Beier: 23 Jahre, über 20 Torbeteiligungen, null WM-Minuten – der hungrige Junge, der seinen Platz im September-Kader erzwingen will. Nur EINER bekommt den rechten Flügel im 4-3-3. Und du – auf wen setzt DU?",
+  "uploadCaption": "Klopp schaut heute beim Supercup zu – und entscheidet, wer im September-Kader steht. Gnabry (31, 5 Monate verletzt) oder Beier (23, 20+ Torbeteiligungen)? Nur einer bekommt den rechten Flügel. 👀⚽",
+  "uploadHashtags": "#DFB #Supercup #Gnabry #Beier #Klopp #WM2026 #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "gnabry.jpg",       "search": "Serge Gnabry" },
+    { "file": "beier.jpg",        "search": "Maximilian Beier" },
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg", "search": "Signal Iduna Park Dortmund" },
+    { "file": "nmecha.jpg",       "search": "Felix Nmecha" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "dfb_flagge.jpg",   "search": "Deutschland Flagge" },
+    { "file": "beier_dfb.jpg",    "search": "Maximilian Beier DFB" },
+    { "file": "fans.jpg",         "search": "Fußballfans Deutschland" },
+    { "file": "fans_pyro.jpg",    "search": "Fans Stimmung Pyro" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP WÄHLT HEUTE NACHT.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "SUPERCUP 22. AUGUST",
+      "title": "Gnabry vs. Beier",
+      "image": "signal_iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "gnabry.jpg",
+      "name": "Serge Gnabry",
+      "role": "Bayern · Rechtsaußen · 31 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beier.jpg",
+      "name": "Maximilian Beier",
+      "role": "BVB · Flügelstürmer · 23 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopp-Casting Rechtsflügel",
+      "stats": [
+        { "label": "Gnabry Länderspiele", "value": "64" },
+        { "label": "Beier Torbeteiligungen 25/26", "value": "20+" },
+        { "label": "Gnabry-Pause nach Verletzung", "value": "5 Monate" }
+      ],
+      "image": "dfb_flagge.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · Bayern · 109 LS",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nmecha.jpg",
+      "name": "Felix Nmecha",
+      "role": "BVB · Mittelfeld · 269 WM-Min",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beier_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Gnabry oder Beier?",
+      "subtitle": "Kommentier deine Wahl!",
+      "image": "fans_pyro.jpg",
+      "weight": 1.0
+    }
+  ]
+}
