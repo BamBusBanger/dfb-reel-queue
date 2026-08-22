@@ -1,0 +1,99 @@
+{
+  "slug": "atubolu-verzockt-dfb-risiko",
+  "createdAt": "2026-08-22T12:36:00Z",
+  "title": "Atubolu im Transfer-Poker: DFB-Karriere auf dem Spiel",
+  "script": "STOPP! Klopps Wunsch-Keeper spielt in dieser Saison nirgends. Noah Atubolu, 24 Jahre alt, 25 Millionen Euro Marktwert – Deutschlands wertvollster Torwart. Freiburg ersetzte ihn durch Rekord-Neuzugang Mio Backhaus für 12 Millionen Euro. Eintracht Frankfurt wartet mit Stammplatz und DFB-Perspektive – doch Freiburg fordert 15 Millionen Ablöse. Der Transfer-Poker läuft, während Jürgen Klopp seinen ersten September-Kader in weniger als 3 Wochen nominiert. Ohne Stammplatz: keine Chance auf Amsterdam. Hat Atubolu zu lange gewartet?",
+  "uploadCaption": "Klopps heißester Torwart-Kandidat spielt diese Saison womöglich nirgends! Noah Atubolu (24) wurde bei SC Freiburg durch Rekord-Neuzugang Mio Backhaus für 12 Mio. € ersetzt. Eintracht Frankfurt wartet mit Stammplatz und DFB-Perspektive – aber Freiburg fordert 15 Mio. Ablöse. In weniger als 3 Wochen nominiert Klopp seinen ersten September-Kader für Amsterdam. Die Zeit läuft ab.",
+  "uploadHashtags": "#DFB #Atubolu #Klopp #Bundesliga #Torwart #WM2030 #EintrachtFrankfurt #Fussball",
+  "images": [
+    { "file": "atubolu.jpg",           "search": "Noah Atubolu" },
+    { "file": "atubolu_aktion.jpg",    "search": "Noah Atubolu Freiburg Torwart" },
+    { "file": "backhaus.jpg",          "search": "Mio Backhaus SC Freiburg" },
+    { "file": "wm2026_logo.jpg",       "search": "WM 2026 Logo FIFA" },
+    { "file": "eintracht_frankfurt.jpg","search": "Eintracht Frankfurt Deutsche Bank Park" },
+    { "file": "neuer.jpg",             "search": "Manuel Neuer" },
+    { "file": "baumann.jpg",           "search": "Oliver Baumann" },
+    { "file": "nuebel.jpg",            "search": "Alexander Nübel" },
+    { "file": "entsetzen_fans.jpg",    "search": "Public Viewing Fans Enttäuschung" },
+    { "file": "deutschland_fans.jpg",  "search": "Deutschland Fans Fussball Stadion" },
+    { "file": "metlife.jpg",           "search": "MetLife Stadium WM 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPPS WUNSCH-KEEPER SPIELT NIRGENDS!",
+      "image": "atubolu.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB-TORWART-KRISE",
+      "title": "Atubolu im Transfer-Poker",
+      "image": "wm2026_logo.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "atubolu_aktion.jpg",
+      "name": "Noah Atubolu",
+      "role": "Torwart · 24 J. · SC Freiburg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "backhaus.jpg",
+      "name": "Mio Backhaus",
+      "role": "SC Freiburg · Neue Nr. 1 · 12 Mio. €",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Transfer-Poker in Zahlen",
+      "stats": [
+        { "label": "Atubolu Marktwert", "value": "25 Mio. €" },
+        { "label": "Backhaus-Ablöse Freiburg", "value": "12 Mio. €" },
+        { "label": "Freiburgs Forderung", "value": "15 Mio. €" }
+      ],
+      "image": "eintracht_frankfurt.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "neuer.jpg",
+      "name": "Manuel Neuer",
+      "role": "DFB-Nr. 1 · Karriere beendet",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "baumann.jpg",
+      "name": "Oliver Baumann",
+      "role": "Torwart-Konkurrent · 36 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nuebel.jpg",
+      "name": "Alexander Nübel",
+      "role": "Torwart · Besiktas Istanbul",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "entsetzen_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Atubolu noch die Kurve?",
+      "subtitle": "Euer Vote in den Kommentaren!",
+      "image": "metlife.jpg",
+      "weight": 1.0
+    }
+  ]
+}
