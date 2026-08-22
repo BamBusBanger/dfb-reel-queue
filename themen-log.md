@@ -443,3 +443,4 @@
 2026-08-21 | terstegen-ajax-geheimplan | Ter Stegen Leihe Ajax 2026/27, 48 LS verletzt WM verpasst, Barça degradiert, Geheimplan DFB-Nr.1 unter Klopp, 34J. vs Atubolu/Baumann/Nübel, Amsterdam-Debüt 24.9. (GEHEIMNIS)
 2026-08-21 | karl-zweiter-schock-klopp-test | Lennart Karl Rückenprobleme Supercup-Ausfall Klopps ERSTER Live-Test 22.8., WM verpasst Oberschenkel 102-Sek-Tor Ouédraogo, 57 Kandidaten 26 Plätze September-Kader (NEWS-DRAMA)
 2026-08-22 | supercup-klopp-dfb-drei-fragen | Klopp erstmals Bundestrainer Signal Iduna Park Supercup BVB vs Bayern, 3 DFB-Fragen Kimmich RV/Sechser 109LS Nmecha Rekordtor/Elfmeter 269WM-Min Pavlovic 28LS Bayern (TOP-3-LISTE)
+2026-08-22 | wirtz-zehn-geheimnis-liverpool | Iraola enthüllt Wirtz als echter Zehner bei Liverpool ab PL-Auftakt 23.8. vs Newcastle, Slot hatte ihn falsch links eingesetzt, 0 WM-Tore 360 Min 125 Mio. Pfund, 7 Tore 8 Vorlagen trotz Fehlposition Saison 1, Klopp beobachtet DFB 2030 (GEHEIMNIS)

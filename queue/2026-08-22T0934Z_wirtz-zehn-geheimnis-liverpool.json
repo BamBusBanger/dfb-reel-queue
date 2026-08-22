@@ -1,0 +1,103 @@
+{
+  "slug": "wirtz-zehn-geheimnis-liverpool",
+  "createdAt": "2026-08-22T09:34:00Z",
+  "title": "Wirtz' Geheimnis gelüftet: Endlich Zehner bei Liverpool",
+  "script": "0 Tore in 360 WM-Minuten. 125 Millionen Pfund – und jetzt kommt die Erklärung! Liverpool-Coach Iraola enthüllt: Wirtz spielt ab sofort als echter Zehner – nicht mehr links außen, wo Slot ihn falsch einsetzte. Mit 7 Toren und 8 Vorlagen in Saison 1 schon bemerkenswert trotz Fehlposition. Morgen, 23. August, Premier-League-Auftakt gegen Newcastle: das Experiment startet live. Klopp beobachtet aus der Ferne. Für DFB 2030 könnte das alles verändern – ist Wirtz jetzt endlich am richtigen Ort?",
+  "uploadCaption": "Das war das Problem! Iraola enthüllt: Florian Wirtz wird Liverpools echter Zehner – und das ändert alles für Klopp und die DFB-Zukunft! Morgen PL-Auftakt gegen Newcastle.",
+  "uploadHashtags": "#FloWirtz #Liverpool #DFB #WM2030 #Klopp #PremierLeague #Nationalmannschaft",
+  "images": [
+    { "file": "wirtz_portrait.jpg",    "search": "Florian Wirtz Leverkusen" },
+    { "file": "wirtz_training.jpg",    "search": "Florian Wirtz Training Liverpool" },
+    { "file": "iraola.jpg",            "search": "Andoni Iraola Liverpool" },
+    { "file": "wirtz_presse.jpg",      "search": "Florian Wirtz Presse" },
+    { "file": "wirtz_zweikampf.jpg",   "search": "Florian Wirtz Zweikampf" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "wirtz_jubel.jpg",       "search": "Florian Wirtz Jubel DFB" },
+    { "file": "musiala.jpg",           "search": "Jamal Musiala" },
+    { "file": "fans.jpg",              "search": "DFB Fans" },
+    { "file": "pokal.jpg",             "search": "WM Pokal" },
+    { "file": "wirtz_dfb.jpg",         "search": "Florian Wirtz DFB" },
+    { "file": "fans2.jpg",             "search": "DFB Fans Fanmeile" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "0 WM-TORE. 125 MIO. PFUND. DAS STECKT DAHINTER!",
+      "image": "wirtz_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB & LIVERPOOL 2026",
+      "title": "Wirtz' Geheimnis enthüllt",
+      "image": "wirtz_training.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "iraola.jpg",
+      "name": "Andoni Iraola",
+      "role": "Liverpool-Cheftrainer 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_presse.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23 | Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wirtz bei WM 2026",
+      "stats": [
+        { "label": "Tore", "value": "0" },
+        { "label": "Minuten", "value": "360" },
+        { "label": "Ablöse", "value": "125 Mio. £" }
+      ],
+      "image": "wirtz_zweikampf.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "DFB-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern · 1 WM-Tor in 239 Min.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wird Wirtz DFBs Schlüssel 2030?",
+      "subtitle": "Kommentiere deine Meinung!",
+      "image": "fans2.jpg",
+      "weight": 1.0
+    }
+  ]
+}
