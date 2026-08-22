@@ -1,0 +1,93 @@
+{
+  "slug": "brown-zehner-supercup-klopp",
+  "createdAt": "2026-08-22T19:34:00Z",
+  "title": "Brown auf der Zehn – Klopp schaut zu",
+  "script": "Warte mal – Nathaniel Brown, DFB-Linksverteidiger, steht heute beim Supercup plötzlich auf der ZEHN! Kompany rückte ihn ins Zentrum, weil Gnabry, Karl und Musiala alle verletzt fehlen. Browns Reaktion: Tor in der 28. Minute – 1:0 für Bayern. Auf der Tribüne in Dortmund: Jürgen Klopp, beim allerersten Live-Scouting als Bundestrainer. Kaum einer hat das gemerkt. Brown hat jetzt 3 Tore in 3 Bayern-Pflichtspielen – als Verteidiger UND als Zehner. Was macht Klopp daraus?",
+  "uploadCaption": "Nathaniel Brown spielt heute im Supercup als Zehner und trifft – Klopp schaut live zu! Was bedeutet das für die DFB-Zukunft?",
+  "uploadHashtags": "#DFB #NathanielBrown #Supercup #Klopp #Bayern #BVB #WM2030 #Bundesliga",
+  "images": [
+    { "file": "brown_dfb.png",       "search": "Nathaniel Brown DFB" },
+    { "file": "brown_szene.jpg",     "search": "Nathaniel Brown Spielszene DFB" },
+    { "file": "brown_jubel.jpg",     "search": "Nathaniel Brown Jubel DFB" },
+    { "file": "brown_supercup.jpg",  "search": "Nathaniel Brown Bayern Supercup 2026" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg",    "search": "Signal Iduna Park" },
+    { "file": "fans_jubel.jpg",      "search": "Fans jubel Stadion" },
+    { "file": "pyro.jpg",            "search": "Pyro Stimmung Tribüne" },
+    { "file": "klopp_scouting.jpg",  "search": "Jürgen Klopp Signal Iduna Park Supercup 2026" },
+    { "file": "zehn_taktik.jpg",     "search": "Zehner Taktik Fußball Positionskarte", "thematic": true },
+    { "file": "fans_tribuene.jpg",   "search": "Fans Tribüne Stadion Deutschland" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER SPIELT AUF DER ZEHN?!",
+      "image": "brown_dfb.png",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "Supercup · 22. August 2026",
+      "title": "Browns geheime Zehn-Rolle",
+      "image": "signal_iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "brown_szene.jpg",
+      "name": "Nathaniel Brown",
+      "role": "Bayern München · 23 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Brown in Zahlen",
+      "stats": [
+        { "label": "Saisontore Bayern", "value": "3" },
+        { "label": "Tor-Minute Supercup", "value": "28." },
+        { "label": "Klopp-Scouting", "value": "Tag 8" }
+      ],
+      "image": "brown_supercup.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · 1. Live-Scouting",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "brown_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "zehn_taktik.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp_scouting.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pyro.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_tribuene.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Spielt Brown bei Klopp auch auf der Zehn?",
+      "subtitle": "Kommentiere deine Meinung!",
+      "image": "fans_jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}
