@@ -1,0 +1,39 @@
+{
+  "slug": "goretzka-aston-villa-dfb-comeback",
+  "createdAt": "2026-08-22T17:39:08Z",
+  "title": "Goretzka zu Aston Villa – DFB-Comeback?",
+  "script": "SCHOCK! Leon Goretzka – 70 Länderspiele, Champions-League-Sieger 2020, 304 Bayern-Spiele – wechselt ablösefrei zu Aston Villa! Juventus, Arsenal und AC Milan hatten alle angeklopft, aber er wählt Emerys Premier-League-Club. Dabei hatte er bei der WM 2026 nur 27 Bankminuten, während Kimmich, Pavlović und Nmecha spielten. Jetzt ist der 31-Jährige wieder in der besten Liga der Welt – und Klopp hat 57 Kandidaten für den September-Kader. Schreibt Goretzka seine Geschichte neu?",
+  "uploadCaption": "Goretzka zu Aston Villa! 304 Bayern-Spiele, 70 Länderspiele, 0 € Ablöse – DFB-Comeback unter Klopp möglich? 🔥",
+  "uploadHashtags": "#DFB #Goretzka #AstonVilla #Klopp #WM2030 #Bundesliga #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "goretzka_training.jpg", "search": "Leon Goretzka" },
+    { "file": "goretzka_avatar.jpg", "search": "Leon Goretzka" },
+    { "file": "villa_park.jpg", "search": "Aston Villa Stadium 2026" },
+    { "file": "emery.jpg", "search": "Unai Emery Aston Villa" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "dfb_team.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "flagge.jpg", "search": "Deutschland Flagge" },
+    { "file": "pavlovic.jpg", "search": "Aleksandar Pavlović" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal Gold" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "SCHOCK! GORETZKA ZU ASTON VILLA!", "image": "goretzka_training.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "NEWS 22.8.2026", "title": "Goretzka ablösefrei nach England", "image": "villa_park.jpg", "weight": 0.7 },
+    { "type": "image", "image": "goretzka_avatar.jpg", "name": "Leon Goretzka", "role": "Mittelfeld · 31 · 70 Länderspiele", "weight": 0.8 },
+    { "type": "stats", "title": "Goretzka in Zahlen", "stats": [
+        { "label": "Bayern-Spiele", "value": "304" },
+        { "label": "Länderspiele", "value": "70" },
+        { "label": "CL-Titel", "value": "2020" },
+        { "label": "WM-Bankminuten", "value": "27" }
+      ], "image": "dfb_team.jpg", "weight": 0.9 },
+    { "type": "image", "image": "emery.jpg", "name": "Unai Emery", "role": "Trainer · Aston Villa", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · DFB", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "flagge.jpg", "weight": 0.8 },
+    { "type": "image", "image": "pavlovic.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Goretzka im September-Kader – verdient?", "subtitle": "Kommentiere: JA oder NEIN ⬇️", "image": "wm_pokal.jpg", "weight": 1.0 }
+  ]
+}
