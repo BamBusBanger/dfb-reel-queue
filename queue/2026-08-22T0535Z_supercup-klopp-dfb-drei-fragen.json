@@ -1,0 +1,101 @@
+{
+  "slug": "supercup-klopp-dfb-drei-fragen",
+  "createdAt": "2026-08-22T05:35:00Z",
+  "title": "3 DFB-Fragen die der Supercup heute beantwortet",
+  "script": "HEUTE ABEND! Klopp kehrt erstmals als Bundestrainer zum Signal Iduna Park zurück – 7 Jahre war das sein Zuhause. 33 Tage bis zur Kader-Nominierung. 3 Fragen brennen heute: 1. Kimmich: 109 Länderspiele – aber RV oder Sechser? Bayern spielt ihn rechts hinten. Klopp will ihn ins Zentrum. 2. Nmecha: Rekordtor in Minute 6, Elfmeter-Sünder – 269 WM-Minuten beweisen was? 3. Pavlović: 28 Länderspiele, WM-Enttäuschung gegen die Elfenbeinküste – heute letzte Bewerbung. Wer überzeugt Klopp heute Abend?",
+  "uploadCaption": "HEUTE ABEND: Klopp ist zum ersten Mal als Bundestrainer im Stadion – das große DFB-Casting beginnt! Kimmich als RV oder Sechser? Nmecha Konstanz oder Enttäuschung? Pavlović letzte Bewerbung? 33 Tage bis zur Kader-Nominierung. Signal Iduna Park, 20:30 Uhr.",
+  "uploadHashtags": "#DFB #Klopp #Supercup #BVBBayern #Bundestrainer #WM2030 #Fussball #Kimmich #Nmecha #Pavlovic #SignalIdunaPark",
+  "images": [
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg",    "search": "Signal Iduna Park" },
+    { "file": "dfb_team.jpg",        "search": "DFB Nationalmannschaft" },
+    { "file": "kimmich.jpg",         "search": "Joshua Kimmich" },
+    { "file": "kimmich_training.jpg","search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "nmecha.jpg",          "search": "Felix Nmecha" },
+    { "file": "pavlovic.jpg",        "search": "Aleksandar Pavlović" },
+    { "file": "dfb_fans.jpg",        "search": "DFB Fans" },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal" },
+    { "file": "dfb_flagge.jpg",      "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "HEUTE ABEND – KLOPP IST DA!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "Supercup 22.8. · Signal Iduna Park",
+      "title": "3 DFB-Fragen – live beantwortet",
+      "image": "signal_iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Tag 8",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "signal_iduna.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Zahlen zählen",
+      "stats": [
+        { "label": "Tage bis Kader-Nominierung", "value": "33" },
+        { "label": "Kimmich Länderspiele", "value": "109" },
+        { "label": "Nmecha WM-Minuten", "value": "269" }
+      ],
+      "image": "dfb_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · RV oder Sechser?",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich_training.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nmecha.jpg",
+      "name": "Felix Nmecha",
+      "role": "BVB · Rekordtor Min. 6 · 269 WM-Min",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pavlovic.jpg",
+      "name": "Aleksandar Pavlović",
+      "role": "Bayern · 28 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer überzeugt Klopp?",
+      "subtitle": "Kimmich als RV oder Sechser – was denkst du?",
+      "image": "dfb_flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
