@@ -1,0 +1,34 @@
+{
+  "slug": "nmecha-vs-pavlovic-supercup-klopp",
+  "createdAt": "2026-08-23T12:34:00Z",
+  "title": "Nmecha vs. Pavlović – Klopps Supercup-Test",
+  "script": "KLOPP SCHAUT LIVE ZU – und genau das macht dieses Spiel besonders. Beckenbauer-Supercup, Signal Iduna Park, 22. August 2026: Bayern München schlägt Borussia Dortmund 2:1. Im Mittelfeld stehen sich zwei DFB-Kandidaten gegenüber: Felix Nmecha – 25 Jahre, BVB, frühestes deutsches WM-Tor der letzten 20 Jahre in der 6. Minute beim 7:1 – versus Aleksandar Pavlović – nur 22 Jahre, Bayern, 28 Länderspiele, Siegerseite. Klopp saß live auf der Tribüne, Tag 8 im Amt. Bis September hat er 57 Kandidaten für 26 Plätze. Wer verdient das Ticket?",
+  "uploadCaption": "Klopp saß auf der Tribüne und scoutete live: Nmecha gegen Pavlović – das direkte Mittelfeld-Duell im Supercup 2026 (Dortmund 1:2 Bayern) könnte über Klopps ersten September-Kader entscheiden. 57 Kandidaten, 26 Plätze.",
+  "uploadHashtags": "#DFB #Klopp #WM2030 #Nmecha #Pavlovic #Supercup2026 #Bundestrainer #Fussball",
+  "images": [
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg",  "search": "Signal Iduna Park Dortmund" },
+    { "file": "nmecha.jpg",        "search": "Felix Nmecha" },
+    { "file": "pavlovic.jpg",      "search": "Aleksandar Pavlović" },
+    { "file": "supercup.jpg",      "search": "Supercup 2026 Dortmund Bayern Spielszene" },
+    { "file": "nmecha_aktion.jpg", "search": "Felix Nmecha" },
+    { "file": "pavlovic_szene.jpg","search": "Aleksandar Pavlović Bayern" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich" },
+    { "file": "fans.jpg",          "search": "DFB Fans" },
+    { "file": "jubel.jpg",         "search": "Fans Jubel Stadion" },
+    { "file": "dfb_flagge.jpg",    "search": "Deutschland Flagge schwarz rot gold" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "KLOPP SCHAUT LIVE ZU –\nWER ÜBERZEUGT?", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "SUPERCUP · 22.8.2026", "title": "Nmecha vs. Pavlović", "image": "signal_iduna.jpg", "weight": 0.7 },
+    { "type": "image", "image": "nmecha.jpg",         "name": "Felix Nmecha",        "role": "Mittelfeld · 25 · BVB",        "weight": 0.8 },
+    { "type": "image", "image": "pavlovic.jpg",       "name": "Aleksandar Pavlović", "role": "Sechser · 22 · Bayern",        "weight": 0.8 },
+    { "type": "stats", "title": "SUPERCUP-DUELL", "stats": [{"label": "Dortmund", "value": "1:2"}, {"label": "Klopp live", "value": "Tag 8"}, {"label": "Kandidaten", "value": "57 → 26"}], "image": "supercup.jpg", "weight": 0.9 },
+    { "type": "image", "image": "nmecha_aktion.jpg",  "name": "Felix Nmecha",        "role": "WM-Rekordtor · 6. Min · 7:1", "weight": 0.8 },
+    { "type": "image", "image": "pavlovic_szene.jpg", "name": "Aleksandar Pavlović", "role": "28 Länderspiele · Siegerseite","weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",        "name": "Joshua Kimmich",      "role": "109 Länderspiele · Doppel-6", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",            "weight": 0.8 },
+    { "type": "image", "image": "jubel.jpg",           "weight": 0.8 },
+    { "type": "outro", "title": "Wer startet in Klopps September-Kader?", "subtitle": "Nmecha oder Pavlović – kommentier jetzt!", "image": "dfb_flagge.jpg", "weight": 1.0 }
+  ]
+}

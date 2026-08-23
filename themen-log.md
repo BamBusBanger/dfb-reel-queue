@@ -450,3 +450,4 @@
 2026-08-22 | brown-zehner-supercup-klopp | Brown als Bayern-Zehner Supercup Tor 28. Min 1:0, Kompany-Experiment, Klopp erstes Live-Scouting Tag 8 Dortmund, 3 Saisontore DFB-Linksverteidiger (GEHEIMNIS)
 2026-08-23 | wirtz-woltemade-liverpool-heute | Wirtz erstmals als Zehner + Woltemade Liverpool PL-Auftakt heute Newcastle St. James' Park 17:30 Uhr, Klopp schaut live zu, September-Nominierung in 23 Tagen (TOP-3-LISTE)
 2026-08-23 | wirtz-liverpoolsieg-woltemade-null | Wirtz 4:1 Newcastle 1 Assist + 1 Tor als Zehner, Woltemade 0 Tore in 11 Spielen Joker 73. Min, Klopp schaut live zu September-Kader 23 Tage (NEWS-DRAMA)
+2026-08-23 | nmecha-vs-pavlovic-supercup-klopp | Nmecha BVB vs Pavlović Bayern Supercup 22.8. Klopp Live-Scouting Tag 8, Dortmund 1:2, 57 Kandidaten 26 Plätze September-Kader (DUELL/VERGLEICH)
