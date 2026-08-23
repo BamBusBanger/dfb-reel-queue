@@ -1,0 +1,108 @@
+{
+  "slug": "klopp-scouting-top3-hits",
+  "createdAt": "2026-08-23T19:34:00Z",
+  "title": "Klopps Top-3 Scouting-Hits",
+  "script": "KLOPP HAT GESCOUTET – 3 DFB-Stars haben ihn ÜBERZEUGT! 48 Stunden, 2 Stadien, 14 Kandidaten live beobachtet. Nummer 3: Nathaniel Brown – Supercup-Tor Minute 28, sogar als Zehner eingesetzt, schon 3 Saisontore. Nummer 2: Maximilian Beier – BVB-Flügelstürmer beeindruckte trotz 1:2-Niederlage, über 20 Torbeteiligungen letzte Saison. Nummer 1: Florian Wirtz – 1 Tor, 1 Assist beim 4:1 gegen Newcastle als echter Zehner. Klopp schaut live zu. 23 Tage bis zur September-Nominierung. Wer fehlt in deiner Liste?",
+  "uploadCaption": "Klopp scoutete 48 Stunden lang 14 DFB-Kandidaten live – das sind seine 3 Gewinner! Wirtz als Zehner endlich befreit, Brown mit Supercup-Tor und Beier überzeugend trotz BVB-Niederlage. 23 Tage bis zur September-Nominierung. Wer fehlt in der Liste?",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #WM2030 #Supercup #Wirtz #Beier #NationsLeague #Fussball",
+  "images": [
+    { "file": "klopp.jpg",    "search": "Jürgen Klopp" },
+    { "file": "supercup.jpg", "search": "Signal Iduna Park" },
+    { "file": "brown.jpg",    "search": "Nathaniel Brown" },
+    { "file": "beier.jpg",    "search": "Maximilian Beier" },
+    { "file": "wirtz.jpg",    "search": "Florian Wirtz" },
+    { "file": "nmecha.jpg",   "search": "Felix Nmecha" },
+    { "file": "fans.jpg",     "search": "DFB Fans Stadion" },
+    { "file": "jubel.jpg",    "search": "DFB Jubel Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP HAT GESCOUTET!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "48h · 2 Stadien · 14 Kandidaten",
+      "title": "Klopps Top-3 Scouting-Hits",
+      "image": "supercup.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "brown.jpg",
+      "name": "Nathaniel Brown",
+      "role": "#3 · LV/Zehner · FC Bayern · 23 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Brown – Supercup-Star",
+      "stats": [
+        { "label": "Saisontore", "value": "3" },
+        { "label": "Supercup-Tor", "value": "28. Min" }
+      ],
+      "image": "brown.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "beier.jpg",
+      "name": "Maximilian Beier",
+      "role": "#2 · Flügel · BVB · 23 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Beier – Dortmund-Rakete",
+      "stats": [
+        { "label": "Torbeteiligungen", "value": "20+" },
+        { "label": "Saison", "value": "2025/26" }
+      ],
+      "image": "beier.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "#1 · Zehner · Liverpool · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wirtz – PL-Gala",
+      "stats": [
+        { "label": "Tore + Assists", "value": "1 + 1" },
+        { "label": "Liverpool-Sieg", "value": "4:1" }
+      ],
+      "image": "wirtz.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "nmecha.jpg",
+      "name": "Felix Nmecha",
+      "role": "DFB-Kandidat · BVB · 25 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer fehlt in Klopps Top-3?",
+      "subtitle": "Schreib es in die Kommentare!",
+      "image": "jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}

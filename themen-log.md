@@ -453,3 +453,4 @@
 2026-08-23 | nmecha-vs-pavlovic-supercup-klopp | Nmecha BVB vs Pavlović Bayern Supercup 22.8. Klopp Live-Scouting Tag 8, Dortmund 1:2, 57 Kandidaten 26 Plätze September-Kader (DUELL/VERGLEICH)
 2026-08-23 | pejcinovic-vfb-klopp-anruf-fix | Pejčinović erster bestätigter Klopp-Debütant, Klopp informierte VfB Stuttgart persönlich, 12 Tore Wolfsburg trotz Abstieg, 25 Mio € Ablöse, Linksfuß 1,90m 21J, Traum-Einstand VfB, 23 Tage bis September-Nominierung, Amsterdam-Debüt 24.9. (GEHEIMNIS)
 2026-08-23 | mertesacker-dfb-boss-2027 | Per Mertesacker DFB-Geschäftsführer Sport ab 1.1.2027, 41J. Weltmeister 2014 96LS Arsenal-Academy, Klopp-Verbündeter Vertrag bis 2030, Rettig-Nachfolger, Traumduo WM 2030 (NEWS-DRAMA)
+2026-08-23 | klopp-scouting-top3-hits | Klopps Top-3 Scouting-Gewinner erstes Wochenende als Bundestrainer: Brown Supercup-Tor, Beier BVB-Auftritt, Wirtz 1 Tor 1 Assist Liverpool 4:1 Newcastle (TOP-3-LISTE)
