@@ -1,0 +1,36 @@
+{
+  "slug": "mertesacker-dfb-boss-2027",
+  "createdAt": "2026-08-23T17:37:00Z",
+  "title": "Mertesacker übernimmt DFB-Führung 2027",
+  "script": "DFB macht's offiziell: Per Mertesacker – Weltmeister 2014, 96 Länderspiele – wird ab 1. Januar 2027 neuer Geschäftsführer Sport und damit Klopps mächtigster Verbündeter im DFB. Der 41-Jährige führte zuletzt die Arsenal-Akademie und bekommt einen Vertrag bis 2030 – exakt wie Klopp selbst. Rettig bleibt noch bis Ende 2026 für die saubere Übergabe. Zwei WM-Sieger von 2014 bauen jetzt den DFB komplett neu auf. Die Frage bleibt: Reicht das endlich für Stern Nummer 5?",
+  "uploadCaption": "OFFIZIELL: Per Mertesacker (41) übernimmt ab 1.1.2027 als DFB-Geschäftsführer Sport – Weltmeister 2014, Arsenal-Academy-Chef, Vertrag bis 2030. Das Traumduo Klopp + Mertesacker für WM 2030 steht!",
+  "uploadHashtags": "#DFB #Mertesacker #Klopp #WM2030 #Nationalmannschaft #Fussball #Deutschland",
+  "images": [
+    { "file": "mertesacker.jpg",         "search": "Per Mertesacker DFB" },
+    { "file": "mertesacker_arsenal.jpg", "search": "Per Mertesacker Arsenal Academy" },
+    { "file": "mertesacker_wm2014.jpg",  "search": "Per Mertesacker Weltmeister 2014 Deutschland" },
+    { "file": "klopp.jpg",               "search": "Jürgen Klopp" },
+    { "file": "pokal.jpg",               "search": "WM Pokal 2014" },
+    { "file": "teamfoto.jpg",            "search": "DFB Nationalmannschaft 2026" },
+    { "file": "rettig.jpg",              "search": "Andreas Rettig DFB" },
+    { "file": "kimmich.jpg",             "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",               "search": "Florian Wirtz" },
+    { "file": "fans.jpg",                "search": "DFB Fans" },
+    { "file": "wm2026_logo.jpg",         "search": "WM 2026" },
+    { "file": "wm2030.jpg",              "search": "WM 2030 Europa Stadion Vision", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "DFB macht's OFFIZIELL – er soll Klopp zum WM-Titel führen!", "image": "mertesacker.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB NEWS", "title": "Mertesacker übernimmt 2027", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "mertesacker_arsenal.jpg", "name": "Per Mertesacker", "role": "Ehem. Arsenal-Academy-Leiter · 41 Jahre", "weight": 0.8 },
+    { "type": "image", "image": "mertesacker_wm2014.jpg",  "name": "Per Mertesacker", "role": "Weltmeister 2014 · 96 Länderspiele", "weight": 0.8 },
+    { "type": "stats", "title": "Mertesacker in Zahlen", "stats": [{ "label": "Länderspiele", "value": "96" }, { "label": "WM-Titel", "value": "1 (2014)" }, { "label": "Vertrag bis", "value": "2030" }], "image": "pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "teamfoto.jpg",   "weight": 0.8 },
+    { "type": "image", "image": "rettig.jpg",     "name": "Andreas Rettig", "role": "DFB-Geschäftsführer Sport · bis Ende 2026", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",    "name": "Joshua Kimmich", "role": "DFB-Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",      "name": "Florian Wirtz", "role": "Offensiv · Klopps WM-2030-Hoffnung", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",       "weight": 0.8 },
+    { "type": "image", "image": "wm2026_logo.jpg","weight": 0.8 },
+    { "type": "outro", "title": "Klopp + Mertesacker = Stern Nr. 5?", "subtitle": "Ja oder Nein – kommentiere jetzt!", "image": "wm2030.jpg", "weight": 1.0 }
+  ]
+}
