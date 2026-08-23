@@ -1,0 +1,95 @@
+{
+  "slug": "wirtz-liverpoolsieg-woltemade-null",
+  "createdAt": "2026-08-23T09:33:00Z",
+  "title": "Wirtz zerstört Newcastle – Woltemade weiter null",
+  "script": "KLOPP SCHAUT LIVE ZU – und das sieht er: Wirtz als echter Zehner, 1 Assist, 1 Tor, Liverpool dreht das Spiel auf 4:1 gegen Newcastle. 125 Millionen Pfund Investition – das zahlt sich aus. Und dann Woltemade: 75 Millionen Euro teuer, Joker ab Minute 73, kein Tor, kein Assist. In 11 Spielen für Liverpool traf der Stürmer noch kein einziges Mal. Der September-Kader kommt in 23 Tagen. Schreibt Klopp seinen 75-Millionen-Stürmer schon ab?",
+  "uploadCaption": "Wirtz zaubert Liverpool zum 4:1-Sieg gegen Newcastle – 1 Assist + 1 Tor als Zehner. Klopp schaut live zu. Aber Woltemade bleibt in 11 Spielen torlos. September-Kader in 23 Tagen. Hat Woltemade schon ein Problem?",
+  "uploadHashtags": "#DFB #Wirtz #Woltemade #Liverpool #Newcastle #Klopp #WM2030 #DFBTeam #PremierLeague",
+  "images": [
+    { "file": "wirtz_jubel.jpg",      "search": "Florian Wirtz" },
+    { "file": "woltemade_portrait.jpg","search": "Nick Woltemade" },
+    { "file": "klopp_dfb.jpg",         "search": "Jürgen Klopp" },
+    { "file": "st_james_park.jpg",     "search": "St James Park Newcastle Liverpool Premier League 2026" },
+    { "file": "wirtz_training.jpg",    "search": "Florian Wirtz" },
+    { "file": "woltemade_bank.jpg",    "search": "Nick Woltemade Liverpool substitute bench 2026" },
+    { "file": "dfb_fans.jpg",          "search": "DFB Fans" },
+    { "file": "kader_konzept.jpg",     "search": "DFB Kader September Nominierung 2026", "thematic": true },
+    { "file": "kimmich_kapitaen.jpg",  "search": "Joshua Kimmich" },
+    { "file": "wirtz_zehner.jpg",      "search": "Florian Wirtz Liverpool Zehner 2026" },
+    { "file": "woltemade_jubel.jpg",   "search": "Nick Woltemade jubel" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "75 MIO. – NOCH NULL TORE.",
+      "image": "woltemade_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "PREMIER LEAGUE 23.8.2026",
+      "title": "Wirtz zerstört Newcastle – Woltemade schwitzt",
+      "image": "st_james_park.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel.jpg",
+      "name": "Florian Wirtz",
+      "role": "Zehner · 22 | 1 Assist + 1 Tor heute",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade_bank.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · 23 | 0 Tore in 11 Spielen",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Liverpool 4:1 Newcastle",
+      "stats": [
+        { "label": "Wirtz Assist + Tor", "value": "1+1" },
+        { "label": "Woltemade Tore (Saison)", "value": "0/11" },
+        { "label": "September-Kader in", "value": "23 Tage" }
+      ],
+      "image": "wirtz_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp_dfb.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · DFB seit 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_zehner.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kader_konzept.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich_kapitaen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Woltemade den Kader?",
+      "subtitle": "September-Nominierung in 23 Tagen – schreib es in die Kommentare!",
+      "image": "woltemade_jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}
