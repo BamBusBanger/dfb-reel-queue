@@ -1,0 +1,34 @@
+{
+  "slug": "wirtz-woltemade-liverpool-heute",
+  "createdAt": "2026-08-23T05:33:00Z",
+  "title": "Liverpool-DFB-Doppel: Wirtz & Woltemade heute im PL-Auftakt",
+  "script": "HEUTE ABEND. Das wichtigste Spiel des DFB-Sommers findet in England statt! Fakt 1: Florian Wirtz startet erstmals als echter Zehner für Liverpool – nach 360 WM-Minuten ohne Tor. Fakt 2: Nick Woltemade, 75 Millionen Euro teuer, kämpft neben ihm um seine erste Premier-League-Chance – nach null WM-Minuten bei der WM 2026. Fakt 3: Bundestrainer Klopp schaut live zu – die September-Nominierung folgt in 23 Tagen. Newcastle, St. James' Park, 17:30 Uhr.",
+  "uploadCaption": "HEUTE ABEND: Wirtz & Woltemade starten beide für Liverpool – Newcastle, 17:30 Uhr. Klopp schaut zu, September-Nominierung in 23 Tagen. Wer liefert?",
+  "uploadHashtags": "#DFB #Liverpool #Wirtz #Woltemade #PremierLeague #WM2030 #Klopp #Fussball #WM2026",
+  "images": [
+    { "file": "wirtz1.jpg", "search": "Florian Wirtz" },
+    { "file": "anfield.jpg", "search": "Anfield Liverpool Premier League 2026" },
+    { "file": "wirtz2.jpg", "search": "Florian Wirtz Liverpool 2026" },
+    { "file": "woltemade1.jpg", "search": "Nick Woltemade" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "woltemade2.jpg", "search": "Nick Woltemade Liverpool" },
+    { "file": "st_james.jpg", "search": "Newcastle St James Park Premier League" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" },
+    { "file": "dfb_team.jpg", "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wirtz3.jpg", "search": "Florian Wirtz Jubel" },
+    { "file": "fans_tribuene.jpg", "search": "DFB Fans Tribüne" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "HEUTE ABEND. DAS DFB-SPIEL IN ENGLAND.", "image": "wirtz1.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "PREMIER LEAGUE · 23. AUGUST 2026", "title": "Wirtz & Woltemade – Liverpool PL-Start", "image": "anfield.jpg", "weight": 0.7 },
+    { "type": "image", "image": "wirtz2.jpg", "name": "Florian Wirtz", "role": "Liverpool · Zehner · 23 J.", "weight": 0.8 },
+    { "type": "image", "image": "woltemade1.jpg", "name": "Nick Woltemade", "role": "Liverpool · Stürmer · 23 J.", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "DFB-Bundestrainer", "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen", "stats": [{ "label": "Wirtz – WM-Tore", "value": "0" }, { "label": "Woltemade – WM-Min.", "value": "0" }, { "label": "Ablöse zusammen", "value": "200 Mio." }], "image": "woltemade2.jpg", "weight": 0.9 },
+    { "type": "image", "image": "st_james.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_team.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz3.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wer liefert heute?", "subtitle": "Wirtz oder Woltemade – wer überzeugt Klopp?", "image": "fans_tribuene.jpg", "weight": 1.0 }
+  ]
+}

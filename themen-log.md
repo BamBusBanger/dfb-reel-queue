@@ -448,3 +448,4 @@
 2026-08-22 | gnabry-beier-klopp-fluegel-supercup | Gnabry Bayern 31J 64LS 5-Monate-Verletzungspause vs Beier BVB 23J 20+ Torbeteiligungen, Klopp-Scouting Supercup Signal Iduna Park, Rechtsflügel-Casting September-Kader (DUELL/VERGLEICH)
 2026-08-22 | goretzka-aston-villa-dfb-comeback | Goretzka ablösefrei zu Aston Villa 22.8., Juventus/Arsenal/Milan abgesagt, 304 Bayern-Spiele 70 LS CL-Sieger 2020 nur 27 WM-Bankminuten, Klopp 57 Kandidaten September-Kader DFB-Comeback-Frage (NEWS-DRAMA)
 2026-08-22 | brown-zehner-supercup-klopp | Brown als Bayern-Zehner Supercup Tor 28. Min 1:0, Kompany-Experiment, Klopp erstes Live-Scouting Tag 8 Dortmund, 3 Saisontore DFB-Linksverteidiger (GEHEIMNIS)
+2026-08-23 | wirtz-woltemade-liverpool-heute | Wirtz erstmals als Zehner + Woltemade Liverpool PL-Auftakt heute Newcastle St. James' Park 17:30 Uhr, Klopp schaut live zu, September-Nominierung in 23 Tagen (TOP-3-LISTE)
