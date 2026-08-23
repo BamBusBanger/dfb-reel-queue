@@ -451,3 +451,4 @@
 2026-08-23 | wirtz-woltemade-liverpool-heute | Wirtz erstmals als Zehner + Woltemade Liverpool PL-Auftakt heute Newcastle St. James' Park 17:30 Uhr, Klopp schaut live zu, September-Nominierung in 23 Tagen (TOP-3-LISTE)
 2026-08-23 | wirtz-liverpoolsieg-woltemade-null | Wirtz 4:1 Newcastle 1 Assist + 1 Tor als Zehner, Woltemade 0 Tore in 11 Spielen Joker 73. Min, Klopp schaut live zu September-Kader 23 Tage (NEWS-DRAMA)
 2026-08-23 | nmecha-vs-pavlovic-supercup-klopp | Nmecha BVB vs Pavlović Bayern Supercup 22.8. Klopp Live-Scouting Tag 8, Dortmund 1:2, 57 Kandidaten 26 Plätze September-Kader (DUELL/VERGLEICH)
+2026-08-23 | pejcinovic-vfb-klopp-anruf-fix | Pejčinović erster bestätigter Klopp-Debütant, Klopp informierte VfB Stuttgart persönlich, 12 Tore Wolfsburg trotz Abstieg, 25 Mio € Ablöse, Linksfuß 1,90m 21J, Traum-Einstand VfB, 23 Tage bis September-Nominierung, Amsterdam-Debüt 24.9. (GEHEIMNIS)

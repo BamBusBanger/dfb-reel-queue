@@ -1,0 +1,34 @@
+{
+  "slug": "pejcinovic-vfb-klopp-anruf-fix",
+  "createdAt": "2026-08-23T15:34:00Z",
+  "title": "Klopps erster DFB-Debütant – der Anruf in Stuttgart",
+  "script": "Klopp hat seinen ersten DFB-Debütanten BEREITS bestätigt – und kaum jemand hat es bemerkt! Dzenan Pejčinović, 21 Jahre, Linksfuß, 1,90 Meter, 12 Tore für Wolfsburg trotz Abstieg – und jetzt 25 Millionen Euro teuer bei VfB Stuttgart. Klopp informierte den Verein persönlich. Coach Hoeneß schwärmt: Er hat alles, was ein Neuner braucht. Traum-Einstand beim VfB, nächster Stop: die DFB-Nominierung in 23 Tagen. Am 24. September wartet Amsterdam. Ist er Klopps geheime Waffe?",
+  "uploadCaption": "Klopp hat seinen ersten DFB-Debütanten schon auserkoren! Dzenan Pejčinović (21, VfB Stuttgart) – 12 Tore für Wolfsburg trotz Abstieg, 25 Mio €, Linksfuß 1,90 m. Klopp informierte VfB bereits persönlich. 23 Tage bis zur September-Nominierung. Amsterdam wartet.",
+  "uploadHashtags": "#DFB #Klopp #Pejcinovic #VfBStuttgart #NationsLeague #WM2030 #Fussball #Bundestrainer",
+  "images": [
+    { "file": "pejcinovic.jpg", "search": "Dzenan Pejcinovic VfB Stuttgart" },
+    { "file": "klopp_dfb.jpg", "search": "Jürgen Klopp" },
+    { "file": "pejcinovic_aktion.jpg", "search": "Pejcinovic Bundesliga Tor Stuttgart" },
+    { "file": "vfb_stadion.jpg", "search": "VfB Stuttgart MHPArena Stadion" },
+    { "file": "dfb_trikot.jpg", "search": "DFB Trikot 2026" },
+    { "file": "dfb_team.jpg", "search": "DFB Team 2026" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" },
+    { "file": "amsterdam_stadion.jpg", "search": "Johan Cruyff Arena Amsterdam Flutlicht Nacht", "thematic": true },
+    { "file": "flagge.jpg", "search": "Deutschland Flagge schwarz rot gold" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal FIFA Gold" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "KLOPP HAT ES SCHON ENTSCHIEDEN.", "image": "pejcinovic.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB-GEHEIMNIS", "title": "Der Anruf in Stuttgart", "image": "klopp_dfb.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp_dfb.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · seit 15.8.2026", "weight": 0.8 },
+    { "type": "image", "image": "pejcinovic.jpg", "name": "Dzenan Pejčinović", "role": "Stürmer · 21 Jahre · VfB Stuttgart", "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen", "stats": [{ "label": "Tore für Wolfsburg", "value": "12" }, { "label": "Ablöse VfB Stuttgart", "value": "25 Mio €" }, { "label": "Körpergröße", "value": "1,90m" }], "image": "dfb_trikot.jpg", "weight": 0.9 },
+    { "type": "image", "image": "vfb_stadion.jpg", "weight": 0.8 },
+    { "type": "image", "image": "pejcinovic_aktion.jpg", "name": "Dzenan Pejčinović", "role": "Traum-Einstand beim VfB", "weight": 0.8 },
+    { "type": "image", "image": "dfb_team.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "amsterdam_stadion.jpg", "weight": 0.8 },
+    { "type": "image", "image": "flagge.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Klopps Geheimwaffe für Amsterdam?", "subtitle": "Ja oder Nein – kommentiert!", "image": "wm_pokal.jpg", "weight": 1.0 }
+  ]
+}
