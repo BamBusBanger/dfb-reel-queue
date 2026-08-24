@@ -455,3 +455,4 @@
 2026-08-23 | mertesacker-dfb-boss-2027 | Per Mertesacker DFB-Geschäftsführer Sport ab 1.1.2027, 41J. Weltmeister 2014 96LS Arsenal-Academy, Klopp-Verbündeter Vertrag bis 2030, Rettig-Nachfolger, Traumduo WM 2030 (NEWS-DRAMA)
 2026-08-23 | klopp-scouting-top3-hits | Klopps Top-3 Scouting-Gewinner erstes Wochenende als Bundestrainer: Brown Supercup-Tor, Beier BVB-Auftritt, Wirtz 1 Tor 1 Assist Liverpool 4:1 Newcastle (TOP-3-LISTE)
 2026-08-24 | wirtz-havertz-pl-weekend-klopp-signal | Wirtz 1T 1A Liverpool 4:1 Newcastle, Havertz 1T Arsenal 3:0 Coventry, Klopp September-Kader 30 Tage, WM-Trauma beide (DUELL/VERGLEICH)
+2026-08-24 | nagelsmanns-drei-wm-opfer-klopp-second-chance | Goretzka 27 WM-Bankminuten Aston Villa ablösefrei, Adeyemi Barcelona 0 WM-Einsatz Klopp-Anruf, Schade Brentford Hamann-Kandidat nie nominiert, 57er-Liste September-Kader 24.9. Amsterdam (TOP-3-LISTE)

@@ -1,0 +1,106 @@
+{
+  "slug": "nagelsmanns-drei-wm-opfer-klopp-second-chance",
+  "createdAt": "2026-08-24T09:34:00Z",
+  "title": "Nagelsmanns 3 WM-Opfer: Jetzt kommt Klopp",
+  "script": "3 Weltklasse-Spieler, die Nagelsmann bei der WM KOMPLETT ignorierte. Goretzka – 70 Länderspiele, Champions-League-Sieger, nur 27 WM-Bankminuten. Adeyemi – Klopp rief persönlich an, jetzt Barcelona-Star, null WM-Einsatz. Kevin Schade – Brentford-Flieger, Hamann-Favorit für Klopps 4-3-3, nie für die WM nominiert. 3 Stars. 0 WM-Minuten. Jetzt hat Klopp 57 Kandidaten – und alle 3 stehen auf der Liste. Wer bekommt den Klopp-Anruf – und wer bleibt für immer außen vor?",
+  "uploadCaption": "Nagelsmann hat sie links liegen lassen – Klopp will sie zurückhaben. Goretzka, Adeyemi, Schade: 3 WM-Opfer kämpfen jetzt um Klopps ersten DFB-Kader. Wer verdient eine zweite Chance?",
+  "uploadHashtags": "#DFB #Klopp #WM2026 #Goretzka #Adeyemi #KevinSchade #Bundestrainer #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "goretzka_portrait.jpg", "search": "Leon Goretzka" },
+    { "file": "goretzka_training.jpg", "search": "goretzka" },
+    { "file": "adeyemi.jpg", "search": "Karim Adeyemi Barcelona 2026" },
+    { "file": "schade.jpg", "search": "Kevin Schade Brentford 2026" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "team.jpg", "search": "DFB Nationalmannschaft 2026 Teamfoto" },
+    { "file": "fans.jpg", "search": "DFB Fans Deutschland" },
+    { "file": "matthaeus.jpg", "search": "Lothar Matthäus" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal Gold Trophae" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 STARS – KOMPLETT IGNORIERT.",
+      "image": "goretzka_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026",
+      "title": "Nagelsmanns 3 Opfer",
+      "image": "team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "goretzka_portrait.jpg",
+      "name": "Leon Goretzka",
+      "role": "Mittelfeld · 31 · Aston Villa",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Goretzka bei der WM 2026",
+      "stats": [
+        { "label": "Länderspiele gesamt", "value": "70" },
+        { "label": "WM-Bankminuten", "value": "27" },
+        { "label": "Startelf-Einsätze", "value": "0" }
+      ],
+      "image": "goretzka_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "adeyemi.jpg",
+      "name": "Karim Adeyemi",
+      "role": "Angriff · 24 · FC Barcelona",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "schade.jpg",
+      "name": "Kevin Schade",
+      "role": "Angriff · 24 · FC Brentford",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Ex-Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · ab 15.8.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps erste Nominierung",
+      "stats": [
+        { "label": "Kandidaten auf der Liste", "value": "57" },
+        { "label": "Kaderplätze", "value": "26" },
+        { "label": "Debüt Amsterdam", "value": "24.9." }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "matthaeus.jpg",
+      "name": "Lothar Matthäus",
+      "role": "Experte · fordert Klopp-Comeback",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer bekommt Klopps Anruf?",
+      "subtitle": "Goretzka, Adeyemi oder Schade?",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
