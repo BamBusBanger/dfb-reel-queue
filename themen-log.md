@@ -456,3 +456,4 @@
 2026-08-23 | klopp-scouting-top3-hits | Klopps Top-3 Scouting-Gewinner erstes Wochenende als Bundestrainer: Brown Supercup-Tor, Beier BVB-Auftritt, Wirtz 1 Tor 1 Assist Liverpool 4:1 Newcastle (TOP-3-LISTE)
 2026-08-24 | wirtz-havertz-pl-weekend-klopp-signal | Wirtz 1T 1A Liverpool 4:1 Newcastle, Havertz 1T Arsenal 3:0 Coventry, Klopp September-Kader 30 Tage, WM-Trauma beide (DUELL/VERGLEICH)
 2026-08-24 | nagelsmanns-drei-wm-opfer-klopp-second-chance | Goretzka 27 WM-Bankminuten Aston Villa ablösefrei, Adeyemi Barcelona 0 WM-Einsatz Klopp-Anruf, Schade Brentford Hamann-Kandidat nie nominiert, 57er-Liste September-Kader 24.9. Amsterdam (TOP-3-LISTE)
+2026-08-24 | klopp-tag-x-17september-kader | Klopp 17. September erster Kader-Nominierungstag, 57 Kandidaten 26 Plätze, 4 Spiele 11 Tage Amsterdam/Augsburg/München/Griechenland Nations League, Musiala fraglich, Ouédraogo Überraschungskandidat (NEWS-DRAMA)

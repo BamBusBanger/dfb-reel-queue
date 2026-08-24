@@ -1,0 +1,107 @@
+{
+  "slug": "klopp-tag-x-17september-kader",
+  "createdAt": "2026-08-24T12:37:00Z",
+  "title": "17. September: Klopps erster Kader",
+  "script": "In 24 Tagen entscheidet sich, wer das NEUE Deutschland unter Jürgen Klopp ist. Am 17. September nominiert er seinen allerersten DFB-Kader – 57 Kandidaten kämpfen um nur 26 Plätze. Vier Spiele, elf Tage: Amsterdam 24.9., Augsburg 27.9., München 30.9., Griechenland 4.10. Wirtz in Liverpool-Topform: 1 Tor, 1 Assist. Musiala neurologisch fraglich. Ouédraogo als Überraschungskandidat. Undav mit WM-Trauma als neue Chance. Klopps Versprechen: Es kommen Spieler, die noch gar nicht damit rechnen.",
+  "uploadCaption": "Am 17. September zeigt Klopp, wer das neue Deutschland ist. 57 Kandidaten, 26 Plätze – 4 Spiele in 11 Tagen warten. Wer ist für dich gesetzt?",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #Deutschland #WM2030 #Fussball #Bundestrainer",
+  "images": [
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich" },
+    { "file": "havertz.jpg",    "search": "Kai Havertz" },
+    { "file": "ouedraogo.jpg",  "search": "Assan Ouédraogo" },
+    { "file": "undav.jpg",      "search": "Deniz Undav" },
+    { "file": "fans.jpg",       "search": "DFB Fans" },
+    { "file": "teamfoto.jpg",   "search": "DFB Teamfoto 2026" },
+    { "file": "amsterdam.jpg",  "search": "Johan Cruyff Arena Amsterdam" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "IN 24 TAGEN.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "17. SEPTEMBER 2026",
+      "title": "Klopps erster Kader",
+      "image": "teamfoto.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · seit 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen",
+      "stats": [
+        { "label": "Kandidaten auf der Liste", "value": "57" },
+        { "label": "Kaderplätze", "value": "26" },
+        { "label": "Spiele in 11 Tagen", "value": "4" }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 22 · 1 Tor 1 Assist PL-Auftakt",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern · 22 · Nominierung fraglich",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "RB Leipzig · 20 · Überraschungskandidat",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Bayern · Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "undav.jpg",
+      "name": "Deniz Undav",
+      "role": "Stuttgart · WM-Joker · Neustart unter Klopp",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Arsenal · 1 Tor PL-Auftakt · Startelf?",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wen lässt Klopp DRAUSSEN?",
+      "subtitle": "Schreib deinen Tipp in die Kommentare!",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
