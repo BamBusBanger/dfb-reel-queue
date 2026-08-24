@@ -1,0 +1,96 @@
+{
+  "slug": "musiala-neurologie-wm-geheimnis",
+  "createdAt": "2026-08-24T15:34:37Z",
+  "title": "Musialas Neurologie-Geheimnis",
+  "script": "Bayerns DUNKELSTES GEHEIMNIS: Jamal Musiala spielte die komplette WM 2026 mit einer diagnostizierten neurologischen Störung! Bayern-Sportvorstand Max Eberl bestätigt jetzt: Die Anfälle waren schon lange bekannt – mindestens seit Herbst 2025. Das bedeutet: Während Musiala gegen Curaçao, Elfenbeinküste und Paraguay auflief, wussten Bayern UND der DFB von seiner geheimen Diagnose. 3 Spiele, 239 Minuten, 4 Auswechslungen, nur 1 Tor – war hinter Musialas WM-Schwäche also mehr als Formtief? Und warum schwieg jahrelang jeder?",
+  "uploadCaption": "Das hat euch NIEMAND erzählt: Musiala spielte die gesamte WM 2026 mit einer diagnostizierten neurologischen Störung. Bayern wusste es bereits seit Herbst 2025 – und schwieg. Jetzt kommt die Wahrheit ans Licht.",
+  "uploadHashtags": "#JamalMusiala #DFB #WM2026 #Bayern #Neurologie #Geheimnis #Klopp #Fussball",
+  "images": [
+    { "file": "musiala_aktion.jpg",  "search": "Jamal Musiala" },
+    { "file": "musiala_jubel.jpg",   "search": "Jamal Musiala Torjubel DFB" },
+    { "file": "eberl.jpg",           "search": "Max Eberl Bayern München Pressekonferenz 2026" },
+    { "file": "kompany.jpg",         "search": "Vincent Kompany Bayern München" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp Bundestrainer DFB" },
+    { "file": "fans_schock.jpg",     "search": "DFB Fans Entsetzen Public Viewing" },
+    { "file": "team2026.jpg",        "search": "DFB Nationalmannschaft 2026" },
+    { "file": "neuro.jpg",           "search": "Neurologie Gehirn Absencen Konzept", "thematic": true },
+    { "file": "flagge.jpg",          "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DIESES GEHEIMNIS blieb die GANZE WM verborgen.",
+      "image": "musiala_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026",
+      "title": "Musialas Neurologie-Geheimnis",
+      "image": "musiala_jubel.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_aktion.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "neuro.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Musiala WM 2026",
+      "stats": [
+        { "label": "Spiele", "value": "3" },
+        { "label": "Minuten", "value": "239" },
+        { "label": "Ausgewechselt", "value": "4×" },
+        { "label": "Tore", "value": "1" }
+      ],
+      "image": "musiala_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "eberl.jpg",
+      "name": "Max Eberl",
+      "role": "Bayern-Sportvorstand",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kompany.jpg",
+      "name": "Vincent Kompany",
+      "role": "Bayern-Trainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_schock.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "team2026.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Hätte Bayern das sofort sagen müssen?",
+      "subtitle": "Kommentiert eure Meinung!",
+      "image": "flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}

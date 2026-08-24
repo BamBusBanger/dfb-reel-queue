@@ -457,3 +457,4 @@
 2026-08-24 | wirtz-havertz-pl-weekend-klopp-signal | Wirtz 1T 1A Liverpool 4:1 Newcastle, Havertz 1T Arsenal 3:0 Coventry, Klopp September-Kader 30 Tage, WM-Trauma beide (DUELL/VERGLEICH)
 2026-08-24 | nagelsmanns-drei-wm-opfer-klopp-second-chance | Goretzka 27 WM-Bankminuten Aston Villa ablösefrei, Adeyemi Barcelona 0 WM-Einsatz Klopp-Anruf, Schade Brentford Hamann-Kandidat nie nominiert, 57er-Liste September-Kader 24.9. Amsterdam (TOP-3-LISTE)
 2026-08-24 | klopp-tag-x-17september-kader | Klopp 17. September erster Kader-Nominierungstag, 57 Kandidaten 26 Plätze, 4 Spiele 11 Tage Amsterdam/Augsburg/München/Griechenland Nations League, Musiala fraglich, Ouédraogo Überraschungskandidat (NEWS-DRAMA)
+2026-08-24 | musiala-neurologie-wm-geheimnis | Musiala WM 2026 neurologische Störung Absencen seit Herbst 2025 bekannt, Bayern Eberl schon lange gewusst, DFB schwieg, 3 Spiele 239 Min 4 Auswechslungen 1 Tor WM-Schwäche erklärt (GEHEIMNIS)
