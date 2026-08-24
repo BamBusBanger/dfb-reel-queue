@@ -1,0 +1,106 @@
+{
+  "slug": "atubolu-vs-terstegen-klopp-nr1",
+  "createdAt": "2026-08-24T17:34:00Z",
+  "title": "Klopps neue Nummer 1: Atubolu vs. Ter Stegen",
+  "script": "Neuer ist weg. 125 Länderspiele, 21 WM-Spiele – ein Lebenswerk. Und jetzt? Klopp sucht seine neue Nummer 1. Zwei Namen dominieren die Debatte. Ter Stegen, 34, nach Barcelona-Degradierung bei Ajax sensationell zurück: 'Man of the Match', Glanzparaden, 48 Länderspiele Erfahrung. Dagegen Atubolu, 24, der DFB-U21-Rekordkeeper mit 22 Spielen – Klopps erklärter Wunschkeeper. Aber ohne gesicherten Stammplatz. Am 17. September fällt die Entscheidung. Baumann und Nübel zittern auch noch mit. Wen würdest du ins Tor stellen?",
+  "uploadCaption": "Neuer ist weg 🧤 Ter Stegen (34, Ajax, Man of the Match, 48 LS) vs. Atubolu (24, U21-Rekordkeeper, Klopps Wunsch) – wer wird Klopps neue Nr. 1? Entscheidung fällt am 17. September!",
+  "uploadHashtags": "#DFB #Klopp #TerStegen #Atubolu #Torwart #Nationalmannschaft #WM2030 #Fussball",
+  "images": [
+    { "file": "neuer.jpg", "search": "Manuel Neuer" },
+    { "file": "torwart_symbol.jpg", "search": "Torwart Entscheidung Elfmeter Handschuhe Dramatik", "thematic": true },
+    { "file": "terstegen_ajax.jpg", "search": "Marc-André ter Stegen Ajax 2026" },
+    { "file": "terstegen_parade.jpg", "search": "ter Stegen Man of the Match Ajax Glanzparade" },
+    { "file": "atubolu.jpg", "search": "Noah Atubolu SC Freiburg" },
+    { "file": "atubolu_aktion.jpg", "search": "Noah Atubolu Torwartparade Freiburg" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "baumann.jpg", "search": "Oliver Baumann" },
+    { "file": "nuebel.jpg", "search": "Alexander Nübel" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NEUER IST WEG. WER WIRD KLOPPS NUMMER 1?",
+      "image": "neuer.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB-TORWARTFRAGE 2026",
+      "title": "Atubolu vs. Ter Stegen",
+      "image": "torwart_symbol.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "terstegen_ajax.jpg",
+      "name": "Marc-André ter Stegen",
+      "role": "Torwart · 34 · Ajax Amsterdam",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Ter Stegen",
+      "stats": [
+        { "label": "A-Länderspiele", "value": "48" },
+        { "label": "Alter", "value": "34" },
+        { "label": "Ajax-Form", "value": "Man of the Match" }
+      ],
+      "image": "terstegen_parade.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "atubolu.jpg",
+      "name": "Noah Atubolu",
+      "role": "Torwart · 24 · SC Freiburg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Atubolu",
+      "stats": [
+        { "label": "Alter", "value": "24" },
+        { "label": "U21-Länderspiele", "value": "22 (DFB-Rekord)" },
+        { "label": "Status", "value": "Klopps Wunsch-Nr. 1" }
+      ],
+      "image": "atubolu_aktion.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Kader-PK: 17. September",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "baumann.jpg",
+      "name": "Oliver Baumann",
+      "role": "Torwart · 36 · TSG Hoffenheim",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nuebel.jpg",
+      "name": "Alexander Nübel",
+      "role": "Torwart · 30 · Beşiktaş",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "terstegen_parade.jpg",
+      "name": "Marc-André ter Stegen",
+      "role": "48 LS · Man of the Match · Ajax",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer wird Klopps Nummer 1?",
+      "subtitle": "Kommentiere: Ter Stegen oder Atubolu?",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
