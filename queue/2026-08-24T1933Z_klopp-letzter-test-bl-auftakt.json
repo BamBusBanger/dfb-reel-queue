@@ -1,0 +1,101 @@
+{
+  "slug": "klopp-letzter-test-bl-auftakt",
+  "createdAt": "2026-08-24T19:33:00Z",
+  "title": "Klopps letzter Test: Bayern vs. Stuttgart 28.8.",
+  "script": "4 Tage. Dann hat Klopp seinen letzten Live-Test. Freitag, 28. August, Allianz Arena: Bayern München gegen VfB Stuttgart – und Jürgen Klopp sitzt live auf der Tribüne. Sein zweites und letztes Scouting vor der Kader-PK am 17. September. Noch 57 Kandidaten kämpfen um 26 Plätze. Jamal Musiala: beim Supercup wegen neurologischer Beschwerden ausgefallen – schafft er am Freitag den Beweis? Angelo Stiller: 7 Länderspiele, 0 WM-Minuten – er braucht jetzt einen Mega-Auftritt. 24 Tage bis zur Kader-Entscheidung. Die Uhr tickt.",
+  "uploadCaption": "Freitag ist der Tag der Wahrheit. Bayern vs. Stuttgart – Klopp schaut zu. Wer überzeugend Freitag spielt, könnte am 17. September im Kader stehen. #DFB #Klopp #Bundesliga",
+  "uploadHashtags": "#DFB #Klopp #Bundesliga #Musiala #AngeloStiller #WM2030 #Nationalmannschaft #Bayern",
+  "images": [
+    { "file": "allianz_arena.jpg",   "search": "Allianz Arena München" },
+    { "file": "klopp_portrait.jpg",  "search": "Jürgen Klopp" },
+    { "file": "musiala_aktion.jpg",  "search": "Jamal Musiala" },
+    { "file": "stiller_aktion.jpg",  "search": "Angelo Stiller" },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal" },
+    { "file": "stiller_vfb.jpg",     "search": "Angelo Stiller VfB Stuttgart 2026" },
+    { "file": "brown_dfb.jpg",       "search": "Nathaniel Brown" },
+    { "file": "bischof_dfb.jpg",     "search": "Tom Bischof Bayern München" },
+    { "file": "kimmich_training.jpg","search": "Joshua Kimmich" },
+    { "file": "allianz_arena2.jpg",  "search": "Allianz Arena München Nacht" },
+    { "file": "dfb_fans.jpg",        "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "4 TAGE. DANN ENTSCHEIDET KLOPP.",
+      "image": "allianz_arena.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "28. AUGUST · ALLIANZ ARENA",
+      "title": "Klopps letzter Kader-Test",
+      "image": "klopp_portrait.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_aktion.jpg",
+      "name": "Jamal Musiala",
+      "role": "Zehner · 23 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "stiller_aktion.jpg",
+      "name": "Angelo Stiller",
+      "role": "Sechser · 25 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopp-Countdown",
+      "stats": [
+        { "label": "Kandidaten", "value": "57" },
+        { "label": "Kader-Plätze", "value": "26" },
+        { "label": "Tage bis Kader", "value": "24" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "stiller_vfb.jpg",
+      "name": "Angelo Stiller",
+      "role": "7 LS · 0 WM-Minuten",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "brown_dfb.jpg",
+      "name": "Nathaniel Brown",
+      "role": "Linksverteidiger · 23 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "bischof_dfb.jpg",
+      "name": "Tom Bischof",
+      "role": "Box-to-Box · 20 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich_training.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 108 LS",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "allianz_arena2.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Deine Meinung?",
+      "subtitle": "Musiala oder Stiller – wer steht im ersten Klopp-Kader?",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
