@@ -1,0 +1,43 @@
+{
+  "slug": "wirtz-havertz-pl-weekend-klopp-signal",
+  "createdAt": "2026-08-24T05:36:00Z",
+  "title": "Wirtz vs. Havertz: PL-Wochenende sendet Klopp-Signal",
+  "script": "2 DFB-Stars. 2 Tage. 2 Tore – und Klopp schaut zu. Florian Wirtz spielte Liverpool mit 1 Tor und 1 Assist zum 4:1 gegen Newcastle – endlich als echter Zehner. Tags darauf eröffnete Kai Havertz Arsenals Titelverteidigung: Kopfballtor zum 1:0 gegen Coventry. Beide tragen das WM-Trauma mit sich: Wirtz spielte 360 Minuten ohne Tor, Havertz verschoss im Elfmeter-Krimi gegen Paraguay. Jetzt tickt die Uhr. Klopps erste September-Nominierung kommt in genau 30 Tagen. Wer sichert sich die Startelf-Rolle?",
+  "uploadCaption": "Wirtz 1 Tor + 1 Assist für Liverpool ⚽ Havertz 1 Tor für Arsenal ⚽ Dieses PL-Wochenende hat Klopps September-Kader durcheinandergewirbelt – 30 Tage bis zur Nominierung! Wer bekommt den Startelf-Platz?",
+  "uploadHashtags": "#DFB #Wirtz #Havertz #Klopp #Bundestrainer #Liverpool #Arsenal #PremierLeague #NationsLeague #WM2026 #Fussball",
+  "images": [
+    { "file": "wirtz.jpg",          "search": "Florian Wirtz" },
+    { "file": "havertz.jpg",         "search": "Kai Havertz" },
+    { "file": "wirtz_jubel.jpg",     "search": "Florian Wirtz DFB Jubel" },
+    { "file": "havertz_jubel.jpg",   "search": "Kai Havertz Torjubel DFB" },
+    { "file": "wirtz_liverpool.jpg", "search": "Florian Wirtz Liverpool 2026" },
+    { "file": "havertz_arsenal.jpg", "search": "Kai Havertz Arsenal 2026" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp DFB Bundestrainer" },
+    { "file": "fans.jpg",            "search": "DFB Fans Deutschland" },
+    { "file": "dfb_team.jpg",        "search": "DFB Team Mannschaftsfoto 2026" },
+    { "file": "wm_pokal.jpg",        "search": "WM Pokal Trophäe Gold" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "2 DFB-STARS. 2 TAGE. 2 TORE.", "image": "wirtz.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DUELL / VERGLEICH", "title": "Wirtz vs. Havertz", "image": "havertz.jpg", "weight": 0.7 },
+    { "type": "image", "image": "wirtz.jpg",       "name": "Florian Wirtz",  "role": "Liverpool · Zehner · 23 J.", "weight": 0.8 },
+    { "type": "image", "image": "havertz.jpg",     "name": "Kai Havertz",    "role": "Arsenal · Stürmer · 27 J.", "weight": 0.8 },
+    { "type": "stats", "title": "PL-Wochenende 23.–24. Aug", "stats": [
+        { "label": "Wirtz · Liverpool", "value": "1T + 1A" },
+        { "label": "vs Newcastle",       "value": "4:1 Sieg" },
+        { "label": "Havertz · Arsenal",  "value": "1 Tor" },
+        { "label": "vs Coventry",        "value": "3:0 Sieg" }
+      ], "image": "wirtz_liverpool.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz_jubel.jpg",   "name": "Florian Wirtz", "role": "1T + 1A vs Newcastle", "weight": 0.8 },
+    { "type": "image", "image": "havertz_jubel.jpg", "name": "Kai Havertz",   "role": "1:0 Tor vs Coventry", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",          "name": "Jürgen Klopp",  "role": "Bundestrainer · ab 15.8.", "weight": 0.8 },
+    { "type": "stats", "title": "WM 2026 – Das Trauma", "stats": [
+        { "label": "Wirtz",   "value": "360 Min · 0 Tore" },
+        { "label": "Havertz", "value": "2 Tore · Elfmeter ×" },
+        { "label": "Klopp-Kader", "value": "in 30 Tagen" }
+      ], "image": "havertz_arsenal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "dfb_team.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",     "weight": 0.8 },
+    { "type": "outro", "title": "Wirtz oder Havertz – wer startet für Klopp?", "subtitle": "Kommentiert ⬇️", "image": "wm_pokal.jpg", "weight": 1.0 }
+  ]
+}
