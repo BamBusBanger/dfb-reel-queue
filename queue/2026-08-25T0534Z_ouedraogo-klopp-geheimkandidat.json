@@ -1,0 +1,93 @@
+{
+  "slug": "ouedraogo-klopp-geheimkandidat",
+  "createdAt": "2026-08-25T05:34:00Z",
+  "title": "Ouédraogo – Klopps geheimer Joker",
+  "script": "102 SEKUNDEN nach der Einwechslung – und Assan Ouédraogo schrieb DFB-Geschichte. Der 20-Jährige ist der jüngste deutsche Debüt-Torschütze seit 1954. Mitten aus dem Urlaub geholt als Notfall-Ersatz für den verletzten Lennart Karl – und bekam dann keine einzige WM-Minute. Jetzt ist Klopp da. Der neue Bundestrainer hat ihn auf seiner 57er-Liste für 26 Kader-Plätze. Am 17. September nominiert Klopp seinen allerersten DFB-Kader. Ist dieser 20-Jährige Klopps geheimes Ass? Oder kommt er noch zu früh?",
+  "uploadCaption": "102 Sekunden nach der Einwechslung schrieb er DFB-Geschichte. Jetzt kämpft Assan Ouédraogo um Klopps ersten Kader am 17. September. Schafft er es? 👀🔥",
+  "uploadHashtags": "#DFB #Ouédraogo #Klopp #Nationalmannschaft #WM2030 #Bundestrainer #Fussball",
+  "images": [
+    { "file": "ouedraogo.jpg",  "search": "Assan Ouédraogo" },
+    { "file": "team.jpg",       "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp Bundestrainer DFB" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich DFB" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "stiller.jpg",    "search": "Angelo Stiller DFB" },
+    { "file": "fans.jpg",       "search": "DFB Fans Deutschland" },
+    { "file": "pokal.jpg",      "search": "WM Pokal Gold" },
+    { "file": "flagge.jpg",     "search": "Deutschland Flagge Berlin" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "102 SEKUNDEN – und er schrieb DFB-Geschichte.",
+      "image": "ouedraogo.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPPS 57 KANDIDATEN",
+      "title": "Der geheime Joker",
+      "image": "team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Mittelfeld · 20 J. · RB Leipzig",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · ab 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Unglaubliche Zahlen",
+      "stats": [
+        { "label": "Sekunden bis erstes Länderspieltor", "value": "102" },
+        { "label": "Jahre alt", "value": "20" },
+        { "label": "Jüngster Debüt-Torschütze seit", "value": "1954" },
+        { "label": "Kandidaten für 26 Plätze", "value": "57" }
+      ],
+      "image": "kimmich.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "stiller.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft er den Sprung am 17. September?",
+      "subtitle": "Ja oder Nein – schreib es in die Kommentare!",
+      "image": "flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
