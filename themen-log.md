@@ -462,3 +462,4 @@
 2026-08-24 | klopp-letzter-test-bl-auftakt | Klopp letztes Live-Scouting Bayern vs Stuttgart 28.8. Allianz Arena, Musiala Supercup-Ausfall neurologisch fraglich, Stiller 7 LS 0 WM-Minuten, Brown Supercup-Tor, Bischof nie im A-Kader, 57 Kandidaten 26 Plätze 24 Tage bis 17. September Kader-PK (NEWS-DRAMA)
 2026-08-25 | ouedraogo-klopp-geheimkandidat | Assan Ouédraogo 20J. RB Leipzig 102 Sek. Debüt-Tor jüngster DFB-Treffer seit 1954, mitten aus Urlaub WM-Ersatz für Karl, 0 WM-Minuten, Klopp 57er-Liste 26 Plätze September-Kader 17.9. (GEHEIMNIS)
 2026-08-25 | klopp-amsterdam-feuertaufe | Klopp Nations-League-Debüt 24.9. Johan Cruijff Arena Amsterdam, nur 7 Tage nach erstem Kader 17.9., Niederlande vs Deutschland größte Rivalität, 3 WM-Aus in Folge, 54.000 Fans (NEWS-DRAMA)
+2026-08-25 | musiala-ausfall-auftakt-top3-klopp-zehner | Musiala Bayern-Kader BL-Auftakt gestrichen Stuttgart 28.8., 2 Kollapsen Neurologie, Wirtz Havertz Stiller als 3 Klopp-Gewinner (TOP-3-LISTE)

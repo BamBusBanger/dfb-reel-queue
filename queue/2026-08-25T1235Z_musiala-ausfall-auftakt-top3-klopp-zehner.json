@@ -1,0 +1,103 @@
+{
+  "slug": "musiala-ausfall-auftakt-top3-klopp-zehner",
+  "createdAt": "2026-08-25T12:35:00Z",
+  "title": "Musiala draußen – 3 Klopp-Gewinner beim BL-Auftakt",
+  "script": "MUSIALA SCHON WIEDER DRAUSSEN! Bayern hat Jamal Musiala offiziell aus dem Kader für den Bundesliga-Auftakt am Freitag gestrichen. Zum dritten Mal in Folge – nach 2 Ohnmachten im Training. Neurologische Absencen stoppen Deutschlands Superstar. Doch für 3 andere DFB-Stars öffnet sich jetzt eine Riesenchance: Wirtz traf bei Liverpool, Stiller darf am Freitag in München glänzen, Havertz überzeugte bei Arsenal. Klopps Zehner-Frage ist offen wie nie. Wer erbt den Platz?",
+  "uploadCaption": "🚨 Musiala fehlt Bayern auch beim Bundesliga-Auftakt am 28. August! Neurologische Absencen stoppen ihn. 3 DFB-Stars profitieren jetzt – und Klopps Zehner-Frage ist offen wie nie vor dem September-Kader am 17.9.",
+  "uploadHashtags": "#DFB #Musiala #Klopp #Bundesliga #WM2030 #Wirtz #Stiller #Havertz #Bayern #DFBTeam",
+  "images": [
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "musiala_akt.jpg","search": "Jamal Musiala DFB" },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "wirtz_train.jpg","search": "Florian Wirtz Liverpool" },
+    { "file": "havertz.jpg",    "search": "Kai Havertz" },
+    { "file": "stiller.jpg",    "search": "Angelo Stiller" },
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "arena.jpg",      "search": "Allianz Arena München" },
+    { "file": "dfb_team.jpg",   "search": "DFB Team 2026" },
+    { "file": "fans.jpg",       "search": "DFB Fans" },
+    { "file": "wm_logo.jpg",    "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "MUSIALA SCHON WIEDER DRAUSSEN!",
+      "image": "musiala.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BUNDESLIGA-AUFTAKT 28.8.",
+      "title": "3 Klopp-Gewinner nach Musiala-Ausfall",
+      "image": "arena.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_akt.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern · 23 · 3. Ausfall in Folge",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Musiala-Krise",
+      "stats": [
+        { "label": "Kollapsen in Vorbereitung", "value": "2" },
+        { "label": "Ausfälle in Serie",         "value": "3" },
+        { "label": "Klopp-Scouting verpasst",   "value": "28.8." }
+      ],
+      "image": "dfb_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Gewinner #1 · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wirtz ohne Konkurrenz",
+      "stats": [
+        { "label": "Transferwert",           "value": "125 Mio £" },
+        { "label": "vs Newcastle (23.8.)",   "value": "1T + 1A" },
+        { "label": "Klopps Zehner?",         "value": "✓" }
+      ],
+      "image": "wirtz_train.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "stiller.jpg",
+      "name": "Angelo Stiller",
+      "role": "Gewinner #2 · VfB Stuttgart",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Gewinner #3 · Arsenal",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer wird Klopps Zehner?",
+      "subtitle": "Schreib's in die Kommentare! 👇",
+      "image": "wm_logo.jpg",
+      "weight": 1.0
+    }
+  ]
+}
