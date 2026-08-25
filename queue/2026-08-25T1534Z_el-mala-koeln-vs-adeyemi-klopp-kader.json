@@ -1,0 +1,102 @@
+{
+  "slug": "el-mala-koeln-vs-adeyemi-klopp-kader",
+  "createdAt": "2026-08-25T15:34:00Z",
+  "title": "El Mala vs. Adeyemi: Klopps Überraschungs-Wildcard",
+  "script": "NUR EINER hat im September eine Überraschungsnominierung wirklich verdient. Saïd El Mala: 13 Tore mit nur 19 Jahren in der Bundesliga, U17-Weltmeister 2023, Klopp rief ihn persönlich an – aber der BVB-Wechsel ist endgültig geplatzt. Gegenüber: Karim Adeyemi, 22 Jahre, neuer Flügelspieler des FC Barcelona für 22 Millionen Euro, bei der WM 2026 kein einziger Einsatz. Klopp nominiert am 17. September seinen ersten Kader. 26 Plätze, 57 Kandidaten. Wer verdient den Platz – der Kölner Torjäger oder der Barça-Flügel?",
+  "uploadCaption": "13 Tore mit 19 Jahren – und trotzdem kein BVB-Wechsel. Saïd El Mala bleibt in Köln. Kommt er jetzt in Klopps ersten DFB-Kader? Oder ist Adeyemi bei Barcelona besser positioniert? Am 17. September entscheidet Klopp. 👇",
+  "uploadHashtags": "#DFB #WM2030 #Klopp #ElMala #Adeyemi #Fussball #NationsLeague #Bundesliga",
+  "images": [
+    { "file": "el_mala_jubel.jpg",    "search": "Said El Mala Köln Jubel" },
+    { "file": "dfb_teamfoto.jpg",     "search": "DFB Teamfoto 2026" },
+    { "file": "el_mala_aktion.jpg",   "search": "Said El Mala Bundesliga Aktion" },
+    { "file": "adeyemi.jpg",          "search": "Karim Adeyemi FC Barcelona" },
+    { "file": "wm_logo.jpg",          "search": "WM 2026 Logo" },
+    { "file": "adeyemi_aktion.jpg",   "search": "Karim Adeyemi Dribbling Aktion" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "beier.jpg",            "search": "Maximilian Beier DFB Training" },
+    { "file": "dfb_fans.jpg",         "search": "DFB Fans" },
+    { "file": "flagge.jpg",           "search": "Deutschland Flagge" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal Gold" },
+    { "file": "fans_hoffen.jpg",      "search": "DFB Fans Public Viewing" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NUR EINER hat den Klopp-Wildcard-Platz wirklich verdient.",
+      "image": "el_mala_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "17. September Kader",
+      "title": "El Mala vs. Adeyemi",
+      "image": "dfb_teamfoto.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "el_mala_aktion.jpg",
+      "name": "Saïd El Mala",
+      "role": "Stürmer · FC Köln · 19",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "adeyemi.jpg",
+      "name": "Karim Adeyemi",
+      "role": "Flügel · FC Barcelona · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Fakten",
+      "stats": [
+        { "label": "El Mala – BL-Tore 25/26",   "value": "13" },
+        { "label": "El Mala – Alter",             "value": "19" },
+        { "label": "Adeyemi – Ablöse Barcelona", "value": "22 Mio. €" },
+        { "label": "Adeyemi – WM-Einsätze",      "value": "0" }
+      ],
+      "image": "wm_logo.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "adeyemi_aktion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beier.jpg",
+      "name": "Maximilian Beier",
+      "role": "Flügel · BVB · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer verdient Klopps ersten Kaderplatz?",
+      "subtitle": "El Mala oder Adeyemi – kommentier jetzt!",
+      "image": "fans_hoffen.jpg",
+      "weight": 1.0
+    }
+  ]
+}

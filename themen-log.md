@@ -463,3 +463,4 @@
 2026-08-25 | ouedraogo-klopp-geheimkandidat | Assan Ouédraogo 20J. RB Leipzig 102 Sek. Debüt-Tor jüngster DFB-Treffer seit 1954, mitten aus Urlaub WM-Ersatz für Karl, 0 WM-Minuten, Klopp 57er-Liste 26 Plätze September-Kader 17.9. (GEHEIMNIS)
 2026-08-25 | klopp-amsterdam-feuertaufe | Klopp Nations-League-Debüt 24.9. Johan Cruijff Arena Amsterdam, nur 7 Tage nach erstem Kader 17.9., Niederlande vs Deutschland größte Rivalität, 3 WM-Aus in Folge, 54.000 Fans (NEWS-DRAMA)
 2026-08-25 | musiala-ausfall-auftakt-top3-klopp-zehner | Musiala Bayern-Kader BL-Auftakt gestrichen Stuttgart 28.8., 2 Kollapsen Neurologie, Wirtz Havertz Stiller als 3 Klopp-Gewinner (TOP-3-LISTE)
+2026-08-25 | el-mala-koeln-vs-adeyemi-klopp-kader | El Mala BVB-Absage bleibt Köln vs Adeyemi Barcelona, Klopps Wildcard-Duell September-Kader 17.9., 57 Kandidaten 26 Plätze (DUELL/VERGLEICH)
