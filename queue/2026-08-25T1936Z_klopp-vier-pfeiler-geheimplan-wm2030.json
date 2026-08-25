@@ -1,0 +1,41 @@
+{
+  "slug": "klopp-vier-pfeiler-geheimplan-wm2030",
+  "createdAt": "2026-08-25T19:36:00Z",
+  "title": "Klopps Geheimplan: 4 Pfeiler für WM 2030",
+  "script": "Klopp hat schon entschieden – aber er sagt es noch nicht. 10 Tage im Amt, 57 Kandidaten, 23 Tage bis zur Kader-PK. Sein Masterplan für 2030 zeichnet sich trotzdem ab. Pfeiler 1: 4-3-3-Hochpressing à la Liverpool – keine Diskussion. Pfeiler 2: der Kern um Wirtz 26, Musiala 25 und Karl 22 – das Herz der WM-2030-Mannschaft. Pfeiler 3: Atubolu, 28 Jahre bei WM 2030 – Klopps geheime Torwart-Investition statt Routine. Pfeiler 4: das Kapitäns-Rätsel. Kimmich ist dann 35. Klopp sagt nichts. Aber er hat längst gewählt.",
+  "uploadCaption": "Klopp hat seinen 4-Jahres-Plan schon im Kopf 🔐 – 23 Tage bis zur ersten Kader-PK. Wer ist die Zukunft des DFB?",
+  "uploadHashtags": "#DFB #Klopp #WM2030 #Nationalmannschaft #Fussball #WM2026",
+  "images": [
+    { "file": "klopp_main.jpg",    "search": "Jürgen Klopp" },
+    { "file": "wm_pokal.jpg",      "search": "WM Pokal" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "signal_iduna.jpg",  "search": "Signal Iduna Park" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "karl.jpg",          "search": "Lennart Karl" },
+    { "file": "atubolu.jpg",       "search": "Noah Atubolu DFB" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich" },
+    { "file": "tah.jpg",           "search": "Jonathan Tah" },
+    { "file": "havertz.jpg",       "search": "Kai Havertz" },
+    { "file": "fans.jpg",          "search": "DFB Fans" },
+    { "file": "dfb_team.jpg",      "search": "DFB Nationalmannschaft" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER HAT SCHON ENTSCHIEDEN.", "image": "klopp_main.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPPS GEHEIMPLAN", "title": "4 Pfeiler – WM 2030", "image": "wm_pokal.jpg", "weight": 0.7 },
+    { "type": "image", "image": "wirtz.jpg",        "name": "Florian Wirtz",   "role": "Klopp-Erbe · 22 (2030: 26)", "weight": 0.8 },
+    { "type": "stats", "title": "Klopps Zeitplan",  "stats": [
+      { "label": "Tage im Amt",        "value": "10" },
+      { "label": "Kandidaten",         "value": "57" },
+      { "label": "Tage bis Kader-PK", "value": "23" },
+      { "label": "Jahre bis WM 2030", "value": "4"  }
+    ], "image": "signal_iduna.jpg", "weight": 0.9 },
+    { "type": "image", "image": "musiala.jpg",      "name": "Jamal Musiala",   "role": "Schlüsselspieler · 21 (2030: 25)", "weight": 0.8 },
+    { "type": "image", "image": "karl.jpg",         "name": "Lennart Karl",    "role": "WM-2030-Generation · 18", "weight": 0.8 },
+    { "type": "image", "image": "atubolu.jpg",      "name": "Noah Atubolu",    "role": "Klopps Torwart-Plan · 24 (2030: 28)", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",      "name": "Joshua Kimmich",  "role": "Kapitän · 31 – bei WM 2030: 35", "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg",          "name": "Jonathan Tah",    "role": "Abwehrchef · 30", "weight": 0.8 },
+    { "type": "image", "image": "havertz.jpg",      "name": "Kai Havertz",     "role": "Stürmer · 27 (2030: 31)", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",         "weight": 0.8 },
+    { "type": "outro", "title": "Setzt Klopp Kimmich als Kapitän ab?", "subtitle": "Ja oder Nein – jetzt kommentieren!", "image": "dfb_team.jpg", "weight": 1.0 }
+  ]
+}

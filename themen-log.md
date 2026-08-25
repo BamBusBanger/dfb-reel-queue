@@ -465,3 +465,4 @@
 2026-08-25 | musiala-ausfall-auftakt-top3-klopp-zehner | Musiala Bayern-Kader BL-Auftakt gestrichen Stuttgart 28.8., 2 Kollapsen Neurologie, Wirtz Havertz Stiller als 3 Klopp-Gewinner (TOP-3-LISTE)
 2026-08-25 | el-mala-koeln-vs-adeyemi-klopp-kader | El Mala BVB-Absage bleibt Köln vs Adeyemi Barcelona, Klopps Wildcard-Duell September-Kader 17.9., 57 Kandidaten 26 Plätze (DUELL/VERGLEICH)
 2026-08-25 | stuttgart-rache-klopp-stiller-probe | BL-Auftakt 28.8. Bayern vs Stuttgart, Stiller 0 WM-Min 7 LS DFB-Probe vor Klopp, Stuttgart Rache 0:3 DFB-Pokal-Finale Kane, Musiala fehlt neurologisch, 23 Tage bis Kader-PK 17.9. (NEWS-DRAMA)
+2026-08-25 | klopp-vier-pfeiler-geheimplan-wm2030 | Klopp Masterplan WM 2030, 4 Pfeiler 4-3-3 Hochpressing, Wirtz/Musiala/Karl Kern, Atubolu Torwart-Plan, Kimmich-Kapitäns-Rätsel, 23 Tage bis Kader-PK 17.9. (GEHEIMNIS)
