@@ -464,3 +464,4 @@
 2026-08-25 | klopp-amsterdam-feuertaufe | Klopp Nations-League-Debüt 24.9. Johan Cruijff Arena Amsterdam, nur 7 Tage nach erstem Kader 17.9., Niederlande vs Deutschland größte Rivalität, 3 WM-Aus in Folge, 54.000 Fans (NEWS-DRAMA)
 2026-08-25 | musiala-ausfall-auftakt-top3-klopp-zehner | Musiala Bayern-Kader BL-Auftakt gestrichen Stuttgart 28.8., 2 Kollapsen Neurologie, Wirtz Havertz Stiller als 3 Klopp-Gewinner (TOP-3-LISTE)
 2026-08-25 | el-mala-koeln-vs-adeyemi-klopp-kader | El Mala BVB-Absage bleibt Köln vs Adeyemi Barcelona, Klopps Wildcard-Duell September-Kader 17.9., 57 Kandidaten 26 Plätze (DUELL/VERGLEICH)
+2026-08-25 | stuttgart-rache-klopp-stiller-probe | BL-Auftakt 28.8. Bayern vs Stuttgart, Stiller 0 WM-Min 7 LS DFB-Probe vor Klopp, Stuttgart Rache 0:3 DFB-Pokal-Finale Kane, Musiala fehlt neurologisch, 23 Tage bis Kader-PK 17.9. (NEWS-DRAMA)

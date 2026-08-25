@@ -1,0 +1,100 @@
+{
+  "slug": "stuttgart-rache-klopp-stiller-probe",
+  "createdAt": "2026-08-25T17:34:00Z",
+  "title": "Stillers WM-2030-Probe – Klopp schaut live zu",
+  "script": "DAS IST KLOPPS LETZTE CHANCE! In 3 Tagen trifft Bayern auf Stuttgart – und für Angelo Stiller steht alles auf dem Spiel. 0 WM-Minuten, 7 Länderspiele, und Bundestrainer Klopp schaut live zu. Stuttgart will Rache: Im DFB-Pokal-Finale verloren sie 0:3 gegen Bayern – Harry Kane traf dreifach. Jetzt fehlt Musiala wegen neurologischer Störung. Stiller gegen Pavlović und Bischof – live vor Klopps Augen. Nur 23 Tage bis zur ersten Kader-Nominierung am 17. September. Wer schreibt Freitag seine WM-2030-Geschichte?",
+  "uploadCaption": "KLOPPS LETZTES SCOUTING! Bayern vs Stuttgart am Freitag – Angelo Stiller braucht 90 Minuten seines Lebens. 0 WM-Minuten, 7 Länderspiele, 23 Tage bis Klopps erster Kader. Dazu will Stuttgart Rache für das 0:3 im Pokal-Finale gegen Kane. Musiala fehlt neurologisch. Die Bühne gehört Stiller, Bischof und Pavlović.",
+  "uploadHashtags": "#DFB #Bundesliga #Stiller #Klopp #WM2030 #Bayern #Stuttgart #Fussball #NationsLeague #Casting",
+  "images": [
+    { "file": "stiller_aktion.jpg",   "search": "Angelo Stiller" },
+    { "file": "stiller_dfb.jpg",      "search": "Angelo Stiller DFB" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "allianz_arena.jpg",    "search": "Allianz Arena" },
+    { "file": "musiala.jpg",          "search": "Jamal Musiala" },
+    { "file": "pavlovic.jpg",         "search": "Aleksandar Pavlović" },
+    { "file": "kane.jpg",             "search": "Harry Kane Bayern Munich 2026" },
+    { "file": "bischof.jpg",          "search": "Tom Bischof Bayern München 2026" },
+    { "file": "dfb_fans.jpg",         "search": "DFB Fans" },
+    { "file": "fans_jubel.jpg",       "search": "DFB Fans Jubel" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPPS LETZTE CHANCE!",
+      "image": "stiller_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BL-AUFTAKT · 28. AUGUST",
+      "title": "Stuttgart sucht Rache",
+      "image": "allianz_arena.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "stiller_dfb.jpg",
+      "name": "Angelo Stiller",
+      "role": "Mittelfeld · VfB Stuttgart · 7 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · schaut live zu",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kane.jpg",
+      "name": "Harry Kane",
+      "role": "Bayern München · 3 Tore DFB-Pokal-Finale",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Stillers DFB-Konto",
+      "stats": [
+        { "label": "WM-Minuten 2026", "value": "0" },
+        { "label": "Länderspiele", "value": "7" },
+        { "label": "Tage bis Kader-PK", "value": "23" }
+      ],
+      "image": "stiller_aktion.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "FEHLT · Neurologische Störung",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pavlovic.jpg",
+      "name": "Aleksandar Pavlović",
+      "role": "Bayern Sechser · 28 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "bischof.jpg",
+      "name": "Tom Bischof",
+      "role": "Bayern #8 · 0 A-Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer schreibt Freitag seine WM-2030-Geschichte?",
+      "subtitle": "Stiller, Bischof oder Pavlović?",
+      "image": "fans_jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}
