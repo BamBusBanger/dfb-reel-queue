@@ -1,0 +1,40 @@
+{
+  "slug": "klopp-amsterdam-feuertaufe",
+  "createdAt": "2026-08-25T09:38:00Z",
+  "title": "Klopps Feuertaufe in Amsterdam",
+  "script": "NUR 7 TAGE VORBEREITUNG – dann knallt's! Klopp nennt am 17. September seinen ERSTEN Kader und debütiert nur 7 Tage später in der Johan Cruijff ArenA Amsterdam. Niederlande gegen Deutschland – die vielleicht größte Rivalität im europäischen Fußball! Nach 3 WM-Aus in Folge (2018, 2022, 2026) braucht Klopp sofort einen Sieg im Feuer. 54.000 tobende Niederländer warten. Kimmich, Wirtz, Musiala – können sie Klopp den perfekten Start liefern?",
+  "uploadCaption": "Klopp nennt am 17. September seinen ersten DFB-Kader – und 7 Tage später wartet schon Amsterdam! 54.000 Niederländer, die größte Fußball-Rivalität Europas und der Druck von 3 WM-Aus in Folge. Das ist Klopps Feuertaufe.",
+  "uploadHashtags": "#DFB #KloppDFB #NiederlandeDeutschland #NationsLeague #WM2030 #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "klopp_pk.jpg",         "search": "Jürgen Klopp Pressekonferenz 2026" },
+    { "file": "amsterdam_arena.jpg",  "search": "Johan Cruijff Arena Amsterdam" },
+    { "file": "kimmich.jpg",          "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",            "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",          "search": "Jamal Musiala" },
+    { "file": "dfb_fans.jpg",         "search": "DFB Fans" },
+    { "file": "nederland_team.jpg",   "search": "Netherlands national football team 2026" },
+    { "file": "xavi_simons.jpg",      "search": "Xavi Simons Netherlands 2026" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal" },
+    { "file": "deutschland_flagge.jpg","search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "NUR 7 TAGE!", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "24. September · Amsterdam", "title": "Klopps Feuertaufe", "image": "amsterdam_arena.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp_pk.jpg",   "name": "Jürgen Klopp",    "role": "Bundestrainer · Debüt 24.9.",      "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen",
+      "stats": [
+        { "label": "Tage Vorbereitung",  "value": "7" },
+        { "label": "WM-Aus in Folge",    "value": "3" },
+        { "label": "Fans in Amsterdam",  "value": "54.000" }
+      ],
+      "image": "wm_pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich.jpg",    "name": "Joshua Kimmich",  "role": "Kapitän · 108 Länderspiele",       "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",      "name": "Florian Wirtz",   "role": "Offensiv · 22 J. · Liverpool",    "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg",    "name": "Jamal Musiala",   "role": "Offensiv · 22 J. · Bayern",       "weight": 0.8 },
+    { "type": "image", "image": "nederland_team.jpg", "weight": 0.8 },
+    { "type": "image", "image": "xavi_simons.jpg","name": "Xavi Simons",     "role": "Niederlande · Schlüsselspieler",  "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg",   "weight": 0.8 },
+    { "type": "outro", "title": "Klopp-Debüt: Sieg oder Klatsche?", "subtitle": "Deine Prognose in die Kommentare!", "image": "deutschland_flagge.jpg", "weight": 1.0 }
+  ]
+}
