@@ -1,0 +1,105 @@
+{
+  "slug": "klopp-musiala-anruf-schalke-comeback",
+  "createdAt": "2026-08-26T12:37:00Z",
+  "title": "Klopps Geheim-Anruf: Musiala und der Comeback-Plan",
+  "script": "Niemand wusste davon – bis jetzt. Zwei Klapsen in Trainingseinheiten, Musiala in Sorge. Nach dem zweiten Zwischenfall beim 4:2 gegen Heidenheim rief Bundestrainer Klopp Musiala PERSÖNLICH an. Klare Botschaft: 'Du bist zentraler Bestandteil unserer Pläne.' Bayern und DFB einigen sich auf Kompromiss zur Belastungssteuerung. Comeback-Ziel: Spieltag 2 vs. Schalke, 5. September – nur 12 Tage vor Klopps erster Kader-PK am 17. September. 29 Tage bis Amsterdam-Debüt. Ist Musiala rechtzeitig fit?",
+  "uploadCaption": "Das war nicht öffentlich! Klopp rief Musiala nach seinen 2 Kollapsen persönlich an – und versprach ihm die Zukunft. Comeback-Ziel: 5. September vs. Schalke. Schafft er es bis zum Amsterdam-Debüt am 24. September?",
+  "uploadHashtags": "#DFB #Musiala #Klopp #Bundestrainer #Comeback #NationsLeague #Fussball #Bayern",
+  "images": [
+    { "file": "musiala_jubel.jpg",       "search": "Jamal Musiala DFB Torjubel" },
+    { "file": "team.jpg",                "search": "DFB Team 2026" },
+    { "file": "musiala_bayernspiel.jpg", "search": "Jamal Musiala Bayern München" },
+    { "file": "klopp.jpg",               "search": "Jürgen Klopp Bundestrainer DFB" },
+    { "file": "flagge.jpg",              "search": "Deutschland Flagge" },
+    { "file": "wirtz.jpg",               "search": "Florian Wirtz" },
+    { "file": "amsterdam.jpg",           "search": "Johan Cruijff Arena Amsterdam" },
+    { "file": "kimmich.jpg",             "search": "Joshua Kimmich DFB" },
+    { "file": "fans.jpg",                "search": "DFB Fans" },
+    { "file": "musiala_portrait.jpg",    "search": "Jamal Musiala Bayern Training" },
+    { "file": "fans_jubel.jpg",          "search": "Deutschland Fans Jubel Stadion" },
+    { "file": "havertz.jpg",             "search": "Kai Havertz DFB" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NIEMAND WUSSTE DAVON – BIS JETZT.",
+      "image": "musiala_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "MUSIALA-DRAMA",
+      "title": "Klopps Geheim-Anruf",
+      "image": "team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_bayernspiel.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern · 23 · 2 Kollapse",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · DFB",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Der Comeback-Countdown",
+      "stats": [
+        { "label": "Kollapse Bayern", "value": "2" },
+        { "label": "Tage bis Kader-PK", "value": "22" },
+        { "label": "Comeback-Ziel Schalke", "value": "5.9." }
+      ],
+      "image": "flagge.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Klopp-Zehner falls Musiala fehlt",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 LS",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_portrait.jpg",
+      "name": "Jamal Musiala",
+      "role": "Comeback: 5. September",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "FIT FÜR AMSTERDAM?",
+      "subtitle": "Schafft Musiala das Klopp-Debüt am 24.9.?",
+      "image": "havertz.jpg",
+      "weight": 1.0
+    }
+  ]
+}
