@@ -1,0 +1,99 @@
+{
+  "slug": "wirtz-musiala-klopp-zehner-duell",
+  "createdAt": "2026-08-26T15:37:27Z",
+  "title": "Wirtz vs. Musiala – Klopps Zehner-Rätsel",
+  "script": "Zwei Genies. Nur einer startet in Klopps erster Elf. Florian Wirtz: 125 Millionen Pfund. Beim Premier-League-Auftakt 1 Tor und 1 Assist als echter Zehner. Aber Null WM-Tore in 360 Minuten. Jamal Musiala: 1 WM-Tor, 239 Minuten gespielt. Dann 2 neurologische Kollapsen in Bayern-Testspielen. Comeback gegen Schalke erst am 5. September. Klopp rief ihn persönlich an. Am 17. September nominiert der neue Bundestrainer seinen ersten Kader. Die Zehner-Frage entscheidet alles. Wirtz oder Musiala – wer startet in Amsterdam?",
+  "uploadCaption": "Klopp hat nur einen Platz für die Zehn. Wirtz liefert schon bei Liverpool – Musiala kämpft sich zurück. Am 17. September fällt die Entscheidung. Wer bekommt deiner Meinung nach den Vorzug?",
+  "uploadHashtags": "#DFB #Klopp #Wirtz #Musiala #Bundestrainer #NationsLeague #WM2030",
+  "images": [
+    { "file": "wirtz_training.jpg",    "search": "Florian Wirtz Liverpool" },
+    { "file": "wirtz_jubel.jpg",       "search": "Florian Wirtz DFB" },
+    { "file": "wirtz_zweikampf.jpg",   "search": "Florian Wirtz Zweikampf" },
+    { "file": "wirtz_presse.jpg",      "search": "Florian Wirtz" },
+    { "file": "musiala_aktion.jpg",    "search": "Jamal Musiala" },
+    { "file": "musiala_torjubel.jpg",  "search": "Jamal Musiala Torjubel DFB" },
+    { "file": "musiala_wm.jpg",        "search": "Jamal Musiala WM 2026" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "dfb_fans.jpg",          "search": "DFB Fans" },
+    { "file": "dfb_team.jpg",          "search": "DFB Team 2026" },
+    { "file": "dfb_flagge.jpg",        "search": "Deutschland Flagge", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "WIRTZ ODER MUSIALA?",
+      "image": "wirtz_training.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "17. SEPTEMBER ENTSCHEIDET",
+      "title": "Klopps Zehner-Rätsel",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel.jpg",
+      "name": "Florian Wirtz",
+      "role": "Zehner · Liverpool · 125 Mio. £",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_aktion.jpg",
+      "name": "Jamal Musiala",
+      "role": "Zehner · Bayern · 1 WM-Tor",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Wirtz 2026/27 – Auftakt",
+      "stats": [
+        { "label": "PL-Auftakt Tore", "value": "1" },
+        { "label": "PL-Auftakt Assists", "value": "1" },
+        { "label": "WM-Tore (360 Min.)", "value": "0" }
+      ],
+      "image": "wirtz_zweikampf.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz_presse.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Musiala WM 2026",
+      "stats": [
+        { "label": "WM-Tore", "value": "1" },
+        { "label": "WM-Minuten", "value": "239" },
+        { "label": "Kollapsen 2026", "value": "2" }
+      ],
+      "image": "musiala_torjubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala_wm.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wirtz oder Musiala?",
+      "subtitle": "Klopp nominiert am 17. September",
+      "image": "dfb_flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
