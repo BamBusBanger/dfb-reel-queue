@@ -1,0 +1,34 @@
+{
+  "slug": "klopp-amsterdam-3-probleme",
+  "createdAt": "2026-08-26T09:40:00Z",
+  "title": "Klopp: 3 Probleme in nur 2 Trainings",
+  "script": "NUR ZWEI! So viele Trainingseinheiten hat Klopp mit seinem Team vor dem Niederlande-Debut am 24. September. Kader-PK: 17. September. Erster Treff: 21. September. Amsterdam-Anpfiff: 24. September. Problem 1: Torwart – Atubolu ohne Stammverein, Ter Stegen plötzlich wieder in Top-Form bei Ajax. Problem 2: Kapitän – Kimmich 109 Länderspiele, noch immer kein Anruf von Klopp. Problem 3: Musiala – 2 Kollapse, neurologisches Comeback am Freitag gegen Stuttgart? 57 Kandidaten, 26 Plätze, 2 Trainings. Reicht das gegen den Erzrivalen?",
+  "uploadCaption": "Nur 2 Trainingseinheiten vor dem Niederlande-Debüt! Klopp muss in Rekordzeit 3 Schlüsselfragen lösen: Torwart, Kapitän, Musiala. Kader-PK 17. September – wer ist dabei?",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #Musiala #Kimmich #TerStegen #Bundestrainer #WM2030 #Niederlande",
+  "images": [
+    { "file": "sonstiges/juergen_klopp_01.jpg", "search": "Jürgen Klopp" },
+    { "file": "amsterdam-arena.jpg", "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "symbole/wm2026_logo_01.webp", "search": "WM 2026 Logo" },
+    { "file": "spieler/neuer_01.png", "search": "Manuel Neuer" },
+    { "file": "terstegen.jpg", "search": "Marc-André ter Stegen Ajax 2026" },
+    { "file": "spieler/kimmich_kapitaensbinde_01.webp", "search": "Joshua Kimmich Kapitän" },
+    { "file": "spieler/musiala_01.png", "search": "Jamal Musiala" },
+    { "file": "spieler/kimmich_training_dfb_01.jpg", "search": "Joshua Kimmich" },
+    { "file": "fans/fanzone_brandenburger_tor_01.jpg", "search": "DFB Fans Berlin" },
+    { "file": "team/deutschland-teamfoto-2026-hochkant.jpg", "search": "DFB Team 2026" },
+    { "file": "spieler/kimmich_01.png", "search": "Joshua Kimmich" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "NUR 2 TRAININGS VOR AMSTERDAM!", "image": "sonstiges/juergen_klopp_01.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPP · NATIONS LEAGUE DEBUT", "title": "3 Probleme · 2 Trainings · 1 Chance", "image": "amsterdam-arena.jpg", "weight": 0.7 },
+    { "type": "stats", "title": "Der Countdown", "stats": [{ "label": "Erster DFB-Kader", "value": "17. Sep." }, { "label": "Erster Treff", "value": "21. Sep." }, { "label": "Amsterdam-Debut", "value": "24. Sep." }, { "label": "Trainings vorher", "value": "2" }], "image": "symbole/wm2026_logo_01.webp", "weight": 0.9 },
+    { "type": "image", "image": "spieler/neuer_01.png", "name": "Problem 1: Torwart-Krise", "role": "Atubolu ohne Stammklub · Ter Stegen in Top-Form Ajax", "weight": 0.8 },
+    { "type": "image", "image": "terstegen.jpg", "name": "Marc-André ter Stegen", "role": "Torwart · 34 · Ajax Amsterdam · Man of the Match", "weight": 0.8 },
+    { "type": "image", "image": "spieler/kimmich_kapitaensbinde_01.webp", "name": "Problem 2: Kapitän unbekannt", "role": "Kimmich · 109 Länderspiele · 0 Anrufe von Klopp", "weight": 0.8 },
+    { "type": "image", "image": "spieler/musiala_01.png", "name": "Problem 3: Musiala fraglich", "role": "Offensiv · 23 · 2 Kollapse · Neurologisches Comeback?", "weight": 0.8 },
+    { "type": "image", "image": "spieler/kimmich_training_dfb_01.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans/fanzone_brandenburger_tor_01.jpg", "weight": 0.8 },
+    { "type": "image", "image": "team/deutschland-teamfoto-2026-hochkant.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Reichen 2 Trainings?", "subtitle": "Kann Klopp das Wunder gegen die Niederlande schaffen?", "image": "spieler/kimmich_01.png", "weight": 1.0 }
+  ]
+}
