@@ -1,0 +1,96 @@
+{
+  "slug": "xavi-klopp-doppel-debut-amsterdam",
+  "createdAt": "2026-08-26T17:37:19Z",
+  "title": "Klopp vs. Xavi – Doppel-Debüt in Amsterdam",
+  "script": "Amsterdam, 24. September – und die Welt schaut zu! Klopp und Xavi feiern BEIDE ihr erstes Spiel als Nationaltrainer – im SELBEN Spiel! Klopp 59, Xavi 46 – zwei Weltklasse-Coaches, zwei neue Verträge bis WM 2030. Noch nie in der Nations League debütierten zwei neue Nationaltrainer gleichzeitig gegeneinander. Und der Haken? 2019 zerstörte Klopps Liverpool Xavis Barcelona 4:0 in Anfield – Halbfinale Champions League. Die Revanche beginnt am 24. September im Johan-Cruyff-Stadion. Wer hat die Nerven?",
+  "uploadCaption": "Klopp trifft auf Xavi! Zwei neue Nationaltrainer – ihr erstes Duell überhaupt. Amsterdam 24. September. Die Revanche für Anfield 2019 beginnt!",
+  "uploadHashtags": "#DFB #Klopp #Xavi #NationsLeague #Deutschland #Niederlande #WM2030 #Fussball",
+  "images": [
+    { "file": "klopp.jpg",     "search": "Jürgen Klopp" },
+    { "file": "xavi.jpg",      "search": "Xavi Hernandez Bondscoach Niederlande" },
+    { "file": "amsterdam.jpg", "search": "Johan Cruyff Arena Amsterdam Nations League 2026" },
+    { "file": "anfield.jpg",   "search": "Liverpool Barcelona Anfield Champions League Semifinale 2019" },
+    { "file": "kimmich.jpg",   "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",     "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",   "search": "Jamal Musiala" },
+    { "file": "fans.jpg",      "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP vs. XAVI – BEIDE DEBÜTIEREN AM SELBEN TAG!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "NATIONS LEAGUE · 24. SEPTEMBER",
+      "title": "Doppel-Debüt in Amsterdam",
+      "image": "amsterdam.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · 59 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "xavi.jpg",
+      "name": "Xavi Hernández",
+      "role": "Bondscoach Niederlande · 46 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Historic-Duell",
+      "stats": [
+        { "label": "Beide: erstes Länderspiel", "value": "24.9." },
+        { "label": "Klopp Vertrag bis", "value": "2030" },
+        { "label": "Xavi Vertrag bis", "value": "2030" }
+      ],
+      "image": "amsterdam.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "anfield.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 LS",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 23 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopp oder Xavi – wer gewinnt das Duell der Neuen?",
+      "subtitle": "Kommentiert jetzt! 👇",
+      "image": "amsterdam.jpg",
+      "weight": 1.0
+    }
+  ]
+}
