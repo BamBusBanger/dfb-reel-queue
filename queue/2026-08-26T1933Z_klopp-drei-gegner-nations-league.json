@@ -1,0 +1,101 @@
+{
+  "slug": "klopp-drei-gegner-nations-league",
+  "createdAt": "2026-08-26T19:33:00Z",
+  "title": "Klopps 3 Feuertaufe-Gegner in der Nations League",
+  "script": "3 Gegner, 4 Spiele, 11 Tage – so brutal startet Jürgen Klopp als Bundestrainer! Am 24. September in Amsterdam wartet Xavi mit den Niederlanden: Gakpo und Gravenberch – beide Wirtz-Teamkollegen bei Liverpool! Dann Serbien mit Vlahovic, Juventus-Topstürmer. Und Griechenland – die League-A-Überraschung! Klopp braucht sofort Punkte – denn WM 2030 duldet keinen Fehlstart. Welcher Gegner macht dir am meisten Angst?",
+  "uploadCaption": "Klopp hat seine Feuertaufe: 3 Gegner in 11 Tagen! Niederlande mit Xavi, Serbien mit Vlahovic, Griechenland – wer stoppt Klopps DFB-Neustart? Schreib es in die Kommentare! 👇",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #WM2030 #Fussball #Deutschland",
+  "images": [
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "amsterdam.jpg",    "search": "Johan Cruijff Arena Amsterdam" },
+    { "file": "niederlande.jpg",  "search": "Niederlande Nationalmannschaft 2026" },
+    { "file": "gakpo.jpg",        "search": "Cody Gakpo" },
+    { "file": "vlahovic.jpg",     "search": "Dušan Vlahović Serbien" },
+    { "file": "griechenland.jpg", "search": "Griechenland Nationalmannschaft 2026" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "fans.jpg",         "search": "DFB Fans" },
+    { "file": "pokal.jpg",        "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 GEGNER. 11 TAGE. KLOPPS FEUERPROBE!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "Nations League Gruppe 2",
+      "title": "Klopps 3 Gegner",
+      "image": "amsterdam.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "niederlande.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps Debüt-Kalender",
+      "stats": [
+        { "label": "Spiele", "value": "4" },
+        { "label": "Tage", "value": "11" },
+        { "label": "Gegner", "value": "3" }
+      ],
+      "image": "klopp.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "gakpo.jpg",
+      "name": "Cody Gakpo",
+      "role": "Niederlande · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "vlahovic.jpg",
+      "name": "Dušan Vlahović",
+      "role": "Serbien · Juventus",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "griechenland.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB Zehner · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB Kapitän · 109 LS",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer macht Klopp am meisten Angst?",
+      "subtitle": "Schreib's in die Kommentare!",
+      "image": "pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
