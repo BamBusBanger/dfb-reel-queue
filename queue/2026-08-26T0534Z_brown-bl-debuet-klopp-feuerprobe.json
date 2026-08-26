@@ -1,0 +1,34 @@
+{
+  "slug": "brown-bl-debuet-klopp-feuerprobe",
+  "createdAt": "2026-08-26T05:34:00Z",
+  "title": "Browns Bayern-Debüt: Klopp schaut live zu",
+  "script": "55 Millionen Euro. So viel zahlte Bayern München für Nathaniel Brown – und am 28. August betritt der 23-Jährige die Allianz Arena zu seinem ersten Bundesliga-Spiel. Auf der Tribüne sitzt Jürgen Klopp. 75 Spiele für Frankfurt, 7 Tore, 13 Vorlagen, ein WM-Tor beim 7:1 gegen Curaçao – jetzt die größte Probe seiner Karriere. Nur 22 Tage bis zum ersten Klopp-Kader am 17. September. Liefert Brown heute, steht er drin.",
+  "uploadCaption": "55 Millionen € – und Klopp schaut persönlich zu! Nathaniel Brown gibt sein Bundesliga-Debüt für Bayern und kämpft live um seinen Platz in Klopps erstem DFB-Kader. 22 Tage bis zum 17. September – alles offen!",
+  "uploadHashtags": "#DFB #NathanielBrown #BayernMünchen #Bundesliga #Klopp #WM2026 #DFBTeam #Fussball",
+  "images": [
+    { "file": "brown_spielszene.jpg", "search": "Nathaniel Brown DFB" },
+    { "file": "brown_jubel.jpg", "search": "Nathaniel Brown Bayern Jubel" },
+    { "file": "brown_avatar.jpg", "search": "Nathaniel Brown" },
+    { "file": "klopp_dfb.jpg", "search": "Jürgen Klopp" },
+    { "file": "allianz_innen.jpg", "search": "Allianz Arena" },
+    { "file": "allianz_aussen.jpg", "search": "Allianz Arena München Außen" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich DFB" },
+    { "file": "fans.jpg", "search": "DFB Fans Deutschland" },
+    { "file": "dfb_team.jpg", "search": "DFB Nationalmannschaft 2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "55 MILLIONEN – UND KLOPP SCHAUT ZU.", "image": "brown_spielszene.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB-FEUERPROBE · 28. AUGUST", "title": "Brown: Bayern-Debüt unter Klopps Augen", "image": "brown_jubel.jpg", "weight": 0.7 },
+    { "type": "image", "image": "brown_avatar.jpg", "name": "Nathaniel Brown", "role": "LV · Bayern München · 23 J. · 55 Mio. €", "weight": 0.8 },
+    { "type": "image", "image": "klopp_dfb.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · 1. Kader 17. September", "weight": 0.8 },
+    { "type": "stats", "title": "Browns Weg zu Bayern", "stats": [{ "label": "Spiele Frankfurt", "value": "75" }, { "label": "Tore & Vorlagen", "value": "7 + 13" }, { "label": "WM-Tor (7:1)", "value": "1" }, { "label": "Ablöse", "value": "55 Mio. €" }], "image": "allianz_innen.jpg", "weight": 0.9 },
+    { "type": "image", "image": "allianz_aussen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "Bayern · Status fraglich", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "DFB-Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "brown_spielszene.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_team.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Landet Brown direkt im Klopp-Kader?", "subtitle": "Kommentier JA oder NEIN! 👇", "image": "brown_avatar.jpg", "weight": 1.0 }
+  ]
+}
