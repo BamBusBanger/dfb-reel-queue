@@ -1,0 +1,98 @@
+{
+  "slug": "klopp-erstewahl-xavi-drittewahl",
+  "createdAt": "2026-08-27T12:39:00Z",
+  "title": "Klopp vs. Xavi: Der Trainer-Showdown",
+  "script": "24. September, Amsterdam: die verrückteste Trainer-Premiere der Nations-League-Geschichte. EINER war die uneingeschränkte Nummer 1 seiner Wahl – der ANDERE die dritte Option, nachdem Guardiola und Arne Slot beide abgesagt hatten. Jürgen Klopp, 59 Jahre, 8 Trophäen als Cheftrainer. Xavi Hernández, 46 Jahre, erster Ausländer als Bondscoach seit 48 Jahren. 13 Jahre Altersunterschied. Aber ab dem 24. September ist das alles egal – dann entscheidet nur der Rasen, wer der bessere Debütant ist.",
+  "uploadCaption": "Klopp war die ERSTE Wahl – Xavi die DRITTE. Am 24. September in Amsterdam trifft der neue Bundestrainer auf den neuen Bondscoach. Wer dominiert das Duell der Debütanten? 🇩🇪🇳🇱",
+  "uploadHashtags": "#DFB #Klopp #Xavi #NationsLeague #Oranje #WM2026 #Fussball #Deutschland",
+  "images": [
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "xavi.jpg",           "search": "Xavi Hernandez Netherlands coach 2026" },
+    { "file": "amsterdam_arena.jpg","search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "wirtz.jpg",          "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg",        "search": "Joshua Kimmich" },
+    { "file": "gakpo.jpg",          "search": "Cody Gakpo Netherlands 2026" },
+    { "file": "dfb_fans.jpg",       "search": "DFB Fans Deutschland" },
+    { "file": "oranje_fans.jpg",    "search": "Niederlande Oranje Fans" },
+    { "file": "wm_pokal.jpg",       "search": "WM Pokal" },
+    { "file": "podest_konzept.jpg", "search": "Trainer Taktikboard Fußball Konzept", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DER ERSTE. UND DER DRITTE.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "AMSTERDAM · 24. SEPTEMBER",
+      "title": "Klopp vs. Xavi",
+      "image": "amsterdam_arena.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · 59 J. · Nr. 1-Wahl",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "xavi.jpg",
+      "name": "Xavi Hernández",
+      "role": "Bondscoach · 46 J. · Nr. 3-Wahl",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Trainer-Vergleich",
+      "stats": [
+        { "label": "Klopp Titel als Cheftrainer", "value": "8" },
+        { "label": "Xavi Titel als Cheftrainer",  "value": "2" },
+        { "label": "Jahre Altersunterschied",      "value": "13" }
+      ],
+      "image": "podest_konzept.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · DFB-Angreifer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 109 LS",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "gakpo.jpg",
+      "name": "Cody Gakpo",
+      "role": "Liverpool · Oranje-Angreifer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "oranje_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer dominiert Amsterdam?",
+      "subtitle": "Kommentiert jetzt!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
