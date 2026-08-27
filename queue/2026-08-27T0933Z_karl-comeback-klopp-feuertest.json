@@ -1,0 +1,101 @@
+{
+  "slug": "karl-comeback-klopp-feuertest",
+  "createdAt": "2026-08-27T09:33:56Z",
+  "title": "Karl ist zurück – Klopps WM-2030-Feuertest",
+  "script": "LENNART KARL IST ZURÜCK! Vor 78 Tagen zerstörte ein Muskelbündelriss seinen WM-Traum. Die gesamte WM 2026 verpasst. Dann Rückenprobleme, kein Supercup, 0 Minuten unter Klopps Augen. Doch morgen startet der 19-Jährige beim Bundesliga-Auftakt Bayern gegen Stuttgart. 5 Bundesliga-Tore und 4 Champions-League-Tore in der letzten Saison – Klopp sitzt live auf der Tribüne. In nur 21 Tagen nominiert er seinen ersten DFB-Kader. Schafft Karl den Sprung rein?",
+  "uploadCaption": "Lennart Karl hat alles verloren – WM-Traum weg, Rückenprobleme, kein Klopp-Scouting. Morgen ist sein großer Moment! Schafft er es in Klopps ersten DFB-Kader?",
+  "uploadHashtags": "#DFB #LennartKarl #Klopp #WM2030 #Bundesliga #BayernMünchen #Stuttgart #Nationalmannschaft",
+  "images": [
+    { "file": "karl.jpg",       "search": "Lennart Karl" },
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "allianz.jpg",    "search": "Allianz Arena Bayern München" },
+    { "file": "stiller.jpg",    "search": "Angelo Stiller" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "ouedraogo.jpg",  "search": "Assan Ouédraogo" },
+    { "file": "wm-pokal.jpg",   "search": "WM Pokal Gold Trophäe" },
+    { "file": "fans.jpg",       "search": "DFB Fans Tribüne Stadion" },
+    { "file": "dfb-team.jpg",   "search": "DFB Mannschaftsfoto Deutschland 2026" },
+    { "file": "pejcinovic.jpg", "search": "Alen Pejčinović VfB Stuttgart" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KARL IST ZURÜCK.",
+      "image": "karl.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BUNDESLIGA-AUFTAKT 28.8.",
+      "title": "Klopps letzter Scouting-Test",
+      "image": "allianz.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "karl.jpg",
+      "name": "Lennart Karl",
+      "role": "Offensiv · Bayern · 19 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · seit 15.8.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Karls Saison 25/26",
+      "stats": [
+        { "label": "Bundesliga-Tore",   "value": "5" },
+        { "label": "CL-Tore",           "value": "4" },
+        { "label": "BL-Assists",        "value": "5" },
+        { "label": "WM-Spiele",         "value": "0 (verletzt)" }
+      ],
+      "image": "wm-pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "WM-Ersatz für Karl · 20 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Erneut verletzt · fehlt morgen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "stiller.jpg",
+      "name": "Angelo Stiller",
+      "role": "VfB Stuttgart · DFB-Kandidat",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pejcinovic.jpg",
+      "name": "Alen Pejčinović",
+      "role": "VfB Stuttgart · Klopp-Kader fix",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "21 Tage bis Klopps erstem Kader",
+      "subtitle": "Schafft Karl den Sprung – ja oder nein?",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
