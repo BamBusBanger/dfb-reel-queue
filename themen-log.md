@@ -477,3 +477,4 @@
 2026-08-27 | klopp-erstewahl-xavi-drittewahl | Klopp DFB-Erstwahlmann 59J. vs Xavi Oranje-Drittkandidat 46J. (nach Guardiola+Slot Absage), 13 Jahre Altersunterschied, erster Ausländer Oranje-Coach seit 48 Jahren, beide Debüt 24.9. Amsterdam (DUELL/VERGLEICH)
 2026-08-27 | niederlande-top3-rivalitaet-klopp | Deutschland-Niederlande Rivalität 48 Duelle H2H 18 Siege D vs 12 NL, Top-3 historische Momente 1974/1988/1990, Klopp Debüt 24.9. Amsterdam 49. Duell (TOP-3-LISTE)
 2026-08-27 | klopp-augsburg-20min-ausverkauft | Klopp Heimpremiere Augsburg 27.9. vs Griechenland ausverkauft in 20 Minuten, 30.660 Tickets, erstmals Stehplatz DFB-Heimspiel seit 25 Jahren, Klopp-Effekt trotz 3 WM-Frühaus (NEWS-DRAMA)
+2026-08-27 | jeltsch-klopp-geheimtalent | Finn Jeltsch VfB Stuttgart 20J Innenverteidiger Klopp-Radar BL-Auftakt Bayern 28.8. September-Kader 17.9. (GEHEIMNIS)

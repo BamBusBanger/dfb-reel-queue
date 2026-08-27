@@ -1,0 +1,99 @@
+{
+  "slug": "jeltsch-klopp-geheimtalent",
+  "createdAt": "2026-08-27T19:36:32Z",
+  "title": "Klopps geheimes IV-Juwel: Finn Jeltsch",
+  "script": "Dieser 20-Jährige könnte Tah und Rüdiger unter echten Druck setzen! Finn Jeltsch – VfB Stuttgart, Innenverteidiger, erst 20 Jahre alt und bereits auf Klopps 57er-Beobachtungsliste. Morgen, 28. August, beim Bundesliga-Auftakt Bayern gegen Stuttgart schaut der Bundestrainer live auf der Tribüne zu. Bayern München wollte ihn kaufen – er verlängerte im Februar 2025 trotzdem bis 2030. Sein O-Ton zum möglichen Klopp-Anruf: 'Das wäre ein absoluter Riesentraum!' Erste Kader-PK: 17. September. Amsterdam-Debüt: 24. September. Sieht Klopp morgen genug?",
+  "uploadCaption": "🔍 Klopps geheimes IV-Juwel: Finn Jeltsch (20) – morgen schaut der Bundestrainer live zu! Reicht es für den ersten September-Kader am 17.9.? Schreibt eure Meinung! 👇",
+  "uploadHashtags": "#DFB #WM2030 #FinnJeltsch #Klopp #VfBStuttgart #Bundesliga #Nationalmannschaft",
+  "images": [
+    { "file": "jeltsch.jpg",       "search": "Finn Jeltsch" },
+    { "file": "jeltsch_spiel.jpg", "search": "Finn Jeltsch VfB Stuttgart 2026" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "tah.jpg",           "search": "Jonathan Tah" },
+    { "file": "ruediger.jpg",      "search": "Antonio Rüdiger" },
+    { "file": "allianz.jpg",       "search": "Allianz Arena" },
+    { "file": "fans.jpg",          "search": "DFB Fans" },
+    { "file": "team.jpg",          "search": "Deutschland Nationalmannschaft 2026" },
+    { "file": "flagge.jpg",        "search": "Deutschland Flagge" },
+    { "file": "stuttgart.jpg",     "search": "VfB Stuttgart Bundesliga 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DIESER 20-JÄHRIGE KÖNNTE TAH UND RÜDIGER VERDRÄNGEN!",
+      "image": "jeltsch.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2030",
+      "title": "Klopps geheimes IV-Juwel",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "jeltsch_spiel.jpg",
+      "name": "Finn Jeltsch",
+      "role": "Innenverteidiger · VfB Stuttgart · 20",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "allianz.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Jeltsch auf Klopps Radar",
+      "stats": [
+        { "label": "Alter", "value": "20 J." },
+        { "label": "Vertrag bis", "value": "2030" },
+        { "label": "Klopp-Scouting", "value": "28. Aug." }
+      ],
+      "image": "team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "DFB-Abwehrchef · 30",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ruediger.jpg",
+      "name": "Antonio Rüdiger",
+      "role": "DFB-Abwehrchef · 33",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "stuttgart.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "jeltsch.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Verdient Jeltsch schon jetzt einen DFB-Platz?",
+      "subtitle": "Klopp schaut morgen live zu – kommentiert!",
+      "image": "jeltsch_spiel.jpg",
+      "weight": 1.0
+    }
+  ]
+}
