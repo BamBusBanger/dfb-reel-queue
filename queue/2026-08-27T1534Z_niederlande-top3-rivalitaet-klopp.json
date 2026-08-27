@@ -1,0 +1,36 @@
+{
+  "slug": "niederlande-top3-rivalitaet-klopp",
+  "createdAt": "2026-08-27T15:34:00Z",
+  "title": "Klopps Feuerprobe: Top 3 Momente des Jahrhundertduells Deutschland-Niederlande",
+  "script": "Jürgen Klopp betritt am 24. September in Amsterdam seine größte Bühne als Bundestrainer. Das 49. Duell Deutschland gegen Niederlande – 18 Siege gegen 12. Drei Momente, die diese Rivalität für immer definierten: Platz 3 – 1974: Gerd Müllers Siegtor brachte den Weltmeistertitel. Platz 2 – 1988: Van Bastens Volley aus spitzem Winkel schmerzt bis heute. Platz 1 – 1990: Völler, Rijkaard und der Skandal, der WM-Geschichte schrieb. Am 24. September muss Klopp Geschichte schreiben – 54.000 Fans in Amsterdam warten.",
+  "uploadCaption": "🇩🇪🆚🇳🇱 Das 49. Duell – Klopps Feuerprobe in Amsterdam! Die 3 unvergesslichsten Momente der größten Fußball-Rivalität Europas. Welcher Moment wiegt für dich schwerer – 1974 oder 1988? 👇",
+  "uploadHashtags": "#DFB #Klopp #NiederlandeDeutschland #NationsLeague #WM2030 #Fussball #Deutschland #Amsterdam #Bundestrainer",
+  "images": [
+    { "file": "fans_tribuene.jpg", "search": "DFB Fans Tribüne" },
+    { "file": "amsterdam_arena.jpg", "search": "Johan Cruijff Arena Amsterdam" },
+    { "file": "wirtz_jubel.jpg", "search": "Florian Wirtz" },
+    { "file": "nl_fans.jpg", "search": "Niederlande Fans Oranje" },
+    { "file": "flagge.jpg", "search": "Deutschland Flagge" },
+    { "file": "mueller_1974.jpg", "search": "Gerd Müller WM-Finale 1974" },
+    { "file": "vanbasten_1988.jpg", "search": "Marco van Basten EM-Finale 1988 Jahrhunderttor" },
+    { "file": "fans_entsetzen.jpg", "search": "DFB Fans Entsetzen" },
+    { "file": "voeller_1990.jpg", "search": "Rudi Völler WM 1990 Rijkaard" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "teamfoto.jpg", "search": "DFB Nationalmannschaft 2026" },
+    { "file": "jubel_sw.jpg", "search": "Fans Jubel Stadion" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "49. DUELL – KLOPPS FEUERPROBE IN AMSTERDAM", "image": "fans_tribuene.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "Nations League · 24. September Amsterdam", "title": "Top-3 Momente des Jahrhundertduells", "image": "amsterdam_arena.jpg", "weight": 0.7 },
+    { "type": "image", "image": "wirtz_jubel.jpg", "name": "Florian Wirtz", "role": "Offensiv · DFB 2026", "weight": 0.8 },
+    { "type": "image", "image": "nl_fans.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Deutschland vs. Niederlande – H2H (48 Duelle)", "stats": [{ "label": "Siege Deutschland", "value": "18" }, { "label": "Remis", "value": "18" }, { "label": "Siege Niederlande", "value": "12" }], "image": "flagge.jpg", "weight": 0.9 },
+    { "type": "image", "image": "mueller_1974.jpg", "name": "Gerd Müller", "role": "WM-Finale 1974 · Siegtor 43. Min.", "weight": 0.8 },
+    { "type": "image", "image": "vanbasten_1988.jpg", "name": "Marco van Basten", "role": "EM-Finale 1988 · Jahrhunderttor", "weight": 0.8 },
+    { "type": "image", "image": "fans_entsetzen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "voeller_1990.jpg", "name": "Rudi Völler", "role": "WM 1990 · Rijkaard-Skandal", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · Debüt 24.9.", "weight": 0.8 },
+    { "type": "image", "image": "teamfoto.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Welcher Moment wiegt schwerer?", "subtitle": "1974 Triumph oder 1988 van Basten – kommentiert!", "image": "jubel_sw.jpg", "weight": 1.0 }
+  ]
+}
