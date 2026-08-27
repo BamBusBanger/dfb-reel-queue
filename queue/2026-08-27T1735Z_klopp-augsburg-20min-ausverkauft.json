@@ -1,0 +1,34 @@
+{
+  "slug": "klopp-augsburg-20min-ausverkauft",
+  "createdAt": "2026-08-27T17:35:00Z",
+  "title": "Klopps Heimpremiere in 20 Minuten ausverkauft",
+  "script": "20 Minuten! Genau so lange hat es gedauert, bis Klopps erste Heimpremiere als Bundestrainer restlos ausverkauft war. 30.660 Karten für den 27. September in Augsburg gegen Griechenland – in Rekordzeit weg. Zum ersten Mal seit über 25 Jahren gibt es wieder Stehplätze bei einem DFB-Heimspiel. 3 WM-Frühaus in Folge – und trotzdem brennt Deutschland. Der Klopp-Effekt ist real. Kann er liefern, was alle wollen: den fünften Stern?",
+  "uploadCaption": "Klopp-Euphorie ist real! Heimdebüt in Augsburg ausverkauft – in nur 20 Minuten. Erstmals seit 25 Jahren Stehplätze beim DFB. Was läuft gerade in Deutschland?",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #Deutschland #WM2030 #Bundestrainer #Fussball #Augsburg",
+  "images": [
+    { "file": "klopp.jpg",       "search": "Jürgen Klopp" },
+    { "file": "fans1.jpg",       "search": "DFB Fans" },
+    { "file": "fanmeile.jpg",    "search": "DFB Fanmeile Berlin" },
+    { "file": "fans_hoffen.jpg", "search": "public viewing hoffen" },
+    { "file": "fanzone.jpg",     "search": "Fanzone Brandenburger Tor" },
+    { "file": "wirtz.jpg",       "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",     "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",     "search": "Joshua Kimmich" },
+    { "file": "flagge.jpg",      "search": "Deutschland Flagge" },
+    { "file": "jubel.jpg",       "search": "jubelnde Menge DFB" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "20 MINUTEN – AUSVERKAUFT.", "image": "fanmeile.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "NATIONS LEAGUE 2026", "title": "Klopp-Fieber in Deutschland", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp.jpg",       "name": "Jürgen Klopp", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "fans1.jpg",       "weight": 0.8 },
+    { "type": "image", "image": "fanzone.jpg",     "weight": 0.8 },
+    { "type": "stats", "title": "Klopp-Rekord", "stats": [{ "label": "Tickets", "value": "30.660" }, { "label": "Ausverkauft in", "value": "20 Min" }, { "label": "Kein Stehplatz seit", "value": "25 Jahren" }], "image": "fanmeile.jpg", "weight": 0.9 },
+    { "type": "image", "image": "fans_hoffen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",       "name": "Florian Wirtz", "role": "Offensiv · 23", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg",     "name": "Jamal Musiala", "role": "Offensiv · 23", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",     "name": "Joshua Kimmich", "role": "Kapitän · 31", "weight": 0.8 },
+    { "type": "image", "image": "jubel.jpg",       "weight": 0.8 },
+    { "type": "outro", "title": "Kann Klopp den 5. Stern holen?", "subtitle": "Kommentiere deine Meinung!", "image": "flagge.jpg", "weight": 1.0 }
+  ]
+}
