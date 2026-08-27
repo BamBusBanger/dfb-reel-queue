@@ -1,0 +1,95 @@
+{
+  "slug": "klopp-gegen-liverpool-stars-amsterdam",
+  "createdAt": "2026-08-27T05:35:00Z",
+  "title": "Klopp gegen seine eigenen Liverpool-Schüler",
+  "script": "DAS HAT ES NOCH NIE GEGEBEN! Jürgen Klopp, Deutschlands neuer Bundestrainer, trifft beim Debüt am 24. September in Amsterdam auf seine EIGENEN ehemaligen Liverpool-Stars: Cody Gakpo und Ryan Gravenberch – beide von Klopp persönlich geformt, jetzt Niederlandes größte Waffen. 48 Duelle in der Geschichte, Deutschland vorne mit 18 Siegen gegen 12, letzter Sieg 1:0 im Oktober 2024. 54.000 Fans im Johan Cruijff Arena, Xavi feiert gleichzeitig sein Nationaltrainer-Debüt. Kennt Klopp seine Schüler besser als sie sich selbst?",
+  "uploadCaption": "Klopp debütiert am 24. September in Amsterdam – und trifft auf seine eigenen Liverpool-Stars! Gakpo und Gravenberch stehen jetzt auf der anderen Seite. 48 Duelle in der Geschichte, Deutschland vorne 18:12 Siege. Schlägt Klopp seine Schüler?",
+  "uploadHashtags": "#DFB #Klopp #Niederlande #NationsLeague #Gakpo #Gravenberch #Liverpool #EM2028 #Fussball",
+  "images": [
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "gakpo.jpg",            "search": "Cody Gakpo Netherlands 2026" },
+    { "file": "gravenberch.jpg",      "search": "Ryan Gravenberch Netherlands 2026" },
+    { "file": "amsterdam_arena.jpg",  "search": "Johan Cruijff Arena Amsterdam" },
+    { "file": "dfb_team.jpg",         "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wirtz.jpg",            "search": "Florian Wirtz" },
+    { "file": "niederlande_fans.jpg", "search": "Niederlande Oranje Fans Amsterdam" },
+    { "file": "dfb_fans.jpg",         "search": "DFB Fans" },
+    { "file": "liverpool_klopp.jpg",  "search": "Jürgen Klopp Liverpool Champions League 2019" },
+    { "file": "flagge.jpg",           "search": "Deutschland Flagge" },
+    { "file": "xavi.jpg",             "search": "Xavi Hernandez Netherlands Coach 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP GEGEN SEINE EIGENEN SCHÜLER!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "24. SEPTEMBER · AMSTERDAM",
+      "title": "Klopps Schüler-Duell",
+      "image": "amsterdam_arena.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "gakpo.jpg",
+      "name": "Cody Gakpo",
+      "role": "Niederlande · ehem. Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "gravenberch.jpg",
+      "name": "Ryan Gravenberch",
+      "role": "Niederlande · ehem. Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "liverpool_klopp.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Deutschland vs. Niederlande",
+      "stats": [
+        { "label": "Duelle gesamt", "value": "48" },
+        { "label": "DFB-Siege",     "value": "18" },
+        { "label": "NL-Siege",      "value": "12" }
+      ],
+      "image": "dfb_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "niederlande_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Kennt Klopp seine Schüler?",
+      "subtitle": "JA oder NEIN – schreib's in die Kommentare!",
+      "image": "xavi.jpg",
+      "weight": 1.0
+    }
+  ]
+}
