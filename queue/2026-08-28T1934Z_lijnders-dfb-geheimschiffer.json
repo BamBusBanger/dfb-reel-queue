@@ -1,0 +1,105 @@
+{
+  "slug": "lijnders-dfb-geheimschiffer",
+  "createdAt": "2026-08-28T19:34:39Z",
+  "title": "Klopps geheimste Waffe: Der Niederländer im DFB",
+  "script": "EIN NIEDERLÄNDER soll Deutschland gegen die Niederlande zum Sieg führen. Klopps Co-Trainer Pepijn Lijnders, 43, ist Niederländer – und kennt das niederländische Fußball-System von innen. Er baute Liverpools 4-3-3-Pressing-Maschine – genau das System, das Xavi jetzt mit den Niederlanden spielt. Zuletzt war er Guardiolas Assistent bei Manchester City. 48 H2H-Duelle: Deutschland führt 18 zu 12. Lijnders ist Klopps geheimste Waffe für Amsterdam. 24. September, Johan Cruijff Arena – Klopps erstes DFB-Duell. Glaubst du, dieser Insider-Vorteil macht am Ende den Unterschied?",
+  "uploadCaption": "Klopps geheimste Waffe gegen die Niederlande ist ein NIEDERLÄNDER 🇳🇱 Pepijn Lijnders (43) kennt das System von innen – 48 H2H-Duelle, Deutschland führt 18:12. 24. September, Johan Cruijff Arena. Wird dieser Insider-Vorteil reichen?",
+  "uploadHashtags": "#DFB #Klopp #Lijnders #Niederlande #NationsLeague #WM2030 #Fussball #Nationalmannschaft #Bundestrainer",
+  "images": [
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "lijnders.jpg",       "search": "Pepijn Lijnders DFB Co-Trainer" },
+    { "file": "amsterdam_arena.jpg","search": "Johan Cruijff Arena Amsterdam" },
+    { "file": "xavi_nl.jpg",        "search": "Xavi Hernandez Netherlands Coach" },
+    { "file": "liverpool_cl.jpg",   "search": "Liverpool Champions League Trophy 2019" },
+    { "file": "dfb_fans.jpg",       "search": "Deutschland Fans" },
+    { "file": "nl_flagge.jpg",      "search": "Niederlande Flagge Fussball" },
+    { "file": "dfb_teamfoto.jpg",   "search": "DFB Teamfoto 2026" },
+    { "file": "dfb_flagge.jpg",     "search": "Deutschland Flagge" },
+    { "file": "pressing_taktik.jpg","search": "Fussball Pressing Taktik System", "thematic": true },
+    { "file": "wm_pokal.jpg",       "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "EIN NIEDERLÄNDER im DFB-Trainerteam – das ist Klopps geheimste Waffe gegen Amsterdam.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPPS GEHEIMNIS",
+      "title": "Der Insider gegen die Niederlande",
+      "image": "amsterdam_arena.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "lijnders.jpg",
+      "name": "Pepijn Lijnders",
+      "role": "DFB Co-Trainer · 43 J. · Niederländer",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Lijnders Karriere",
+      "stats": [
+        { "label": "Zuletzt", "value": "Man City (Guardiola)" },
+        { "label": "CL-Titel", "value": "2019 mit Liverpool" },
+        { "label": "System", "value": "4-3-3 Pressing-Architekt" }
+      ],
+      "image": "liverpool_cl.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "xavi_nl.jpg",
+      "name": "Xavi Hernández",
+      "role": "Bondscoach Niederlande · 24.9. Amsterdam",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Deutschland vs. Niederlande H2H",
+      "stats": [
+        { "label": "Duelle gesamt", "value": "48" },
+        { "label": "DFB-Siege",    "value": "18" },
+        { "label": "NL-Siege",     "value": "12" },
+        { "label": "Remis",        "value": "18" }
+      ],
+      "image": "pressing_taktik.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nl_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_teamfoto.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "24. September · Amsterdam",
+      "subtitle": "Macht Lijnders als Niederländer im DFB den Unterschied?",
+      "image": "amsterdam_arena.jpg",
+      "weight": 1.0
+    }
+  ]
+}
