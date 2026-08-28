@@ -478,3 +478,4 @@
 2026-08-27 | niederlande-top3-rivalitaet-klopp | Deutschland-Niederlande Rivalität 48 Duelle H2H 18 Siege D vs 12 NL, Top-3 historische Momente 1974/1988/1990, Klopp Debüt 24.9. Amsterdam 49. Duell (TOP-3-LISTE)
 2026-08-27 | klopp-augsburg-20min-ausverkauft | Klopp Heimpremiere Augsburg 27.9. vs Griechenland ausverkauft in 20 Minuten, 30.660 Tickets, erstmals Stehplatz DFB-Heimspiel seit 25 Jahren, Klopp-Effekt trotz 3 WM-Frühaus (NEWS-DRAMA)
 2026-08-27 | jeltsch-klopp-geheimtalent | Finn Jeltsch VfB Stuttgart 20J Innenverteidiger Klopp-Radar BL-Auftakt Bayern 28.8. September-Kader 17.9. (GEHEIMNIS)
+2026-08-28 | dfb-transfer-sommer-top3-klopp | DFB Transfer-Sommer Top-3: Woltemade Liverpool 75 Mio, Brown Bayern 55 Mio Supercup-Tor, El Mala bleibt Köln Klopp-Anruf, Fenster schließt 31.8., Kader 17.9. (TOP-3-LISTE)

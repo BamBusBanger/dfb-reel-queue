@@ -1,0 +1,32 @@
+{
+  "slug": "dfb-transfer-sommer-top3-klopp",
+  "createdAt": "2026-08-28T05:36:57Z",
+  "title": "3 DFB-Transfers verändern Klopps Kader",
+  "script": "3 DFB-Transfers die ALLES verändern! Erstens: Nick Woltemade zu Liverpool – der 75-Millionen-Star als Wirtz-Teamkollege unter Klopps ehemaligen Kollegen! Zweitens: Nathaniel Brown für 55 Millionen zu Bayern – direkt Supercup-Tor in Minute 28! Drittens: Leon Goretzka ablösefrei zu Aston Villa – 70 Länderspiele, zweite WM-Chance. Und El Mala (19) bleibt trotz Klopp-Anruf bei Köln! 3 Tage noch – dann schließt das Transfer-Fenster. In 20 Tagen: Klopps erster Kader. Welcher Wechsel war der wichtigste?",
+  "uploadCaption": "3 Transfer-Deals diesen Sommer, die Klopps ersten DFB-Kader entscheidend mitformen! Das Transfer-Fenster schließt am 31. August – und in nur 20 Tagen präsentiert Klopp seinen ersten Kader (17. September). Wer profitiert am meisten? ⚽🔥",
+  "uploadHashtags": "#DFB #Klopp #Bundesliga #WM2030 #Transfers #Woltemade #NathanielBrown #Goretzka #ElMala",
+  "images": [
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "dfb_team.jpg",        "search": "DFB Nationalmannschaft 2026" },
+    { "file": "woltemade.jpg",       "search": "Nick Woltemade" },
+    { "file": "liverpool.jpg",       "search": "Liverpool FC Anfield" },
+    { "file": "brown.jpg",           "search": "Nathaniel Brown DFB" },
+    { "file": "goretzka.jpg",        "search": "Leon Goretzka" },
+    { "file": "elmala.jpg",          "search": "Said El Mala FC Köln" },
+    { "file": "transfer_board.jpg",  "search": "Transfer Deadline Board Fußball Countdown", "thematic": true },
+    { "file": "dfb_fans.jpg",        "search": "DFB Fans Deutschland" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "3 TRANSFERS VERÄNDERN KLOPPS KADER!", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB TRANSFER-SOMMER 2026", "title": "3 Deals · 1 Klopp-Kader", "image": "dfb_team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "woltemade.jpg", "name": "Nick Woltemade", "role": "Liverpool · 22 · 75 Mio. Ablöse", "weight": 0.8 },
+    { "type": "image", "image": "liverpool.jpg", "weight": 0.8 },
+    { "type": "image", "image": "brown.jpg", "name": "Nathaniel Brown", "role": "FC Bayern · 23 · 55 Mio. Ablöse", "weight": 0.8 },
+    { "type": "stats", "title": "Transfer-Sommer Überblick", "stats": [{ "label": "Woltemade Ablöse", "value": "75 Mio." }, { "label": "Brown Ablöse", "value": "55 Mio." }, { "label": "Goretzka Ablöse", "value": "0 €" }], "image": "dfb_team.jpg", "weight": 0.9 },
+    { "type": "image", "image": "goretzka.jpg", "name": "Leon Goretzka", "role": "Aston Villa · ablösefrei · 70 LS", "weight": 0.8 },
+    { "type": "image", "image": "elmala.jpg", "name": "Said El Mala", "role": "1. FC Köln · 19 J. · 13 BL-Tore", "weight": 0.8 },
+    { "type": "stats", "title": "Klopp-Kader Countdown", "stats": [{ "label": "Fenster schließt in", "value": "3 Tagen" }, { "label": "Erster Kader am", "value": "17. Sept." }, { "label": "Kandidaten", "value": "57" }], "image": "transfer_board.jpg", "weight": 0.9 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Welcher Sommer-Transfer war der wichtigste für WM 2030?", "subtitle": "Jetzt kommentieren!", "image": "dfb_fans.jpg", "weight": 1.0 }
+  ]
+}
