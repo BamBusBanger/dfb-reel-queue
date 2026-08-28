@@ -1,0 +1,106 @@
+{
+  "slug": "sane-galatasaray-form-dfb-ende",
+  "createdAt": "2026-08-28T17:34:00Z",
+  "title": "Sanés Galatasaray-Albtraum – und die Uhr tickt",
+  "script": "Leroy Sané, 30, 75 Länderspiele – und er bettelt gerade in Istanbul um Einsatzzeit. Nur 113 Minuten in 4 Spielen für Galatasaray, 0 Tore, 0 Vorlagen. Im letzten Spiel: nur 24 Minuten – dann Bank. Die türkische Presse urteilt knallhart: 'furchtbar'. In genau 20 Tagen nennt Jürgen Klopp seinen ersten DFB-Kader. Beier mit über 20 Torbeteiligungen, Adeyemi in Barcelona, El Mala mit 13 Ligatore – alle warten. Hat Sané noch eine Chance?",
+  "uploadCaption": "Leroy Sané bei Galatasaray komplett abgetaucht – 0 Tore, 0 Vorlagen, gerade mal 113 Minuten in 4 Spielen. Am 17. September gibt Klopp seinen ersten Kader bekannt. Läuft die Uhr für den DFB-Star ab? 🕐",
+  "uploadHashtags": "#Sané #DFB #Galatasaray #Klopp #Nationalmannschaft #NationsLeague #WM2030",
+  "images": [
+    { "file": "sane.jpg",          "search": "Leroy Sané" },
+    { "file": "galatasaray.jpg",   "search": "Galatasaray Stadium 2026" },
+    { "file": "sane_training.jpg", "search": "Leroy Sané training" },
+    { "file": "sane_dfb.jpg",      "search": "Leroy Sané DFB" },
+    { "file": "sane_spielszene.jpg","search": "Leroy Sané Spielszene DFB" },
+    { "file": "beier.jpg",         "search": "Maximilian Beier" },
+    { "file": "adeyemi.jpg",       "search": "Karim Adeyemi 2026" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "sane_kimmich.jpg",  "search": "Leroy Sané Kimmich Jubel" },
+    { "file": "fans.jpg",          "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NUR 24 MINUTEN. DANN BANK.",
+      "image": "sane.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP-KADER IN 20 TAGEN",
+      "title": "Sanés Galatasaray-Albtraum",
+      "image": "galatasaray.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "sane.jpg",
+      "name": "Leroy Sané",
+      "role": "Flügelspieler · 30 · Galatasaray",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Sané 2026/27 bei Galatasaray",
+      "stats": [
+        { "label": "Einsätze", "value": "4" },
+        { "label": "Minuten", "value": "113" },
+        { "label": "Tore", "value": "0" },
+        { "label": "Vorlagen", "value": "0" }
+      ],
+      "image": "sane_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "galatasaray.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "sane_dfb.jpg",
+      "name": "Leroy Sané",
+      "role": "75 Länderspiele · 16 Tore · DFB",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "sane_spielszene.jpg",
+      "name": "Leroy Sané",
+      "role": "Türkische Presse: 'furchtbar'",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beier.jpg",
+      "name": "Maximilian Beier",
+      "role": "Konkurrent · 20+ Torbeteiligungen · BVB",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "adeyemi.jpg",
+      "name": "Karim Adeyemi",
+      "role": "Konkurrent · Barcelona · Klopp-Kandidat",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Kader-PK 17. September",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "sane_kimmich.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Sané es in Klopps ersten Kader?",
+      "subtitle": "Ja oder Nein – schreib's in die Kommentare!",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}

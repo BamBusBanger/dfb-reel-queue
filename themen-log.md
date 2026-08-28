@@ -482,3 +482,4 @@
 2026-08-28 | kimmich-sechser-bl-signal-klopp | Kimmich spielt ZENTRAL als Sechser Bayern vs Stuttgart BL-Auftakt 28.8. 20:30, Klopp auf Tribüne, 109 LS 44 als RV, 20 Tage bis erster DFB-Kader, Stiller/Pejčinović/Undav Konkurrenten (NEWS-DRAMA)
 2026-08-28 | gruda-brighton-vergessen-klopp-radar | Brajan Gruda Brighton RB Leipzig Klopp 57er-Liste, 22J 3 Tore 3 Vorlagen 14 Spiele, Müller Lieblingsspieler, 0 A-Länderspiele Nagelsmann-Opfer, Kader-PK 17.9. (GEHEIMNIS)
 2026-08-28 | bischof-stiller-klopp-allianzarena | Tom Bischof (Bayern, 21, 0 LS) vs Angelo Stiller (Stuttgart, 25, 9 LS), Klopp Tribüne BL-Auftakt 20:30 letztes Scouting vor Kader 17.9. Amsterdam-Debüt 24.9. (DUELL/VERGLEICH)
+2026-08-28 | sane-galatasaray-form-dfb-ende | Sané Galatasaray 0 Tore 0 Vorlagen 113 Min 4 Spiele turkish press furchtbar, Klopp Kader 17.9., Beier Adeyemi El Mala Konkurrenten (NEWS-DRAMA)
