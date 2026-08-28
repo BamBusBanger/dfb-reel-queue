@@ -481,3 +481,4 @@
 2026-08-28 | dfb-transfer-sommer-top3-klopp | DFB Transfer-Sommer Top-3: Woltemade Liverpool 75 Mio, Brown Bayern 55 Mio Supercup-Tor, El Mala bleibt Köln Klopp-Anruf, Fenster schließt 31.8., Kader 17.9. (TOP-3-LISTE)
 2026-08-28 | kimmich-sechser-bl-signal-klopp | Kimmich spielt ZENTRAL als Sechser Bayern vs Stuttgart BL-Auftakt 28.8. 20:30, Klopp auf Tribüne, 109 LS 44 als RV, 20 Tage bis erster DFB-Kader, Stiller/Pejčinović/Undav Konkurrenten (NEWS-DRAMA)
 2026-08-28 | gruda-brighton-vergessen-klopp-radar | Brajan Gruda Brighton RB Leipzig Klopp 57er-Liste, 22J 3 Tore 3 Vorlagen 14 Spiele, Müller Lieblingsspieler, 0 A-Länderspiele Nagelsmann-Opfer, Kader-PK 17.9. (GEHEIMNIS)
+2026-08-28 | bischof-stiller-klopp-allianzarena | Tom Bischof (Bayern, 21, 0 LS) vs Angelo Stiller (Stuttgart, 25, 9 LS), Klopp Tribüne BL-Auftakt 20:30 letztes Scouting vor Kader 17.9. Amsterdam-Debüt 24.9. (DUELL/VERGLEICH)

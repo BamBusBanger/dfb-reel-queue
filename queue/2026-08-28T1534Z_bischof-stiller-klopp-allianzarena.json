@@ -1,0 +1,98 @@
+{
+  "slug": "bischof-stiller-klopp-allianzarena",
+  "createdAt": "2026-08-28T15:34:00Z",
+  "title": "Klopps letztes Casting: Bischof vs. Stiller",
+  "script": "Heute Abend, 20:30 Uhr, Allianz Arena – Bundestrainer Jürgen Klopp schaut live zu. Sein allerletzter Scouting-Test vor der Kader-Nominierung am 17. September – dann benennt er 26 Spieler für sein Nations-League-Debüt in Amsterdam. Und mitten im Spiel kämpfen zwei Kandidaten direkt gegeneinander: Tom Bischof, 21 Jahre, Bayern, 0 A-Länderspiele – aber Supercup-Überraschung als Zehner. Versus Angelo Stiller, 25, Stuttgart, 9 Länderspiele, 0 WM-Minuten. Klopp braucht in seinem 4-3-3 mindestens 2 Achter-Positionen. Heute schlägt die Stunde der Wahrheit.",
+  "uploadCaption": "Klopp schaut LIVE zu – heute Abend 20:30 Uhr Allianz Arena! Tom Bischof (21, Bayern, 0 LS) trifft direkt auf Angelo Stiller (25, Stuttgart, 9 LS). Wer holt sich einen der 26 Klopp-Plätze? Kader-Nominierung: 17. September.",
+  "uploadHashtags": "#DFB #Klopp #TomBischof #AngeloStiller #FCBayern #VfBStuttgart #Bundesliga #WM2030 #NationsLeague",
+  "images": [
+    { "file": "bischof.jpg",       "search": "Tom Bischof Bayern München Bundesliga" },
+    { "file": "stiller_pic.jpg",   "search": "Angelo Stiller" },
+    { "file": "klopp_pic.jpg",     "search": "Jürgen Klopp" },
+    { "file": "allianz_nacht.jpg", "search": "Allianz Arena München Nacht" },
+    { "file": "allianz_tag.jpg",   "search": "Allianz Arena" },
+    { "file": "pavlovic_pic.jpg",  "search": "Aleksandar Pavlović" },
+    { "file": "kimmich_pic.jpg",   "search": "Joshua Kimmich" },
+    { "file": "dfbteam_pic.jpg",   "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wm2026logo_pic.jpg","search": "WM 2026 Logo" },
+    { "file": "dfbfans_pic.jpg",   "search": "DFB Fans" },
+    { "file": "wmpokal_pic.jpg",   "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP SCHAUT HEUTE LIVE ZU.",
+      "image": "allianz_nacht.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BL-AUFTAKT · 28. AUGUST",
+      "title": "Klopps letztes Casting",
+      "image": "klopp_pic.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "bischof.jpg",
+      "name": "Tom Bischof",
+      "role": "Mittelfeld · 21 · Bayern · 0 LS",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "stiller_pic.jpg",
+      "name": "Angelo Stiller",
+      "role": "Mittelfeld · 25 · Stuttgart · 9 LS",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Mittelfeld-Duell",
+      "stats": [
+        { "label": "Bischof", "value": "21 J · 0 LS" },
+        { "label": "Stiller", "value": "25 J · 9 LS" },
+        { "label": "57 Kandidaten", "value": "26 Plätze" },
+        { "label": "Kader-PK", "value": "17. Sep." }
+      ],
+      "image": "allianz_tag.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "pavlovic_pic.jpg",
+      "name": "Aleksandar Pavlović",
+      "role": "Bayern · 22 · 28 LS · Konkurrent",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich_pic.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 LS · gesetzt",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfbteam_pic.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm2026logo_pic.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfbfans_pic.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Bischof oder Stiller?",
+      "subtitle": "Wer verdient Klopps ersten Kader-Platz?",
+      "image": "wmpokal_pic.jpg",
+      "weight": 1.0
+    }
+  ]
+}
