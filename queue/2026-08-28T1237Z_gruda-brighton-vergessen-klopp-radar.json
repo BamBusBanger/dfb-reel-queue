@@ -1,0 +1,35 @@
+{
+  "slug": "gruda-brighton-vergessen-klopp-radar",
+  "createdAt": "2026-08-28T12:37:00Z",
+  "title": "Klopps geheimes Ass: Brajan Gruda",
+  "script": "KEINER KENNT IHN – ABER KLOPP SCHON! Brajan Gruda, 22 Jahre, Flügelstürmer von Brighton auf Leihbasis zurück bei RB Leipzig. 3 Tore, 3 Vorlagen in nur 14 Spielen – und Thomas Müller adelte ihn als seinen Lieblingsspieler. Sogar FC Bayern soll ihn wollen. Nagelsmann ignorierte ihn komplett: NIE ein A-Länderspiel. Klopps 4-3-3 aber braucht genau sein Profil: Intensität, Tempo, Torgefahr. Er steht auf der 57er-Liste. In 20 Tagen gibt Klopp seinen ersten Kader bekannt. Hat Gruda seinen ersten A-Kader-Platz verdient?",
+  "uploadCaption": "KEINER KENNT IHN – ABER KLOPP SCHON! 🤫 Brajan Gruda ist Brightons vergessenes Talent, Thomas Müllers Lieblingsspieler – und jetzt auf Klopps 57er-Liste für den ersten DFB-Kader am 17. September. Gibt es die große Überraschung?",
+  "uploadHashtags": "#DFB #Klopp #BrajanGruda #RBLeipzig #Nationalmannschaft #NationsLeague #WM2030 #Fussball",
+  "images": [
+    { "file": "gruda.jpg", "search": "Brajan Gruda" },
+    { "file": "gruda_action.jpg", "search": "Brajan Gruda Bundesliga" },
+    { "file": "mueller.jpg", "search": "Thomas Müller" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "dfb_team.jpg", "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "fans.jpg", "search": "DFB Fans Deutschland" },
+    { "file": "vergessen.jpg", "search": "verborgenes Fussball-Talent tritt ins Scheinwerferlicht", "thematic": true },
+    { "file": "rb_leipzig.jpg", "search": "RB Leipzig Bundesliga" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal" },
+    { "file": "fanzone.jpg", "search": "DFB Fanzone Berlin Brandenburger Tor" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "KEINER KENNT IHN – ABER KLOPP SCHON!", "image": "gruda.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB · Nations League 2026", "title": "Klopps vergessenes Ass", "image": "dfb_team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "gruda_action.jpg", "name": "Brajan Gruda", "role": "Flügelstürmer · 22", "weight": 0.8 },
+    { "type": "image", "image": "mueller.jpg", "name": "Thomas Müller", "role": "Bayern München Legende", "weight": 0.8 },
+    { "type": "stats", "title": "Gruda bei RB Leipzig", "stats": [{ "label": "Tore", "value": "3" }, { "label": "Vorlagen", "value": "3" }, { "label": "Spiele", "value": "14" }], "image": "gruda.jpg", "weight": 0.9 },
+    { "type": "image", "image": "rb_leipzig.jpg", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "vergessen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Liverpool · Klopp-Favorit", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fanzone.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Hat Gruda seinen ersten A-Kader-Platz verdient?", "subtitle": "Kommentar unten ↓", "image": "wm_pokal.jpg", "weight": 1.0 }
+  ]
+}
