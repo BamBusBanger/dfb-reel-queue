@@ -1,0 +1,101 @@
+{
+  "slug": "kimmich-sechser-bl-signal-klopp",
+  "createdAt": "2026-08-28T09:36:07Z",
+  "title": "Kimmich endlich Sechser – live vor Klopp",
+  "script": "3 Jahre Rechtsverteidiger gegen seinen Willen – heute Abend ist Schluss damit. Joshua Kimmich startet für Bayern München als zentraler Sechser gegen den VfB Stuttgart. Bundesliga-Auftakt, 20:30 Uhr, Allianz Arena. Jürgen Klopp sitzt auf der Tribüne. 109 Länderspiele, davon 44 als Rechtsverteidiger unter Nagelsmann. Kein einziger Anruf vom neuen Bundestrainer bisher. Gleichzeitig kämpfen Pejčinović und Stiller für Stuttgart direkt gegen ihn um einen der 26 Kaderplätze. Der erste DFB-Kader erscheint in 20 Tagen. Spielt Kimmich unter Klopp endlich wieder zentral?",
+  "uploadCaption": "HEUTE ABEND live: Kimmich spielt endlich ZENTRAL – und Klopp schaut zu! 109 Länderspiele, 44 davon als RV. Jetzt kommt das Urteil in 20 Tagen. Bundesliga-Auftakt Bayern vs Stuttgart, 20:30 Uhr.",
+  "uploadHashtags": "#Kimmich #DFB #Bundesliga #Klopp #Bayern #Stuttgart #WM2030 #BundesligaAuftakt",
+  "images": [
+    { "file": "kimmich_training.jpg",     "search": "Joshua Kimmich" },
+    { "file": "allianz_arena_aussen.jpg", "search": "Allianz Arena" },
+    { "file": "kimmich_binde.jpg",        "search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "klopp_dfb.jpg",            "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "kimmich_training_dfb.jpg", "search": "Joshua Kimmich DFB Training" },
+    { "file": "stiller.jpg",              "search": "Angelo Stiller" },
+    { "file": "pavlovic_dfb.jpg",         "search": "Aleksandar Pavlović" },
+    { "file": "pejcinovic.jpg",           "search": "Marko Pejčinović VfB Stuttgart" },
+    { "file": "undav.jpg",                "search": "Deniz Undav" },
+    { "file": "fans_dfb.jpg",             "search": "DFB Fans Deutschland" },
+    { "file": "kimmich_dfb2.jpg",         "search": "Joshua Kimmich DFB Kapitän" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 JAHRE RV – ENDLICH SECHSER!",
+      "image": "kimmich_training.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BUNDESLIGA-AUFTAKT 28.8. · 20:30 UHR",
+      "title": "Kimmich spielt zentral",
+      "image": "allianz_arena_aussen.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "kimmich_binde.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Sechser · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp_dfb.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Kader in 20 Tagen",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Kimmich unter Nagelsmann",
+      "stats": [
+        { "label": "Länderspiele gesamt",  "value": "109" },
+        { "label": "Davon als RV",         "value": "44" },
+        { "label": "Anrufe von Klopp",     "value": "0" }
+      ],
+      "image": "kimmich_training_dfb.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "pavlovic_dfb.jpg",
+      "name": "Aleksandar Pavlović",
+      "role": "Doppel-Sechs Bayern · 28 LS",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "stiller.jpg",
+      "name": "Angelo Stiller",
+      "role": "VfB Stuttgart · Gegner & Konkurrent",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pejcinovic.jpg",
+      "name": "Marko Pejčinović",
+      "role": "VfB Stuttgart · Klopp-Kandidat",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "undav.jpg",
+      "name": "Deniz Undav",
+      "role": "VfB Stuttgart · 3 WM-Tore",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "DEINE MEINUNG!",
+      "subtitle": "Kimmich als Sechser oder RV unter Klopp?",
+      "image": "kimmich_dfb2.jpg",
+      "weight": 1.0
+    }
+  ]
+}

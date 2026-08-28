@@ -479,3 +479,4 @@
 2026-08-27 | klopp-augsburg-20min-ausverkauft | Klopp Heimpremiere Augsburg 27.9. vs Griechenland ausverkauft in 20 Minuten, 30.660 Tickets, erstmals Stehplatz DFB-Heimspiel seit 25 Jahren, Klopp-Effekt trotz 3 WM-Frühaus (NEWS-DRAMA)
 2026-08-27 | jeltsch-klopp-geheimtalent | Finn Jeltsch VfB Stuttgart 20J Innenverteidiger Klopp-Radar BL-Auftakt Bayern 28.8. September-Kader 17.9. (GEHEIMNIS)
 2026-08-28 | dfb-transfer-sommer-top3-klopp | DFB Transfer-Sommer Top-3: Woltemade Liverpool 75 Mio, Brown Bayern 55 Mio Supercup-Tor, El Mala bleibt Köln Klopp-Anruf, Fenster schließt 31.8., Kader 17.9. (TOP-3-LISTE)
+2026-08-28 | kimmich-sechser-bl-signal-klopp | Kimmich spielt ZENTRAL als Sechser Bayern vs Stuttgart BL-Auftakt 28.8. 20:30, Klopp auf Tribüne, 109 LS 44 als RV, 20 Tage bis erster DFB-Kader, Stiller/Pejčinović/Undav Konkurrenten (NEWS-DRAMA)
