@@ -1,0 +1,36 @@
+{
+  "slug": "klopp-bl-auftakt-drei-signale",
+  "createdAt": "2026-08-29T05:34:00Z",
+  "title": "Klopps 3 DFB-Signale aus Bayern 5:1 Stuttgart",
+  "script": "5 zu 1! Bayern zerlegt Stuttgart – und Klopp macht sich 3 Notizen für seinen ersten DFB-Kader. Signal 1: Kimmich spielt Sechser mit BLUTENDEM Knöchel und liefert 2 Assists. Nach 3 Jahren als Rechtsverteidiger ist er zurück in seiner Lieblingsposition. Signal 2: Pavlović trifft in Minute 84 – mit 21 Jahren einer der sichersten Kader-Kandidaten. Signal 3: Bischof in der Startelf – 0 Länderspiele, aber auf Klopps 57er-Liste. Kader-Bekanntgabe: 17. September. Welches Signal überrascht dich am meisten?",
+  "uploadCaption": "Klopp saß auf der Tribüne – und hat 3 DFB-Signale gesehen 👀 Bayern 5:1 Stuttgart zeigt, wer im ersten Kader stehen wird. Kader-PK: 17. September!",
+  "uploadHashtags": "#DFB #Klopp #Bundesliga #BayernMünchen #KloppEra #WM2030 #DFBKader",
+  "images": [
+    { "file": "allianz.jpg",   "search": "Allianz Arena" },
+    { "file": "klopp.jpg",     "search": "Jürgen Klopp Bundestrainer DFB" },
+    { "file": "kimmich.jpg",   "search": "Joshua Kimmich" },
+    { "file": "bischof.jpg",   "search": "Tom Bischof Bayern München" },
+    { "file": "pavlovic.jpg",  "search": "Aleksandar Pavlović" },
+    { "file": "karl.jpg",      "search": "Lennart Karl" },
+    { "file": "musiala.jpg",   "search": "Jamal Musiala" },
+    { "file": "wirtz.jpg",     "search": "Florian Wirtz" },
+    { "file": "goretzka.jpg",  "search": "Leon Goretzka" },
+    { "file": "sane.jpg",      "search": "Leroy Sané" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "5:1! Bayern-HAMMER – Klopp macht sich 3 Notizen.", "image": "allianz.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "28.8.2026 · BL-Auftakt", "title": "Klopps 3 DFB-Signale", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "kimmich.jpg",  "name": "Joshua Kimmich",       "role": "Sechser · 2 Assists · Blutiger Knöchel", "weight": 0.8 },
+    { "type": "image", "image": "bischof.jpg",  "name": "Tom Bischof",          "role": "Startelf Bayern · 21 J. · 0 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "pavlovic.jpg", "name": "Aleksandar Pavlović",  "role": "Tor Min. 84 · Bayern · 21 Jahre", "weight": 0.8 },
+    { "type": "image", "image": "karl.jpg",     "name": "Lennart Karl",         "role": "Comeback · 78 Tage nach WM-Aus", "weight": 0.8 },
+    { "type": "stats", "title": "Bayern 5:1 Stuttgart", "stats": [
+        { "label": "Endergebnis",     "value": "5:1" },
+        { "label": "Kimmich-Assists", "value": "2" },
+        { "label": "Tage bis Kader", "value": "19" }
+      ], "image": "musiala.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg",    "weight": 0.8 },
+    { "type": "image", "image": "goretzka.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Kader-PK: 17. September!", "subtitle": "Bischof oder Goretzka – wer ist Klopps größte Überraschung?", "image": "sane.jpg", "weight": 1.0 }
+  ]
+}

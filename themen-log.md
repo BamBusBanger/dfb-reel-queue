@@ -484,3 +484,4 @@
 2026-08-28 | bischof-stiller-klopp-allianzarena | Tom Bischof (Bayern, 21, 0 LS) vs Angelo Stiller (Stuttgart, 25, 9 LS), Klopp Tribüne BL-Auftakt 20:30 letztes Scouting vor Kader 17.9. Amsterdam-Debüt 24.9. (DUELL/VERGLEICH)
 2026-08-28 | sane-galatasaray-form-dfb-ende | Sané Galatasaray 0 Tore 0 Vorlagen 113 Min 4 Spiele turkish press furchtbar, Klopp Kader 17.9., Beier Adeyemi El Mala Konkurrenten (NEWS-DRAMA)
 2026-08-28 | lijnders-dfb-geheimschiffer | Pepijn Lijnders Klopps niederländischer Co-Trainer 43J., baute Liverpool 4-3-3 Pressing, zuletzt Guardiola-Assistent Man City, Insider-Vorteil DFB vs Niederlande 24.9. Amsterdam, 48 H2H DFB führt 18-12 (GEHEIMNIS)
+2026-08-29 | klopp-bl-auftakt-drei-signale | Bayern 5:1 Stuttgart BL-Auftakt, Kimmich 2 Assists Sechser blutiger Knöchel, Pavlović Tor Min. 84, Bischof Startelf 0 LS auf 57er-Liste, Klopp Tribüne 19 Tage bis Kader-PK 17.9. (TOP-3-LISTE)
