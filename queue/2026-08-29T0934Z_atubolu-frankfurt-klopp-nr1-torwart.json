@@ -1,0 +1,97 @@
+{
+  "slug": "atubolu-frankfurt-klopp-nr1-torwart",
+  "createdAt": "2026-08-29T09:34:00Z",
+  "title": "Atubolu zu Frankfurt – Klopps neue Nr. 1?",
+  "script": "DER WECHSEL, DEN NIEMAND KOMMEN SAH! Noah Atubolu, 24, wechselt zu Eintracht Frankfurt und wird sofort Stammkeeper. Klopp hat ihn als Wunsch-Nummer-1 auserkoren – 22 U21-Länderspiele, DFB-Rekord. Doch Ter Stegen schlägt zurück: bei Ajax glänzte er als Man of the Match. Die Kader-PK folgt in 19 Tagen, am 17. September. Dann fällt Klopps erste große Entscheidung: Wer steht beim Amsterdam-Debüt am 24. September im DFB-Tor?",
+  "uploadCaption": "Noah Atubolu wechselt zu Eintracht Frankfurt und steht kurz vor dem DFB-Stammplatz – doch Ter Stegen ist wieder da. Das Torwartduell der Klopp-Ära hat begonnen. Kader-PK am 17. September. Wer wird Klopps Nummer 1?",
+  "uploadHashtags": "#DFB #Atubolu #Klopp #EintrachtFrankfurt #TerStegen #WM2030 #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "atubolu.jpg",          "search": "Noah Atubolu" },
+    { "file": "atubolu_frankfurt.jpg","search": "Noah Atubolu Eintracht Frankfurt 2026" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "terstegen.jpg",        "search": "Marc-André ter Stegen Ajax 2026" },
+    { "file": "baumann.jpg",          "search": "Oliver Baumann" },
+    { "file": "neuer.jpg",            "search": "Manuel Neuer" },
+    { "file": "dfb_fans.jpg",         "search": "DFB Fans" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal" },
+    { "file": "handschuhe.jpg",       "search": "Torwarthandschuhe gold spotlight DFB Tor", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPPS NUMMER 1 – EIN NAME TAUCHT AUF!",
+      "image": "atubolu.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "TRANSFER · AUG 2026",
+      "title": "Atubolu zu Frankfurt",
+      "image": "atubolu_frankfurt.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "atubolu.jpg",
+      "name": "Noah Atubolu",
+      "role": "Torwart · 24 · Eintracht Frankfurt",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · DFB",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Atubolu in Zahlen",
+      "stats": [
+        { "label": "U21-Länderspiele", "value": "22" },
+        { "label": "DFB U21-Rekord",   "value": "#1" },
+        { "label": "Tage bis Kader-PK","value": "19" }
+      ],
+      "image": "atubolu_frankfurt.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "terstegen.jpg",
+      "name": "Marc-André ter Stegen",
+      "role": "Torwart · 34 · Ajax · Man of the Match",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "baumann.jpg",
+      "name": "Oliver Baumann",
+      "role": "Torwart · 36 · DFB",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "neuer.jpg",
+      "name": "Manuel Neuer",
+      "role": "Legende · 40 · WM-Titel 2014",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "handschuhe.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Atubolu oder Ter Stegen?",
+      "subtitle": "Klopp entscheidet am 17. September!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
