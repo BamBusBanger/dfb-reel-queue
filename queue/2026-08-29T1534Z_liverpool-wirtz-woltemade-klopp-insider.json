@@ -1,0 +1,92 @@
+{
+  "slug": "liverpool-wirtz-woltemade-klopp-insider",
+  "createdAt": "2026-08-29T15:34:00Z",
+  "title": "Klopps Liverpool-Insider-Vorteil",
+  "script": "Klopp kennt einen Verein auf der Welt besser als jeden anderen. Er trainierte ihn 9 Jahre lang. Gewann dort die Champions League, den Meistertitel, alles. Und jetzt spielen dort seine zwei wichtigsten DFB-Angreifer: Florian Wirtz – 125 Millionen Pfund. Nick Woltemade – 75 Millionen Euro. Klopp hat bei Liverpool Insiderwissen wie kein Bundestrainer vor ihm. Er kennt die Kabine, das Personal, die Belastungssteuerung. Zufall – oder Klopps geheimer Masterplan für WM 2030?",
+  "uploadCaption": "Klopps geheimes Ass im Ärmel: Beide DFB-Topstürmer spielen bei SEINEM Herzensklub! Wirtz + Woltemade bei Liverpool – und Klopp sieht alles.",
+  "uploadHashtags": "#DFB #Klopp #FlorianWirtz #NickWoltemade #Liverpool #Nationalmannschaft #WM2030 #Bundestrainer",
+  "images": [
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "wirtz_lfc.jpg",    "search": "Florian Wirtz Liverpool Premier League 2026" },
+    { "file": "woltemade.jpg",    "search": "Nick Woltemade" },
+    { "file": "woltemade_lfc.jpg","search": "Nick Woltemade Liverpool FC 2026" },
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "klopp_lfc.jpg",    "search": "Jürgen Klopp Liverpool Premier League Meister" },
+    { "file": "anfield.jpg",      "search": "Anfield Liverpool FC Stadion" },
+    { "file": "teamfoto.jpg",     "search": "DFB Nationalmannschaft 2026" },
+    { "file": "fans.jpg",         "search": "DFB Fans" },
+    { "file": "wm_pokal.jpg",     "search": "WM Pokal FIFA" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP HAT EINEN GEHEIMEN VORTEIL.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB GEHEIMNIS",
+      "title": "Klopps Liverpool-Insider-Vorteil",
+      "image": "anfield.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · Zehner · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_lfc.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "Liverpool · Stürmer · 24",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Liverpool-DFB-Duo",
+      "stats": [
+        { "label": "Wirtz Ablöse", "value": "125 Mio £" },
+        { "label": "Woltemade Ablöse", "value": "75 Mio €" },
+        { "label": "Klopp Jahre Liverpool", "value": "9" }
+      ],
+      "image": "klopp_lfc.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "woltemade_lfc.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "teamfoto.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "anfield.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Zufall – oder Klopps Geheimplan für 2030?",
+      "subtitle": "Schreibt eure Meinung in die Kommentare!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
