@@ -1,0 +1,34 @@
+{
+  "slug": "goretzka-bischof-acht-klopp",
+  "createdAt": "2026-08-29T12:34:00Z",
+  "title": "Goretzka vs. Bischof – Klopps Acht-Frage",
+  "script": "GORETZKA ODER BISCHOF? Klopp muss wählen! Leon Goretzka – 70 Länderspiele, Champions-League-Sieger 2020, 304 Bayern-Einsätze – feierte gerade sein Premier-League-Debüt für Aston Villa. Gleichzeitig startete der 21-jährige Tom Bischof für Bayern München – null A-Länderspiele, aber auf Klopps 57er-Liste. Beide kämpfen um die Acht-Position im 4-3-3. Klopp saß auf der Tribüne und schaute BEIDEN zu. In 19 Tagen gibt er seinen ersten Kader bekannt. Der Routinier mit 304 Bundesliga-Spielen oder das Nachwuchstalent ohne ein einziges Länderspiel?",
+  "uploadCaption": "GORETZKA oder BISCHOF? Klopp schaut beiden zu – aber in 19 Tagen muss er entscheiden! Erfahrung (70 Länderspiele, CL-Sieger) gegen Jugend (21 Jahre, 0 Länderspiele). Wer verdient das DFB-Trikot? 👇",
+  "uploadHashtags": "#DFB #Klopp #Goretzka #Bischof #NationsLeague #Bundesliga #WM2026 #Nationalmannschaft",
+  "images": [
+    { "file": "goretzka.jpg",       "search": "Leon Goretzka" },
+    { "file": "goretzka_training.jpg", "search": "Leon Goretzka" },
+    { "file": "bischof.jpg",        "search": "Tom Bischof Bayern München" },
+    { "file": "goretzka_villa.jpg", "search": "Leon Goretzka Aston Villa 2026" },
+    { "file": "kimmich.jpg",        "search": "Joshua Kimmich" },
+    { "file": "kimmich_training.jpg", "search": "Joshua Kimmich DFB" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "fans.jpg",           "search": "DFB Fans" },
+    { "file": "teamfoto.jpg",       "search": "DFB Nationalmannschaft 2026" },
+    { "file": "pokal.jpg",          "search": "WM Pokal" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "GORETZKA ODER BISCHOF?", "image": "goretzka_training.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB-Kader · 17. September", "title": "Klopps Acht-Frage", "image": "bischof.jpg", "weight": 0.7 },
+    { "type": "image", "image": "goretzka.jpg",        "name": "Leon Goretzka",  "role": "Mittelfeld · 31 · Aston Villa", "weight": 0.8 },
+    { "type": "stats", "title": "Goretzka · DFB-Bilanz", "stats": [{ "label": "Länderspiele", "value": "70" }, { "label": "Bayern-Einsätze", "value": "304" }, { "label": "WM-Bankminuten 2026", "value": "27" }], "image": "goretzka_villa.jpg", "weight": 0.9 },
+    { "type": "image", "image": "bischof.jpg",         "name": "Tom Bischof",    "role": "Mittelfeld · 21 · Bayern München", "weight": 0.8 },
+    { "type": "stats", "title": "Bischof · Klopp-Radar", "stats": [{ "label": "A-Länderspiele", "value": "0" }, { "label": "BL-Auftakt", "value": "Startelf" }, { "label": "Klopps 57er-Liste", "value": "✓" }], "image": "teamfoto.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich.jpg",         "name": "Joshua Kimmich", "role": "Kapitän · 109 LS · 2 Assists BL-Auftakt", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",           "weight": 0.8 },
+    { "type": "image", "image": "kimmich_training.jpg","name": "Joshua Kimmich", "role": "DFB · Sechser unter Klopp", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",            "weight": 0.8 },
+    { "type": "image", "image": "pokal.jpg",           "weight": 0.8 },
+    { "type": "outro", "title": "Erfahrung oder Jugend?", "subtitle": "Goretzka oder Bischof – wen nominiert Klopp?", "image": "goretzka_villa.jpg", "weight": 1.0 }
+  ]
+}

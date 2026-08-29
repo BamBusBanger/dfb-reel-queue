@@ -486,3 +486,4 @@
 2026-08-28 | lijnders-dfb-geheimschiffer | Pepijn Lijnders Klopps niederländischer Co-Trainer 43J., baute Liverpool 4-3-3 Pressing, zuletzt Guardiola-Assistent Man City, Insider-Vorteil DFB vs Niederlande 24.9. Amsterdam, 48 H2H DFB führt 18-12 (GEHEIMNIS)
 2026-08-29 | klopp-bl-auftakt-drei-signale | Bayern 5:1 Stuttgart BL-Auftakt, Kimmich 2 Assists Sechser blutiger Knöchel, Pavlović Tor Min. 84, Bischof Startelf 0 LS auf 57er-Liste, Klopp Tribüne 19 Tage bis Kader-PK 17.9. (TOP-3-LISTE)
 2026-08-29 | atubolu-frankfurt-klopp-nr1-torwart | Atubolu 24J. wechselt Eintracht Frankfurt Stammkeeper, Klopps Wunsch-Nr.1 22 U21-LS DFB-Rekord, Ter Stegen Ajax Man of the Match, Kader-PK 17.9. Amsterdam-Debüt 24.9. Torwartduell Klopp-Ära (NEWS-DRAMA)
+2026-08-29 | goretzka-bischof-acht-klopp | Goretzka Aston Villa PL-Debüt 70 LS vs Bischof Bayern 21J. 0 A-LS, Klopp Tribüne BL-Auftakt, Acht-Position 19 Tage bis Kader 17.9., Amsterdam-Debüt 24.9. (DUELL/VERGLEICH)
