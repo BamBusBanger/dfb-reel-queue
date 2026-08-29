@@ -1,0 +1,105 @@
+{
+  "slug": "musiala-klopp-sprachnachricht",
+  "createdAt": "2026-08-29T17:34:00Z",
+  "title": "Klopp rief an – Musiala ging nicht ran!",
+  "script": "Klopp hat Musiala angerufen – und Musiala hat NICHT drangemacht! Das ist offiziell! Klopp gestand auf der Pressekonferenz: 'Wenn ich ihn angerufen hätte, wäre er 3 Tage nicht rangegangen – weil er meine Nummer nicht kennt.' Lösung: eine Sprachnachricht! Bayern-Chef Eberl und Trainer Kompany bestätigen unabhängig voneinander: Musiala ist in Topform. Nach 2 neurologischen Kollapsen steht er in 19 Tagen auf Klopps erstem Kader. Ist Musiala Klopps Nummer 10 für Amsterdam am 24. September?",
+  "uploadCaption": "Klopp wollte Musiala anrufen – aber Musiala kennt seine Nummer nicht 😂 Jetzt spricht Kompany: Er ist FIT. Eberl bestätigt es. Klopps erster DFB-Kader kommt in 19 Tagen. Das Drama beginnt.",
+  "uploadHashtags": "#Musiala #Klopp #DFB #Nationalmannschaft #Bundestrainer #NationsLeague #Fussball #Deutschland",
+  "images": [
+    { "file": "klopp01.jpg",          "search": "Jürgen Klopp" },
+    { "file": "klopp02.jpg",          "search": "Jürgen Klopp Bundestrainer DFB Pressekonferenz 2026" },
+    { "file": "musiala01.png",        "search": "Jamal Musiala" },
+    { "file": "musiala02.jpg",        "search": "Jamal Musiala" },
+    { "file": "musiala03.webp",       "search": "Jamal Musiala" },
+    { "file": "musiala04.jpg",        "search": "Jamal Musiala WM 2026" },
+    { "file": "sprachnachricht.jpg",  "search": "Sprachnachricht Handy Fußball Überraschung", "thematic": true },
+    { "file": "wirtz01.png",          "search": "Florian Wirtz" },
+    { "file": "kimmich01.png",        "search": "Joshua Kimmich" },
+    { "file": "teamfoto.jpg",         "search": "DFB Teamfoto 2026" },
+    { "file": "amsterdam.jpg",        "search": "Johan Cruijff Arena Amsterdam Nations League 2026" },
+    { "file": "fans.jpg",             "search": "DFB Fans Deutschland" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP RIEF AN – MUSIALA GING NICHT RAN!",
+      "image": "klopp01.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BUNDESTRAINER NEWS",
+      "title": "Klopp & die Sprachnachricht",
+      "image": "teamfoto.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala01.png",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 · Comeback geplant",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp02.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer seit 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "sprachnachricht.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Zahlen & Fakten",
+      "stats": [
+        { "label": "Neurologische Kollapsen", "value": "2" },
+        { "label": "Tage bis 1. Klopp-Kader", "value": "19" },
+        { "label": "Klopp-Zitat: Tage nicht rangegangen", "value": "3" }
+      ],
+      "image": "musiala02.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala03.webp",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala04.jpg",
+      "name": "Jamal Musiala",
+      "role": "1 WM-Tor · 239 Min. · 6 Monate Reha",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz01.png",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 125 Mio. Pfund",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich01.png",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wird Musiala Klopps Startelf-Zehner?",
+      "subtitle": "Kommentiert – und folgt für Teil 2!",
+      "image": "fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
