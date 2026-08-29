@@ -1,0 +1,34 @@
+{
+  "slug": "andrich-elversberg-schock-klopp",
+  "createdAt": "2026-08-29T19:33:00Z",
+  "title": "Klopps DFB-Geheimkandidat im Elversberg-Schock",
+  "script": "3 zu 2 gegen den amtierenden Meister – in ihrem allerersten Bundesliga-Spiel überhaupt! Neuaufsteiger Elversberg schreibt heute Abend Fußball-Geschichte. Doch das ist nur die halbe Wahrheit: Für Bundestrainer Jürgen Klopp ist diese Niederlage ein echter Alarm. Sein Mittelfeld-Geheimkandidat Robert Andrich erlebt mit Bayer Leverkusen eine Auftaktblamage. In genau 19 Tagen, am 17. September, nominiert Klopp seinen ersten DFB-Kader – 57 Kandidaten kämpfen um 26 Plätze. Goretzka bei Aston Villa lauert. Hat Andrich seine Chance gerade verspielt?",
+  "uploadCaption": "Bundesliga-Sensation und DFB-Alarm! Elversberg schlägt in ihrem ersten Bundesliga-Spiel den amtierenden Meister Bayer Leverkusen 3:2. Für Klopps Mittelfeld-Geheimkandidat Robert Andrich könnte dieser Abend teuer werden – 19 Tage bis zur ersten Kader-Nominierung am 17. September. #DFB #WM2026 #Bundesliga #Klopp",
+  "uploadHashtags": "#DFB #WM2026 #Bundesliga #Klopp #Andrich #Elversberg #Leverkusen #Fussball",
+  "images": [
+    { "file": "andrich_portrait.jpg", "search": "Robert Andrich Leverkusen" },
+    { "file": "andrich_spielszene.jpg", "search": "Robert Andrich Bundesliga Spielszene" },
+    { "file": "elversberg_jubel.jpg", "search": "Elversberg Bundesliga Jubel Sensation 2026" },
+    { "file": "leverkusen_schock.jpg", "search": "Bayer Leverkusen Niederlage Schock 2026" },
+    { "file": "klopp_dfb.jpg", "search": "Jürgen Klopp DFB Bundestrainer" },
+    { "file": "goretzka.jpg", "search": "Leon Goretzka" },
+    { "file": "dfb_teamfoto.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans Deutschland" },
+    { "file": "september_kader.jpg", "search": "Klopp DFB September Kader 2026 Nominierungsliste", "thematic": true },
+    { "file": "mittelfeld_duell.jpg", "search": "Mittelfeld Kampf Fußball Duell symbolisch", "thematic": true },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal Gold Trophäe" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "3:2 gegen den MEISTER – im ersten BL-Spiel ever!", "image": "elversberg_jubel.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB-GEHEIMNIS", "title": "Klopps Kandidat im Elversberg-Schock", "image": "andrich_portrait.jpg", "weight": 0.7 },
+    { "type": "image", "image": "andrich_spielszene.jpg", "name": "Robert Andrich", "role": "Mittelfeld · Leverkusen · 31 J. · Klopp-Kandidat", "weight": 0.8 },
+    { "type": "image", "image": "leverkusen_schock.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Elversberg-Sensation", "stats": [{ "label": "Endstand", "value": "3:2" }, { "label": "Kader-PK", "value": "17. Sept." }, { "label": "Kandidaten", "value": "57 für 26" }], "image": "dfb_teamfoto.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp_dfb.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · Kader am 17.9.", "weight": 0.8 },
+    { "type": "image", "image": "goretzka.jpg", "name": "Leon Goretzka", "role": "Mittelfeld · Aston Villa · 70 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "september_kader.jpg", "weight": 0.8 },
+    { "type": "image", "image": "mittelfeld_duell.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Streicht Klopp Andrich vom Zettel?", "subtitle": "Deine Meinung in die Kommentare! ⬇️", "image": "wm_pokal.jpg", "weight": 1.0 }
+  ]
+}
