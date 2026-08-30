@@ -495,3 +495,4 @@
 2026-08-30 | havertz-woltemade-klopp-sturm-duell | Havertz Arsenal erstes PL-Tor 21.8. vs Woltemade Newcastle 75 Mio 0 WM-Min Elfmeter-Desaster Deadline-Day Leihe, Klopp Sturm-Duell Kader-PK 17.9. Amsterdam-Debüt 24.9. (DUELL/VERGLEICH)
 2026-08-30 | bischof-klopp-geheimfund | Tom Bischof Bayern 21J. 0 A-LS auf Klopps 57er-Liste, Startelf Bayern 5:1 Stuttgart, Klopp live Tribüne, Kader-PK 17.9. Amsterdam-Debüt 24.9. (GEHEIMNIS)
 2026-08-30 | karl-harter-weg-dfb-september | Lennart Karl Comeback Bayern 5:1 Stuttgart, 78 Tage Reha WM-Muskelbündelriss, Klopp Tribüne kein Anruf, "Es war ein harter Weg", Ziel DFB-Kader 17.9. Amsterdam 24.9. (NEWS-DRAMA)
+2026-08-30 | woltemade-deadline-day-zitterpartie | Woltemade Newcastle 75 Mio Deadline Day Napoli Man United Leihe abgelehnt 0 PL-Einsätze verschossener WM-Elfmeter Klopp-Kader 18 Tage (TOP-3-LISTE)

@@ -1,0 +1,97 @@
+{
+  "slug": "woltemade-deadline-day-zitterpartie",
+  "createdAt": "2026-08-30T19:35:00Z",
+  "title": "Woltemades Deadline-Day-Zitterpartie",
+  "script": "75 Millionen Euro – und der WM-Elfmeter-Schütze sitzt auf der Bank. Nick Woltemade, Newcastles 75-Millionen-Rekordkauf, steht am Deadline Day vor dem größten Zittermoment seiner Karriere. Punkt 1: Napoli wollte ihn ausleihen – Newcastle sagte nein. Punkt 2: Manchester United bot ihn an – Newcastle sagte nein. Punkt 3: 0 PL-Einsätze, 1 verschossener WM-Elfmeter, und in nur 18 Tagen stellt Klopp seinen ersten DFB-Kader auf. Klappt's noch?",
+  "uploadCaption": "75 Millionen Euro, 0 Einsätze – Nick Woltemade erlebt seinen Deadline-Day-Albtraum. Napoli wollte ihn, Man United bot ihn an – Newcastle lehnte BEIDE ab. In 18 Tagen entscheidet Klopp über den ersten DFB-Kader. Schafft es Woltemade rein?",
+  "uploadHashtags": "#DFB #Woltemade #WM2026 #DeadlineDay #Klopp #Transfer #Newcastle",
+  "images": [
+    { "file": "woltemade_portrait.jpg",  "search": "Nick Woltemade" },
+    { "file": "woltemade_training.jpg",  "search": "Nick Woltemade Newcastle" },
+    { "file": "woltemade_jubel.jpg",     "search": "Nick Woltemade jubel" },
+    { "file": "woltemade_trikot.jpg",    "search": "Nick Woltemade DFB" },
+    { "file": "metlife_stadium.jpg",     "search": "MetLife Stadium" },
+    { "file": "fans_entsetzen.jpg",      "search": "DFB Fans" },
+    { "file": "klopp_dfb.jpg",           "search": "Jürgen Klopp" },
+    { "file": "napoli_stadion.jpg",      "search": "Napoli SSC 2026 Serie A" },
+    { "file": "manchester_united.jpg",   "search": "Manchester United 2026" },
+    { "file": "fans_tribuene.jpg",       "search": "DFB Fans Tribüne" },
+    { "file": "wm_pokal.jpg",            "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "75 MILLIONEN. NULL EINSÄTZE. DEADLINE DAY.",
+      "image": "woltemade_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DEADLINE DAY · 31. AUGUST 2026",
+      "title": "Woltemades Transfer-Zitterpartie",
+      "image": "woltemade_training.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "woltemade_trikot.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · Newcastle United · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "3 Schock-Fakten zum Deadline Day",
+      "stats": [
+        { "label": "Newcastle-Rekordablöse", "value": "75 Mio €" },
+        { "label": "PL-Einsätze neue Saison", "value": "0" },
+        { "label": "WM-Elfmeter verschossen", "value": "1" }
+      ],
+      "image": "metlife_stadium.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "napoli_stadion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "manchester_united.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopp-Kader-Countdown",
+      "stats": [
+        { "label": "Tage bis Kader-PK 17.9.", "value": "18" },
+        { "label": "Leihe-Absagen Newcastle", "value": "2" },
+        { "label": "Sturm-Konkurrenten Klopp", "value": "4" }
+      ],
+      "image": "fans_tribuene.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "outro",
+      "title": "Bleibt Woltemade – oder braucht er jetzt unbedingt die Leihe?",
+      "subtitle": "Kommentiert unten!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
