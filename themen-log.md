@@ -493,3 +493,4 @@
 2026-08-30 | klopp-18-tage-countdown-drei-fragen | Klopp 18 Tage bis Kader-PK 17.9., 3 offene Fragen: Torwart-Chaos 4 Kandidaten Atubolu/Urbig/Baumann/Backhaus, Kimmich Sechser 2 Assists Bayern 5:1 Stuttgart, Musiala Comeback 5.9. Schalke 14 Monate Pause (TOP-3-LISTE)
 2026-08-30 | sven-bender-klopp-trumpfkarte | Sven Bender 37 Ex-BVB Klopp Co-Trainer, 6 Jahre 2 Meistertitel DFB-Pokal, Trio mit Krawietz Lijnders, 18 Tage bis Kader-PK 17.9. Amsterdam-Debüt 24.9. (NEWS-DRAMA)
 2026-08-30 | havertz-woltemade-klopp-sturm-duell | Havertz Arsenal erstes PL-Tor 21.8. vs Woltemade Newcastle 75 Mio 0 WM-Min Elfmeter-Desaster Deadline-Day Leihe, Klopp Sturm-Duell Kader-PK 17.9. Amsterdam-Debüt 24.9. (DUELL/VERGLEICH)
+2026-08-30 | bischof-klopp-geheimfund | Tom Bischof Bayern 21J. 0 A-LS auf Klopps 57er-Liste, Startelf Bayern 5:1 Stuttgart, Klopp live Tribüne, Kader-PK 17.9. Amsterdam-Debüt 24.9. (GEHEIMNIS)

@@ -1,0 +1,35 @@
+{
+  "slug": "bischof-klopp-geheimfund",
+  "createdAt": "2026-08-30T15:34:00Z",
+  "title": "Klopps geheimer Bayern-Fund: Tom Bischof",
+  "script": "NIEMAND kennt ihn. Klopp schon. Tom Bischof, 21 Jahre, Bayern München, 0 A-Länderspiele – und trotzdem auf Klopps geheimer 57er-Liste. Beim 5:1-Sieg gegen Stuttgart saß Klopp live auf der Tribüne und sah Bischof in der Startelf. 9 U21-Caps, immer überzeugend. Zum Vergleich: Pavlović war nach 28 Länderspielen WM-Stamm, Stiller wartet mit 9 A-LS noch immer. Am 17. September öffnet Klopp seinen ersten Kader-Umschlag – ist Bischof dabei?",
+  "uploadCaption": "Niemand kennt seinen Namen – Klopp schon! 😮 Tom Bischof (21) startete bei Bayern 5:1 gegen Stuttgart, sitzt auf Klopps geheimer 57er-Liste – und am 17. September entscheidet sich alles.",
+  "uploadHashtags": "#DFB #TomBischof #Klopp #Nationalmannschaft #Bayern #NationsLeague #Bundesliga",
+  "images": [
+    { "file": "bischof.jpg", "search": "Tom Bischof Bayern München" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "allianz.jpg", "search": "Allianz Arena" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "pavlovic.jpg", "search": "Aleksandar Pavlović" },
+    { "file": "stiller.jpg", "search": "Angelo Stiller" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "fans.jpg", "search": "Deutschland Fans" },
+    { "file": "team.jpg", "search": "Deutschland Nationalmannschaft 2026" },
+    { "file": "pokal.jpg", "search": "WM Pokal" },
+    { "file": "fanzone.jpg", "search": "DFB Fanzone Berlin" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "NIEMAND KENNT SEINEN NAMEN. KLOPP SCHON.", "image": "bischof.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB-GEHEIMNIS", "title": "Tom Bischof – der Mann auf Klopps 57er-Liste", "image": "allianz.jpg", "weight": 0.7 },
+    { "type": "image", "image": "bischof.jpg", "name": "Tom Bischof", "role": "Bayern München · 21 · 0 A-LS", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · seit 15.8.2026", "weight": 0.8 },
+    { "type": "stats", "title": "Die Bischof-Akte", "stats": [{ "label": "Alter", "value": "21" }, { "label": "A-Länderspiele", "value": "0" }, { "label": "U21-Caps", "value": "9" }, { "label": "BL-Auftakt Bayern 5:1", "value": "Startelf" }], "image": "team.jpg", "weight": 0.9 },
+    { "type": "image", "image": "pavlovic.jpg", "name": "Aleksandar Pavlović", "role": "WM-Stamm · 28 LS · Bayern", "weight": 0.8 },
+    { "type": "image", "image": "stiller.jpg", "name": "Angelo Stiller", "role": "9 A-LS · 0 WM-Minuten", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Liverpool · 125 Mio. £", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "pokal.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "17. September – Klopp lüftet das Geheimnis", "subtitle": "Würdet ihr Bischof in den ersten Kader nehmen?", "image": "fanzone.jpg", "weight": 1.0 }
+  ]
+}
