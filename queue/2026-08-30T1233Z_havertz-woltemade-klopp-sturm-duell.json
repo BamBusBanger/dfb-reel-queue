@@ -1,0 +1,105 @@
+{
+  "slug": "havertz-woltemade-klopp-sturm-duell",
+  "createdAt": "2026-08-30T12:33:00Z",
+  "title": "Havertz vs. Woltemade – Klopps Stürmer-Entscheidung",
+  "script": "75 MILLIONEN EURO – null WM-Minuten – ein verschossener Elfmeter. Nick Woltemade kam zur WM und blieb ein Phantom. Und jetzt? Newcastle will ihn verleihen – Deadline Day ist morgen. Auf der anderen Seite: Kai Havertz. Arsenal-Stammspieler, erstes Tor der kompletten Premier-League-Saison 2026/27 am 21. August – und der Mann mit dem Doppelpack beim 7:1-Auftakt. Am 17. September nominiert Klopp seinen ersten DFB-Kader. Beide wollen die Neun. Nur einer wird starten.",
+  "uploadCaption": "75 Mio. – 0 WM-Minuten – 1 verschossener Elfmeter. Das Sturm-Duell für Klopps erste DFB-Neun ist entbrannt. Havertz eröffnete die gesamte Premier-League-Saison mit dem ersten Tor – Woltemade kämpft noch um seinen Platz. Kader-PK 17.9., Debüt in Amsterdam 24.9.",
+  "uploadHashtags": "#DFB #JürgenKlopp #KaiHavertz #NickWoltemade #NationsLeague #Fussball #WM2026",
+  "images": [
+    { "file": "woltemade_portrait.jpg",  "search": "Nick Woltemade" },
+    { "file": "woltemade_dfb.jpg",       "search": "Nick Woltemade DFB" },
+    { "file": "woltemade_jubel.jpg",     "search": "Nick Woltemade Jubel" },
+    { "file": "woltemade_newcastle.jpg", "search": "Nick Woltemade Newcastle United 2026" },
+    { "file": "havertz_action.jpg",      "search": "Kai Havertz" },
+    { "file": "havertz_dfb.jpg",         "search": "Kai Havertz DFB" },
+    { "file": "havertz_jubel.jpg",       "search": "Kai Havertz Torjubel DFB" },
+    { "file": "havertz_arsenal.jpg",     "search": "Kai Havertz Arsenal Premier League 2026" },
+    { "file": "havertz_training.jpg",    "search": "Kai Havertz Training DFB" },
+    { "file": "klopp.jpg",               "search": "Jürgen Klopp DFB Bundestrainer" },
+    { "file": "dfb_fans.jpg",            "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "75 MIO. – 0 WM-MINUTEN – UND JETZT DROHT DIE LEIHE!",
+      "image": "woltemade_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP-ÄRA · KADER 17.9.",
+      "title": "Havertz vs. Woltemade",
+      "image": "havertz_action.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "woltemade_dfb.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · 24 · Newcastle United",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WOLTEMADE BEI DER WM 2026",
+      "stats": [
+        { "label": "WM-Minuten", "value": "0" },
+        { "label": "Elfmeter verschossen", "value": "1" },
+        { "label": "Ablöse Newcastle", "value": "75 Mio. €" }
+      ],
+      "image": "woltemade_newcastle.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "woltemade_jubel.jpg",
+      "name": "Nick Woltemade",
+      "role": "Deadline Day – Newcastle verleiht?",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz_dfb.jpg",
+      "name": "Kai Havertz",
+      "role": "Stürmer · 27 · Arsenal FC",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "HAVERTZ SAISONSTART 2026/27",
+      "stats": [
+        { "label": "WM-Tore 2026", "value": "2" },
+        { "label": "1. PL-Saisontor", "value": "21. Aug." },
+        { "label": "Arsenal Stammspieler", "value": "✓" }
+      ],
+      "image": "havertz_arsenal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "havertz_jubel.jpg",
+      "name": "Kai Havertz",
+      "role": "Erstes PL-Tor der Saison · vs. Coventry",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Kader-PK 17. September",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz_training.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Havertz oder Woltemade?",
+      "subtitle": "Wer startet für Klopp in Amsterdam?",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
