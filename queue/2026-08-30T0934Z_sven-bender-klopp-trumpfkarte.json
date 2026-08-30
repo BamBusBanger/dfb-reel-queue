@@ -1,0 +1,36 @@
+{
+  "slug": "sven-bender-klopp-trumpfkarte",
+  "createdAt": "2026-08-30T09:34:00Z",
+  "title": "Sven Bender: Klopps Co-Trainer-Trumpf",
+  "script": "DFB-Geheimnis gelüftet! Klopps Co-Trainer-Trumpf heißt Sven Bender – 37 Jahre, Ex-BVB! Sechs Jahre spielte er unter Klopp in Dortmund: zwei Deutsche Meistertitel, ein DFB-Pokal. Sein Vorteil: Er kennt Klopps Gegenpressing-Philosophie von innen wie kaum ein anderer. Neben Taktikchef Peter Krawietz und Pressing-Architekt Pepijn Lijnders bildet er das stärkste Co-Trainer-Trio in der DFB-Geschichte. Nur noch 18 Tage bis zum ersten Klopp-Kader am 17. September. Amsterdam-Debüt folgt am 24. September. Kann dieses Dream-Team den Fluch von drei WM-Frühaus in Folge brechen?",
+  "uploadCaption": "Klopps geheimer Trumpf enthüllt! Sven Bender wird Co-Trainer beim DFB – 6 Jahre unter Klopp beim BVB, 2 Meistertitel, jetzt will er den Fluch von 3 WM-Frühaus brechen. 18 Tage bis zum ersten Kader am 17. September!",
+  "uploadHashtags": "#DFB #Klopp #SvenBender #Bundestrainer #NationsLeague #WM2030 #Gegenpressing",
+  "images": [
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "bender.jpg",       "search": "Sven Bender DFB Co-Trainer 2026" },
+    { "file": "signal_iduna.jpg", "search": "signal_iduna" },
+    { "file": "krawietz.jpg",     "search": "Peter Krawietz DFB Co-Trainer" },
+    { "file": "lijnders.jpg",     "search": "Pepijn Lijnders DFB 2026" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "teamfoto.jpg",     "search": "DFB Teamfoto 2026" },
+    { "file": "fans.jpg",         "search": "DFB Fans" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "KLOPPS GEHEIMNIS GELÜFTET!", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB 2026", "title": "Sven Bender – Klopps Trumpfkarte", "image": "bender.jpg", "weight": 0.7 },
+    { "type": "image", "image": "bender.jpg",       "name": "Sven Bender",    "role": "DFB Co-Trainer · 37", "weight": 0.8 },
+    { "type": "image", "image": "signal_iduna.jpg",                                                           "weight": 0.8 },
+    { "type": "stats", "title": "Bender & Klopp beim BVB", "stats": [
+        { "label": "Jahre zusammen", "value": "6" },
+        { "label": "Meistertitel",   "value": "2" },
+        { "label": "DFB-Pokale",     "value": "1" }
+      ], "image": "klopp.jpg", "weight": 0.9 },
+    { "type": "image", "image": "krawietz.jpg",     "name": "Peter Krawietz",  "role": "Co-Trainer · Liverpool-Ära",       "weight": 0.8 },
+    { "type": "image", "image": "lijnders.jpg",     "name": "Pepijn Lijnders", "role": "Co-Trainer · Pressing-Architekt",  "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg",                                                                               "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",                                                                                 "weight": 0.8 },
+    { "type": "image", "image": "teamfoto.jpg",                                                                              "weight": 0.8 },
+    { "type": "outro", "title": "Bricht Klopp den Fluch?", "subtitle": "3 WM-Frühaus in Folge – dein Urteil!", "image": "fans.jpg", "weight": 1.0 }
+  ]
+}
