@@ -1,0 +1,112 @@
+{
+  "slug": "klopp-18-tage-countdown-drei-fragen",
+  "createdAt": "2026-08-30T05:33:54Z",
+  "title": "18 Tage bis Klopps erstem Kader – 3 offene Fragen",
+  "script": "18 TAGE – dann verrät Klopp seinen ersten DFB-Kader! Und 3 Fragen brennen noch. ERSTENS: Das Torwart-Rätsel – 4 Kandidaten kämpfen ums Tor in Amsterdam: Baumann (36), Atubolu (24), Urbig (22) und Backhaus (22). ZWEITENS: Kimmich als Sechser? Er lieferte 2 Assists beim 5:1 gegen Stuttgart auf seiner Lieblingsposition. DRITTENS: Musiala – 14 Monate Pause. Kommt sein Comeback am 5. September gegen Schalke rechtzeitig? Nur 12 Tage vor der Kader-Nominierung entscheidet sich alles.",
+  "uploadCaption": "18 Tage bis Klopps erstem DFB-Kader! 3 riesige Fragen noch offen: Torwart-Chaos mit 4 Kandidaten, Kimmich als Sechser und Musialas Comeback-Rennen gegen die Uhr. Wer startet am 24. September in Amsterdam?",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #Nationalmannschaft #Musiala #Kimmich #WM2030 #NationsLeague #Fussball",
+  "images": [
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "dfbteam.jpg",         "search": "DFB Deutschland Team 2026" },
+    { "file": "baumann.jpg",         "search": "Oliver Baumann" },
+    { "file": "atubolu.jpg",         "search": "Noah Atubolu Eintracht Frankfurt" },
+    { "file": "urbig.jpg",           "search": "Jonas Urbig Bayern München" },
+    { "file": "kimmich_kapitaen.jpg","search": "Joshua Kimmich" },
+    { "file": "kimmich_training.jpg","search": "Joshua Kimmich DFB Training" },
+    { "file": "musiala.jpg",         "search": "Jamal Musiala" },
+    { "file": "musiala_aktion.jpg",  "search": "Jamal Musiala Bayern München" },
+    { "file": "amsterdam.jpg",       "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "fans.jpg",            "search": "DFB Fans Deutschland" },
+    { "file": "countdown.jpg",       "search": "Countdown Kalender Bundestrainer Nominierung", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "18 TAGE – dann löst Klopp sein erstes Kader-Rätsel!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "17. SEPTEMBER – ERSTE NOMINIERUNG",
+      "title": "Klopps 3 offene Fragen",
+      "image": "dfbteam.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "baumann.jpg",
+      "name": "Oliver Baumann",
+      "role": "Torwart · 36 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Frage 1: Torwart-Chaos",
+      "stats": [
+        { "label": "Kandidaten", "value": "4" },
+        { "label": "Kader-PK", "value": "17.9." }
+      ],
+      "image": "atubolu.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "urbig.jpg",
+      "name": "Jonas Urbig",
+      "role": "FC Bayern · 22 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich_kapitaen.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Frage 2: Kimmich als Sechser?",
+      "stats": [
+        { "label": "Assists als Sechser", "value": "2" },
+        { "label": "Spiele bisher als RV", "value": "44 LS" }
+      ],
+      "image": "kimmich_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Comeback Schalke · 5.9.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Frage 3: Musiala rechtzeitig fit?",
+      "stats": [
+        { "label": "Monate Pause", "value": "14" },
+        { "label": "Tage bis Kader", "value": "18" }
+      ],
+      "image": "musiala_aktion.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer hütet Klopps erstes DFB-Tor?",
+      "subtitle": "Atubolu, Urbig oder totale Überraschung?",
+      "image": "countdown.jpg",
+      "weight": 1.0
+    }
+  ]
+}
