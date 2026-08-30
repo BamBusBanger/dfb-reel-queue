@@ -1,0 +1,34 @@
+{
+  "slug": "karl-harter-weg-dfb-september",
+  "createdAt": "2026-08-30T17:33:59Z",
+  "title": "Karl: Harter Weg zurück – und Klopp hat noch nicht angerufen",
+  "script": "18 Jahre alt, 9 Torbeteiligungen in seiner Bayern-Debütsaison – dann der Alptraum: Muskelbündelriss kurz vor der WM, 78 Tage Reha, Rückenprobleme. Jetzt ist Lennart Karl zurück. Beim 5:1-Auftakt gegen Stuttgart stand er auf dem Feld. Klopp saß live auf der Tribüne – ohne Anruf danach. Nun spricht Karl: 'Es war ein harter Weg.' 17. September ist Klopps erste Kader-PK. Packt Karl es – oder ist sein DFB-Traum schon vorbei?",
+  "uploadCaption": "Lennart Karl ist zurück! 9 Torbeteiligungen in seiner Debütsaison bei Bayern, dann der Muskelbündelriss kurz vor der WM, 78 Tage Reha – und jetzt: Comeback beim 5:1 vs. Stuttgart. Klopp war live dabei, hat aber noch nicht angerufen. Karl sagt selbst: 'Es war ein harter Weg.' Am 17. September nominiert Klopp seinen ersten DFB-Kader. Schafft Karl es rein?",
+  "uploadHashtags": "#DFB #LennartKarl #Klopp #WM2026 #Bundesliga #FCBayern #Nationalmannschaft #NationsLeague",
+  "images": [
+    { "file": "karl_aktion.jpg", "search": "Lennart Karl" },
+    { "file": "allianz_arena.jpg", "search": "Allianz Arena München" },
+    { "file": "klopp_dfb.jpg", "search": "Jürgen Klopp Bundestrainer DFB" },
+    { "file": "dfb_team.jpg", "search": "DFB Nationalmannschaft 2026" },
+    { "file": "fans_deutschland.jpg", "search": "Deutschland Fans Fußball" },
+    { "file": "nederland_arena.jpg", "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "flagge_deutschland.jpg", "search": "Deutschland Flagge Schwarz Rot Gold" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal FIFA" },
+    { "file": "karl_comeback.jpg", "search": "Lennart Karl Bayern München 2026" },
+    { "file": "dfb_trikot.jpg", "search": "Deutschland Trikot WM 2026" },
+    { "file": "dfb_fans_hoffen.jpg", "search": "Deutschland Fans Hoffnung Public Viewing" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER IST ZURÜCK. UND KLOPP HAT NOCH NICHT ANGERUFEN.", "image": "karl_aktion.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB KADER · SEPTEMBER 2026", "title": "Karls harter Weg", "image": "allianz_arena.jpg", "weight": 0.7 },
+    { "type": "image", "image": "karl_comeback.jpg", "name": "Lennart Karl", "role": "Stürmer · 18", "weight": 0.8 },
+    { "type": "stats", "title": "Karl in Zahlen", "stats": [{ "label": "Torbeteiligungen Debütsaison", "value": "9" }, { "label": "Tage Reha", "value": "78" }, { "label": "Tage bis Kader-PK", "value": "18" }], "image": "fans_deutschland.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp_dfb.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "dfb_team.jpg", "weight": 0.8 },
+    { "type": "image", "image": "nederland_arena.jpg", "weight": 0.8 },
+    { "type": "image", "image": "flagge_deutschland.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wm_pokal.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_trikot.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Schafft Karl es rein?", "subtitle": "Kader-PK: 17. September 2026", "image": "dfb_fans_hoffen.jpg", "weight": 1.0 }
+  ]
+}
