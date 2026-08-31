@@ -1,0 +1,35 @@
+{
+  "slug": "musiala-schalke-countdown",
+  "createdAt": "2026-08-31T15:34:00Z",
+  "title": "Musialas Schalke-Test: 3 Fakten die alles entscheiden",
+  "script": "Er litt an neurologischen Ausfällen und fehlte zum BL-Auftakt – doch am 5. September kehrt Jamal Musiala zurück. Klopp schaut genau hin: Nur 12 Tage danach verkündet er seinen ersten DFB-Kader. Fakt 1: Wettkampf-Test der Neurologie unter echten Bedingungen. Fakt 2: Bei 1 Tor in 239 WM-Minuten braucht er ein klares Zeichen. Fakt 3: Wirtz-Konkurrenz auf der Zehn wächst täglich. Das Bayern-Schalke-Spiel am 5. September ist Musialas Aufnahmeprüfung für Klopps neue Ära.",
+  "uploadCaption": "Jamal Musiala kehrt am 5. September gegen Schalke zurück – und das unter den Augen von Bundestrainer Klopp. Nur 12 Tage bis zur ersten Kader-Bekanntgabe. Was das Schalke-Spiel wirklich bedeutet.",
+  "uploadHashtags": "#Musiala #Klopp #DFB #WM2030 #Bundesliga #Bayern #Schalke",
+  "images": [
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "musiala-aktion.jpg","search": "Jamal Musiala" },
+    { "file": "musiala-wm.jpg",    "search": "Jamal Musiala WM 2026" },
+    { "file": "musiala-jubel.jpg", "search": "Jamal Musiala Torjubel DFB" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz DFB" },
+    { "file": "allianz-arena.jpg", "search": "Allianz Arena München" },
+    { "file": "schalke-arena.jpg", "search": "Schalke Arena Gelsenkirchen" },
+    { "file": "fans.jpg",          "search": "DFB Fans" },
+    { "file": "teamfoto.jpg",      "search": "Deutschland Nationalmannschaft 2026" },
+    { "file": "wm-pokal.jpg",      "search": "WM Pokal" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER DARF NICHT SCHEITERN.", "image": "musiala.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "MUSIALA-COUNTDOWN", "title": "3 Fakten zum Schalke-Test", "image": "teamfoto.jpg", "weight": 0.7 },
+    { "type": "image", "image": "musiala-aktion.jpg", "name": "Jamal Musiala", "role": "Offensiv · 22 Jahre · Bayern", "weight": 0.8 },
+    { "type": "stats", "title": "Fakt 1: Neurologie-Test", "stats": [{ "label": "Kollapsen", "value": "2" }, { "label": "Pause in Monaten", "value": "14+" }, { "label": "Comeback-Datum", "value": "5.9." }], "image": "allianz-arena.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · Kader-PK 17.9.", "weight": 0.8 },
+    { "type": "stats", "title": "Fakt 2: WM-Enttäuschung", "stats": [{ "label": "WM-Tore", "value": "1" }, { "label": "Einsatz-Minuten", "value": "239" }, { "label": "Auswechslungen", "value": "3×" }], "image": "musiala-wm.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Konkurrenz auf der Zehn · 125 Mio. £", "weight": 0.8 },
+    { "type": "image", "image": "schalke-arena.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wm-pokal.jpg", "weight": 0.8 },
+    { "type": "image", "image": "musiala-jubel.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Schafft Musiala den Klopp-Sprung?", "subtitle": "Ja oder Nein – schreibt's in die Kommentare!", "image": "musiala.jpg", "weight": 1.0 }
+  ]
+}
