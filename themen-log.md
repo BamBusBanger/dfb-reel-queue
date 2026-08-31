@@ -496,3 +496,4 @@
 2026-08-30 | bischof-klopp-geheimfund | Tom Bischof Bayern 21J. 0 A-LS auf Klopps 57er-Liste, Startelf Bayern 5:1 Stuttgart, Klopp live Tribüne, Kader-PK 17.9. Amsterdam-Debüt 24.9. (GEHEIMNIS)
 2026-08-30 | karl-harter-weg-dfb-september | Lennart Karl Comeback Bayern 5:1 Stuttgart, 78 Tage Reha WM-Muskelbündelriss, Klopp Tribüne kein Anruf, "Es war ein harter Weg", Ziel DFB-Kader 17.9. Amsterdam 24.9. (NEWS-DRAMA)
 2026-08-30 | woltemade-deadline-day-zitterpartie | Woltemade Newcastle 75 Mio Deadline Day Napoli Man United Leihe abgelehnt 0 PL-Einsätze verschossener WM-Elfmeter Klopp-Kader 18 Tage (TOP-3-LISTE)
+2026-08-31 | adeyemi-elmala-klopp-fluegel-duell | Adeyemi Barcelona 22 Mio WM-ohne-Anruf Nagelsmann vs El Mala 19J 13 Tore Köln, Klopp 4-3-3 Rechtsflügel-Kampf Kader 17.9. Amsterdam-Debüt 24.9. (DUELL/VERGLEICH)

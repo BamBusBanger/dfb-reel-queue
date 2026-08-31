@@ -1,0 +1,108 @@
+{
+  "slug": "adeyemi-elmala-klopp-fluegel-duell",
+  "createdAt": "2026-08-31T05:38:00Z",
+  "title": "Adeyemi vs El Mala – Klopps Rechtsflügel-Kampf",
+  "script": "3 Saisons BVB, 85 Spiele, 22 Tore – Nagelsmann rief NIE an. Jetzt wechselt Karim Adeyemi für 22 Millionen Euro zu Barcelona. Und kämpft mit 24 Jahren um sein DFB-Comeback unter Klopp. Denn Klopp will 4-3-3 mit klaren Flügelspielern – das ist Adeyemis Profil. Gegenüber steht Said El Mala: 19 Jahre alt, 13 Tore, schon ein Klopp-Anruf, immer noch bei Köln. Am 17. September nominiert Klopp seinen ersten Kader. Wer bekommt den rechten Flügel?",
+  "uploadCaption": "Barcelona-Star oder Köln-Wunderkind? Am 17. September entscheidet Klopp. Adeyemi 3 Saisons BVB – von Nagelsmann komplett ignoriert. Jetzt kämpft er unter Klopp um sein DFB-Comeback! #DFB #Klopp #Adeyemi #ElMala #WM2030 #Nationalmannschaft",
+  "uploadHashtags": "#DFB #Klopp #Adeyemi #ElMala #WM2030 #Nationalmannschaft #Fussball #Bundesliga",
+  "images": [
+    { "file": "adeyemi_bvb.jpg",        "search": "Karim Adeyemi Borussia Dortmund" },
+    { "file": "adeyemi_barcelona.jpg",   "search": "Karim Adeyemi Barcelona" },
+    { "file": "elmala_koeln.jpg",        "search": "Said El Mala FC Köln" },
+    { "file": "elmala_spiel.jpg",        "search": "Said El Mala Bundesliga Tor" },
+    { "file": "klopp_dfb.jpg",           "search": "Jürgen Klopp" },
+    { "file": "wirtz_jubel.jpg",         "search": "Florian Wirtz" },
+    { "file": "sane_spielszene.jpg",     "search": "Leroy Sané" },
+    { "file": "kimmich_dfb.jpg",         "search": "Joshua Kimmich" },
+    { "file": "dfb_fans.jpg",            "search": "DFB Fans" },
+    { "file": "wm2026_logo.jpg",         "search": "WM 2026" },
+    { "file": "dfb_flagge.jpg",          "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 SAISONS BVB. 22 TORE. NAGELSMANN RIEF NIE AN.",
+      "image": "adeyemi_bvb.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB-FLÜGELKAMPF",
+      "title": "Adeyemi vs El Mala",
+      "image": "klopp_dfb.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "adeyemi_barcelona.jpg",
+      "name": "Karim Adeyemi",
+      "role": "Rechtsflügel · 24 · FC Barcelona",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Adeyemi bei BVB (3 Saisons)",
+      "stats": [
+        { "label": "Spiele", "value": "85" },
+        { "label": "Tore", "value": "22" },
+        { "label": "Ablöse Barcelona", "value": "22 Mio" }
+      ],
+      "image": "adeyemi_bvb.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "elmala_koeln.jpg",
+      "name": "Said El Mala",
+      "role": "Rechtsflügel · 19 · FC Köln",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "El Mala letzte Saison",
+      "stats": [
+        { "label": "Tore", "value": "13" },
+        { "label": "Vorlagen", "value": "5" },
+        { "label": "A-Länderspiele", "value": "0" }
+      ],
+      "image": "elmala_spiel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel.jpg",
+      "name": "Florian Wirtz",
+      "role": "Links-Flügel · Liverpool · gesetzt",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "sane_spielszene.jpg",
+      "name": "Leroy Sané",
+      "role": "Galatasaray · 30 · Form tief",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "17. September: Klopps erster DFB-Kader.",
+      "subtitle": "Adeyemi oder El Mala – wer verdient die Chance?",
+      "image": "wm2026_logo.jpg",
+      "weight": 1.0
+    }
+  ]
+}
