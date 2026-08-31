@@ -1,0 +1,104 @@
+{
+  "slug": "kimmich-klopp-kein-anruf-raetsel",
+  "createdAt": "2026-08-31T09:33:00Z",
+  "title": "Kimmich – der Kapitän ohne Klopp-Anruf",
+  "script": "109 Länderspiele. WM-Kapitän. Und Klopp hat NOCH NICHT angerufen. Joshua Kimmich bestätigte es auf Bayerns Asien-Tour selbst: ‚Ich habe noch nicht mit Klopp gesprochen.' Dabei rief Klopp schon bei Musiala, Pejčinović, El Mala und sogar Adeyemi an. Beim Kapitän: Schweigen. DFB-Sportdirektor nennt ihn ‚Flaggenträger'. Klopp plant 4-3-3 – und Kimmich spielte gegen Stuttgart mit 2 Assists zentral als Sechser. Klopp saß auf der Tribüne und schwieg. Am 17. September fällt die Entscheidung. Bleibt Kimmich wirklich noch Kapitän?",
+  "uploadCaption": "109 Länderspiele und Klopp hat noch nicht angerufen! Kimmich bestätigte es selbst auf der Asien-Tour – während Klopp bereits Musiala, El Mala und sogar Adeyemi anrief. Was steckt dahinter? #DFB #Kimmich #Klopp #Nationalmannschaft #WM2030",
+  "uploadHashtags": "#DFB #Kimmich #Klopp #Nationalmannschaft #WM2030 #Fussball #Bundesliga #Kapitaen",
+  "images": [
+    { "file": "kimmich_kap.jpg",      "search": "Joshua Kimmich" },
+    { "file": "klopp_dfb.jpg",        "search": "Jürgen Klopp" },
+    { "file": "kimmich_training.jpg", "search": "Joshua Kimmich" },
+    { "file": "kimmich_kapitaen.jpg", "search": "Joshua Kimmich" },
+    { "file": "kimmich_jubel.jpg",    "search": "Joshua Kimmich" },
+    { "file": "fans.jpg",             "search": "DFB Fans" },
+    { "file": "dfb_flagge.jpg",       "search": "Deutschland Flagge" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal" },
+    { "file": "telefon_warten.jpg",   "search": "Smartphone kein Anruf Schweigen", "thematic": true },
+    { "file": "kimmich_avatar.jpg",   "search": "Joshua Kimmich" },
+    { "file": "team_foto.jpg",        "search": "DFB Nationalmannschaft 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "109 LÄNDERSPIELE. KLOPP HAT NICHT ANGERUFEN.",
+      "image": "kimmich_kap.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB-GEHEIMNIS",
+      "title": "Der fehlende Klopp-Anruf",
+      "image": "klopp_dfb.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "kimmich_training.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 31 · Bayern München · 109 LS",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Kimmichs WM-Bilanz",
+      "stats": [
+        { "label": "Länderspiele", "value": "109" },
+        { "label": "WM-Teilnahmen", "value": "3" },
+        { "label": "WM-Viertelfinale erreicht", "value": "0" },
+        { "label": "Klopp-Anrufe", "value": "0" }
+      ],
+      "image": "kimmich_kapitaen.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "telefon_warten.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich_jubel.jpg",
+      "name": "Joshua Kimmich",
+      "role": "2 Assists Bayern 5:1 Stuttgart · Klopp live auf Tribüne",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopp rief an bei...",
+      "stats": [
+        { "label": "Musiala", "value": "✓" },
+        { "label": "Pejčinović", "value": "✓" },
+        { "label": "El Mala", "value": "✓" },
+        { "label": "Adeyemi", "value": "✓" },
+        { "label": "Kimmich", "value": "?" }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "dfb_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich_avatar.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kader-Nominierung 17. September",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "17. September entscheidet alles.",
+      "subtitle": "Bleibt Kimmich euer Kapitän unter Klopp?",
+      "image": "team_foto.jpg",
+      "weight": 1.0
+    }
+  ]
+}
