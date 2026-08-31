@@ -498,3 +498,4 @@
 2026-08-30 | woltemade-deadline-day-zitterpartie | Woltemade Newcastle 75 Mio Deadline Day Napoli Man United Leihe abgelehnt 0 PL-Einsätze verschossener WM-Elfmeter Klopp-Kader 18 Tage (TOP-3-LISTE)
 2026-08-31 | adeyemi-elmala-klopp-fluegel-duell | Adeyemi Barcelona 22 Mio WM-ohne-Anruf Nagelsmann vs El Mala 19J 13 Tore Köln, Klopp 4-3-3 Rechtsflügel-Kampf Kader 17.9. Amsterdam-Debüt 24.9. (DUELL/VERGLEICH)
 2026-08-31 | kimmich-klopp-kein-anruf-raetsel | Kimmich 109 LS kein Klopp-Anruf, Asien-Tour-Geständnis, Klopp rief Musiala/Pejčinović/El Mala/Adeyemi an nicht Kapitän, Kapitänsfrage 17. September Kader-PK (GEHEIMNIS)
+2026-08-31 | klopp-4-spiele-11-tage-mission | Klopp nur 2 Trainings vor Amsterdam-Debüt, 4 Spiele 11 Tage, 57 Kandidaten 26 Plätze, Nations League Feuertaufe (NEWS-DRAMA)

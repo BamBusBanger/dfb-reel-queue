@@ -1,0 +1,95 @@
+{
+  "slug": "klopp-4-spiele-11-tage-mission",
+  "createdAt": "2026-08-31T12:36:00Z",
+  "title": "Klopps unmögliche Amsterdam-Mission",
+  "script": "Jürgen Klopp bekommt als Bundestrainer NUR 2 Trainingseinheiten, bevor er am 24. September in Amsterdam auf die Niederlande trifft. Kader-PK 17. September, erstes Training 21. September, Anpfiff 24. September. Dann kommen 4 Spiele in nur 11 Tagen: Niederlande, Griechenland, Serbien, Griechenland. 57 Kandidaten, 26 Plätze – und kaum Zeit zum Eingewöhnen. Kein DFB-Trainer hat je so gestartet. Wirtz, Musiala, Kimmich – alle warten noch. Kann Klopp das schaffen?",
+  "uploadCaption": "🚨 Klopp bekommt nur 2 Trainingseinheiten vor dem Niederlande-Debüt! 4 Spiele in 11 Tagen – so extrem startet die Klopp-Ära beim DFB. Glaubst du das geht gut? 🇩🇪",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #Nationalmannschaft #WM2030 #Fussball #Amsterdam #Niederlande",
+  "images": [
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "teamfoto.jpg",   "search": "DFB Mannschaftsfoto Deutschland" },
+    { "file": "amsterdam.jpg",  "search": "Johan Cruijff Arena Amsterdam" },
+    { "file": "countdown.jpg",  "search": "Countdown Fussball Bundestrainer Startschuss", "thematic": true },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich" },
+    { "file": "niederlande.jpg","search": "Niederlande Nationalmannschaft 2026" },
+    { "file": "fans.jpg",       "search": "DFB Fans" },
+    { "file": "flagge.jpg",     "search": "Deutschland Flagge" },
+    { "file": "pokal.jpg",      "search": "WM Pokal" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "2 TRAININGS. 4 SPIELE. AMSTERDAM.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB 2026",
+      "title": "Klopps unmögliche Mission",
+      "image": "teamfoto.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die nackten Zahlen",
+      "stats": [
+        { "label": "Trainingseinheiten vor Debüt", "value": "2" },
+        { "label": "Spiele in 11 Tagen", "value": "4" },
+        { "label": "Kandidaten auf Klopps Liste", "value": "57" }
+      ],
+      "image": "countdown.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · Liverpool · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · Bayern · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · Bayern · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "niederlande.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Reichen 2 Trainings gegen die Niederlande?",
+      "subtitle": "JA oder NEIN – kommentier jetzt!",
+      "image": "pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
