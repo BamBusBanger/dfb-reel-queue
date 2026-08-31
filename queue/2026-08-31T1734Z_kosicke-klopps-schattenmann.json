@@ -1,0 +1,102 @@
+{
+  "slug": "kosicke-klopps-schattenmann",
+  "createdAt": "2026-08-31T17:34:00Z",
+  "title": "Klopps geheimer Schattenmann beim DFB",
+  "script": "DEN kennt fast kein Fan – aber Klopp vertraut ihm BLIND. Marc Kosicke. 21 Jahre Klopps persönlicher Berater. Ex-Nike-Direktor. Kennenlernen 2005 bei einem Bier in einer Kneipe. Jetzt sitzt er als offizieller DFB-Co-Trainer für Strategie und Innovation im Nervenzentrum der Nationalmannschaft – und sein Name fehlt sogar in der offiziellen DFB-Pressemitteilung. Er plant im Verborgenen. Er hat Klopps Ohr. Er ist unsichtbar. Die Frage ist: Wie viel Macht hat dieser Schattenmann wirklich?",
+  "uploadCaption": "DEN kennt kaum ein Fan – aber Klopp vertraut ihm BLIND. Marc Kosicke ist Klopps Co-Trainer beim DFB. 21 Jahre persönlicher Berater. Jetzt im Nervenzentrum der Nationalmannschaft. Und sein Name fehlt sogar in der offiziellen DFB-Pressemitteilung. 👀",
+  "uploadHashtags": "#DFB #Klopp #Nationalmannschaft #WM2030 #Bundestrainer #Fußball #Deutschland",
+  "images": [
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "kosicke.jpg",       "search": "Marc Kosicke DFB" },
+    { "file": "dfb_team.jpg",      "search": "DFB Team 2026" },
+    { "file": "fans.jpg",          "search": "DFB Fans" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "wm_pokal.jpg",      "search": "WM Pokal Gold" },
+    { "file": "nike_moment.jpg",   "search": "Nike Fußball Strategie Begegnung 2005", "thematic": true },
+    { "file": "beratung.jpg",      "search": "Schattenmann Berater Strategie Einfluss", "thematic": true },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "dfb_wappen.jpg",    "search": "DFB Adler Fußball Deutschland", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DEN KENNT FAST KEIN FAN – ABER KLOPP VERTRAUT IHM BLIND.",
+      "image": "kosicke.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB 2026",
+      "title": "Klopps Schattenmann",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kosicke.jpg",
+      "name": "Marc Kosicke",
+      "role": "Co-Trainer Strategie · DFB",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 31",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "21 Jahre im Verborgenen",
+      "stats": [
+        { "label": "Jahre Klopp-Vertrauter", "value": "21" },
+        { "label": "Klopp-Trophäen mitgeplant (Dortmund + Liverpool)", "value": "3" },
+        { "label": "Nennungen in DFB-Pressemitteilung", "value": "0" }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "nike_moment.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beratung.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Zu viel Macht?",
+      "subtitle": "Darf ein Berater so viel Einfluss beim DFB haben?",
+      "image": "dfb_wappen.jpg",
+      "weight": 1.0
+    }
+  ]
+}

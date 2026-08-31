@@ -500,3 +500,4 @@
 2026-08-31 | kimmich-klopp-kein-anruf-raetsel | Kimmich 109 LS kein Klopp-Anruf, Asien-Tour-Geständnis, Klopp rief Musiala/Pejčinović/El Mala/Adeyemi an nicht Kapitän, Kapitänsfrage 17. September Kader-PK (GEHEIMNIS)
 2026-08-31 | klopp-4-spiele-11-tage-mission | Klopp nur 2 Trainings vor Amsterdam-Debüt, 4 Spiele 11 Tage, 57 Kandidaten 26 Plätze, Nations League Feuertaufe (NEWS-DRAMA)
 2026-08-31 | musiala-schalke-countdown | Musiala Comeback 5.9. Bayern vs Schalke, 2 neurologische Kollapsen 14+ Monate Pause, 1 Tor 239 WM-Min, Klopp schaut zu Kader-PK 12 Tage danach 17.9., Wirtz-Konkurrenz auf Zehn (TOP-3-LISTE)
+2026-08-31 | kosicke-klopps-schattenmann | Marc Kosicke Klopps 21-Jahre-Berater Ex-Nike-Direktor Co-Trainer DFB Strategie Schattenmann fehlt in Pressemitteilung (GEHEIMNIS)
