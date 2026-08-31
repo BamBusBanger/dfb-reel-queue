@@ -1,0 +1,36 @@
+{
+  "slug": "woltemade-juventus-deadline",
+  "createdAt": "2026-08-31T19:36:00Z",
+  "title": "Woltemade-Hammer: Deadline-Day-Flucht zu Juventus",
+  "script": "75 MILLIONEN für die Bank – das ist die Woltemade-Story. Newcastle zahlte Club-Rekord, doch der 1,98-m-Riese verpasste beim WM-Aus gegen Paraguay als Joker seinen Elfmeter und blieb die ganze Gruppenphase auf der Bank. Heute, am Deadline Day, kommt die Wende: Juventus Turin leiht ihn aus. Leihgebühr: 5 Millionen Euro, kein Kaufrecht. Klopp glaubt öffentlich an ihn – 17 Tage bis zur ersten DFB-Kader-Nominierung. Rettet ihn die Serie A?",
+  "uploadCaption": "75 Millionen, 0 WM-Minuten und ein Elfmeter-Desaster – und trotzdem glaubt Klopp an ihn. Nick Woltemade wechselt auf Leihbasis zu Juventus Turin. Rettet die Serie A seine DFB-Karriere? Kader-Bekanntgabe: 17. September.",
+  "uploadHashtags": "#Woltemade #Juventus #DFB #Klopp #DeadlineDay #WM2026 #Nationalmannschaft",
+  "images": [
+    { "file": "woltemade_portrait.jpg", "search": "Nick Woltemade" },
+    { "file": "woltemade_portrait2.jpg", "search": "Nick Woltemade Newcastle" },
+    { "file": "woltemade_dfb.jpg", "search": "Nick Woltemade DFB Trikot" },
+    { "file": "woltemade_jubel.jpg", "search": "Nick Woltemade Jubel" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "juventus.jpg", "search": "Juventus Turin Serie A 2026" },
+    { "file": "newcastle.jpg", "search": "Newcastle United" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "undav.jpg", "search": "Deniz Undav" },
+    { "file": "havertz.jpg", "search": "Kai Havertz" },
+    { "file": "teamfoto.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "fans2.jpg", "search": "Deutschland Public Viewing" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "75 MIO. – NULL MINUTEN – DEADLINE DAY!", "image": "woltemade_portrait.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DEADLINE DAY 31. AUGUST 2026", "title": "Woltemade zu Juventus", "image": "juventus.jpg", "weight": 0.7 },
+    { "type": "image", "image": "woltemade_portrait2.jpg", "name": "Nick Woltemade", "role": "Stürmer · 24 · Newcastle → Juventus (Leihe)", "weight": 0.9 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer DFB · Kader-PK 17.9.", "weight": 0.8 },
+    { "type": "stats", "title": "Die Woltemade-Zahlen", "stats": [{ "label": "Newcastle-Rekordablöse", "value": "75 Mio €" }, { "label": "WM-Minuten 2026", "value": "0" }, { "label": "Juventus-Leihgebühr", "value": "5 Mio €" }], "image": "woltemade_dfb.jpg", "weight": 1.0 },
+    { "type": "image", "image": "newcastle.jpg", "weight": 0.8 },
+    { "type": "image", "image": "woltemade_jubel.jpg", "weight": 0.8 },
+    { "type": "image", "image": "undav.jpg", "name": "Deniz Undav", "role": "Joker · 3 WM-Tore · direkter Konkurrent", "weight": 0.8 },
+    { "type": "image", "image": "havertz.jpg", "name": "Kai Havertz", "role": "Stürmer · Arsenal · 2 WM-Tore", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "teamfoto.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Kommt Woltemade in Klopps ersten Kader?", "subtitle": "JA oder NEIN – schreib's in die Kommentare!", "image": "fans2.jpg", "weight": 1.0 }
+  ]
+}
