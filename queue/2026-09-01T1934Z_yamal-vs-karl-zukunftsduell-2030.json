@@ -1,0 +1,101 @@
+{
+  "slug": "yamal-vs-karl-zukunftsduell-2030",
+  "createdAt": "2026-09-01T19:34:00Z",
+  "title": "Yamal vs. Karl – Superstar-Duell 2030",
+  "script": "2 Superstars, dasselbe Alter – null WM-Titel für einen. Lamine Yamal: 18 Jahre, WM-Champion 2026 mit Spanien, Torvorlage im Finale gegen Argentinien in der 106. Minute. Lennart Karl: 18 Jahre, Bayern München, 5 Tore und 5 Vorlagen Bundesliga, 4 CL-Tore – aber er verpasste die gesamte WM durch einen Muskelbündelriss im letzten Training vor dem USA-Testspiel. Jetzt ist er zurück in der Bayern-Startelf. Klopp hat ihn auf seiner 57er-Liste. WM 2030 – beide wären 22 und auf ihrem absoluten Zenit. Wer krönt sich?",
+  "uploadCaption": "Yamal hält den WM-Pokal. Karl saß verletzt auf der Tribüne. Wer wird 2030 Champion? 🏆⚽",
+  "uploadHashtags": "#DFB #WM2026 #WM2030 #LennartKarl #Yamal #Klopp #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "yamal.jpg", "search": "Lamine Yamal" },
+    { "file": "karl.jpg", "search": "Lennart Karl" },
+    { "file": "yamal_jubel.jpg", "search": "Lamine Yamal Spanien WM 2026 Weltmeister" },
+    { "file": "karl_training.jpg", "search": "Lennart Karl Bayern 2026" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "dfb_team.jpg", "search": "DFB Teamfoto 2026" },
+    { "file": "wm2030.jpg", "search": "WM 2030 Finale Trophäe futuristisch", "thematic": true },
+    { "file": "fans.jpg", "search": "DFB Fans Tribüne" },
+    { "file": "spanien_titel.jpg", "search": "Spanien WM 2026 Weltmeister Jubel MetLife" },
+    { "file": "fans_jubel.jpg", "search": "Fußball Fans Jubel Stadion" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "2 SUPERSTARS · 1 ALTER · 0 TITEL FÜR EINEN",
+      "image": "fans.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "ZUKUNFTS-DUELL 2030",
+      "title": "Yamal vs. Karl – wer regiert 2030?",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · WM-Champion 2026 · 18 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "karl.jpg",
+      "name": "Lennart Karl",
+      "role": "Bayern München · 18 J. · Klopp-Kandidat",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Lamine Yamal – WM 2026",
+      "stats": [
+        { "label": "Alter als Weltmeister", "value": "18" },
+        { "label": "Finale-Assist (106. Min)", "value": "1" },
+        { "label": "WM-Titel mit Spanien", "value": "2" }
+      ],
+      "image": "yamal_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "stats",
+      "title": "Lennart Karl – Saison 2025/26",
+      "stats": [
+        { "label": "Bundesliga-Tore", "value": "5" },
+        { "label": "Champions-League-Tore", "value": "4" },
+        { "label": "WM-Minuten 2026", "value": "0" }
+      ],
+      "image": "karl_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "spanien_titel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Karl auf 57er-Liste",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm2030.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Yamal oder Karl?",
+      "subtitle": "Wer wird WM-2030-Champion? Schreib's in die Kommentare!",
+      "image": "fans_jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}
