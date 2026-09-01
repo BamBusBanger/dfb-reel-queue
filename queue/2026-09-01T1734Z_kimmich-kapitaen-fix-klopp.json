@@ -1,0 +1,38 @@
+{
+  "slug": "kimmich-kapitaen-fix-klopp",
+  "createdAt": "2026-09-01T17:34:00Z",
+  "title": "Kimmich bleibt Kapitän – Klopp hat entschieden",
+  "script": "DFB-Kapitänsfrage GELÖST! Jürgen Klopp hat sich offenbar festgelegt: Joshua Kimmich bleibt Kapitän der Nationalmannschaft. Und die Überraschung: Kimmich kehrt endlich in die Mitte zurück als echter Sechser – raus aus der Rechtsverteidiger-Rolle, die ihn jahrelang gebremst hat. 109 Länderspiele, der erfahrenste Feldspieler im Kader. Sportdirektor Rudi Völler bestätigt: 'Kann mir keine große Veränderung vorstellen.' 16 Tage bis zur Kader-PK am 17. September, 23 Tage bis zum Amsterdam-Debüt. Die neue Kimmich-Ära beginnt jetzt.",
+  "uploadCaption": "Klopp hat entschieden: Kimmich bleibt Kapitän & spielt endlich Sechser! 🦁 16 Tage bis zum ersten Kader am 17. September. Was denkt ihr – richtige Entscheidung?",
+  "uploadHashtags": "#Kimmich #DFB #Klopp #WM2030 #Fussball #Nationalmannschaft #Bundestrainer #NationsLeague",
+  "images": [
+    { "file": "kimmich_binde.jpg",    "search": "Joshua Kimmich" },
+    { "file": "dfb_team.jpg",         "search": "Deutschland Nationalmannschaft 2026 Teamfoto" },
+    { "file": "kimmich_training.jpg", "search": "Joshua Kimmich DFB Training" },
+    { "file": "klopp_portrait.jpg",   "search": "Jürgen Klopp" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal Gold" },
+    { "file": "voeller.jpg",          "search": "Rudi Völler DFB Sportdirektor" },
+    { "file": "wirtz.jpg",            "search": "Florian Wirtz DFB" },
+    { "file": "fans.jpg",             "search": "DFB Fans Deutschland" },
+    { "file": "amsterdam.jpg",        "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "kimmich_kapitaen.jpg", "search": "Joshua Kimmich Kapitänsbinde" },
+    { "file": "musiala.jpg",          "search": "Jamal Musiala DFB" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "KAPITÄNSFRAGE GELÖST!", "image": "kimmich_binde.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB · September 2026", "title": "Kimmich bleibt Kapitän", "image": "dfb_team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "kimmich_training.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "klopp_portrait.jpg",   "name": "Jürgen Klopp", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen", "stats": [
+        { "label": "Länderspiele", "value": "109" },
+        { "label": "Tage bis Kader-PK", "value": "16" },
+        { "label": "Tage bis Amsterdam", "value": "23" }
+      ], "image": "wm_pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "voeller.jpg",      "name": "Rudi Völler", "role": "DFB Sportdirektor", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",         "name": "Florian Wirtz", "role": "Offensiv · 23", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",          "weight": 0.8 },
+    { "type": "image", "image": "amsterdam.jpg",     "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg",       "name": "Jamal Musiala", "role": "Offensiv · 23", "weight": 0.8 },
+    { "type": "outro", "title": "Soll Kimmich Kapitän bleiben?", "subtitle": "Kommentiert eure Meinung!", "image": "kimmich_kapitaen.jpg", "weight": 1.0 }
+  ]
+}
