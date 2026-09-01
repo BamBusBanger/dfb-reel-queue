@@ -1,0 +1,100 @@
+{
+  "slug": "musiala-pokal-kader-comeback",
+  "createdAt": "2026-09-01T12:42:00Z",
+  "title": "Musiala zurück im Kader! DFB-Pokal vs. Osnabrück",
+  "script": "ER IST ZURÜCK IM KADER! Nach 14 Monaten und 2 neurologischen Kollapsen steht Jamal Musiala heute Abend im Bayern-Kader für den DFB-Pokal gegen Osnabrück. Trainer Kompany bestätigt: Training war optimal. Bundestrainer Klopp schaut genau hin – in 16 Tagen, am 17. September, nominiert er seinen allerersten DFB-Kader. Amsterdam wartet am 24. September. Die Frage: Ist Musiala rechtzeitig in Topform – oder übernimmt Wirtz die Zehner-Rolle für immer?",
+  "uploadCaption": "Musiala ist zurück im Kader! Nach 2 Kollapsen und 14+ Monaten steht Bayerns Zehner heute Abend im DFB-Pokal-Aufgebot vs. Osnabrück. Kompany bestätigt: Training top. Klopp schaut genau hin – sein erster DFB-Kader kommt in 16 Tagen. Schafft Musiala die Form für Amsterdam am 24. September?",
+  "uploadHashtags": "#Musiala #Bayern #DFBPokal #DFB #Klopp #NationsLeague #Deutschland #WM2026 #Bundesliga",
+  "images": [
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "musiala_aktion.jpg","search": "Jamal Musiala DFB" },
+    { "file": "musiala_jubel.jpg", "search": "Jamal Musiala Torjubel" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "allianz.jpg",       "search": "Allianz Arena München" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "fans.jpg",          "search": "DFB Fans Deutschland" },
+    { "file": "urbig.jpg",         "search": "Jonas Urbig Bayern Torwart" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich" },
+    { "file": "fanpark.jpg",       "search": "Public Viewing Deutschland Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER IST ZURÜCK IM KADER!",
+      "image": "musiala.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB-POKAL · 2. September 2026",
+      "title": "Musialas Kader-Comeback",
+      "image": "allianz.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_aktion.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 · Bayern München",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala_jubel.jpg",
+      "name": "Jamal Musiala",
+      "role": "1 WM-Tor · 2 Kollapsen Preseason",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Musialas Comeback-Zahlen",
+      "stats": [
+        { "label": "Monate Pause", "value": "14+" },
+        { "label": "Neurologische Kollapsen", "value": "2" },
+        { "label": "Tage bis Klopp-Kader", "value": "16" }
+      ],
+      "image": "allianz.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Kader 17. September",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "urbig.jpg",
+      "name": "Jonas Urbig",
+      "role": "DFB-Pokal Torwart · 24 · Bayern",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Zehner-Konkurrent · 125 Mio. Pfund",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Ist Musiala rechtzeitig fit für Amsterdam?",
+      "subtitle": "Schreibt es in die Kommentare! ⬇️",
+      "image": "fanpark.jpg",
+      "weight": 1.0
+    }
+  ]
+}
