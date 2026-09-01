@@ -1,0 +1,111 @@
+{
+  "slug": "klopp-system-revolution-4-3-3",
+  "createdAt": "2026-09-01T05:42:00Z",
+  "title": "Klopps System-Revolution: 4-3-3 vs. 4-2-3-1",
+  "script": "3 WM-Aus in Folge – und Klopp macht TABULA RASA! Nagelsmanns 4-2-3-1 mit Doppel-Sechs Pavlovic/Nmecha ist Geschichte. Klopp setzt auf 4-3-3 und Hochpressing: Wirtz und Musiala als freie Achter, Kimmich endlich als echter Sechser. Liverpool-Beweis: 5 Titel in 5 Jahren. Goretzka? Nach 27 WM-Bankminuten sein Comeback wahrscheinlich. Am 24. September beginnt in Amsterdam die Revolution. Aber funktioniert das 4-3-3 wirklich mit diesem DFB-Kader?",
+  "uploadCaption": "Klopp BEERDIGT Nagelsmanns System! 3 WM-Aus, jetzt kommt das 4-3-3 mit Hochpressing. Kimmich endlich Sechser, Wirtz & Musiala als Achter. 5 Titel mit Liverpool – kann Klopp das mit dem DFB wiederholen? 👇",
+  "uploadHashtags": "#DFB #Klopp #Nagelsmann #SystemRevolution #Nationalmannschaft #NationsLeague2026 #Fussball",
+  "images": [
+    { "file": "amsterdam.jpg", "search": "Johan Cruyff Arena Amsterdam DFB" },
+    { "file": "teamfoto.jpg", "search": "DFB Teamfoto 2026" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "pavlovic.jpg", "search": "Aleksandar Pavlović" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "goretzka.jpg", "search": "Leon Goretzka" },
+    { "file": "nmecha.jpg", "search": "Felix Nmecha" },
+    { "file": "fans.jpg", "search": "DFB Fans Stadion" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3× WM-AUS – KLOPP BEERDIGT NAGELSMANNS SYSTEM!",
+      "image": "amsterdam.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP-ÄRA · AMSTERDAM 24.9.",
+      "title": "System-Revolution: 4-3-3 vs. 4-2-3-1",
+      "image": "teamfoto.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "nagelsmann.jpg",
+      "name": "Julian Nagelsmann",
+      "role": "Ex-Bundestrainer · 4-2-3-1",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Nagelsmanns 4-2-3-1 – Die Bilanz",
+      "stats": [
+        { "label": "WM-Aus in Folge", "value": "3" },
+        { "label": "WM-Halbfinals", "value": "0" },
+        { "label": "Siege-Serie", "value": "11" }
+      ],
+      "image": "pavlovic.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · ab 15. August 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps 4-3-3 – Der Liverpool-Beweis",
+      "stats": [
+        { "label": "Titel mit Liverpool (5 Jahre)", "value": "5" },
+        { "label": "System", "value": "4-3-3" },
+        { "label": "Hochpressing", "value": "100 %" }
+      ],
+      "image": "amsterdam.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 LS · Sechser im 4-3-3",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · Achter im 4-3-3",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "goretzka.jpg",
+      "name": "Leon Goretzka",
+      "role": "Aston Villa · 70 LS · 27 WM-Bankminuten",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nmecha.jpg",
+      "name": "Felix Nmecha",
+      "role": "BVB · Ex-Doppel-Sechs",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "4-3-3 – Klopps Schlüssel zum WM-Titel?",
+      "subtitle": "Revolution sinnvoll 👍 oder System egal 👎",
+      "image": "amsterdam.jpg",
+      "weight": 1.0
+    }
+  ]
+}
