@@ -1,0 +1,95 @@
+{
+  "slug": "kade-klopps-augen-geheimtipp",
+  "createdAt": "2026-09-01T15:34:00Z",
+  "title": "Kades Gala vor Klopps Augen",
+  "script": "Klopp saß im Stadion – und einer spielte das Spiel seines Lebens. Anton Kade, 22 Jahre, FC Augsburg: 1 Tor, 1 Vorlage beim 3:0 gegen Schalke am 30. August. Direkt vor dem neuen Bundestrainer. Kade selbst sagt: Ein cooles Spiel. Klopp sagt: Er steht auf dem Zettel. Am 17. September gibt Klopp seinen ersten Kader bekannt – und kaum jemand hat diesen Namen auf dem Radar. Glaubst du, Kade schafft es wirklich?",
+  "uploadCaption": "Klopp war live dabei – und Anton Kade (22) knipste beim 3:0 gegen Schalke direkt vor seinen Augen. Kader-PK am 17. September. Wer rechnet mit ihm?",
+  "uploadHashtags": "#DFB #Klopp #AntonKade #Augsburg #NationsLeague #WM2030 #Fussball #Bundesliga",
+  "images": [
+    { "file": "kade_aktion.jpg", "search": "Anton Kade Augsburg" },
+    { "file": "klopp_bundestrainer.jpg", "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "kade_tor_schalke.jpg", "search": "Anton Kade Tor Schalke Augsburg Bundesliga" },
+    { "file": "wwk_arena.jpg", "search": "WWK Arena Augsburg Bundesliga" },
+    { "file": "kade_jubel.jpg", "search": "Anton Kade Jubel Augsburg" },
+    { "file": "klopp_kader_pk.jpg", "search": "Klopp DFB Pressekonferenz" },
+    { "file": "dfb_team.jpg", "search": "DFB Team 2026" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" },
+    { "file": "wirtz_dfb.jpg", "search": "Florian Wirtz" },
+    { "file": "deutschland_flagge.jpg", "search": "Deutschland Flagge" },
+    { "file": "fans_hoffen.jpg", "search": "DFB Fans Spannung" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP SAß IM STADION – UND SIEHT ALLES.",
+      "image": "kade_aktion.jpg",
+      "weight": 0.4
+    },
+    {
+      "type": "title",
+      "eyebrow": "GEHEIMTIPP",
+      "title": "Kades Gala vor Klopps Augen",
+      "image": "klopp_bundestrainer.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "kade_tor_schalke.jpg",
+      "name": "Anton Kade",
+      "role": "FC Augsburg · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp_kader_pk.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Kades Gala vs. Schalke (30.8.)",
+      "stats": [
+        { "label": "Tore", "value": "1" },
+        { "label": "Vorlagen", "value": "1" },
+        { "label": "Ergebnis", "value": "3:0" }
+      ],
+      "image": "wwk_arena.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kade_jubel.jpg",
+      "name": "Anton Kade",
+      "role": "FC Augsburg · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_dfb.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Glaubst du, Kade schafft Klopps ersten Kader?",
+      "subtitle": "Kader-PK: 17. September",
+      "image": "fans_hoffen.jpg",
+      "weight": 1.0
+    }
+  ]
+}

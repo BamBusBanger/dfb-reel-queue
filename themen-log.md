@@ -505,3 +505,4 @@
 2026-09-01 | klopp-system-revolution-4-3-3 | Klopp 4-3-3 Hochpressing vs Nagelsmann 4-2-3-1 Doppel-Sechs, 3 WM-Aus in Folge, 5 Liverpool-Titel, Kimmich Sechser, Wirtz Musiala Achter, Goretzka 27 WM-Bankminuten Comeback, Amsterdam-Debüt 24.9. (DUELL/VERGLEICH)
 2026-09-01 | drei-rekord-transfers-klopp-check | Transferfenster zu: Klopps 3 teuerste DFB-Spieler Wirtz 125 Mio. Pfund Brown 55 Mio. Woltemade 75 Mio. im Check, 16 Tage bis Kader-PK 17.9. (TOP-3-LISTE)
 2026-09-01 | musiala-pokal-kader-comeback | Musiala DFB-Pokal Kader-Comeback Bayern vs Osnabrück, 14 Monate Pause, 2 neurologische Kollapsen, Kompany-Bestätigung, Klopp schaut hin Kader 17.9. Amsterdam 24.9. (NEWS-DRAMA)
+2026-09-01 | kade-klopps-augen-geheimtipp | Anton Kade 22 Augsburg 1 Tor 1 Vorlage 3:0 vs Schalke direkt vor Klopps Augen, Kader-PK 17. September Überraschungskandidat (GEHEIMNIS)
