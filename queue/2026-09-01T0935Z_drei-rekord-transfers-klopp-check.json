@@ -1,0 +1,97 @@
+{
+  "slug": "drei-rekord-transfers-klopp-check",
+  "createdAt": "2026-09-01T09:35:00Z",
+  "title": "255 Millionen – Klopps 3 Rekord-Transfers im Check",
+  "script": "255 Millionen – so viel kosten Klopps drei teuerste DFB-Spieler dieser Saison! Florian Wirtz: 125 Millionen Pfund nach Liverpool, erster Einsatz als Zehner sofort 1 Tor und 1 Assist. Nathaniel Brown: 55 Millionen nach München, erstes Bayern-Tor direkt beim Supercup. Nick Woltemade: 75 Millionen zu Newcastle, dann leihweise nach Juventus – 0 WM-Minuten, 1 verschossener Elfmeter. Das Transferfenster ist ZU. In 16 Tagen benennt Klopp seinen ersten Kader. Wer rechtfertigt seinen Marktwert?",
+  "uploadCaption": "255 Millionen Euro DFB-Material und der Kader-Tag rückt näher. Klopp hat 16 Tage, um seine teuersten Spieler zu beurteilen – Wirtz, Brown oder Woltemade: Wer liefert?",
+  "uploadHashtags": "#DFB #Klopp #WM2026 #Nationalmannschaft #FlorianWirtz #NathanielBrown #NickWoltemade #Fussball #Bundesliga #Nations League",
+  "images": [
+    { "file": "wirtz_jubel.jpg",       "search": "Florian Wirtz" },
+    { "file": "wirtz_training.jpg",    "search": "Florian Wirtz Liverpool" },
+    { "file": "brown.jpg",             "search": "Nathaniel Brown" },
+    { "file": "brown_spielszene.jpg",  "search": "Nathaniel Brown DFB" },
+    { "file": "woltemade.jpg",         "search": "Nick Woltemade" },
+    { "file": "woltemade_jubel.jpg",   "search": "Nick Woltemade DFB" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "musiala.jpg",           "search": "Jamal Musiala" },
+    { "file": "fans.jpg",              "search": "DFB Fans" },
+    { "file": "kimmich.jpg",           "search": "Joshua Kimmich" },
+    { "file": "fanmeile.jpg",          "search": "DFB Fanmeile" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "255 MILLIONEN – KLOPP MUSS SIE JETZT EINLÖSEN!",
+      "image": "wirtz_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "16 TAGE BIS ZUM ERSTEN KADER",
+      "title": "Klopps 3 Rekord-Transfers im Check",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_training.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23 · 125 Mio. Pfund",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Investment",
+      "stats": [
+        { "label": "Wirtz (Liverpool)", "value": "125 Mio. £" },
+        { "label": "Woltemade (Newcastle)", "value": "75 Mio. €" },
+        { "label": "Brown (Bayern)", "value": "55 Mio. €" }
+      ],
+      "image": "musiala.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "brown.jpg",
+      "name": "Nathaniel Brown",
+      "role": "Linksverteidiger · 23 · 55 Mio. €",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "brown_spielszene.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · 23 · 75 Mio. €",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 31",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer liefert für Klopp?",
+      "subtitle": "Wirtz, Brown oder Woltemade – schreibt es in die Kommentare!",
+      "image": "fanmeile.jpg",
+      "weight": 1.0
+    }
+  ]
+}
