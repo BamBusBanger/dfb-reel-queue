@@ -1,0 +1,34 @@
+{
+  "slug": "klopp-slot-meister-vs-schueler",
+  "createdAt": "2026-09-02T15:34:00Z",
+  "title": "Klopp vs. Slot: Meister trifft Erben",
+  "script": "22 Tage. Dann trifft Jürgen Klopp als neuer Bundestrainer auf Arne Slot – seinen eigenen Liverpool-Nachfolger. Klopp baute den Klub 9 Jahre zum Imperium: Champions League 2019, Premier League 2020 – 5 Titel insgesamt. Slot übernahm 2024, triumphierte weiter, coacht jetzt die Niederlande. Zwei Coaches, eine Philosophie, ein Rasen in Amsterdam. Wer kennt die Schwächen des anderen besser? Am 24. September ist Klopps Debüt – und sein Gegner ist sein eigener Erbe.",
+  "uploadCaption": "22 Tage bis Klopps Debüt – sein erster Gegner ist Arne Slot, sein eigener Nachfolger von Liverpool! Lehrer gegen Schüler in Amsterdam 🔴🇩🇪🆚🇳🇱",
+  "uploadHashtags": "#Klopp #Bundestrainer #DFB #ArneSLot #Niederlande #NationsLeague #WM2030 #Fussball",
+  "images": [
+    { "file": "amsterdam.jpg",      "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "klopp_portrait.jpg", "search": "Jürgen Klopp" },
+    { "file": "klopp_coaching.jpg", "search": "Jürgen Klopp Bundestrainer Deutschland 2026" },
+    { "file": "slot.jpg",           "search": "Arne Slot Netherlands Oranje coach 2026" },
+    { "file": "liverpool_dna.jpg",  "search": "Fußball Taktikboard 4-3-3 Formation Pressing symbolisch", "thematic": true },
+    { "file": "wirtz.jpg",          "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg",        "search": "Joshua Kimmich" },
+    { "file": "musiala.jpg",        "search": "Jamal Musiala" },
+    { "file": "fans_de.jpg",        "search": "DFB Fans Deutschland" },
+    { "file": "team_dfb.jpg",       "search": "DFB Teamfoto 2026" },
+    { "file": "nederland_fans.jpg", "search": "Netherlands orange fans football" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "DER MEISTER TRIFFT SEINEN ERBEN.", "image": "amsterdam.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "24. SEPTEMBER AMSTERDAM", "title": "Klopp vs. Slot", "image": "klopp_portrait.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp_coaching.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · Debüt 24.9.", "weight": 0.8 },
+    { "type": "image", "image": "slot.jpg", "name": "Arne Slot", "role": "Bondscoach Niederlande", "weight": 0.8 },
+    { "type": "stats", "title": "Klopps Liverpool-Ära", "stats": [{ "label": "Jahre", "value": "9" }, { "label": "Titel", "value": "5" }, { "label": "CL-Sieg", "value": "2019" }], "image": "liverpool_dna.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Offensiv · 22", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 LS", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "Offensiv · 22", "weight": 0.8 },
+    { "type": "image", "image": "fans_de.jpg", "weight": 0.8 },
+    { "type": "image", "image": "team_dfb.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Klopp oder Slot?", "subtitle": "Wer gewinnt das Liverpool-Duell am 24.9.?", "image": "nederland_fans.jpg", "weight": 1.0 }
+  ]
+}
