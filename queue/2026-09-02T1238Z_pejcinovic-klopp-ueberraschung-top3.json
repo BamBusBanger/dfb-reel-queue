@@ -1,0 +1,107 @@
+{
+  "slug": "pejcinovic-klopp-ueberraschung-top3",
+  "createdAt": "2026-09-02T12:38:00Z",
+  "title": "3 Gründe: Pejčinović kommt in Klopps ersten Kader",
+  "script": "Jürgen Klopp fuhr HEIMLICH nach Stuttgart – und nur ein Spieler weiß warum! Dženan Pejčinović, 22 Jahre alt, von Wolfsburg nach Stuttgart gewechselt, alle DFB-Jugendteams, 7 U21-Spiele: Klopp verriet live im TV: 'Jetzt weiß er es.' 3 Gründe, warum der VfB-Stürmer am 17. September in Klopps ersten Kader kommt – obwohl er noch kein einziges A-Länderspiel hat. Klopp sucht genau solche Spieler. Debüt: 24. September, Amsterdam. Verdient Pejčinović wirklich einen Platz?",
+  "uploadCaption": "Klopp fährt heimlich nach Stuttgart und trifft Pejčinović! 🚨 3 Gründe warum der 22-Jährige Klopps ERSTE Überraschung im ersten DFB-Kader wird – am 17. September wird es offiziell! 🇩🇪⚽",
+  "uploadHashtags": "#DFB #Klopp #Pejcinovic #Nationalmannschaft #NationsLeague #Fussball #WM2026",
+  "images": [
+    { "file": "pejcinovic.jpg",        "search": "Dzenan Pejčinović VfB Stuttgart 2026" },
+    { "file": "pejcinovic_aktion.jpg", "search": "Pejčinović Stuttgart Bundesliga Aktion 2026" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "stuttgart.jpg",         "search": "MHPArena VfB Stuttgart Bundesliga" },
+    { "file": "dfb_team.jpg",          "search": "DFB Mannschaft" },
+    { "file": "kimmich.jpg",           "search": "Joshua Kimmich" },
+    { "file": "fans.jpg",              "search": "DFB Fans" },
+    { "file": "nations_league.jpg",    "search": "UEFA Nations League Trophäe Konzept", "thematic": true },
+    { "file": "dfb_flagge.jpg",        "search": "Deutschland Flagge Schwarz Rot Gold" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP FÄHRT HEIMLICH NACH STUTTGART!",
+      "image": "pejcinovic.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "TOP 3 GRÜNDE",
+      "title": "Pejčinović kommt in Klopps Kader!",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "pejcinovic_aktion.jpg",
+      "name": "Dženan Pejčinović",
+      "role": "Stürmer VfB Stuttgart · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "GRUND 1: DER PERSÖNLICHE BESUCH",
+      "stats": [
+        { "label": "Klopp reiste selbst nach Stuttgart", "value": "Persönlich" },
+        { "label": "Aussage live im TV", "value": "\"Jetzt weiß er es\"" }
+      ],
+      "image": "stuttgart.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "pejcinovic.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "GRUND 2: DIE KARRIERE-FAKTEN",
+      "stats": [
+        { "label": "Alter", "value": "22 Jahre" },
+        { "label": "U21-Einsätze DFB", "value": "7 Spiele" },
+        { "label": "A-Länderspiele", "value": "0" }
+      ],
+      "image": "nations_league.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "GRUND 3: KLOPPS KREDO",
+      "stats": [
+        { "label": "Klopp-Prinzip", "value": "Überraschungen" },
+        { "label": "Kader-Bekanntgabe", "value": "17. September" },
+        { "label": "Debüt-Gegner", "value": "24.9. Amsterdam" }
+      ],
+      "image": "nations_league.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Verdient Pejčinović einen Platz?",
+      "subtitle": "JA oder NEIN – schreib's in die Kommentare!",
+      "image": "pejcinovic.jpg",
+      "weight": 1.0
+    }
+  ]
+}
