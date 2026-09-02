@@ -1,0 +1,108 @@
+{
+  "slug": "klopp-xl-kader-29-geheimnis",
+  "createdAt": "2026-09-02T05:34:06Z",
+  "title": "Klopps Geheimplan: bis zu 29 Spieler im ersten DFB-Kader",
+  "script": "NUR 2 TRAININGS – dann 4 Länderspiele in 11 Tagen. Klopp verrät seinen Geheimplan: Sein erster DFB-Kader wird GRÖSSER als je gedacht – bis zu 29 Spieler, weil kein Spieler alle 4 Partien bestreiten wird. Amsterdam, Augsburg, München, Griechenland – ein Feuer-Test in Klopps Amtsantritts-Sprint. Die stillen Gewinner: Pejčinović aus Stuttgart, Kade aus Augsburg, Andrich aus Leverkusen – alles WM-Abgeschriebene, die jetzt plötzlich ihre Chance bekommen. Am 17. September enthüllt Klopp seinen Kader. Wen MUSS er nominieren – und wen lässt er fallen?",
+  "uploadCaption": "Klopp plant bis zu 29 Spieler für seinen ersten DFB-Kader – weil KEIN Spieler alle 4 Spiele in 11 Tagen macht. Das sind die geheimen Gewinner! #DFB #Klopp #Nationalmannschaft #NationsLeague",
+  "uploadHashtags": "#DFB #Klopp #Nationalmannschaft #NationsLeague #WM2030 #Bundestrainer #Deutschland #Fussball",
+  "images": [
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "dfb_team.jpg",   "search": "DFB Nationalmannschaft 2026" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich" },
+    { "file": "wm_pokal.jpg",   "search": "WM Pokal Trophäe" },
+    { "file": "pejcinovic.jpg", "search": "Nico Pejčinović VfB Stuttgart" },
+    { "file": "kade.jpg",       "search": "Anton Kade FC Augsburg" },
+    { "file": "andrich.jpg",    "search": "Robert Andrich Bayer Leverkusen" },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "goretzka.jpg",   "search": "Leon Goretzka" },
+    { "file": "amsterdam.jpg",  "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "fans.jpg",       "search": "DFB Fans Stadion" },
+    { "file": "fans_hoffen.jpg","search": "Deutschland public viewing hoffen Spannung" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NUR 2 TRAININGS – DANN: 4 SPIELE IN 11 TAGEN.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPPS GEHEIMPLAN",
+      "title": "29 Spieler erster DFB-Kader",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps Debüt-Sprint",
+      "stats": [
+        { "label": "Länderspiele", "value": "4" },
+        { "label": "Tage", "value": "11" },
+        { "label": "Trainings vorher", "value": "2" },
+        { "label": "Spieler max.", "value": "29" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "pejcinovic.jpg",
+      "name": "Nico Pejčinović",
+      "role": "VfB Stuttgart · 21 J. · Klopp-Anruf bestätigt",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kade.jpg",
+      "name": "Anton Kade",
+      "role": "FC Augsburg · 22 J. · 1T 1A vor Klopps Augen",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "andrich.jpg",
+      "name": "Robert Andrich",
+      "role": "Bayer Leverkusen · 31 J. · Klopp-Geheimkandidat",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 125 Mio. £ · gesetzt",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "goretzka.jpg",
+      "name": "Leon Goretzka",
+      "role": "Aston Villa · 70 LS · Zweite-Chance-Kandidat",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wen MUSS Klopp nominieren?",
+      "subtitle": "Kommentier jetzt deine Top-3!",
+      "image": "fans_hoffen.jpg",
+      "weight": 1.0
+    }
+  ]
+}

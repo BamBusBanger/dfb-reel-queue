@@ -508,3 +508,4 @@
 2026-09-01 | kade-klopps-augen-geheimtipp | Anton Kade 22 Augsburg 1 Tor 1 Vorlage 3:0 vs Schalke direkt vor Klopps Augen, Kader-PK 17. September Überraschungskandidat (GEHEIMNIS)
 2026-09-01 | kimmich-kapitaen-fix-klopp | Klopp legt sich fest: Kimmich bleibt DFB-Kapitän + spielt Sechser, Völler bestätigt, 109 LS, 16 Tage bis Kader-PK 17.9., Amsterdam-Debüt 24.9. (NEWS-DRAMA)
 2026-09-01 | yamal-vs-karl-zukunftsduell-2030 | Yamal WM-Champion Spanien 2026 Torres 106. Min vs Karl Bayern verletzt WM-Aus, beide 18J., Klopp 57er-Liste, Superstar-Vergleich WM 2030 (DUELL/VERGLEICH)
+2026-09-02 | klopp-xl-kader-29-geheimnis | Klopp plant bis zu 29 Spieler im ersten DFB-Kader (statt üblicher 26), kein Spieler bestreitet alle 4 Spiele in 11 Tagen, Profiteure Pejčinović/Kade/Andrich/Goretzka, Kader-PK 17.9., Debüt 24.9. Amsterdam (GEHEIMNIS)
