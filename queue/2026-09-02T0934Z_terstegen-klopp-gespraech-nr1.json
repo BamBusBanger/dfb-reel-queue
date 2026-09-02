@@ -1,0 +1,33 @@
+{
+  "slug": "terstegen-klopp-gespraech-nr1",
+  "createdAt": "2026-09-02T09:34:00Z",
+  "title": "Ter Stegen spricht mit Klopp – Überraschungs-Kandidat DFB-Nr. 1",
+  "script": "Er wurde abgeschrieben – jetzt ist er ZURÜCK im Gespräch! Marc-André ter Stegen, 34, bestätigt: Er hatte ein tolles Gespräch mit Bundestrainer Klopp. Der Ajax-Keeper liefert aktuell Woche für Woche – Man of the Match. 48 Länderspiele, eine ganze Ära Erfahrung im Rücken. Manuel Neuer hört auf: 125 Caps, eine Legende tritt ab. Atubolu? Kein sicherer Stammplatz in Frankfurt. Urbig? Erst 22. Noch 15 Tage bis zur Kader-Pressekonferenz am 17. September. Wer wird Klopps Nummer Eins?",
+  "uploadCaption": "Ter Stegen ist ZURÜCK im Gespräch! Tolles Gespräch mit Klopp bestätigt – und der Ajax-Keeper liefert. 48 Länderspiele, 34 Jahre alt, und hungrig wie nie. Wer wird Klopps DFB-Nummer 1 bei der WM?",
+  "uploadHashtags": "#DFB #WM2026 #TerStegen #Klopp #Torwart #Atubolu #Urbig #Fussball",
+  "images": [
+    { "file": "terstegen.jpg",         "search": "Marc-André ter Stegen Ajax 2026" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "neuer.jpg",             "search": "Manuel Neuer" },
+    { "file": "atubolu.jpg",           "search": "Oliver Atubolu Eintracht Frankfurt" },
+    { "file": "urbig.jpg",             "search": "Jonas Urbig Torwart" },
+    { "file": "terstegen_parade.jpg",  "search": "ter Stegen Ajax Parade Eredivisie" },
+    { "file": "fans.jpg",              "search": "DFB Fans Tribüne" },
+    { "file": "wm26.jpg",              "search": "WM 2026 Logo" },
+    { "file": "stadion.jpg",           "search": "MetLife Stadium" },
+    { "file": "handschuhe.jpg",        "search": "Torwarthandschuhe Rasen symbolisch", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ER MELDET SICH ZURÜCK.", "image": "terstegen.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB KADER", "title": "Ter Stegen pusht sich zurück", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "terstegen_parade.jpg", "name": "Marc-André ter Stegen", "role": "Torwart Ajax · 34", "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen", "stats": [{ "label": "Länderspiele", "value": "48" }, { "label": "Tage bis Kader-PK", "value": "15" }, { "label": "Neuer-Caps", "value": "125" }], "image": "wm26.jpg", "weight": 0.9 },
+    { "type": "image", "image": "neuer.jpg",    "name": "Manuel Neuer",   "role": "125 Länderspiele · Legende", "weight": 0.8 },
+    { "type": "image", "image": "atubolu.jpg",  "name": "Oliver Atubolu", "role": "Torwart · 24", "weight": 0.8 },
+    { "type": "image", "image": "urbig.jpg",    "name": "Jonas Urbig",    "role": "Torwart · 22", "weight": 0.8 },
+    { "type": "image", "image": "handschuhe.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",     "weight": 0.8 },
+    { "type": "image", "image": "stadion.jpg",  "weight": 0.8 },
+    { "type": "outro", "title": "Dein DFB-Keeper?", "subtitle": "Ter Stegen oder Atubolu – kommentier!", "image": "terstegen.jpg", "weight": 1.0 }
+  ]
+}

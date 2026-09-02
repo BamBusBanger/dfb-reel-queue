@@ -509,3 +509,4 @@
 2026-09-01 | kimmich-kapitaen-fix-klopp | Klopp legt sich fest: Kimmich bleibt DFB-Kapitän + spielt Sechser, Völler bestätigt, 109 LS, 16 Tage bis Kader-PK 17.9., Amsterdam-Debüt 24.9. (NEWS-DRAMA)
 2026-09-01 | yamal-vs-karl-zukunftsduell-2030 | Yamal WM-Champion Spanien 2026 Torres 106. Min vs Karl Bayern verletzt WM-Aus, beide 18J., Klopp 57er-Liste, Superstar-Vergleich WM 2030 (DUELL/VERGLEICH)
 2026-09-02 | klopp-xl-kader-29-geheimnis | Klopp plant bis zu 29 Spieler im ersten DFB-Kader (statt üblicher 26), kein Spieler bestreitet alle 4 Spiele in 11 Tagen, Profiteure Pejčinović/Kade/Andrich/Goretzka, Kader-PK 17.9., Debüt 24.9. Amsterdam (GEHEIMNIS)
+2026-09-02 | terstegen-klopp-gespraech-nr1 | Ter Stegen "tolles Gespräch" mit Klopp bestätigt, Man of the Match Ajax, Überraschungs-Kandidat DFB-Nr.1, Atubolu kein Stammplatz Frankfurt, 15 Tage bis Kader-PK 17.9. (NEWS-DRAMA)
