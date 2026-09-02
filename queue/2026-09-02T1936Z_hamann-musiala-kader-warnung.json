@@ -1,0 +1,34 @@
+{
+  "slug": "hamann-musiala-kader-warnung",
+  "createdAt": "2026-09-02T19:36:22Z",
+  "title": "Hamann warnt: Musiala verpasst Klopps ersten Kader?",
+  "script": "WAS VERRÄT DAS KOMPANY-GESPRÄCH? Didi Hamann warnt: Musiala könnte Klopps ersten Kader am 17. September verpassen. 2 neurologische Kollapsen im Bayern-Training August 2026. Nur 1 Tor in 239 WM-Minuten – 4-mal ausgewechselt. Klopp rief Bayern-Coach Kompany an, was der ihm bestätigte, bleibt geheim. DFB-Pokal-Comeback am 1. September – erster Test bestanden. Aber reicht das für Amsterdam? Jetzt 15 Tage bis zur Kader-Entscheidung. Ohne Musiala gegen die Niederlande – Klopps geheimer Plan?",
+  "uploadCaption": "Was Kompany Klopp über Musiala verraten hat – und warum Hamann jetzt Alarm schlägt. 15 Tage bis zum ersten Klopp-Kader. Deine Meinung unten!",
+  "uploadHashtags": "#DFB #Musiala #Klopp #NationsLeague #WM2026 #Bundestrainer #Hamann",
+  "images": [
+    { "file": "musiala01.jpg", "search": "Jamal Musiala" },
+    { "file": "klopp01.jpg", "search": "Jürgen Klopp" },
+    { "file": "musiala02.jpg", "search": "Jamal Musiala DFB" },
+    { "file": "hamann01.jpg", "search": "Didi Hamann" },
+    { "file": "wirtz01.jpg", "search": "Florian Wirtz" },
+    { "file": "dfb_team01.jpg", "search": "DFB Nationalmannschaft 2026" },
+    { "file": "dfb_fans01.jpg", "search": "DFB Fans" },
+    { "file": "kimmich01.jpg", "search": "Joshua Kimmich" },
+    { "file": "amsterdam01.jpg", "search": "Johan Cruijff Arena Amsterdam" },
+    { "file": "musiala03.jpg", "search": "Jamal Musiala Bayern Training" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "WAS VERRÄT DAS KOMPANY-GESPRÄCH?", "image": "musiala01.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "17. SEPTEMBER", "title": "Klopps erster Kader", "image": "dfb_team01.jpg", "weight": 0.7 },
+    { "type": "image", "image": "musiala02.jpg", "name": "Jamal Musiala", "role": "Offensiv · 23 J.", "weight": 0.8 },
+    { "type": "stats", "title": "WM 2026 Musiala-Bilanz", "stats": [{ "label": "Tore", "value": "1" }, { "label": "Minuten", "value": "239" }, { "label": "Auswechslungen", "value": "4" }], "image": "musiala03.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp01.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "hamann01.jpg", "name": "Didi Hamann", "role": "TV-Experte MagentaTV", "weight": 0.8 },
+    { "type": "image", "image": "musiala01.jpg", "name": "Jamal Musiala", "role": "DFB-Rückkehr 1. Sep.", "weight": 0.8 },
+    { "type": "image", "image": "wirtz01.jpg", "name": "Florian Wirtz", "role": "Liverpool · 23 J.", "weight": 0.8 },
+    { "type": "image", "image": "kimmich01.jpg", "name": "Joshua Kimmich", "role": "DFB-Kapitän", "weight": 0.8 },
+    { "type": "stats", "title": "Countdown Klopp-Ära", "stats": [{ "label": "Kader-PK", "value": "17. Sep." }, { "label": "Amsterdam-Debüt", "value": "24. Sep." }], "image": "dfb_fans01.jpg", "weight": 0.9 },
+    { "type": "image", "image": "amsterdam01.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Musiala im ersten Klopp-Kader?", "subtitle": "JA oder NEIN – Kommentar!", "image": "dfb_team01.jpg", "weight": 1.0 }
+  ]
+}

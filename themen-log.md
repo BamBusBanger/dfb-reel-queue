@@ -513,3 +513,4 @@
 2026-09-02 | pejcinovic-klopp-ueberraschung-top3 | Pejčinović VfB Stuttgart 22J. Klopp persönlicher Stuttgart-Besuch Live-TV-Geständnis "Jetzt weiß er es" 0 A-Länderspiele 7 U21-Spiele Kader-PK 17.9. Amsterdam-Debüt 24.9. (TOP-3-LISTE)
 2026-09-02 | klopp-slot-meister-vs-schueler | Klopp vs. Slot Liverpool-Duell, Meister trifft Erben, 22 Tage bis Debüt Amsterdam 24.9., beide ex-Liverpool-Coaches Klopp 9 Jahre 5 Titel CL 2019, Slot Nachfolger 2024 jetzt Bondscoach Niederlande (DUELL/VERGLEICH)
 2026-09-02 | adeyemi-barcelona-traumstart-klopp-signal | Adeyemi Traumdebüt Barcelona La Liga Tor 22 Mio, 0 WM-Minuten Nagelsmann, Klopp 57er-Liste September-Kader, Sané Galatasaray, Rechtsaußen-Frage (NEWS-DRAMA)
+2026-09-02 | hamann-musiala-kader-warnung | Hamann warnt: Musiala verpasst Klopps ersten Kader 17.9., 2 neurologische Kollapsen Bayern August 2026, 1 Tor 239 WM-Min 4 Auswechslungen, Kompany-Gespräch Geheimnis, DFB-Pokal-Comeback 1.9., Amsterdam 24.9. (GEHEIMNIS)
