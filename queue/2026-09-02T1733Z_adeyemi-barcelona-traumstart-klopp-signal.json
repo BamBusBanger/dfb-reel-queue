@@ -1,0 +1,32 @@
+{
+  "slug": "adeyemi-barcelona-traumstart-klopp-signal",
+  "createdAt": "2026-09-02T17:33:43Z",
+  "title": "Adeyemi rockt Barcelona – Klopp schaut genau hin",
+  "script": "Nagelsmann hat ihn NIE angerufen. Für nur 22 Millionen Euro wechselte Karim Adeyemi von Borussia Dortmund zu FC Barcelona – und lacht jetzt als letzter. Beim 5:0-Pflichtspiel-Auftakt gegen Elche trifft er sofort in der La Liga. 0 WM-Minuten unter Nagelsmann. Dafür steht er auf Klopps 57-Mann-Sichtungsliste. Am 17. September gibt der neue Bundestrainer seinen ersten Kader bekannt. Während Leroy Sané bei Galatasaray feststeckt und Beier kämpft, macht Adeyemi bei Barça Furore. Hat Klopp seine Rechtsaußen-Antwort für Amsterdam schon gefunden?",
+  "uploadCaption": "Nagelsmann ignorierte ihn komplett. Klopp holt ihn jetzt zurück? Karim Adeyemi schießt Barcelona in die Spur – und sendet dem neuen Bundestrainer eine unmissverständliche Botschaft. 🔴🔵⚽ #DFB #Adeyemi #Barcelona #Klopp #WM2030 #Nationalmannschaft",
+  "uploadHashtags": "#DFB #Adeyemi #FCBarcelona #Klopp #WM2030 #Nationalmannschaft #Bundestrainer #LaLiga",
+  "images": [
+    { "file": "adeyemi_barcelona.jpg", "search": "Karim Adeyemi Barcelona" },
+    { "file": "dfb_team.jpg", "search": "DFB Team 2026" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "adeyemi_tor.jpg", "search": "Karim Adeyemi Tor Barcelona" },
+    { "file": "sane_dfb.jpg", "search": "Leroy Sané" },
+    { "file": "beier_dfb.jpg", "search": "Maximilian Beier DFB" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "wm_pokal.jpg", "search": "WM Pokal" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "NAGELSMANN HAT IHN NIE ANGERUFEN.", "image": "adeyemi_barcelona.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB-KADER 17. SEPTEMBER", "title": "Adeyemi rockt Barcelona", "image": "dfb_team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Ex-Bundestrainer · 0 Anrufe bei Adeyemi", "weight": 0.8 },
+    { "type": "stats", "title": "Adeyemi – Fakten-Check", "stats": [{ "label": "Ablöse von BVB", "value": "22 Mio. €" }, { "label": "WM-Minuten 2026", "value": "0" }, { "label": "Tor beim Barça-Pflichtspieldebüt", "value": "1" }], "image": "adeyemi_tor.jpg", "weight": 0.9 },
+    { "type": "image", "image": "adeyemi_barcelona.jpg", "name": "Karim Adeyemi", "role": "Stürmer · FC Barcelona · 26", "weight": 0.8 },
+    { "type": "image", "image": "sane_dfb.jpg", "name": "Leroy Sané", "role": "Stürmer · Galatasaray · 30", "weight": 0.8 },
+    { "type": "image", "image": "beier_dfb.jpg", "name": "Maximilian Beier", "role": "Stürmer · BVB · 23", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "adeyemi_tor.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Hat Adeyemi seinen WM-2030-Platz schon sicher?", "subtitle": "Kommentiert & folgt für mehr!", "image": "wm_pokal.jpg", "weight": 1.0 }
+  ]
+}
