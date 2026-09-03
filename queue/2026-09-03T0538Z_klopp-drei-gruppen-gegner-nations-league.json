@@ -1,0 +1,113 @@
+{
+  "slug": "klopp-drei-gruppen-gegner-nations-league",
+  "createdAt": "2026-09-03T05:38:00Z",
+  "title": "Klopps 3 Nations-League-Gegner im Check",
+  "script": "KLOPP HAT 3 GEGNER FÜR SEINE ERSTE GROSSE MISSION! In der Nations-League-Gruppe 2 warten Niederlande, Griechenland und Serbien auf das DFB-Team. Nummer 1: Holland – am 24. September trifft Klopp in Amsterdam auf seinen NACHFOLGER Arne Slot! Nummer 2: Griechenland – überraschend in der Liga A, Torwart Vlachodimos in Topform. Nummer 3: Serbien – Vlahović von Juventus, gefährlichster Stürmer der Gruppe. Klopp hat NUR 2 gemeinsame Trainings bis zum Debüt. Welcher Gegner ist am gefährlichsten?",
+  "uploadCaption": "Klopp vs Slot in Amsterdam, Griechenland und Serbien – das sind die 3 Gegner für Deutschlands Nations-League-Mission! Welcher ist am härtesten für Klopps Debüt?",
+  "uploadHashtags": "#DFB #NationsLeague #Klopp #JürgenKlopp #Deutschland #Fussball #WM2030 #DFBNL #Vlahovic",
+  "images": [
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp" },
+    { "file": "dfb-team.jpg",     "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "niederlande.jpg",  "search": "Niederlande Nationalmannschaft 2026 Nations League" },
+    { "file": "slot.jpg",         "search": "Arne Slot Netherlands national team coach 2026" },
+    { "file": "griechenland.jpg", "search": "Griechenland Nationalmannschaft 2026" },
+    { "file": "vlachodimos.jpg",  "search": "Odysseas Vlachodimos Greece goalkeeper 2026" },
+    { "file": "vlahovic.jpg",     "search": "Dušan Vlahović Serbia Juventus 2026" },
+    { "file": "serbien.jpg",      "search": "Serbien Nationalmannschaft 2026" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "dfb-fans.jpg",     "search": "DFB Fans" },
+    { "file": "nl-gruppe.jpg",    "search": "UEFA Nations League Gruppe Trophäe", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPPS 3-GEGNER-MISSION STARTET JETZT!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "NATIONS LEAGUE 2026/27",
+      "title": "3 Gegner für Klopp",
+      "image": "dfb-team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Debüt 24. September",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "GEGNER 1: NIEDERLANDE",
+      "stats": [
+        { "label": "Debüt", "value": "24.9. Amsterdam" },
+        { "label": "Trainer", "value": "Arne Slot" }
+      ],
+      "image": "niederlande.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "slot.jpg",
+      "name": "Arne Slot",
+      "role": "Bondscoach · Ex-Liverpool-Erbe Klopps",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "GEGNER 2: GRIECHENLAND",
+      "stats": [
+        { "label": "Heimspiel", "value": "27.9." },
+        { "label": "Erstmals", "value": "Liga A" }
+      ],
+      "image": "griechenland.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "vlachodimos.jpg",
+      "name": "Odysseas Vlachodimos",
+      "role": "Griechenland · Torwart",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "GEGNER 3: SERBIEN",
+      "stats": [
+        { "label": "Heimspiel", "value": "1. Oktober" },
+        { "label": "Top-Sturm", "value": "Vlahović" }
+      ],
+      "image": "serbien.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "vlahovic.jpg",
+      "name": "Dušan Vlahović",
+      "role": "Serbien · Juventus Turin",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer ist Klopps härtester Gegner?",
+      "subtitle": "Holland, Griechenland oder Serbien? Kommentier! ⬇️",
+      "image": "nl-gruppe.jpg",
+      "weight": 1.0
+    }
+  ]
+}
