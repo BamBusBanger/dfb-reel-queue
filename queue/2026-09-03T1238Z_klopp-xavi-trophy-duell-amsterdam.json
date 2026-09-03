@@ -1,0 +1,103 @@
+{
+  "slug": "klopp-xavi-trophy-duell-amsterdam",
+  "createdAt": "2026-09-03T12:38:00Z",
+  "title": "Klopp vs. Xavi: Das Trainer-Duell von Amsterdam",
+  "script": "Gleiche Formation. Gleicher Spieltag. Beide Männer erstmals Nationaltrainer. Am 24. September treffen Jürgen Klopp und Xavi Hernandez in Amsterdam aufeinander. Klopp bringt 2 Bundesliga-Titel, 1 Champions League 2019 und 1 Premier League – insgesamt 5 Titel mit dem FC Liverpool. Xavi spielte 8-mal La-Liga-Meister, 4-mal CL-Sieger und wurde 2010 Weltmeister. Beide setzen auf 4-3-3-Hochpressing. Klopp war erste Wahl des DFB, Xavi war dritte Wahl Oranje – nach Guardiola und Slot. 21 Tage bis zum Trainer-Duell des Jahres.",
+  "uploadCaption": "KLOPP vs. XAVI – Amsterdam, 24. September. Gleiche Formation, gleicher Spieltag, nur einer kann gewinnen. Wer hat die bessere Klasse auf der Trainerbank?",
+  "uploadHashtags": "#DFB #Klopp #Xavi #NationsLeague #Amsterdam #Niederlande #Bundestrainer #WM2030",
+  "images": [
+    { "file": "klopp_dfb.jpg",         "search": "Jürgen Klopp" },
+    { "file": "klopp_liverpool.jpg",    "search": "Jürgen Klopp Liverpool Champions League 2019" },
+    { "file": "xavi_bondscoach.jpg",    "search": "Xavi Hernandez Bondscoach Niederlande 2026" },
+    { "file": "amsterdam_arena.jpg",    "search": "Johan Cruijff Arena Amsterdam" },
+    { "file": "xavi_weltmeister.jpg",   "search": "Xavi Spanien Weltmeister WM 2010" },
+    { "file": "deutschland_flagge.jpg", "search": "Deutschland Flagge" },
+    { "file": "niederlande_flagge.jpg", "search": "Niederlande Flagge Oranje Fußball" },
+    { "file": "taktiktafel.jpg",        "search": "4-3-3 Taktiktafel Fußball Spielfeld", "thematic": true },
+    { "file": "wirtz_jubel.jpg",        "search": "Florian Wirtz DFB" },
+    { "file": "fans_dfb.jpg",           "search": "DFB Fans" },
+    { "file": "wm_pokal.jpg",           "search": "WM Pokal FIFA" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "GLEICHE FORMATION. GLEICHER TAG. NUR EINER GEWINNT.",
+      "image": "klopp_dfb.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "NATIONS LEAGUE · 24.9.2026",
+      "title": "Klopp vs. Xavi",
+      "image": "amsterdam_arena.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp_liverpool.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer Deutschland · 59 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "xavi_bondscoach.jpg",
+      "name": "Xavi Hernandez",
+      "role": "Bondscoach Niederlande · 46 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopp als Trainer",
+      "stats": [
+        { "label": "Bundesliga-Titel (BVB)", "value": "2" },
+        { "label": "Champions League", "value": "1" },
+        { "label": "Premier League", "value": "1" }
+      ],
+      "image": "taktiktafel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "xavi_weltmeister.jpg",
+      "name": "Xavi Hernandez",
+      "role": "Als Spieler: 8× La Liga · 4× CL · WM 2010",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "DFB vs. Oranje – Wunschkandidat?",
+      "stats": [
+        { "label": "DFB-Erstwahlmann", "value": "Klopp #1" },
+        { "label": "Oranje-Erstwahlmann", "value": "Guardiola" },
+        { "label": "Xavi war Wahl", "value": "#3" }
+      ],
+      "image": "niederlande_flagge.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "deutschland_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFBs Schlüsselspieler · 125 Mio. Pfund",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_dfb.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer gewinnt das Trainer-Duell?",
+      "subtitle": "Klopp oder Xavi – kommentier deine Prognose!",
+      "image": "wm_pokal.jpg",
+      "weight": 1.0
+    }
+  ]
+}
