@@ -1,0 +1,98 @@
+{
+  "slug": "klopp-erster-tag-dfb-campus",
+  "createdAt": "2026-09-03T09:34:30Z",
+  "title": "Klopp. Tag 1. Die Uhr tickt.",
+  "script": "Heute, am 3. September, betritt Jürgen Klopp erstmals die DFB-Zentrale in Frankfurt als offizieller Bundestrainer. 14 Tage bis zur Kader-PK am 17. September. 57 Kandidaten kämpfen um 26 Plätze. Nur 2 Trainingseinheiten vor dem Amsterdam-Debüt am 24. September. Kimmich bleibt Kapitän. Musiala kämpft nach 2 neurologischen Kollapsen um sein Comeback gegen Schalke am 5. September. Wirtz und Stiller stehen bereit. Eine neue Ära – mit nur 21 Tagen bis zum ersten Duell.",
+  "uploadCaption": "Klopp. Tag 1. DFB-Zentrale Frankfurt. 14 Tage bis zum ersten Kader. 21 Tage bis zum Amsterdam-Debüt. 57 Kandidaten – wer schafft es in den Kader?",
+  "uploadHashtags": "#DFB #Klopp #Nationalmannschaft #NationsLeague #WM2030 #Musiala #Kimmich #Fussball",
+  "images": [
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "dfb-campus.jpg", "search": "DFB Campus Frankfurt" },
+    { "file": "teamfoto.jpg",   "search": "DFB Teamfoto 2026" },
+    { "file": "countdown.jpg",  "search": "Countdown Zeitbombe Fussball", "thematic": true },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "stiller.jpg",    "search": "Angelo Stiller" },
+    { "file": "amsterdam.jpg",  "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "fans.jpg",       "search": "DFB Fans" },
+    { "file": "flagge.jpg",     "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "57 KANDIDATEN. 26 PLÄTZE. KLOPP HAT NUR 14 TAGE.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "3. SEPTEMBER 2026",
+      "title": "Klopp. Tag 1. Die Uhr tickt.",
+      "image": "dfb-campus.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "teamfoto.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Zahlen",
+      "stats": [
+        { "label": "Tage bis Kader-PK", "value": "14" },
+        { "label": "Kandidaten", "value": "57" },
+        { "label": "Plätze im Kader", "value": "26" },
+        { "label": "Trainings vor Amsterdam", "value": "2" }
+      ],
+      "image": "countdown.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 108 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern München · Comeback fraglich",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · Klopps Stammspieler",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "stiller.jpg",
+      "name": "Angelo Stiller",
+      "role": "VfB Stuttgart · 9 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Klopp 2030 den WM-Titel?",
+      "subtitle": "Ja oder Nein – kommentier's jetzt!",
+      "image": "flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
