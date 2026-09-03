@@ -1,0 +1,39 @@
+{
+  "slug": "wirtz-klopp-noch-nie-getroffen",
+  "createdAt": "2026-09-03T19:34:22Z",
+  "title": "125-Mio-Star Wirtz und Klopp: Noch nie getroffen",
+  "script": "125 Millionen Euro Ablöse. Und sein neuer Bundestrainer hat ihn noch NIE persönlich getroffen. Florian Wirtz spielt seit über einem Jahr für Klopps Herzensklub Liverpool. Trotzdem: kein einziges Meeting. Nur EIN einziges Telefonat, zwei Tage vor Wirtz' Interview-Gestaendnis. Am 17. September nominiert Klopp seinen ersten Kader. 21 Tage spaeter steht der Zehner in Amsterdam auf dem Rasen. 32 Laenderspiele, 8 Tore, 0 Minuten Zeit mit dem neuen Chef. Erstes Treffen erst im Kabinen-Trakt. Kann so ein WM-2030-Neustart wirklich starten?",
+  "uploadCaption": "125 Mio Ablöse – und Klopp hat Wirtz noch nie persönlich getroffen. 21 Tage bis Amsterdam.",
+  "uploadHashtags": "#DFB #Klopp #Wirtz #Nationalmannschaft #NationsLeague #WM2030",
+  "images": [
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "wirtz_training.jpg", "search": "Florian Wirtz Liverpool training" },
+    { "file": "wirtz_presse.jpg", "search": "Florian Wirtz Pressekonferenz" },
+    { "file": "wirtz_jubel.jpg", "search": "Florian Wirtz DFB Jubel" },
+    { "file": "wirtz_zweikampf.jpg", "search": "Florian Wirtz Zweikampf" },
+    { "file": "dfb_campus.jpg", "search": "DFB Campus Frankfurt" },
+    { "file": "teamfoto.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "flagge.jpg", "search": "Deutschland Flagge Reichstag" },
+    { "file": "wm_logo.jpg", "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "125 MIO. – NIE GETROFFEN.", "image": "wirtz.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB · KLOPP-ÄRA", "title": "Wirtz trifft Klopp zum ersten Mal", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Offensiv · 22 · Liverpool", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · 59", "weight": 0.8 },
+    { "type": "stats", "title": "Die absurden Zahlen", "stats": [
+      { "label": "Ablöse", "value": "125 Mio €" },
+      { "label": "Anrufe", "value": "1" },
+      { "label": "Treffen", "value": "0" },
+      { "label": "Tage bis Kader", "value": "14" }
+    ], "image": "wirtz_training.jpg", "weight": 0.9 },
+    { "type": "image", "image": "wirtz_training.jpg", "name": "Florian Wirtz", "role": "Training · Liverpool", "weight": 0.8 },
+    { "type": "image", "image": "wirtz_presse.jpg", "name": "Florian Wirtz", "role": "Presse · DFB", "weight": 0.8 },
+    { "type": "image", "image": "dfb_campus.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz_jubel.jpg", "name": "Florian Wirtz", "role": "Torjubel · DFB", "weight": 0.8 },
+    { "type": "image", "image": "teamfoto.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wm_logo.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Erstes Meeting im Kabinen-Trakt?", "subtitle": "Peinlich oder egal – dein Take?", "image": "flagge.jpg", "weight": 1.0 }
+  ]
+}
