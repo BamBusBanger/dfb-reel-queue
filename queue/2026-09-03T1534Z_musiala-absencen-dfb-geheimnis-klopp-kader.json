@@ -1,0 +1,34 @@
+{
+  "slug": "musiala-absencen-dfb-geheimnis-klopp-kader",
+  "createdAt": "2026-09-03T15:34:00Z",
+  "title": "Musiala hat Epilepsie – DFB wusste es schon bei der WM",
+  "script": "Musiala hat Epilepsie – und Bayern wusste es schon während der WM! Seine 'Absencen' sind eine Unterform der Epilepsie. 239 Minuten, 4-mal ausgewechselt, 1 WM-Tor – jetzt hat das Mysterium einen Namen. Bayern-Boss Eberl gibt zu: 'Wir wollen erst Anfallsarmut haben.' Die Diagnose war seit Herbst 2025 bekannt – und der DFB schwieg. Am 5. September das Comeback gegen Schalke, am 17. September Klopps erste Kader-PK: Gehört Musiala dazu?",
+  "uploadCaption": "Das DFB-Geheimnis um Musiala: Epilepsie, monatelanges Schweigen und Klopps erste Kader-Entscheidung am 17. September. Was sagst du dazu?",
+  "uploadHashtags": "#Musiala #DFB #Epilepsie #Klopp #WM2026 #Nationalmannschaft #Fussball #Bayern",
+  "images": [
+    { "file": "musiala.jpg",        "search": "Jamal Musiala" },
+    { "file": "musiala_jubel.jpg",  "search": "Jamal Musiala Torjubel DFB" },
+    { "file": "musiala_wm.jpg",     "search": "Jamal Musiala WM Aktion" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "eberl.jpg",          "search": "Max Eberl Bayern München" },
+    { "file": "gehirn.jpg",         "search": "Neurologie Epilepsie Absencen Gehirn", "thematic": true },
+    { "file": "fans.jpg",           "search": "DFB Fans" },
+    { "file": "kimmich.jpg",        "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",          "search": "Florian Wirtz" },
+    { "file": "dfb_team.jpg",       "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wm_pokal.jpg",       "search": "WM Pokal Gold" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "MUSIALA HAT EPILEPSIE.", "image": "musiala.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DFB GEHEIMNIS", "title": "Bayern schwieg bei der WM", "image": "dfb_team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "musiala_jubel.jpg", "name": "Jamal Musiala", "role": "Offensiv · 23 J.", "weight": 0.8 },
+    { "type": "stats", "title": "WM 2026 – Das Mysterium", "stats": [{ "label": "WM-Minuten", "value": "239" }, { "label": "Auswechslungen", "value": "4×" }, { "label": "WM-Tore", "value": "1" }], "image": "musiala_wm.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp.jpg",   "name": "Jürgen Klopp", "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "eberl.jpg",   "name": "Max Eberl", "role": "Bayern-Vorstand Sport", "weight": 0.8 },
+    { "type": "image", "image": "gehirn.jpg",  "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg",    "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",   "name": "Florian Wirtz", "role": "Offensiv · 23 J.", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "DFB-Kapitän · 109 LS", "weight": 0.8 },
+    { "type": "outro", "title": "Hätte Musiala trotz Diagnose zur WM gedurft?", "subtitle": "Kommentiert eure Meinung!", "image": "wm_pokal.jpg", "weight": 1.0 }
+  ]
+}
