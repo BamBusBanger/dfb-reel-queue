@@ -1,0 +1,111 @@
+{
+  "slug": "drei-wm-lektionen-klopp-plan",
+  "createdAt": "2026-09-03T17:33:00Z",
+  "title": "3 WM-Lektionen die Klopp sofort umsetzen muss",
+  "script": "Spanien holte den WM-Titel – und hat dabei 3 Lektionen hinterlassen, die Klopp jetzt kennen muss. Erstens: Torwart Simón ließ in 7 WM-Spielen nur 1 Tor zu – 739 Minuten unschlagbar. Zweitens: Joker Torres traf in Minute 106 und machte Spanien zum Weltmeister. Drittens: Das Yamal-Prinzip zeigt, dass 19-jährige Talente Finals entscheiden. Klopp setzt auf Musiala, Wirtz und Beier – 3 deutsche Antworten auf das spanische Meisterwerk. Kann Deutschland 2030 dasselbe schaffen?",
+  "uploadCaption": "🏆 Spanien hat bewiesen, wie man Weltmeister wird – und Klopp muss diese 3 Lektionen sofort umsetzen! 1️⃣ Defensive Festung 2️⃣ Joker-Power 3️⃣ Das Yamal-Prinzip. Was meint ihr – ist Deutschland bereit für 2030?",
+  "uploadHashtags": "#DFB #WM2026 #Klopp #Bundestrainer #Deutschland #Spanien #Fussball #Nationalmannschaft #WM2030",
+  "images": [
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp DFB Bundestrainer" },
+    { "file": "wm_pokal.jpg",     "search": "WM-Pokal 2026" },
+    { "file": "simon.jpg",        "search": "Unai Simón Torwart Spanien WM 2026" },
+    { "file": "spanien_jubel.jpg","search": "Spanien Weltmeister 2026 Jubel" },
+    { "file": "torres.jpg",       "search": "Ferran Torres WM 2026 Final Tor" },
+    { "file": "yamal.jpg",        "search": "Lamine Yamal WM 2026 Spanien" },
+    { "file": "musiala.jpg",      "search": "Jamal Musiala Bayern München" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz DFB" },
+    { "file": "beier.jpg",        "search": "Maximilian Beier DFB Borussia Dortmund" },
+    { "file": "wm_logo.jpg",      "search": "WM 2026 Logo" },
+    { "file": "fans.jpg",         "search": "DFB Fans WM 2026" },
+    { "file": "flagge.jpg",       "search": "Deutschland Flagge WM 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 LEKTIONEN VON WELTMEISTER SPANIEN",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 ANALYSE",
+      "title": "Was Klopp jetzt lernen muss",
+      "image": "wm_pokal.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "stats",
+      "title": "LEKTION 1: DEFENSIVE FESTUNG",
+      "stats": [
+        { "label": "Gegentore", "value": "1" },
+        { "label": "WM-Spiele", "value": "7" },
+        { "label": "Simón Minuten", "value": "739" }
+      ],
+      "image": "simon.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "spanien_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "LEKTION 2: JOKER-POWER",
+      "stats": [
+        { "label": "Torres-Tor Finale", "value": "106'" },
+        { "label": "Endergebnis", "value": "1:0 n.V." }
+      ],
+      "image": "torres.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "yamal.jpg",
+      "name": "Lamine Yamal",
+      "role": "Spanien · 19",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beier.jpg",
+      "name": "Maximilian Beier",
+      "role": "Offensiv · 24",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "LEKTION 3: YAMAL-PRINZIP",
+      "stats": [
+        { "label": "Yamal Alter", "value": "19" },
+        { "label": "DFB-Talente", "value": "3" }
+      ],
+      "image": "musiala.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_logo.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Kann Deutschland 2030 Weltmeister werden?",
+      "subtitle": "Kommentiert jetzt!",
+      "image": "flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
