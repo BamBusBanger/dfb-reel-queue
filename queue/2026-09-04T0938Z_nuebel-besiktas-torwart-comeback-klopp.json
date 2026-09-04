@@ -1,0 +1,105 @@
+{
+  "slug": "nuebel-besiktas-torwart-comeback-klopp",
+  "createdAt": "2026-09-04T09:38:00Z",
+  "title": "Nübel vergessen? Klopps Torwart-Geheimnis",
+  "script": "0 WM-Minuten. Kein einziger Klopp-Anruf. Alexander Nübel, 29, ist nach der WM-Blamage nach Istanbul verschwunden – er spielt jetzt bei Beşiktaş in der Türkei. Während Klopp 5 Kandidaten für die Nummer 1 beobachtet: Atubolu mit 22 U21-Einsätzen DFB-Rekord, Ter Stegen Man of the Match bei Ajax, Baumann und Urbig im Rennen – Nübel bekommt nichts. Am 17. September verkündet Klopp seinen ersten Kader. Kommt die größte Überraschung aus Istanbul?",
+  "uploadCaption": "0 WM-Minuten. Kein Klopp-Anruf. Alexander Nübel ist nach Beşiktaş Istanbul geflüchtet – vergessen? Am 17. September verkündet Klopp seinen ersten Kader. Kann der vergessene Keeper alle überraschen? 👇",
+  "uploadHashtags": "#DFB #Klopp #Nübel #Torwart #WM2026 #NationsLeague #Fussball #Bundestrainer",
+  "images": [
+    { "file": "fans_entsetzen.jpg",   "search": "Public Viewing Fans Entsetzen" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "nuebel.jpg",           "search": "Alexander Nübel Beşiktaş Istanbul 2026" },
+    { "file": "atubolu.jpg",          "search": "Noah Atubolu Eintracht Frankfurt DFB 2026" },
+    { "file": "terstegen.jpg",        "search": "Marc-André ter Stegen Ajax 2026" },
+    { "file": "baumann.jpg",          "search": "Oliver Baumann" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal" },
+    { "file": "besiktas.jpg",         "search": "Beşiktaş Vodafone Park Istanbul Stadion" },
+    { "file": "neuer.jpg",            "search": "Manuel Neuer" },
+    { "file": "dfb_fans.jpg",         "search": "DFB Fans" },
+    { "file": "fans_jubel.jpg",       "search": "Fans Jubel Menge" },
+    { "file": "dfb_teamfoto.jpg",     "search": "DFB Deutschland Mannschaftsfoto 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "0 WM-MINUTEN. KEIN KLOPP-ANRUF. VERGESSEN IN ISTANBUL?",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPPS TORWART-RÄTSEL",
+      "title": "Der vergessene Keeper",
+      "image": "klopp.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "nuebel.jpg",
+      "name": "Alexander Nübel",
+      "role": "Torwart · 29 · Beşiktaş Istanbul",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "atubolu.jpg",
+      "name": "Noah Atubolu",
+      "role": "Klopps Favorit · 24 · 22 U21-Spiele Rekord",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "terstegen.jpg",
+      "name": "Marc ter Stegen",
+      "role": "Überraschung · 34 · Ajax Man of Match",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "baumann.jpg",
+      "name": "Oliver Baumann",
+      "role": "Klopp-Kandidat · 36",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopp entscheidet am 17. September",
+      "stats": [
+        { "label": "Torwart-Kandidaten", "value": "5" },
+        { "label": "Klopp-Anrufe an Nübel", "value": "0" },
+        { "label": "Nübels WM-Minuten 2026", "value": "0" }
+      ],
+      "image": "wm_pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "besiktas.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "neuer.jpg",
+      "name": "Manuel Neuer",
+      "role": "Der Vorgänger · 21 WM-Spiele · im Ruhestand",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopps Überraschung?",
+      "subtitle": "Würdest du Nübel nominieren – oder ist seine DFB-Zeit vorbei?",
+      "image": "dfb_teamfoto.jpg",
+      "weight": 1.0
+    }
+  ]
+}
