@@ -1,0 +1,103 @@
+{
+  "slug": "musiala-comeback-entscheidung-schalke",
+  "createdAt": "2026-09-04T12:35:00Z",
+  "title": "Musialas Klopp-Test: Kommt er gegen Schalke?",
+  "script": "HEUTE fällt Kompanys Urteil: Spielt Musiala MORGEN gegen Schalke? 14 Monate lang kämpfte der 23-Jährige mit Epilepsie-Absencen – zuletzt 2 Kollapsen im August 2026. Beim DFB und Bayern schwiegen alle. 1 Tor in 239 WM-Minuten, 4-mal ausgewechselt: Jetzt erklärt sich plötzlich alles. Klopp schaut direkt zu – in 13 Tagen nominiert er seinen ersten Kader. Florian Wirtz hat bei Liverpool schon 1 Tor und 1 Assist. Musiala braucht dringend Spielminuten. Schafft er rechtzeitig den Sprung in Klopps ersten DFB-Kader?",
+  "uploadCaption": "🚨 HEUTE entscheidet sich Musialas Zukunft! Kompany gibt sein Schalke-Update – kommt Musiala morgen? Klopp schaut live zu. 13 Tage bis zum ersten DFB-Kader! 👀⚽ #Musiala #DFB #Klopp",
+  "uploadHashtags": "#Musiala #DFB #Klopp #Bayern #Schalke #NationsLeague #Fussball #WM2026",
+  "images": [
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "musiala_aktion.jpg","search": "Jamal Musiala" },
+    { "file": "musiala_wm.jpg",    "search": "Jamal Musiala" },
+    { "file": "musiala_jubel.jpg", "search": "Jamal Musiala" },
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich" },
+    { "file": "fans.jpg",          "search": "DFB Fans" },
+    { "file": "kompany.jpg",       "search": "Vincent Kompany" },
+    { "file": "dfb_team.jpg",      "search": "Deutschland Nationalmannschaft 2026" },
+    { "file": "schalke.jpg",       "search": "Veltins-Arena Schalke 04" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "HEUTE entscheidet sich alles!",
+      "image": "musiala.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP-ÄRA STARTET",
+      "title": "Musialas Feuertaufe",
+      "image": "musiala_aktion.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_wm.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "WM 2026 Bilanz",
+      "stats": [
+        { "label": "Minuten", "value": "239" },
+        { "label": "Tore", "value": "1" },
+        { "label": "Kollapsen Aug.", "value": "2" }
+      ],
+      "image": "musiala_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kompany.jpg",
+      "name": "Vincent Kompany",
+      "role": "Bayern-Trainer",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Countdown Kader-PK",
+      "stats": [
+        { "label": "Tage bis Kader 17.9.", "value": "13" },
+        { "label": "Wirtz PL-Tore", "value": "1" },
+        { "label": "Musiala WM-Tore", "value": "1" }
+      ],
+      "image": "kimmich.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23 · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Musiala Klopps ersten Kader?",
+      "subtitle": "JA oder NEIN – kommentiere!",
+      "image": "schalke.jpg",
+      "weight": 1.0
+    }
+  ]
+}
