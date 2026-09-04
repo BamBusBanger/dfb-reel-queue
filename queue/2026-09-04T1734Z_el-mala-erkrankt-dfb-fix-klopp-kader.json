@@ -1,0 +1,99 @@
+{
+  "slug": "el-mala-erkrankt-dfb-fix-klopp-kader",
+  "createdAt": "2026-09-04T17:34:00Z",
+  "title": "El Mala krank – trotzdem in Klopps erstem DFB-Kader",
+  "script": "KRANK – und trotzdem dabei! Saïd El Mala, gerade 19 Jahre alt, Kölns heilige Zehn mit 13 Bundesliga-Toren und frischem Vertrag bis 2031, sitzt heute mit Erkältung zu Hause. Das Stuttgart-Spiel fällt aus. Trotzdem: Jürgen Klopp hat längst entschieden – El Mala gehört in den ersten DFB-Kader am 17. September. Borussia Dortmund wollte ihn unbedingt – Köln sagte Nein. Klopp braucht den Flügelflitzer für seine WM-2030-Mission. Doch ist er rechtzeitig fit für Klopps Amsterdam-Debüt am 24. September?",
+  "uploadCaption": "Krank zuhause – aber trotzdem im DFB-Kader! Saïd El Mala (19, FC Köln) ist Klopps Überraschungsmann für die Nations League. 13 Bundesliga-Tore, Trikot-Nummer 10, Vertrag bis 2031. Schafft er es fit nach Amsterdam? 🇩🇪🔥",
+  "uploadHashtags": "#ElMala #DFB #Klopp #Bundesliga #FCKöln #WM2030 #NationsLeague #DFBKader #Fussball",
+  "images": [
+    { "file": "el-mala-portrait.jpg",    "search": "Said El Mala" },
+    { "file": "koeln-stadion.jpg",        "search": "FC Köln RheinEnergie Stadion Bundesliga" },
+    { "file": "el-mala-aktion.jpg",       "search": "Said El Mala Köln Bundesliga Aktion" },
+    { "file": "klopp.jpg",                "search": "Jürgen Klopp" },
+    { "file": "dfb-trikot.jpg",           "search": "Deutschland Trikot WM 2026" },
+    { "file": "el-mala-jubel.jpg",        "search": "Said El Mala Torjubel" },
+    { "file": "kimmich.jpg",              "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",                "search": "Florian Wirtz" },
+    { "file": "beier.jpg",                "search": "Maximilian Beier" },
+    { "file": "dfb-fans.jpg",             "search": "DFB Fans" },
+    { "file": "klopp-dfb-campus.jpg",     "search": "Jürgen Klopp DFB Campus Frankfurt" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER IST KRANK. KLOPP NOMINIERT IHN TROTZDEM.",
+      "image": "el-mala-portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BREAKING · 4. SEPTEMBER 2026",
+      "title": "El Mala im ersten Klopp-Kader – trotz Erkältung",
+      "image": "koeln-stadion.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "el-mala-aktion.jpg",
+      "name": "Saïd El Mala",
+      "role": "Linksaußen · 19 · FC Köln",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · seit 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "El Malas Bundesliga 25/26",
+      "stats": [
+        { "label": "Bundesliga-Tore", "value": "13" },
+        { "label": "Vertrag bis", "value": "2031" },
+        { "label": "Trikot-Nummer", "value": "10" }
+      ],
+      "image": "dfb-trikot.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "el-mala-jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 23 · Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beier.jpg",
+      "name": "Maximilian Beier",
+      "role": "Stürmer · BVB",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Fit bis Amsterdam (24.9.)?",
+      "subtitle": "Schreib deinen Tipp in die Kommentare!",
+      "image": "klopp-dfb-campus.jpg",
+      "weight": 1.0
+    }
+  ]
+}
