@@ -1,0 +1,104 @@
+{
+  "slug": "klopp-bvb-vakuum-erster-kader",
+  "createdAt": "2026-09-04T05:34:00Z",
+  "title": "Klopps BVB-Paradox: Herzensklub ohne DFB-Stars",
+  "script": "7 Jahre, 2 Bundesliga-Titel, das Champions-League-Finale 2013 – Jürgen Klopp IS Borussia Dortmund. Doch wenn er am 17. September seinen ERSTEN DFB-Kader nennt, klafft ausgerechnet beim BVB ein riesiges Loch: Schlotterbeck verletzt, Adeyemi nach Barcelona, Hummels längst weg. Nur 2 Kandidaten – Beier und Nmecha – halten die BVB-Fahne hoch. Bayern dagegen schickt 5 bis 6 Kandidaten ins Rennen. Das ist Klopps bitterste Ironie: Sein Herzensklub hat im ersten DFB-Kader kaum Gewicht.",
+  "uploadCaption": "Klopp machte Dortmund zur Macht – jetzt hat sein Herzensklub kaum noch DFB-Kandidaten. Das große BVB-Paradox vor dem ersten Klopp-Kader am 17. September. 🖤💛",
+  "uploadHashtags": "#Klopp #BVB #DFB #Nationalmannschaft #NationsLeague #WM2030 #Fussball",
+  "images": [
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "signal_iduna.jpg",  "search": "Signal Iduna Park Dortmund" },
+    { "file": "klopp_bvb.jpg",     "search": "Klopp Borussia Dortmund Bundesliga Meister 2012" },
+    { "file": "bvb_vakuum.jpg",    "search": "BVB DFB Kader Vakuum leere Spielerbank Dortmund", "thematic": true },
+    { "file": "schlotterbeck.jpg", "search": "Nico Schlotterbeck" },
+    { "file": "beier.jpg",         "search": "Maximilian Beier" },
+    { "file": "nmecha.jpg",        "search": "Felix Nmecha" },
+    { "file": "musiala.jpg",       "search": "Jamal Musiala" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "dfb_fans.jpg",      "search": "DFB Fans Deutschland" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "7 JAHRE, 2 TITEL – UND KEIN BVB-STAR?",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB KADER 17. SEPTEMBER",
+      "title": "Klopps BVB-Paradox",
+      "image": "signal_iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp_bvb.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Ex-BVB 2008–2015",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps BVB-Ära vs. Kader-Realität",
+      "stats": [
+        { "label": "Jahre BVB", "value": "7" },
+        { "label": "Bundesliga-Titel", "value": "2" },
+        { "label": "BVB-Kandidaten Kader", "value": "2" },
+        { "label": "Bayern-Kandidaten Kader", "value": "5–6" }
+      ],
+      "image": "bvb_vakuum.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "schlotterbeck.jpg",
+      "name": "Nico Schlotterbeck",
+      "role": "BVB · WM-Aus Innenbandriss",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beier.jpg",
+      "name": "Maximilian Beier",
+      "role": "BVB · Klopp-Kandidat",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nmecha.jpg",
+      "name": "Felix Nmecha",
+      "role": "BVB · 27 WM-Bankminuten",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern · Comeback 5.9. vs Schalke",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Bayern · Kapitän, 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Bayern/Liverpool · 125 Mio. Pfund",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Verdient BVB mehr Plätze?",
+      "subtitle": "Oder haben die Dortmunder einfach nicht geliefert?",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
