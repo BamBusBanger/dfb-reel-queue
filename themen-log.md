@@ -523,3 +523,4 @@
 2026-09-04 | klopp-bvb-vakuum-erster-kader | Klopp 7 Jahre BVB 2 Meister CL-Finale vs fast null BVB-Kandidaten im ersten DFB-Kader 17.9., Schlotterbeck verletzt, Adeyemi Barcelona, nur Beier+Nmecha, Bayern 5-6 Kandidaten (DUELL/VERGLEICH)
 2026-09-04 | nuebel-besiktas-torwart-comeback-klopp | Nübel 0 WM-Minuten Beşiktaş Istanbul, Klopp 5 Torwart-Kandidaten kein Anruf, Entscheidung 17.9. Atubolu/Ter Stegen Favoriten (GEHEIMNIS)
 2026-09-04 | musiala-comeback-entscheidung-schalke | Musiala Epilepsie-Absencen Comeback Bayern vs Schalke 5.9., Kompany-Update heute, 13 Tage bis Klopp-Kader 17.9., 239 WM-Min 1 Tor 2 Kollapsen, Wirtz-Konkurrenz Liverpool (NEWS-DRAMA)
+2026-09-04 | klopp-drei-ueberraschungskandidaten-erster-kader | Klopps 3 Geheim-Kandidaten erster DFB-Kader 17.9., Kade/Reitz/Prömel Debütanten, 57 Kandidaten 26 Plätze, Kimmich/Wirtz gesetzt (TOP-3-LISTE)

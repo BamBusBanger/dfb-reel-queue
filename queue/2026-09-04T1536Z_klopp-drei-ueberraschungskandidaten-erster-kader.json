@@ -1,0 +1,111 @@
+{
+  "slug": "klopp-drei-ueberraschungskandidaten-erster-kader",
+  "createdAt": "2026-09-04T15:36:00Z",
+  "title": "Klopps 3 geheime Kader-Kandidaten",
+  "script": "DREI NAMEN, die du nicht erwartest! Am 17. September verkündet Klopp seinen ersten DFB-Kader – bis zu 4 Debütanten sollen dabei sein. Platz 3: Anton Kade, 22 Jahre, Augsburg – 1 Tor und 1 Vorlage direkt vor Klopps Augen beim 3:0 gegen Schalke. Platz 2: Rocco Reitz, Gladbach – der Prototyp des Klopp-Sechsers, unermüdlich und bissig. Platz 1: Grischa Prömel, 30 Jahre, VfB Stuttgart – laut Insidern der absolute Geheimtipp. Nur 13 Tage noch. Wer kommt wirklich in den Kader?",
+  "uploadCaption": "Klopps erster DFB-Kader am 17. September – und diese 3 Namen könnten ALLES durcheinander bringen! 57 Kandidaten, nur 26 Plätze. Wer sollte dabei sein?",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #Fussball #Deutschland #Nationalmannschaft",
+  "images": [
+    { "file": "klopp.jpg",    "search": "Jürgen Klopp" },
+    { "file": "team.jpg",     "search": "DFB Team" },
+    { "file": "kade.jpg",     "search": "Anton Kade Augsburg" },
+    { "file": "reitz.jpg",    "search": "Rocco Reitz Mönchengladbach" },
+    { "file": "proemel.jpg",  "search": "Grischa Prömel VfB Stuttgart" },
+    { "file": "kimmich.png",  "search": "Joshua Kimmich" },
+    { "file": "wirtz.png",    "search": "Florian Wirtz" },
+    { "file": "goretzka.png", "search": "Leon Goretzka" },
+    { "file": "musiala.png",  "search": "Jamal Musiala" },
+    { "file": "beier.png",    "search": "Maximilian Beier" },
+    { "file": "fans.jpg",     "search": "Deutschland Fans" },
+    { "file": "wm_logo.jpg",  "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 NAMEN, DIE KLOPP SCHOCKEN!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB · 17. September 2026",
+      "title": "Klopps 3 Geheim-Kandidaten",
+      "image": "team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "stats",
+      "title": "Kader-Countdown",
+      "stats": [
+        { "label": "Tage bis zur Nominierung", "value": "13" },
+        { "label": "Kandidaten auf Klopps Liste", "value": "57" },
+        { "label": "Plätze im Kader", "value": "26" }
+      ],
+      "image": "fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kade.jpg",
+      "name": "Anton Kade",
+      "role": "Augsburg · 22 J. · Kandidat #3",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "reitz.jpg",
+      "name": "Rocco Reitz",
+      "role": "Gladbach · Klopp-Sechser · Kandidat #2",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "proemel.jpg",
+      "name": "Grischa Prömel",
+      "role": "VfB Stuttgart · 30 J. · Geheimfavorit #1",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.png",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele · gesetzt",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.png",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 125 Mio. £ · gesetzt",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "goretzka.png",
+      "name": "Leon Goretzka",
+      "role": "Aston Villa · Comeback-Kandidat",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.png",
+      "name": "Jamal Musiala",
+      "role": "Bayern · Comeback vs. Schalke 5.9.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beier.png",
+      "name": "Maximilian Beier",
+      "role": "BVB · WM-Teilnehmer · erwartet",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer verdient den Platz?",
+      "subtitle": "Würdest du Prömel oder Kade mitnehmen?",
+      "image": "wm_logo.jpg",
+      "weight": 1.0
+    }
+  ]
+}
