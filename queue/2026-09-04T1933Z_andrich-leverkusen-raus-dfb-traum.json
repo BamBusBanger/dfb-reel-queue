@@ -1,0 +1,96 @@
+{
+  "slug": "andrich-leverkusen-raus-dfb-traum",
+  "createdAt": "2026-09-04T19:33:00Z",
+  "title": "Andrichs geheimes DFB-Dilemma",
+  "script": "Er saß beim WM-Turnier neben Jürgen Klopp – als TV-Experte. Jetzt will Robert Andrich zurück ins DFB-Team. Doch Leverkusens neuer Coach Carles Martinez macht alles zunichte: Systemwechsel von Dreier- auf Viererkette – kein Platz für Andrich. Leverkusen schickt ihn weg. Noch 13 Tage bis Klopps ersten Kader. 9 Länderspiele in 4 Jahren. Klopp sagte: „Jeder soll sich bemühen." Andrich öffentlich: „Ich will mit dem DFB-Team noch etwas erleben." Der Traum lebt – aber droht er in 13 Tagen zu sterben?",
+  "uploadCaption": "Er saß als TV-Experte neben Klopp beim WM-Turnier – jetzt will Andrich zurück ins DFB-Team. Aber Leverkusen schickt ihn weg. 13 Tage bis zur ersten Klopp-Nominierung. Schafft er es noch? 🤔 #DFB #Andrich #Klopp #Leverkusen",
+  "uploadHashtags": "#DFB #Andrich #Klopp #Leverkusen #NationsLeague #WM2030 #Bundesliga #Fussball",
+  "images": [
+    { "file": "andrich.jpg", "search": "Robert Andrich" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "leverkusen_stadion.jpg", "search": "Bayer Leverkusen BayArena" },
+    { "file": "dfb-team.jpg", "search": "DFB Team 2026" },
+    { "file": "dfb-trikot.jpg", "search": "DFB Trikot WM 2026" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "wm-logo.jpg", "search": "WM 2026 Logo" },
+    { "file": "dfb-flagge.jpg", "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER SASS NEBEN KLOPP – ALS TV-EXPERTE.",
+      "image": "andrich.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB · September 2026",
+      "title": "Andrichs geheimes Dilemma",
+      "image": "dfb-team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "andrich.jpg",
+      "name": "Robert Andrich",
+      "role": "Leverkusen · 31 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Andrichs Situation",
+      "stats": [
+        { "label": "Tage bis Klopp-Kader", "value": "13" },
+        { "label": "DFB-Länderspiele gesamt", "value": "9" },
+        { "label": "WM 2026 als TV-Experte", "value": "✓" }
+      ],
+      "image": "dfb-trikot.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "leverkusen_stadion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Klopp-Stammspieler · 23 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 109 LS",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm-logo.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Andrich es in Klopps ersten Kader?",
+      "subtitle": "JA oder NEIN – kommentier jetzt!",
+      "image": "dfb-flagge.jpg",
+      "weight": 1.0
+    }
+  ]
+}
