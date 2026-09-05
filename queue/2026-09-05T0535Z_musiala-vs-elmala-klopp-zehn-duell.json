@@ -1,0 +1,106 @@
+{
+  "slug": "musiala-vs-elmala-klopp-zehn-duell",
+  "createdAt": "2026-09-05T05:35:00Z",
+  "title": "Musiala vs. El Mala: Wer wird Klopps Zehner?",
+  "script": "Zwei Spieler. Ein Platz. Wer trägt Klopps Nummer 10 in Amsterdam? Musiala: 22 Jahre, 1 WM-Tor in 239 Minuten – zweimal im August kollabiert. Sein Comeback: HEUTE gegen Schalke. El Mala: 19 Jahre alt. 13 Bundesliga-Tore für Köln. Klopp rief persönlich an. Null A-Länderspiele – aber für den ersten Kader am 17. September bereits bestätigt. In 12 Tagen entscheidet Klopp. In 19 Tagen Amsterdam. Wen willst du dabei sehen?",
+  "uploadCaption": "2 Talente kämpfen um Klopps Zehner-Rolle: Musiala (239 WM-Min, 1 Tor, 2 Kollapsen) feiert HEUTE sein Comeback gegen Schalke – El Mala (19J., 13 BL-Tore, 0 A-LS) ist für den ersten Kader bereits fix. Kader-PK: 17. September. Debüt Amsterdam: 24. September. Wen hast du lieber? 👇",
+  "uploadHashtags": "#DFB #Musiala #ElMala #Klopp #WM2030 #Bundesliga #Deutschland #Fussball",
+  "images": [
+    { "file": "musiala_portrait.jpg",    "search": "Jamal Musiala" },
+    { "file": "musiala_action.jpg",      "search": "Jamal Musiala Bayern 2026" },
+    { "file": "musiala_jubel.webp",      "search": "Jamal Musiala Torjubel" },
+    { "file": "elmala_koeln.jpg",        "search": "Said El Mala FC Köln" },
+    { "file": "elmala_jubel.jpg",        "search": "Said El Mala Bundesliga Tor Jubel" },
+    { "file": "klopp_dfb.jpg",           "search": "Jürgen Klopp" },
+    { "file": "amsterdam_arena.jpg",     "search": "Johan Cruijff Arena Amsterdam" },
+    { "file": "dfb_fans.jpg",            "search": "DFB Fans" },
+    { "file": "wm2026_logo.webp",        "search": "WM 2026 Logo" },
+    { "file": "dfb_trikot.webp",         "search": "DFB Trikot WM 2026" },
+    { "file": "wirtz_vergleich.jpg",     "search": "Florian Wirtz" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "2 SPIELER. 1 PLATZ. WER TRÄGT KLOPPS NUMMER 10?",
+      "image": "musiala_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DUELL · WM 2030",
+      "title": "Klopps Zehner-Kampf",
+      "image": "wm2026_logo.webp",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "musiala_action.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · 22 · Bayern München",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Musiala WM 2026",
+      "stats": [
+        { "label": "WM-Minuten",         "value": "239" },
+        { "label": "WM-Tore",            "value": "1"   },
+        { "label": "Kollapsen August",   "value": "2"   }
+      ],
+      "image": "musiala_jubel.webp",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala_jubel.webp",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "elmala_koeln.jpg",
+      "name": "Said El Mala",
+      "role": "Offensiv · 19 · FC Köln",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "El Mala Saison 25/26",
+      "stats": [
+        { "label": "BL-Tore",            "value": "13" },
+        { "label": "A-Länderspiele",     "value": "0"  },
+        { "label": "Klopp-Anruf",        "value": "✓"  }
+      ],
+      "image": "elmala_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "elmala_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp_dfb.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Kader-PK 17. September",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_trikot.webp",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Musiala oder El Mala?",
+      "subtitle": "Kommentier deinen Favoriten ↓",
+      "image": "amsterdam_arena.jpg",
+      "weight": 1.0
+    }
+  ]
+}
