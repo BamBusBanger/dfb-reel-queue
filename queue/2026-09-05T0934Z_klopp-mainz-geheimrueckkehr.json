@@ -1,0 +1,40 @@
+{
+  "slug": "klopp-mainz-geheimrueckkehr",
+  "createdAt": "2026-09-05T09:34:00Z",
+  "title": "Klopp kehrt heimlich nach Mainz zurück",
+  "script": "Jürgen Klopp reiste heimlich zurück zu dem Klub, wo alles begann: Mainz 05. 18 Jahre war er dort Spieler und Trainer – jetzt kehrte er als Bundestrainer zurück. Klopp besuchte 5 Clubs in seiner Scouting-Tour: Bayern, Stuttgart, Augsburg, Eintracht Frankfurt – und Mainz. Bei Frankfurt entdeckte er Younes Ebnoutalib – 0 A-Länderspiele, aber Klopp schaute persönlich beim geschlossenen Training zu. In nur 12 Tagen, am 17. September, verkündet er seinen ersten DFB-Kader. Wer ist sein geheimster Überraschungskandidat?",
+  "uploadCaption": "Klopp reiste HEIMLICH zurück zu Mainz – und entdeckte dabei einen neuen DFB-Geheimtipp! 5 Clubs, 18 Jahre Verbindung, 1 geheimer Kandidat. Am 17. September fällt die Entscheidung.",
+  "uploadHashtags": "#DFB #Klopp #Bundestrainer #NationsLeague #Bundesliga #Mainz05 #WM2030 #Fussball #DFBKader",
+  "images": [
+    { "file": "klopp_scouting.jpg", "search": "Jürgen Klopp Bundestrainer DFB 2026" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "mainz_campus.jpg", "search": "Mainz 05 Bruchweg Training" },
+    { "file": "ebnoutalib.jpg", "search": "Younes Ebnoutalib Eintracht Frankfurt" },
+    { "file": "frankfurt_stadium.jpg", "search": "Deutsche Bank Park Frankfurt" },
+    { "file": "dfb_team.jpg", "search": "DFB Teamfoto 2026" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "fans_stadion.jpg", "search": "DFB Fans Tribüne" },
+    { "file": "fans_hoffen.jpg", "search": "Public Viewing DFB" },
+    { "file": "fans_jubel.jpg", "search": "Fans Jubel DFB" },
+    { "file": "wm_logo.jpg", "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER WAR HEIMLICH ZURÜCK.", "image": "klopp_scouting.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPP-SCOUTING-TOUR", "title": "Heimkehr nach Mainz", "image": "dfb_team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · seit Juli 2026", "weight": 0.8 },
+    { "type": "image", "image": "mainz_campus.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Klopps Scouting-Tour", "stats": [
+      { "label": "Clubs besucht", "value": "5" },
+      { "label": "Jahre Klopp bei Mainz", "value": "18" },
+      { "label": "Tage bis Kader-PK", "value": "12" }
+    ], "image": "frankfurt_stadium.jpg", "weight": 0.9 },
+    { "type": "image", "image": "ebnoutalib.jpg", "name": "Younes Ebnoutalib", "role": "Eintracht Frankfurt · 0 A-LS", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Offensiv · Liverpool", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "Offensiv · Bayern München", "weight": 0.8 },
+    { "type": "image", "image": "fans_stadion.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans_hoffen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans_jubel.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wer ist Klopps geheimster Kandidat?", "subtitle": "Kommentiert eure Vermutungen! 👇", "image": "wm_logo.jpg", "weight": 1.0 }
+  ]
+}

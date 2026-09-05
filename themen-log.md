@@ -527,3 +527,4 @@
 2026-09-04 | el-mala-erkrankt-dfb-fix-klopp-kader | El Mala 19 FC Köln krank Stuttgart-Spiel verpasst trotzdem erster Klopp-DFB-Kader 17.9. bestätigt, 13 BL-Tore Vertrag bis 2031 Trikot-Nr.10 BVB-Transfer abgesagt, Amsterdam-Debüt 24.9. (NEWS-DRAMA)
 2026-09-04 | andrich-leverkusen-raus-dfb-traum | Andrich Leverkusen kein Platz Martinez Systemwechsel, DFB-Comeback-Traum Klopp-Kader 13 Tage, 9 Länderspiele WM 2026 TV-Experte neben Klopp (GEHEIMNIS)
 2026-09-05 | musiala-vs-elmala-klopp-zehn-duell | Musiala (22J, 239 WM-Min, 1 Tor, 2 Kollapsen August, Comeback heute Schalke) vs El Mala (19J, 13 BL-Tore, 0 A-LS, Klopp-Anruf, erster Kader 17.9. bestätigt), Zehner-Duell Klopp-Ära, Amsterdam-Debüt 24.9. (DUELL/VERGLEICH)
+2026-09-05 | klopp-mainz-geheimrueckkehr | Klopp Scouting-Tour 5 Clubs Mainz-Heimkehr 18 Jahre Ebnoutalib Frankfurt Geheimtipp 0 A-LS Kader-PK 17.9. (GEHEIMNIS)
