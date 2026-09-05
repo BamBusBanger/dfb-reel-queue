@@ -1,0 +1,48 @@
+{
+  "slug": "musiala-kimmich-pavlovic-schalke-klopp",
+  "createdAt": "2026-09-05T15:34:00Z",
+  "title": "Bayern vs. Schalke: 3 DFB-Fragen – Klopp schaut live zu",
+  "script": "HEUTE ABEND weiß Klopp alles! Beim Bayern-Schalke-Spiel beobachtet der neue Bundestrainer LIVE die 3 größten DFB-Fragen. Frage 1: Jamal Musiala – 14 Monate Pause, 2 Kollapsen, Epilepsie-Diagnose. Ist das Jahrhunderttalent wirklich zurück? Frage 2: Kimmich – Sechser für Amsterdam oder doch wieder Rechtsverteidiger? Mit 2 Assists beim 5:1 gegen Stuttgart stimmte der Beweis. Frage 3: Pavlović – sichert er den ersten Stammplatz unter Klopp? Am 17. September – in 12 Tagen – gibt Klopp seinen ersten Kader bekannt. Heute fallen die entscheidenden Weichen für Amsterdam!",
+  "uploadCaption": "Klopp schaut heute live zu Bayern vs. Schalke – 3 DFB-Stars kämpfen um ihre Zukunft! Musiala nach Epilepsie-Comeback, Kimmich als Sechser, Pavlović gesetzt? In 12 Tagen kommt Klopps erster Kader. Wer verdient seinen Platz?",
+  "uploadHashtags": "#DFB #Klopp #Musiala #Kimmich #Pavlovic #NationsLeague #Bundesliga #WM2030",
+  "images": [
+    { "file": "musiala_aktion.jpg",     "search": "Jamal Musiala" },
+    { "file": "musiala_jubel.webp",     "search": "Jamal Musiala Torjubel DFB" },
+    { "file": "musiala_dfb.png",        "search": "Jamal Musiala Bayern" },
+    { "file": "kimmich_01.png",         "search": "Joshua Kimmich" },
+    { "file": "kimmich_kapitaen.webp",  "search": "Joshua Kimmich Kapitän" },
+    { "file": "kimmich_dfb.jpg",        "search": "Joshua Kimmich DFB Kapitän" },
+    { "file": "pavlovic_aktion.jpg",    "search": "Aleksandar Pavlović" },
+    { "file": "pavlovic_szene.webp",    "search": "Aleksandar Pavlović Bayern DFB" },
+    { "file": "klopp_01.jpg",           "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "fans_de.jpg",            "search": "DFB Fans Deutschland" },
+    { "file": "fans_jubel_sw.jpg",      "search": "DFB Jubel Fans" },
+    { "file": "countdown_kader.jpg",    "search": "Kader Nominierung Countdown Bundestrainer", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "HEUTE ABEND ENTSCHEIDET SICH ALLES.", "image": "musiala_aktion.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "Bayern vs. Schalke – 5. September", "title": "3 DFB-Fragen – Klopp schaut live zu", "image": "klopp_01.jpg", "weight": 0.7 },
+    { "type": "image", "image": "musiala_jubel.webp",   "name": "Jamal Musiala",         "role": "Comeback · Epilepsie · 22 J.", "weight": 0.8 },
+    { "type": "stats", "title": "MUSIALA-COMEBACK", "stats": [
+        { "label": "Monate Pause",        "value": "14" },
+        { "label": "Kollapsen August",    "value": "2"  },
+        { "label": "WM-Minuten 2026",     "value": "239"}
+      ], "image": "musiala_dfb.png", "weight": 0.9 },
+    { "type": "image", "image": "kimmich_01.png",        "name": "Joshua Kimmich",         "role": "Sechser · Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "stats", "title": "KIMMICH ALS SECHSER", "stats": [
+        { "label": "Länderspiele",              "value": "109" },
+        { "label": "Assists BL-Auftakt 5:1",   "value": "2"   },
+        { "label": "Jahre als RV (Nagelsmann)", "value": "3"   }
+      ], "image": "kimmich_dfb.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich_kapitaen.webp", "weight": 0.8 },
+    { "type": "image", "image": "pavlovic_aktion.jpg",   "name": "Aleksandar Pavlović",    "role": "Mittelfeld · Bayern · 28 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "pavlovic_szene.webp",   "weight": 0.8 },
+    { "type": "stats", "title": "KADER-COUNTDOWN", "stats": [
+        { "label": "Tage bis Kader-PK",    "value": "12" },
+        { "label": "Kandidaten für Klopp", "value": "57" },
+        { "label": "Kaderplätze",          "value": "26" }
+      ], "image": "countdown_kader.jpg", "weight": 0.9 },
+    { "type": "image", "image": "fans_de.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Braucht Klopp Musiala WIRKLICH?", "subtitle": "Oder macht El Mala die Zehn – wer startet in Amsterdam? Kommentiert!", "image": "fans_jubel_sw.jpg", "weight": 1.0 }
+  ]
+}

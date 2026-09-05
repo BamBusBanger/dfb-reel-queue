@@ -529,3 +529,4 @@
 2026-09-05 | musiala-vs-elmala-klopp-zehn-duell | Musiala (22J, 239 WM-Min, 1 Tor, 2 Kollapsen August, Comeback heute Schalke) vs El Mala (19J, 13 BL-Tore, 0 A-LS, Klopp-Anruf, erster Kader 17.9. bestätigt), Zehner-Duell Klopp-Ära, Amsterdam-Debüt 24.9. (DUELL/VERGLEICH)
 2026-09-05 | klopp-mainz-geheimrueckkehr | Klopp Scouting-Tour 5 Clubs Mainz-Heimkehr 18 Jahre Ebnoutalib Frankfurt Geheimtipp 0 A-LS Kader-PK 17.9. (GEHEIMNIS)
 2026-09-05 | adidas-abschied-77-jahre-dfb | Adidas 77 Jahre DFB Abschiedstrikot schwarz gold Nike ab 2027 Klopp-Debüt Amsterdam 24.9. (NEWS-DRAMA)
+2026-09-05 | musiala-kimmich-pavlovic-schalke-klopp | Bayern Schalke heute Klopp scoutet live Musiala Epilepsie-Comeback 14 Monate Pause 2 Kollapsen Kimmich Sechser 2 Assists 5:1 Pavlovic Stammelf Kader-PK 17.9. 12 Tage Amsterdam 24.9. (TOP-3-LISTE)
