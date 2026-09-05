@@ -1,0 +1,34 @@
+{
+  "slug": "musiala-comeback-schalke-klopp-zeichen",
+  "createdAt": "2026-09-05T19:34:00Z",
+  "title": "Musiala ist zurück – Klopps erstes Zeichen",
+  "script": "Er ist ZURÜCK! Jamal Musiala betrat heute in der 57. Minute den Rasen gegen Schalke 04 – nach 2 neurologischen Kollapsen im August und einer Epilepsie-Diagnose, die monatelang geheim gehalten wurde. Bei der WM 2026 spielte er 239 Minuten, wurde 4-mal ausgewechselt und traf einmal. Jetzt hat Klopp in 12 Tagen seine erste Kader-PK. El Mala, 19 Jahre alt, 13 Bundesliga-Tore – er wartet auch. Wird Musiala rechtzeitig in Form kommen, oder hat ihn El Mala schon überholt?",
+  "uploadCaption": "Musiala ist zurück! 57. Minute, Schalke 04, nach Epilepsie-Diagnose und 2 Kollapsen im August. In 12 Tagen gibt Klopp seinen ersten Kader bekannt. Schafft Musiala es rein? 👇",
+  "uploadHashtags": "#Musiala #DFB #Klopp #Bayern #NationsLeague2026 #JamalMusiala #Comeback #ElMala #DFBKader",
+  "images": [
+    { "file": "musiala1.jpg", "search": "Jamal Musiala" },
+    { "file": "musiala2.jpg", "search": "Jamal Musiala Aktion" },
+    { "file": "musiala3.jpg", "search": "Jamal Musiala DFB Torjubel" },
+    { "file": "musiala4.jpg", "search": "Jamal Musiala WM 2026 Aktion" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "fans_hoffen.jpg", "search": "DFB Fans Public Viewing Hoffen" },
+    { "file": "el_mala.jpg", "search": "Said El Mala FC Köln" },
+    { "file": "dfb_team.jpg", "search": "DFB Nationalmannschaft Teamfoto 2026" },
+    { "file": "wm_logo.jpg", "search": "WM 2026 Logo FIFA" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans Deutschland Fahnen" },
+    { "file": "dfb_ball.jpg", "search": "Fußball Schwarz Rot Gold DFB Ball" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER IST ZURÜCK – trotz Epilepsie!", "image": "musiala1.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "5. September 2026", "title": "Musialas Comeback vs. Schalke", "image": "musiala2.jpg", "weight": 0.7 },
+    { "type": "image", "image": "musiala4.jpg", "name": "Jamal Musiala", "role": "Bayern München · 22 J.", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer DFB", "weight": 0.8 },
+    { "type": "stats", "title": "Musialas WM 2026", "stats": [{ "label": "WM-Minuten", "value": "239" }, { "label": "Auswechslungen", "value": "4×" }, { "label": "WM-Tore", "value": "1" }], "image": "musiala3.jpg", "weight": 0.9 },
+    { "type": "image", "image": "fans_hoffen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "el_mala.jpg", "name": "Said El Mala", "role": "FC Köln · 19 J. · 13 BL-Tore", "weight": 0.8 },
+    { "type": "stats", "title": "Klopp-Countdown", "stats": [{ "label": "Kader-PK", "value": "12 Tage" }, { "label": "Amsterdam-Debüt", "value": "19 Tage" }], "image": "wm_logo.jpg", "weight": 0.9 },
+    { "type": "image", "image": "dfb_team.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Kader-Platz für Musiala?", "subtitle": "Ja oder Nein – kommentiert jetzt!", "image": "dfb_ball.jpg", "weight": 1.0 }
+  ]
+}
