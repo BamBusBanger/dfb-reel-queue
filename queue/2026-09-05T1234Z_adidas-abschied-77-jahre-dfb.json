@@ -1,0 +1,95 @@
+{
+  "slug": "adidas-abschied-77-jahre-dfb",
+  "createdAt": "2026-09-05T12:34:00Z",
+  "title": "77 Jahre Adidas – Das letzte DFB-Trikot",
+  "script": "77 Jahre – dann ist Schluss! Adidas und der DFB trennen sich nach der längsten Ausrüster-Partnerschaft der Fußball-Geschichte. Ab dem 1. Januar 2027 trägt Deutschland Nike. Zum Abschied bringt Adidas ein finales Sonder-Trikot: schwarz mit goldenen Pinstripes und dem historischen DFB-Wappen aus der Ära 1978–1996. Erstmals getragen von Klopps Elf am 24. September beim Debüt in Amsterdam gegen die Niederlande. 4 WM-Titel. 77 Jahre. 1 letzter Auftritt. Was bleibt, ist Legende – und eine brennende Frage: Welches DFB-Trikot war das schönste aller Zeiten?",
+  "uploadCaption": "77 Jahre Adidas – und das war's. Deutschlands letztes Adidas-Trikot erscheint in Schwarz mit goldenen Details und dem historischen DFB-Wappen aus den 80ern. Ab 2027 läuft die Nationalelf in Nike auf. Klopp trägt das letzte Adidas-Erbe am 24. September gegen die Niederlande in Amsterdam. Kommentiere: Welches war dein liebstes DFB-Trikot?",
+  "uploadHashtags": "#DFB #Adidas #Nationalmannschaft #Fussball #Klopp #Nike #WM2026 #Trikot",
+  "images": [
+    { "file": "trikot-abschied.jpg",  "search": "DFB Adidas Abschiedstrikot schwarz gold 2026" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "team.jpg",             "search": "Deutschland Nationalmannschaft Teamfoto 2026" },
+    { "file": "pokal-staender.jpg",   "search": "WM Pokal" },
+    { "file": "pokal-vitrine.jpg",    "search": "WM Pokal Vitrine" },
+    { "file": "wirtz.jpg",            "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",          "search": "Jamal Musiala" },
+    { "file": "adidas-vintage.jpg",   "search": "Vintage DFB Trikot schwarz gold historisches Wappen Adidas Retro Abschied", "thematic": true },
+    { "file": "fans.jpg",             "search": "DFB Fans" },
+    { "file": "fans-outro.jpg",       "search": "DFB Fans Brandenburger Tor Fanzone" },
+    { "file": "amsterdam.jpg",        "search": "Johan Cruyff Arena Amsterdam Niederlande" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "77 JAHRE. DANN IST SCHLUSS.",
+      "image": "trikot-abschied.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BREAKING · ABSCHIED",
+      "title": "Das letzte Adidas-Trikot der DFB-Geschichte",
+      "image": "team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "adidas-vintage.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Trägt es als Erster",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "77 Jahre Adidas – die Zahlen",
+      "stats": [
+        { "label": "WM-Titel mit Adidas", "value": "4" },
+        { "label": "Partnerschaft seit",  "value": "1949" },
+        { "label": "Nike-Start",          "value": "2027" }
+      ],
+      "image": "pokal-staender.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "pokal-vitrine.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · Liverpool · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · Bayern · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Welches DFB-Trikot war das schönste?",
+      "subtitle": "Kommentiere deinen Favoriten!",
+      "image": "fans-outro.jpg",
+      "weight": 1.0
+    }
+  ]
+}
