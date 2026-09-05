@@ -1,0 +1,34 @@
+{
+  "slug": "terstegen-atubolu-klopp-nr1-duell",
+  "createdAt": "2026-09-05T17:34:00Z",
+  "title": "Ter Stegen vs Atubolu – Klopps Nummer-1-Duell",
+  "script": "Neuers Handschuhe sind frei – und Klopp muss sie neu vergeben! Am 17. September kündigt er seinen ersten DFB-Kader an – und die Torwartfrage könnte entscheiden, wie weit Deutschland 2028 kommt. Ter Stegen, 34, meldet sich mit Glanzparaden bei Ajax zurück und hat Klopp bereits im Gespräch begeistert. Atubolu, 24, ist der U21-Rekordkeeper mit 22 Einsätzen – aber noch kein einziges A-Länderspiel. 12 Tage bis zur Entscheidung. Amsterdam wartet. Wer wird Klopps Nummer 1?",
+  "uploadCaption": "Ter Stegen oder Atubolu? Klopp muss am 17. September entscheiden, wer Neuers Handschuhe erbt. 12 Tage bis zur Kaderbekanntgabe – und das erste Spiel in Amsterdam wartet. Eure Meinung zählt!",
+  "uploadHashtags": "#DFB #Klopp #TerStegen #Atubolu #Nationalmannschaft #NationsLeague #WM2030 #Fussball",
+  "images": [
+    { "file": "handschuhe.jpg", "search": "Torwart Handschuhe Flutlicht dramatisch", "thematic": true },
+    { "file": "terstegen.jpg", "search": "Marc-André ter Stegen" },
+    { "file": "terstegen_parade.jpg", "search": "ter Stegen Glanzparade Ajax 2026" },
+    { "file": "atubolu.jpg", "search": "Noah Atubolu Eintracht Frankfurt 2026" },
+    { "file": "atubolu_u21.jpg", "search": "Noah Atubolu U21 Deutschland Nationalmannschaft" },
+    { "file": "neuer.jpg", "search": "Manuel Neuer" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "amsterdam.jpg", "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "publicviewing.jpg", "search": "Public Viewing Fans Hoffnung" },
+    { "file": "dfbteam.jpg", "search": "DFB Nationalmannschaft 2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "NEUERS HANDSCHUHE – WER KRIEGT SIE?", "image": "handschuhe.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPP-ENTSCHEIDUNG 17.9.", "title": "Ter Stegen vs Atubolu", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "terstegen.jpg", "name": "Marc-André ter Stegen", "role": "Tor · 34 J. · Barcelona", "weight": 0.8 },
+    { "type": "stats", "title": "Ter Stegen", "stats": [{"label": "A-Länderspiele", "value": "34"}, {"label": "Ajax Man of Match", "value": "Sept. 2026"}, {"label": "Klopp-Gespräch", "value": "✓ Toll"}], "image": "terstegen_parade.jpg", "weight": 0.9 },
+    { "type": "image", "image": "atubolu.jpg", "name": "Noah Atubolu", "role": "Tor · 24 J. · E. Frankfurt", "weight": 0.8 },
+    { "type": "stats", "title": "Atubolu", "stats": [{"label": "U21-Länderspiele", "value": "22"}, {"label": "U21-DFB-Rekord", "value": "#1"}, {"label": "A-Länderspiele", "value": "0"}], "image": "atubolu_u21.jpg", "weight": 0.9 },
+    { "type": "image", "image": "neuer.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfbteam.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "amsterdam.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Deine Wahl!", "subtitle": "Ter Stegen oder Atubolu – wer soll Klopps Nummer 1 werden?", "image": "publicviewing.jpg", "weight": 1.0 }
+  ]
+}

@@ -530,3 +530,4 @@
 2026-09-05 | klopp-mainz-geheimrueckkehr | Klopp Scouting-Tour 5 Clubs Mainz-Heimkehr 18 Jahre Ebnoutalib Frankfurt Geheimtipp 0 A-LS Kader-PK 17.9. (GEHEIMNIS)
 2026-09-05 | adidas-abschied-77-jahre-dfb | Adidas 77 Jahre DFB Abschiedstrikot schwarz gold Nike ab 2027 Klopp-Debüt Amsterdam 24.9. (NEWS-DRAMA)
 2026-09-05 | musiala-kimmich-pavlovic-schalke-klopp | Bayern Schalke heute Klopp scoutet live Musiala Epilepsie-Comeback 14 Monate Pause 2 Kollapsen Kimmich Sechser 2 Assists 5:1 Pavlovic Stammelf Kader-PK 17.9. 12 Tage Amsterdam 24.9. (TOP-3-LISTE)
+2026-09-05 | terstegen-atubolu-klopp-nr1-duell | Tor-Duell Ter Stegen (34, Barcelona, 34 A-LS, Ajax Man of Match) vs Atubolu (24, E. Frankfurt, 22 U21-LS DFB-Rekord, 0 A-LS), Klopp Kader-PK 17.9. Amsterdam-Debüt 24.9. (DUELL/VERGLEICH)
