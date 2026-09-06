@@ -1,0 +1,95 @@
+{
+  "slug": "woltemade-kolomuani-juve-duell",
+  "createdAt": "2026-09-06T15:34:00Z",
+  "title": "Woltemade vs. Kolo Muani – Wer ist Klopps Neuner?",
+  "script": "75 Millionen Euro, 0 WM-Minuten, 1 verschossener Elfmeter – und jetzt der nächste Neuanfang! Nick Woltemade debütiert heute Abend beim Serie-A-Duell Juventus gegen AC Milan. Sein Konkurrent: Randal Kolo Muani, Frankreichs WM-Joker – doch auch er startete die neue Saison schwach. Juventus-Legende Buffon vergleicht Woltemade bereits JETZT mit Ibrahimović. Und Klopp schaut genau hin – seine erste DFB-Kader-Nominierung folgt in nur 11 Tagen. Wer trifft heute – und wer sichert sich den WM-2030-Startelf-Platz?",
+  "uploadCaption": "75 Mio. Euro. 0 WM-Minuten. Und jetzt startet er bei Juventus. Woltemade vs. Kolo Muani – heute Abend, und Klopp schaut zu. Kader-PK in 11 Tagen. Wer verdient den DFB-Startelf-Platz?",
+  "uploadHashtags": "#DFB #Woltemade #Juventus #Klopp #WM2030 #NationsLeague #Fussball #SerieA",
+  "images": [
+    { "file": "woltemade_portrait.jpg",  "search": "Nick Woltemade" },
+    { "file": "juventus_stadium.jpg",    "search": "Juventus Allianz Stadium Turin 2026" },
+    { "file": "woltemade_dfb.jpg",       "search": "Nick Woltemade DFB" },
+    { "file": "kolomuani.jpg",           "search": "Randal Kolo Muani Juventus 2026" },
+    { "file": "woltemade_training.jpg",  "search": "Nick Woltemade Juventus Training" },
+    { "file": "woltemade_jubel.jpg",     "search": "Nick Woltemade Jubel Stuttgart" },
+    { "file": "klopp.jpg",               "search": "Jürgen Klopp Bundestrainer DFB" },
+    { "file": "dfb_fans.jpg",            "search": "DFB Fans Deutschland" },
+    { "file": "wm_pokal.jpg",            "search": "WM Pokal FIFA" },
+    { "file": "deutschland_flagge.jpg",  "search": "Deutschland Flagge" },
+    { "file": "havertz.jpg",             "search": "Kai Havertz Arsenal DFB" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "75 MIO. €. 0 WM-MINUTEN. JETZT SEIN MOMENT?",
+      "image": "woltemade_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "JUVENTUS VS. AC MILAN – HEUTE 18:45 UHR",
+      "title": "Woltemade vs. Kolo Muani",
+      "image": "juventus_stadium.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "woltemade_dfb.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · DFB · Juventus (Leihe)",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kolomuani.jpg",
+      "name": "Randal Kolo Muani",
+      "role": "Stürmer · Frankreich · Juventus",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Duell in Zahlen",
+      "stats": [
+        { "label": "Woltemade Ablöse Newcastle", "value": "75 Mio. €" },
+        { "label": "Woltemade WM-Minuten 2026",  "value": "0" },
+        { "label": "Buffon-Vergleich",            "value": "Ibrahimović" }
+      ],
+      "image": "woltemade_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "woltemade_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Kader-PK 17.9.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Wer wird Klopps Nummer 9 bei der WM 2030?",
+      "subtitle": "Woltemade, Havertz oder jemand anderes? Kommentier!",
+      "image": "havertz.jpg",
+      "weight": 1.0
+    }
+  ]
+}
