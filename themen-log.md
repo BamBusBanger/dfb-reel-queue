@@ -536,3 +536,4 @@
 2026-09-06 | karius-wunder-schalke-drei-zeichen | Loris Karius Schalke Held 0:0 Bayern Sept 5, CL-Finale-Sündenbock 2018, Musiala 30-Min-Comeback nach Epilepsie-Kollapsen, Brown Bayerns bester Angreifer als LV, erster Schalke-Punkt vs Bayern seit 2017, erste Bayern-Nullnummer seit Feb 2025, Klopp-Kader in 11 Tagen (TOP-3-LISTE)
 2026-09-06 | woltemade-juventus-debut-heute | Woltemade Juventus-Debüt heute 18:45 vs AC Milan, 0 WM-Minuten 75 Mio € verschossener Elfmeter Paraguay, Klopp-Kader in 11 Tagen 57 Kandidaten, DFB-Revanche (NEWS-DRAMA)
 2026-09-06 | woltemade-kolomuani-juve-duell | Woltemade Juventus-Debüt heute vs AC Milan 18:45, Kolo Muani Sturm-Konkurrenz, Buffon Ibrahimovic-Vergleich, 75 Mio. € 0 WM-Minuten, Klopp schaut zu Kader-PK 17.9. 11 Tage (DUELL/VERGLEICH)
+2026-09-06 | bundesliga-spieltag2-drei-klopp-signale | Bundesliga Spieltag 2 Klopp-Kader-Signale: Andrich Leverkusen 4:0, El Mala Stuttgart-Desaster, Atubolu Frankfurt (TOP-3-LISTE)

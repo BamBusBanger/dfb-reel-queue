@@ -1,0 +1,113 @@
+{
+  "slug": "bundesliga-spieltag2-drei-klopp-signale",
+  "createdAt": "2026-09-06T17:35:00Z",
+  "title": "3 Bundesliga-Schocks – Klopps Kader-Signal",
+  "script": "3 Bundesliga-Schocks – Klopp zieht die Konsequenzen in 11 Tagen. ERSTENS: Leverkusen schlägt Union 4:0. Robert Andrich dominant im Pressing – 9 Länderspiele, von Nagelsmann aussortiert. Berufung unter Klopp? ZWEITENS: Stuttgart demoliert Köln 4:1. El Mala krank, fehlte komplett. Klopp rief ihn trotzdem persönlich an: 13 Tore mit 19 Jahren, 0 A-Länderspiele – trotzdem fix im ersten Kader am 17. September. DRITTENS: Frankfurt schlägt Augsburg 4:1. Atubolu hält sein Tor – 22 U21-Caps, DFB-Rekord. Wer wird Klopps Nummer 1? Am 17. September wissen wir alles.",
+  "uploadCaption": "Spieltag 2 hat gesprochen! 11 Tage bis Klopps erstem DFB-Kader – 3 Schocks, die alles verändern. El Mala trotz Köln-Desaster drin, Andrich-Comeback, Atubolu als neue Nr. 1? Kader-PK: 17. September! ⚽🔥",
+  "uploadHashtags": "#DFB #Klopp #Bundesliga #WM2030 #ElMala #Andrich #Atubolu #Nationalmannschaft",
+  "images": [
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp DFB Bundestrainer" },
+    { "file": "signal_iduna.jpg",    "search": "Signal Iduna Park" },
+    { "file": "andrich.jpg",         "search": "Robert Andrich" },
+    { "file": "leverkusen_union.jpg","search": "Bayer Leverkusen Union Berlin Bundesliga 2026" },
+    { "file": "el_mala.jpg",         "search": "Said El Mala FC Köln" },
+    { "file": "dfb_team.jpg",        "search": "DFB Nationalmannschaft 2026" },
+    { "file": "stuttgart_koeln.jpg", "search": "VfB Stuttgart FC Köln Bundesliga" },
+    { "file": "atubolu.jpg",         "search": "Noah Atubolu Eintracht Frankfurt" },
+    { "file": "wm_logo.jpg",         "search": "WM 2026 Logo" },
+    { "file": "frankfurt_aug.jpg",   "search": "Eintracht Frankfurt Augsburg Bundesliga 2026" },
+    { "file": "dfb_fans.jpg",        "search": "DFB Fans" },
+    { "file": "public_viewing.jpg",  "search": "Public Viewing DFB Nationalmannschaft" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "IN 11 TAGEN ENTSCHEIDET KLOPP.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BUNDESLIGA SPIELTAG 2",
+      "title": "3 Klopp-Kader-Schocks",
+      "image": "signal_iduna.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "andrich.jpg",
+      "name": "Robert Andrich",
+      "role": "Bayer Leverkusen · 31",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Signal 1: Leverkusen 4:0 Union",
+      "stats": [
+        { "label": "Leverkusen – Union Berlin", "value": "4:0" },
+        { "label": "Andrich: Länderspiele", "value": "9" },
+        { "label": "Zuletzt berufen", "value": "2025" }
+      ],
+      "image": "leverkusen_union.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "el_mala.jpg",
+      "name": "Said El Mala",
+      "role": "FC Köln · 19",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Signal 2: Stuttgart 4:1 Köln",
+      "stats": [
+        { "label": "Stuttgart – Köln", "value": "4:1" },
+        { "label": "El Mala: BL-Tore", "value": "13" },
+        { "label": "A-Länderspiele", "value": "0" }
+      ],
+      "image": "dfb_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "stuttgart_koeln.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "atubolu.jpg",
+      "name": "Noah Atubolu",
+      "role": "Eintracht Frankfurt · 24",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Signal 3: Frankfurt 4:1 Augsburg",
+      "stats": [
+        { "label": "Frankfurt – Augsburg", "value": "4:1" },
+        { "label": "U21-Caps (DFB-Rekord)", "value": "22" },
+        { "label": "Klopp-Favorit für Nr. 1", "value": "✓" }
+      ],
+      "image": "wm_logo.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "frankfurt_aug.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Gehört Andrich in den ersten Klopp-Kader?",
+      "subtitle": "Ja oder Nein – kommentiert! ⬇️",
+      "image": "public_viewing.jpg",
+      "weight": 1.0
+    }
+  ]
+}
