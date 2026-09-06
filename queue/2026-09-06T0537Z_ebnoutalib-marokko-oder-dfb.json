@@ -1,0 +1,34 @@
+{
+  "slug": "ebnoutalib-marokko-oder-dfb",
+  "createdAt": "2026-09-06T05:37:00Z",
+  "title": "Ebnoutalib: Deutschland oder Marokko?",
+  "script": "3 Tore. Erstes Bundesliga-Spiel der Saison. Klopp reist sofort nach Frankfurt. Der 22-jährige Younes Ebnoutalib ist heiß – aber er muss sich entscheiden: Deutschland, wo er geboren wurde. Oder Marokko, das Land seines Vaters. Als Kind spielte er in Marokkos U15. Er ließ seine Zukunft bis heute offen. Klopp führte ein langes persönliches Gespräch – und will ihn unbedingt überzeugen. Entscheidung in 11 Tagen: Am 17. September kündigt Klopp seinen ersten Kader an.",
+  "uploadCaption": "Klopp fährt persönlich nach Frankfurt – und will Ebnoutalib für Deutschland! 3 Tore im ersten Spiel, marokkanischer Vater, in Frankfurt geboren. Die Entscheidung fällt am 17. September. Für wen würdet ihr ihn spielen sehen?",
+  "uploadHashtags": "#DFB #Klopp #Ebnoutalib #NationsLeague #Bundesliga #EintrachtFrankfurt #WM2030",
+  "images": [
+    { "file": "entscheidung.jpg", "search": "Entscheidung zwei Nationalmannschaften Flaggen Symbol", "thematic": true },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "ebnoutalib.jpg", "search": "Younes Ebnoutalib Eintracht Frankfurt" },
+    { "file": "frankfurt-stadion.jpg", "search": "Deutsche Bank Park Frankfurt" },
+    { "file": "marokko-flag.jpg", "search": "Marokko Nationalmannschaft Flagge" },
+    { "file": "dfb-flagge.jpg", "search": "Deutschland Flagge Reichstag" },
+    { "file": "dfb-fans.jpg", "search": "DFB Fans Deutschland" },
+    { "file": "dfb-trikot.jpg", "search": "DFB Trikot WM 2026" },
+    { "file": "pokal.jpg", "search": "WM Pokal Gold" },
+    { "file": "wm-logo.jpg", "search": "WM 2026 Logo" },
+    { "file": "klopp-dfb.jpg", "search": "Jürgen Klopp Bundestrainer DFB 2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "KLOPP WILL IHN. MAROKKO AUCH.", "image": "entscheidung.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPP-GEHEIMNIS", "title": "Deutschland oder Marokko?", "image": "klopp.jpg", "weight": 0.7 },
+    { "type": "image", "image": "ebnoutalib.jpg", "name": "Younes Ebnoutalib", "role": "Stürmer · Eintracht Frankfurt · 22", "weight": 0.8 },
+    { "type": "image", "image": "frankfurt-stadion.jpg", "weight": 0.8 },
+    { "type": "stats", "title": "Saisonstart 2026/27", "stats": [{ "label": "Tore", "value": "3" }, { "label": "Spiele", "value": "1" }, { "label": "Kader-PK", "value": "17.9." }], "image": "dfb-fans.jpg", "weight": 0.9 },
+    { "type": "image", "image": "marokko-flag.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb-flagge.jpg", "weight": 0.8 },
+    { "type": "image", "image": "klopp-dfb.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer DFB", "weight": 0.8 },
+    { "type": "image", "image": "dfb-trikot.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wm-logo.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Für wen soll er spielen?", "subtitle": "Deutschland oder Marokko – kommentiert!", "image": "pokal.jpg", "weight": 1.0 }
+  ]
+}
