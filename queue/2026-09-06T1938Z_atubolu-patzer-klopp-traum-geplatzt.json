@@ -1,0 +1,33 @@
+{
+  "slug": "atubolu-patzer-klopp-traum-geplatzt",
+  "createdAt": "2026-09-06T19:38:00Z",
+  "title": "Atubolu-Schock: Klopps Torwart-Traum geplatzt?",
+  "script": "Ein Faustball – und plötzlich ist alles anders. Atubolu schmeißt den Ball in der 47. Minute dem FCA-Stürmer direkt vor die Füße: 2:1 Augsburg. Endstand 1:4 in Frankfurt. Der Mann, der Klopps neue Nummer eins werden sollte, versagt ausgerechnet 11 Tage vor der ersten Kader-PK. Ter Stegen liefert bei Ajax, Baumann ist stabil, Urbig ist 22. Die Torwartfrage ist wieder völlig offen. Hat Atubolu noch eine Chance?",
+  "uploadCaption": "Ein einziger Faustball – und Atubolu zerstört seinen Traum vom DFB-Tor. Frankfurt 1:4 gegen Augsburg, Spieltag 2. Klopps erste Kader-PK ist in 11 Tagen. Wer wird Deutschlands neue Nummer Eins? 🧤🇩🇪",
+  "uploadHashtags": "#DFB #WM2026 #Atubolu #Bundesliga #Klopp #Torwart #SGEinsicht #Eintracht #Deutschland",
+  "images": [
+    { "file": "atubolu.jpg",     "search": "Noah Atubolu" },
+    { "file": "frankfurt.jpg",   "search": "Deutsche Bank Park Frankfurt" },
+    { "file": "klopp.jpg",       "search": "Jürgen Klopp" },
+    { "file": "neuer.jpg",       "search": "Manuel Neuer" },
+    { "file": "baumann.jpg",     "search": "Oliver Baumann" },
+    { "file": "augsburg.jpg",    "search": "FC Augsburg Bundesliga Jubel" },
+    { "file": "fans_schock.jpg", "search": "fans Entsetzen public viewing" },
+    { "file": "terstegen.jpg",   "search": "Marc-André ter Stegen Ajax" },
+    { "file": "kader_count.jpg", "search": "DFB Kader Nominierung Countdown", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "EIN FAUSTBALL ZERSTÖRT ALLES!", "image": "atubolu.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "11 TAGE BIS KLOPP-KADER", "title": "Atubolu-Schock", "image": "frankfurt.jpg", "weight": 0.7 },
+    { "type": "image", "image": "atubolu.jpg",     "name": "Noah Atubolu",          "role": "Torwart · 24", "weight": 0.8 },
+    { "type": "image", "image": "frankfurt.jpg",   "weight": 0.8 },
+    { "type": "stats", "title": "Die Zahlen der Blamage", "stats": [{ "label": "Minute", "value": "47" }, { "label": "Augsburg-Tore", "value": "4" }, { "label": "Tage bis Kader", "value": "11" }], "image": "fans_schock.jpg", "weight": 0.9 },
+    { "type": "image", "image": "augsburg.jpg",    "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",       "name": "Jürgen Klopp",          "role": "Bundestrainer", "weight": 0.8 },
+    { "type": "image", "image": "terstegen.jpg",   "name": "Marc-André ter Stegen", "role": "Konkurrent · 34", "weight": 0.8 },
+    { "type": "image", "image": "baumann.jpg",     "name": "Oliver Baumann",        "role": "Konkurrent · 36", "weight": 0.8 },
+    { "type": "image", "image": "neuer.jpg",       "name": "Manuel Neuer",          "role": "DFB-Maßstab · 125 LS", "weight": 0.8 },
+    { "type": "image", "image": "fans_schock.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Hat Atubolu noch eine Chance?", "subtitle": "Klopp-Kader 17.9. – schreibt eure Meinung!", "image": "kader_count.jpg", "weight": 1.0 }
+  ]
+}
