@@ -1,0 +1,101 @@
+{
+  "slug": "woltemade-juventus-debut-heute",
+  "createdAt": "2026-09-06T12:34:00Z",
+  "title": "Woltemade kämpft heute in Turin um sein DFB-Leben",
+  "script": "ER HAT ALLES VERLOREN – HEUTE GREIFT ER AN. Nick Woltemade: 75 Millionen Euro teuer, null WM-Minuten, verschossener Elfmeter gegen Paraguay. Das WM 2026 war sein Albtraum. Doch heute Abend, 18 Uhr 45 in Turin, feiert der 1,98-Meter-Hüne sein Debüt für Juventus – gegen AC Milan. Spalletti plant ihn als Joker. Klopp nominiert in genau 11 Tagen seinen ersten DFB-Kader. 57 Kandidaten kämpfen um 26 Plätze. Woltemade steht auf der Liste. Kann er heute antworten?",
+  "uploadCaption": "Nick Woltemade kämpft heute in Turin um alles! Juventus-Debüt gegen AC Milan – kommt das DFB-Comeback unter Klopp? Kader in 11 Tagen. ⚽🔥",
+  "uploadHashtags": "#Woltemade #Juventus #DFB #Klopp #WM2026 #SerieA #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "woltemade_portrait.jpg",  "search": "Nick Woltemade" },
+    { "file": "woltemade_training.jpg",  "search": "Nick Woltemade" },
+    { "file": "woltemade_jubel.jpg",     "search": "Nick Woltemade DFB Jubel" },
+    { "file": "woltemade_dfb.jpg",       "search": "Nick Woltemade DFB Trikot" },
+    { "file": "woltemade_juventus.jpg",  "search": "Nick Woltemade Juventus Turin 2026" },
+    { "file": "woltemade_elfmeter.jpg",  "search": "Nick Woltemade Elfmeter Paraguay WM 2026" },
+    { "file": "thiaw_milan.jpg",         "search": "Malick Thiaw" },
+    { "file": "klopp_dfb.jpg",           "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "juventus_stadion.jpg",    "search": "Juventus Allianz Stadium Turin Serie A 2026" },
+    { "file": "fans_jubel.jpg",          "search": "Fußball Fans jubel Stadion" },
+    { "file": "dfb_countdown.jpg",       "search": "DFB Kader Nominierung Klopp Countdown September 2026", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "ER HAT ALLES VERLOREN – HEUTE GREIFT ER AN.",
+      "image": "woltemade_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "JUVENTUS VS AC MILAN · HEUTE 18:45 UHR",
+      "title": "Woltemades Revanche",
+      "image": "juventus_stadion.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "woltemade_jubel.jpg",
+      "name": "Nick Woltemade",
+      "role": "Stürmer · 24 · Juventus (Leihe)",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Woltemades WM-Trauma",
+      "stats": [
+        { "label": "WM-Minuten 2026", "value": "0" },
+        { "label": "Ablöse Newcastle", "value": "75 Mio €" },
+        { "label": "Elfmeter verschossen", "value": "29. Juni" }
+      ],
+      "image": "woltemade_training.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "woltemade_elfmeter.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "woltemade_juventus.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "thiaw_milan.jpg",
+      "name": "Malick Thiaw",
+      "role": "AC Milan · DFB-Kandidat Klopp",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp_dfb.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Kader-PK 17. September",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps Kader-Countdown",
+      "stats": [
+        { "label": "Tage bis Nominierung", "value": "11" },
+        { "label": "DFB-Kandidaten", "value": "57" },
+        { "label": "Kaderplätze", "value": "26" }
+      ],
+      "image": "dfb_countdown.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans_jubel.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Woltemade Klopps Kader?",
+      "subtitle": "JA oder NEIN – Kommentar rein!",
+      "image": "woltemade_dfb.jpg",
+      "weight": 1.0
+    }
+  ]
+}
