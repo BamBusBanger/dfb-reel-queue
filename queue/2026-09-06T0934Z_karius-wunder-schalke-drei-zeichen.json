@@ -1,0 +1,112 @@
+{
+  "slug": "karius-wunder-schalke-drei-zeichen",
+  "createdAt": "2026-09-06T09:34:00Z",
+  "title": "3 Zeichen aus Bayern 0:0 Schalke für Klopp",
+  "script": "KARIUS. HELD. SCHOCK! Der CL-Finale-Sündenbock von 2018 stoppt Bayern München! Beim 0:0 in Gelsenkirchen gestern liefert Loris Karius die Paraden seines Lebens – und sendet Bundestrainer Klopp 3 klare Zeichen: Eins: Erster Schalke-Punkt gegen Bayern seit 2017 – erste Bayern-Nullnummer seit Februar 2025. Zwei: Musiala nur 30 Minuten – Comeback nach 2 Epilepsie-Kollapsen, Klopp-Kader in 11 Tagen. Drei: Nathaniel Brown Bayerns bester Angreifer – als Linksverteidiger! Klopp sieht alles. Und: Verdient Karius einen DFB-Anruf?",
+  "uploadCaption": "Von CL-Sündenbock zum Schalke-Held: Loris Karius stoppt Bayern 0:0! Das bedeutet diese Sensation für Klopp und den DFB-Kader am 17. September. #Karius #Bayern #Schalke #Klopp #Musiala #DFB",
+  "uploadHashtags": "#Karius #Bayern #Schalke #Klopp #Musiala #NathanielBrown #DFB #Bundesliga",
+  "images": [
+    { "file": "karius_schalke.jpg", "search": "Loris Karius Schalke 04 2026" },
+    { "file": "karius_cl_2018.jpg", "search": "Loris Karius Champions League Finale 2018 Fehler" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "brown.jpg", "search": "Nathaniel Brown" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "veltins.jpg", "search": "Veltins-Arena Schalke 04" },
+    { "file": "fans_schock.jpg", "search": "public viewing Entsetzen Fans" },
+    { "file": "dfb_fans.jpg", "search": "DFB Fans Deutschland" },
+    { "file": "brown_jubel.jpg", "search": "Nathaniel Brown DFB" },
+    { "file": "dfb_teamfoto.jpg", "search": "DFB Team Deutschland 2026" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KARIUS. HELD. SCHOCK!",
+      "image": "karius_schalke.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "Bayern 0:0 Schalke",
+      "title": "3 Zeichen für Klopp",
+      "image": "veltins.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "karius_cl_2018.jpg",
+      "name": "Loris Karius",
+      "role": "CL-Finale 2018 → Schalke-Held 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Zeichen 1: Das Karius-Wunder",
+      "stats": [
+        { "label": "Kein Schalke-Punkt vs Bayern", "value": "seit 2017" },
+        { "label": "Bayerns letzte Liga-Nullnummer", "value": "Feb 2025" }
+      ],
+      "image": "karius_schalke.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Comeback · 30 Min nach Epilepsie",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Zeichen 2: Musiala 30 Min.",
+      "stats": [
+        { "label": "Einsatzminuten Comeback", "value": "30" },
+        { "label": "Klopp-Kader-PK in", "value": "11 Tagen" }
+      ],
+      "image": "fans_schock.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "brown.jpg",
+      "name": "Nathaniel Brown",
+      "role": "Linksverteidiger Bayern · Top-Chance",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Zeichen 3: Brown als Stürmer",
+      "stats": [
+        { "label": "Browns DFB-Tore WM 2026", "value": "1" },
+        { "label": "Klopp-Kader in", "value": "11 Tagen" }
+      ],
+      "image": "dfb_teamfoto.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "brown_jubel.jpg",
+      "name": "Nathaniel Brown",
+      "role": "Bayern · Frankfurt-Wechsel 55 Mio.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Kader-PK 17. Sep.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Verdient Karius einen DFB-Anruf?",
+      "subtitle": "Kommentiert eure Meinung!",
+      "image": "fans_schock.jpg",
+      "weight": 1.0
+    }
+  ]
+}
