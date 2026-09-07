@@ -1,0 +1,107 @@
+{
+  "slug": "brunner-bvb-monaco-klopp",
+  "createdAt": "2026-09-07T09:34:00Z",
+  "title": "Paris Brunner – Klopps geheimes Ass",
+  "script": "Das hat NIEMAND kommen sehen. Paris Brunner – 20 Jahre, BVB-Abgang 2024, von allen abgeschrieben. Jetzt heimlicher Star der Ligue 1: 4 Tore in nur 5 Pflichtspielen für AS Monaco, Doppelpack beim 2:0 gegen Marseille. Der U17-Weltmeister 2023 – 4 Turniertore, bester Spieler des Turniers – wartet noch auf sein DFB-A-Debüt. Klopp war am 4. September live bei Monaco gegen PSG dabei. Zitat Brunner: „Ich denke immer an die Nationalmannschaft." In 10 Tagen benennt Klopp seinen ersten Kader. Ist Brunner Deutschlands geheimes Ass für die WM 2030?",
+  "uploadCaption": "Das vergessene BVB-Juwel macht in Monaco Furore: 4 Tore in 5 Spielen. Klopp schaute am 4. September live zu – in 10 Tagen gibt er seinen ersten Kader bekannt. Ist Paris Brunner dabei?",
+  "uploadHashtags": "#DFB #Klopp #ParisBrunner #Monaco #BVB #WM2030 #Fussball #Nationalmannschaft",
+  "images": [
+    { "file": "brunner_monaco.jpg",   "search": "Paris Brunner AS Monaco 2026" },
+    { "file": "dfb_team.jpg",         "search": "DFB Nationalmannschaft 2026" },
+    { "file": "brunner_u17.jpg",      "search": "Paris Brunner U17 WM 2023 Indonesien" },
+    { "file": "brunner_bvb.jpg",      "search": "Paris Brunner BVB Dortmund" },
+    { "file": "signal_iduna.jpg",     "search": "Signal Iduna Park Dortmund" },
+    { "file": "monaco_stade.jpg",     "search": "Stade Louis II Monaco Ligue 1" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg",            "search": "Florian Wirtz" },
+    { "file": "dfb_flagge.jpg",       "search": "Deutschland Flagge" },
+    { "file": "fans_de.jpg",          "search": "Deutschland Fans" },
+    { "file": "wm_pokal.jpg",         "search": "WM Pokal" },
+    { "file": "dfb_fans_trib.jpg",    "search": "DFB Fans Tribüne Stadion" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DAS VERGESSENE GENIE IST ZURÜCK",
+      "image": "brunner_monaco.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP-RADAR",
+      "title": "Das BVB-Juwel das alle vergessen haben",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "brunner_u17.jpg",
+      "name": "Paris Brunner",
+      "role": "Stürmer · 20 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "brunner_bvb.jpg",
+      "name": "Paris Brunner",
+      "role": "Ex-BVB · jetzt Monaco",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "signal_iduna.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Monaco 2026/27",
+      "stats": [
+        { "label": "Tore", "value": "4" },
+        { "label": "Spiele", "value": "5" },
+        { "label": "vs Marseille", "value": "2 Tore" }
+      ],
+      "image": "monaco_stade.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "U17-WM 2023 Indonesien",
+      "stats": [
+        { "label": "Tore", "value": "4" },
+        { "label": "Auszeichnung", "value": "Bester Spieler" },
+        { "label": "Titel", "value": "Weltmeister" }
+      ],
+      "image": "wirtz.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "dfb_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_de.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Ist Brunner Klopps Ass?",
+      "subtitle": "Hätte er schon längst im Kader sein müssen?",
+      "image": "dfb_fans_trib.jpg",
+      "weight": 1.0
+    }
+  ]
+}
