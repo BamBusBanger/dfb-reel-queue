@@ -1,0 +1,101 @@
+{
+  "slug": "reitz-verletzungsschock-klopp-kader",
+  "createdAt": "2026-09-07T19:34:00Z",
+  "title": "Reitz verletzt: Klopps geheimer Kader-Plan in Gefahr",
+  "script": "Nur EIN Bundesligaspiel – und schon Verletzungsschock! Rocco Reitz wechselte für 20 Millionen Euro von Gladbach zu Leipzig, traf sofort beim Debüt beim 3:0 gegen seinen Ex-Klub – und liegt nun mit Oberschenkelmuskel-Verletzung flach. Mehrere Wochen Ausfall. Klopps erster DFB-Kader? In 10 Tagen, am 17. September. Amsterdam-Debüt gegen die Niederlande? Am 24. September. Klopp hatte Reitz auf seiner 57er-Liste als Prototyp-Sechser seines 4-3-3. Warten nun Stiller, Goretzka oder Pavlović auf ihre Chance?",
+  "uploadCaption": "Klopps Kader-Plan in Stücken! Rocco Reitz verletzt nach nur 1 Spiel für Leipzig – 10 Tage bis zur ersten Nominierung. Wer springt ein?",
+  "uploadHashtags": "#DFB #Klopp #Nationalmannschaft #Reitz #NationsLeague2026 #RBLeipzig #Bundesliga",
+  "images": [
+    { "file": "reitz_jubel.jpg",    "search": "Rocco Reitz Tor Bundesliga 2026" },
+    { "file": "reitz_portrait.jpg", "search": "Rocco Reitz RB Leipzig" },
+    { "file": "klopp_dfb.jpg",      "search": "Jürgen Klopp" },
+    { "file": "kimmich_dfb.jpg",    "search": "Joshua Kimmich" },
+    { "file": "stiller_dfb.jpg",    "search": "Angelo Stiller" },
+    { "file": "goretzka_dfb.jpg",   "search": "Leon Goretzka" },
+    { "file": "pavlovic_dfb.jpg",   "search": "Aleksandar Pavlović" },
+    { "file": "nmecha_dfb.jpg",     "search": "Felix Nmecha" },
+    { "file": "dfb_team.jpg",       "search": "DFB Teamfoto 2026" },
+    { "file": "kader_luecke.jpg",   "search": "DFB Aufstellungstafel leer symbolisch Verletzungsausfall Konzept", "thematic": true },
+    { "file": "dfb_fans.jpg",       "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "NUR 1 SPIEL – DANN VERLETZUNGS-CRASH!",
+      "image": "reitz_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP-KADER-SCHOCK",
+      "title": "Reitz fällt aus",
+      "image": "reitz_portrait.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp_dfb.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · DFB",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kader_luecke.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Timing-Katastrophe",
+      "stats": [
+        { "label": "Ablöse Reitz zu Leipzig", "value": "20 Mio. €" },
+        { "label": "Bundesligaspiele bis Verletzung", "value": "1" },
+        { "label": "Tage bis Klopp-Kader-PK (17.9.)", "value": "10" }
+      ],
+      "image": "dfb_team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich_dfb.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · Sechser",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "stiller_dfb.jpg",
+      "name": "Angelo Stiller",
+      "role": "Mittelfeld · 25 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "goretzka_dfb.jpg",
+      "name": "Leon Goretzka",
+      "role": "Mittelfeld · 31 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pavlovic_dfb.jpg",
+      "name": "Aleksandar Pavlović",
+      "role": "Mittelfeld · 22 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nmecha_dfb.jpg",
+      "name": "Felix Nmecha",
+      "role": "Mittelfeld · 25 J.",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Klopp trotzdem mit Reitz?",
+      "subtitle": "Kommentiert euren Pick!",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
