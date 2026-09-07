@@ -540,3 +540,4 @@
 2026-09-06 | atubolu-patzer-klopp-traum-geplatzt | Atubolu Faustball-Katastrophe Frankfurt 1:4 Augsburg Spieltag 2, 47. Min Fehler, 11 Tage bis Klopp-Kader 17.9., Nr.1-Kandidat ter Stegen/Baumann/Urbig lauern (NEWS-DRAMA)
 2026-09-07 | banks-usa-dfb-klopp-pochettino | Noahkai Banks 19J Augsburg Hawaii-geboren Dual-Eligibility DFB vs USA, Klopp vs Pochettino WM-2030-Kampf, 12 U-Spiele USA 0 A-Länderspiele, Kader-PK 17.9. Amsterdam-Debüt 24.9. (DUELL/VERGLEICH)
 2026-09-07 | brunner-bvb-monaco-klopp | Paris Brunner 20J. Ex-BVB jetzt Monaco 4 Tore 5 Spiele U17-WM-Held 2023 Klopp schaut live zu 4. September erster Kader 17. September (GEHEIMNIS)
+2026-09-07 | sane-klopp-kandidat | Sané 0 Tore 0 Vorlagen Galatasaray 4 Spiele, Klopp kein Anruf, 10 Tage bis Kader-PK 17.9., Adeyemi/El Mala/Beier Konkurrenten, 75 LS 16 Tore DFB-Karriereende-Frage (NEWS-DRAMA)

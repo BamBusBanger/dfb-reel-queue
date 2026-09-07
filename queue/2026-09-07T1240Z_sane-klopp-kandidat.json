@@ -1,0 +1,101 @@
+{
+  "slug": "sane-klopp-kandidat",
+  "createdAt": "2026-09-07T12:40:00Z",
+  "title": "Sané – rein oder raus bei Klopp?",
+  "script": "Er schoss das zweitschnellste WM-Tor Deutschlands seit 1934 – nach gerade mal 109 Sekunden gegen Ecuador! Doch jetzt droht Leroy Sané das DFB-Karriereende. Bei Galatasaray: 4 Spiele, 0 Tore, 0 Vorlagen. Klopp hat ihn nicht angerufen. In 10 Tagen folgt die erste Kader-Nominierung. Auf seiner Position drängen Adeyemi, der bereits für Barcelona trifft, der 19-jährige El Mala, der bereits sicher dabei ist, und Beier mit frischer BVB-Energie. 75 Länderspiele, 16 Tore – ist Sanés Zeit beim DFB Geschichte?",
+  "uploadCaption": "109 Sekunden, 1 WM-Tor – und jetzt DFB-Ende? Leroy Sané kämpft um die letzte Chance. Klopps erster Kader in 10 Tagen. ⚡🔥",
+  "uploadHashtags": "#Sané #DFB #Klopp #WM2026 #NationsLeague #Nationalmannschaft #Galatasaray #Adeyemi #ElMala",
+  "images": [
+    { "file": "sane_aktion.jpg",      "search": "Leroy Sané" },
+    { "file": "dfb_team.jpg",          "search": "DFB Nationalmannschaft 2026" },
+    { "file": "sane_dfb.jpg",          "search": "Leroy Sané DFB" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "sane_galatasaray.jpg",  "search": "Leroy Sané Galatasaray 2026" },
+    { "file": "adeyemi.jpg",           "search": "Karim Adeyemi Barcelona 2026" },
+    { "file": "elmala.jpg",            "search": "Said El Mala 1. FC Köln" },
+    { "file": "beier.jpg",             "search": "Maximilian Beier BVB DFB" },
+    { "file": "wirtz.jpg",             "search": "Florian Wirtz Liverpool" },
+    { "file": "sane_kimmich.jpg",      "search": "Leroy Sané DFB Jubel" },
+    { "file": "dfb_fans.jpg",          "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "109 SEKUNDEN – dann war Sané WM-HELD!",
+      "image": "sane_aktion.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB · 17. September",
+      "title": "Sané – rein oder raus?",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "sane_dfb.jpg",
+      "name": "Leroy Sané",
+      "role": "Außen · 30 · Galatasaray",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Kader 17.9.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Sanés Galatasaray-Bilanz",
+      "stats": [
+        { "label": "Spiele", "value": "4" },
+        { "label": "Tore",   "value": "0" },
+        { "label": "Vorlagen","value": "0" }
+      ],
+      "image": "sane_galatasaray.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "adeyemi.jpg",
+      "name": "Karim Adeyemi",
+      "role": "Barcelona · 24 · bereits 1 Tor",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "elmala.jpg",
+      "name": "Said El Mala",
+      "role": "1. FC Köln · 19 · fix im Kader",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beier.jpg",
+      "name": "Maximilian Beier",
+      "role": "BVB · 23",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 23 · 1 Tor 1 Assist",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "sane_kimmich.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Deine Meinung!",
+      "subtitle": "Verdient Sané noch einen Platz in Klopps erstem DFB-Kader?",
+      "image": "dfb_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
