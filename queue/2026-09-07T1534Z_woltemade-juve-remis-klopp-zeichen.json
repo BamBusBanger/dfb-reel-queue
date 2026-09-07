@@ -1,0 +1,34 @@
+{
+  "slug": "woltemade-juve-remis-klopp-zeichen",
+  "createdAt": "2026-09-07T15:34:00Z",
+  "title": "Woltemade: 3 Gründe für Klopps ersten Kader",
+  "script": "0 WM-Minuten, verschossener Elfmeter gegen Paraguay – und trotzdem ist er jetzt zurück! Nick Woltemades Juve-Debüt gestern Abend: nur 15 Minuten gegen AC Milan, aber sofort die entscheidende Vorlage zum Last-Minute-Ausgleich in Minute 90 plus 2! Grund 1: Er liefert sofort unter Druck. Grund 2: Klopp rotiert – 4 Spiele in 11 Tagen, niemand spielt alles. Grund 3: 75 Millionen Euro Stürmer auf der Bank ist unmöglich. 10 Tage bis zur Kader-PK – kommt Woltemade rein?",
+  "uploadCaption": "0 WM-Minuten, verschossener Elfmeter gegen Paraguay – und gestern 15 Minuten Juve-Debüt mit der Vorlage zum Last-Minute-Ausgleich gegen AC Milan. 3 Gründe, warum Nick Woltemade jetzt in Klopps ersten DFB-Kader gehört 👇",
+  "uploadHashtags": "#DFB #Woltemade #Juventus #KloppÄra #Nationalmannschaft #NationsLeague2026 #WM2026",
+  "images": [
+    { "file": "woltemade_portrait.jpg", "search": "Nick Woltemade" },
+    { "file": "woltemade_juve.jpg", "search": "Nick Woltemade Juventus 2026" },
+    { "file": "woltemade_jubel.jpg", "search": "Nick Woltemade Jubel" },
+    { "file": "woltemade_dfb.jpg", "search": "Nick Woltemade DFB Nationalmannschaft" },
+    { "file": "juve_stadion.jpg", "search": "Juventus Allianz Stadium Turin" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "pokal.jpg", "search": "WM Pokal Gold" },
+    { "file": "dfb_fans.jpg", "search": "Deutschland Fans" },
+    { "file": "public_viewing_hoffen.jpg", "search": "Public Viewing Deutschland Spannung" },
+    { "file": "public_viewing_entsetzen.jpg", "search": "Public Viewing Entsetzen Deutschland" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "0 WM-MINUTEN – DANN DAS!", "image": "woltemade_portrait.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "JUVE 1:1 MILAN", "title": "Woltemades Comeback", "image": "woltemade_juve.jpg", "weight": 0.7 },
+    { "type": "image", "image": "woltemade_jubel.jpg", "name": "Nick Woltemade", "role": "Stürmer · 24 J.", "weight": 0.8 },
+    { "type": "image", "image": "woltemade_dfb.jpg", "name": "Nick Woltemade", "role": "75 Mio € · 0 WM-Minuten", "weight": 0.8 },
+    { "type": "stats", "title": "Juve-Debüt gestern", "stats": [{ "label": "Minuten vs AC Milan", "value": "15" }, { "label": "Ablöse Newcastle", "value": "75 Mio €" }, { "label": "Tage bis Kader-PK", "value": "10" }], "image": "juve_stadion.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · Kader-PK 17. Sept.", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 108 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "pokal.jpg", "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "public_viewing_hoffen.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Woltemade in Klopps Kader?", "subtitle": "Kommentiert: Ja oder Nein!", "image": "public_viewing_entsetzen.jpg", "weight": 1.0 }
+  ]
+}
