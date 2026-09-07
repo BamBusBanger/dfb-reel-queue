@@ -538,3 +538,4 @@
 2026-09-06 | woltemade-kolomuani-juve-duell | Woltemade Juventus-Debüt heute vs AC Milan 18:45, Kolo Muani Sturm-Konkurrenz, Buffon Ibrahimovic-Vergleich, 75 Mio. € 0 WM-Minuten, Klopp schaut zu Kader-PK 17.9. 11 Tage (DUELL/VERGLEICH)
 2026-09-06 | bundesliga-spieltag2-drei-klopp-signale | Bundesliga Spieltag 2 Klopp-Kader-Signale: Andrich Leverkusen 4:0, El Mala Stuttgart-Desaster, Atubolu Frankfurt (TOP-3-LISTE)
 2026-09-06 | atubolu-patzer-klopp-traum-geplatzt | Atubolu Faustball-Katastrophe Frankfurt 1:4 Augsburg Spieltag 2, 47. Min Fehler, 11 Tage bis Klopp-Kader 17.9., Nr.1-Kandidat ter Stegen/Baumann/Urbig lauern (NEWS-DRAMA)
+2026-09-07 | banks-usa-dfb-klopp-pochettino | Noahkai Banks 19J Augsburg Hawaii-geboren Dual-Eligibility DFB vs USA, Klopp vs Pochettino WM-2030-Kampf, 12 U-Spiele USA 0 A-Länderspiele, Kader-PK 17.9. Amsterdam-Debüt 24.9. (DUELL/VERGLEICH)

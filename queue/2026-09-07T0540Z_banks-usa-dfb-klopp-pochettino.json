@@ -1,0 +1,93 @@
+{
+  "slug": "banks-usa-dfb-klopp-pochettino",
+  "createdAt": "2026-09-07T05:40:00Z",
+  "title": "Verliert der DFB Banks an die USA?",
+  "script": "In Hawaii GEBOREN, mit deutschem Pass – und nur 10 Tage bis zur Entscheidung. Noahkai Banks, 19, Innenverteidiger beim FC Augsburg, ist Klopps heißestes Abwehr-Juwel. Doch US-Coach Pochettino will ihn auch – als WM-2030-Kandidat. 12 U-Spiele für Amerika, noch KEIN A-Länderspiel für niemanden – er kann noch wechseln. Am 17. September benennt Klopp seinen ersten Kader. Holt er Banks für den DFB – oder verliert Deutschland das nächste Doppelpass-Talent an die Stars and Stripes?",
+  "uploadCaption": "In Hawaii geboren, aber für wen spielt er? Klopp hat nur 10 Tage – sonst schnappt sich Pochettino das nächste DFB-Talent für die USA. 🇩🇪 vs 🇺🇸 #DFB #NoahkaiBanks #Klopp",
+  "uploadHashtags": "#DFB #WM2030 #Klopp #Nationalmannschaft #NoahkaiBanks #USA #Fussball #Bundesliga #Augsburg",
+  "images": [
+    { "file": "banks.jpg",           "search": "Noahkai Banks" },
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "usa_flag.jpg",        "search": "USA Flagge" },
+    { "file": "dfb_trikot.jpg",      "search": "DFB Trikot" },
+    { "file": "pochettino.jpg",      "search": "Mauricio Pochettino" },
+    { "file": "augsburg_stadion.jpg","search": "WWK Arena Augsburg" },
+    { "file": "deutschland_fans.jpg","search": "Deutschland Fans" },
+    { "file": "deutschland_flagge.jpg","search": "Deutschland Flagge" },
+    { "file": "wm2026_logo.jpg",     "search": "WM 2026 Logo" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "IN HAWAII GEBOREN – FÜR WEN SPIELT ER?",
+      "image": "banks.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB vs. USA",
+      "title": "Der Banks-Krimi",
+      "image": "dfb_trikot.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "banks.jpg",
+      "name": "Noahkai Banks",
+      "role": "Innenverteidiger · 19 · FC Augsburg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Kader-PK 17. September",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Banks – die Zahlen",
+      "stats": [
+        { "label": "U-Spiele USA", "value": "12" },
+        { "label": "A-Länderspiele", "value": "0" },
+        { "label": "Tage bis Klopp-Kader", "value": "10" }
+      ],
+      "image": "usa_flag.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "pochettino.jpg",
+      "name": "Mauricio Pochettino",
+      "role": "USA-Coach · will Banks für WM 2030",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "augsburg_stadion.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm2026_logo.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schnappt Klopp Banks – oder verliert der DFB das nächste Doppelpass-Talent an die USA?",
+      "subtitle": "Kommentar: 🇩🇪 oder 🇺🇸?",
+      "image": "banks.jpg",
+      "weight": 1.0
+    }
+  ]
+}
