@@ -1,0 +1,38 @@
+{
+  "slug": "spieltag3-klopp-finalprobe",
+  "createdAt": "2026-09-07T17:36:00Z",
+  "title": "Spieltag 3: Klopps letzte Probe",
+  "script": "KLOPP HAT NOCH 10 TAGE. Dann steht sein erster DFB-Kader fest. 57 Kandidaten kämpfen um 26 Plätze. Sein letztes Live-Scouting: Bundesliga-Spieltag 3, am 12. und 13. September. Atubolu muss nach dem Faustball-Desaster in Frankfurt liefern. Reitz kämpft gegen den HSV um seinen ersten Länderspielaufruf. Stiller braucht 90 Minuten starkes Argument. Ter Stegen wartet auf seine Klopp-Chance. Jede Geste, jeder Fehler landet auf Klopps Schreibtisch. Wer macht's in den historischen ersten Kader? Wer bleibt zuhause?",
+  "uploadCaption": "Spieltag 3 – Klopps letztes Live-Scouting vor dem ersten DFB-Kader am 17. September. 57 Kandidaten. 26 Plätze. 5 Spieler zittern. 🔥",
+  "uploadHashtags": "#DFB #Klopp #Bundesliga #Nationalmannschaft #NationsLeague #WM2030 #Fussball",
+  "images": [
+    { "file": "klopp.jpg",           "search": "Jürgen Klopp" },
+    { "file": "klopp2.jpg",          "search": "Jürgen Klopp DFB Pressekonferenz" },
+    { "file": "atubolu.jpg",         "search": "Noah Atubolu DFB Torwart" },
+    { "file": "reitz.jpg",           "search": "Rocco Reitz RB Leipzig" },
+    { "file": "stiller.jpg",         "search": "Angelo Stiller" },
+    { "file": "nmecha.jpg",          "search": "Felix Nmecha" },
+    { "file": "terstegen.jpg",       "search": "Marc-Andre ter Stegen DFB" },
+    { "file": "fans_dfb.jpg",        "search": "DFB Fans" },
+    { "file": "hoffen.jpg",          "search": "public viewing hoffen" },
+    { "file": "entsetzen.jpg",       "search": "public viewing entsetzen" },
+    { "file": "kader_countdown.jpg", "search": "DFB Kader Nominierung Spannung Countdown", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "KLOPP HAT NOCH 10 TAGE.",                                             "image": "klopp.jpg",          "weight": 0.5 },
+    { "type": "title", "eyebrow": "SPIELTAG 3 · 12./13. SEPTEMBER",  "title": "Klopps letzte Probe", "image": "hoffen.jpg",          "weight": 0.7 },
+    { "type": "image", "image": "klopp2.jpg",     "name": "Jürgen Klopp",         "role": "Bundestrainer · 57 Kandidaten / 26 Plätze",   "weight": 0.8 },
+    { "type": "image", "image": "atubolu.jpg",    "name": "Noah Atubolu",          "role": "Torwart · Eintracht Frankfurt · Desaster reparieren", "weight": 0.8 },
+    { "type": "stats", "title": "10 Tage bis zur Entscheidung", "stats": [
+        { "label": "Kandidaten",              "value": "57" },
+        { "label": "Kader-Plätze",            "value": "26" },
+        { "label": "Trainings vor Amsterdam", "value": "2" }
+      ],                                                                                               "image": "fans_dfb.jpg",       "weight": 0.9 },
+    { "type": "image", "image": "reitz.jpg",      "name": "Rocco Reitz",           "role": "Mittelfeld · RB Leipzig · 0 A-Länderspiele",  "weight": 0.8 },
+    { "type": "image", "image": "stiller.jpg",    "name": "Angelo Stiller",        "role": "Mittelfeld · VfB Stuttgart · 9 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "nmecha.jpg",     "name": "Felix Nmecha",          "role": "Mittelfeld · BVB · 269 WM-Minuten",           "weight": 0.8 },
+    { "type": "image", "image": "terstegen.jpg",  "name": "Marc-André ter Stegen", "role": "Torwart · Ajax · 34 A-Länderspiele",          "weight": 0.8 },
+    { "type": "image", "image": "entsetzen.jpg",                                                                                           "weight": 0.8 },
+    { "type": "outro", "title": "Wen setzt Klopp am 17. überraschend aus dem Kader?", "subtitle": "Kommentiere deinen Tipp 👇",           "image": "kader_countdown.jpg", "weight": 1.0 }
+  ]
+}

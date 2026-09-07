@@ -542,3 +542,4 @@
 2026-09-07 | brunner-bvb-monaco-klopp | Paris Brunner 20J. Ex-BVB jetzt Monaco 4 Tore 5 Spiele U17-WM-Held 2023 Klopp schaut live zu 4. September erster Kader 17. September (GEHEIMNIS)
 2026-09-07 | sane-klopp-kandidat | Sané 0 Tore 0 Vorlagen Galatasaray 4 Spiele, Klopp kein Anruf, 10 Tage bis Kader-PK 17.9., Adeyemi/El Mala/Beier Konkurrenten, 75 LS 16 Tore DFB-Karriereende-Frage (NEWS-DRAMA)
 2026-09-07 | woltemade-juve-remis-klopp-zeichen | Woltemade Juventus-Debüt 1:1 AC Milan 15 Min Vorlage Last-Minute-Ausgleich 90+2, 75 Mio € 0 WM-Min, 3 Gründe für Klopps ersten Kader 17.9. (TOP-3-LISTE)
+2026-09-07 | spieltag3-klopp-finalprobe | Bundesliga Spieltag 3 (12./13.9.) letztes Klopp-Scouting vor Kader-PK 17.9., 57 Kandidaten 26 Plätze, Atubolu Faustball-Desaster, Reitz Leipzig vs HSV 0 A-LS, Stiller Nmecha Ter Stegen zittern, 2 Trainings bis Amsterdam 24.9. (NEWS-DRAMA)
