@@ -1,0 +1,104 @@
+{
+  "slug": "klopp-finalfour-oder-abstieg",
+  "createdAt": "2026-09-08T17:34:00Z",
+  "title": "Final Four oder Abstieg – Klopps Nations-League-Mission",
+  "script": "4 SPIELE – das ist Jürgen Klopps erste Bewährungsprobe als Bundestrainer. Am 24. September geht's in Amsterdam gegen die Niederlande los. Ziel: Gruppensieger werden und ins Nations-League-Final-Four 2027 einziehen – Deutschlands erster Titel-Shoot nach 3 WM-Frühaus-Desastern in Folge. Doch der Letzte der Gruppe steigt direkt ab in Liga B. Nur 2 Trainingseinheiten vor dem Debüt. Am 17. September nennt Klopp seinen ersten Kader – mit Wirtz, Musiala, Kimmich als Kern und El Mala (19) als mögliche Überraschung. Klopp – oder Abgrund?",
+  "uploadCaption": "4 Spiele, alles auf dem Spiel: Klopp jagt das Nations-League-Final-Four – oder Deutschland steigt ab. Der Neustart beginnt am 24. September in Amsterdam. Bist du dabei?",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #Deutschland #Wirtz #Musiala #WM2030",
+  "images": [
+    { "file": "klopp.jpg",        "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "kimmich.jpg",      "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg",        "search": "Florian Wirtz" },
+    { "file": "musiala.jpg",      "search": "Jamal Musiala" },
+    { "file": "havertz.jpg",      "search": "Kai Havertz" },
+    { "file": "team.jpg",         "search": "DFB Nationalmannschaft 2026" },
+    { "file": "fans.jpg",         "search": "DFB Fans" },
+    { "file": "pokal.jpg",        "search": "UEFA Nations League trophy" },
+    { "file": "amsterdam.jpg",    "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "finalfour.jpg",    "search": "Nations League Final Four Jubel", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "4 SPIELE – FINAL FOUR ODER ABSTIEG!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "NATIONS LEAGUE 2026/27",
+      "title": "Klopps erste Mission",
+      "image": "team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Debüt 24. September",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz.jpg",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · 125 Mio. £ Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Comeback nach Epilepsie-Diagnose",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Was ist auf dem Spiel?",
+      "stats": [
+        { "label": "Gruppensieger", "value": "Final Four 2027" },
+        { "label": "Letzter", "value": "Abstieg Liga B" },
+        { "label": "Spiele", "value": "4 in 11 Tagen" },
+        { "label": "Trainings bis Debüt", "value": "nur 2" }
+      ],
+      "image": "pokal.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Stürmer · Arsenal",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "finalfour.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Schafft Klopp das Final Four?",
+      "subtitle": "Oder droht Deutschlands Abstieg in Liga B?",
+      "image": "team.jpg",
+      "weight": 1.0
+    }
+  ]
+}
