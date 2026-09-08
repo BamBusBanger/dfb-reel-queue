@@ -1,0 +1,105 @@
+{
+  "slug": "karl-vs-elmala-klopp-2030",
+  "createdAt": "2026-09-08T05:34:00Z",
+  "title": "Karl vs. El Mala – Klopps 2030-Juwel",
+  "script": "2 Teenager kämpfen um Klopps ersten DFB-Kader! Lennart Karl: 18 Jahre, Bayern München – verpasste die WM mit einem Muskelbündelriss. Nach 78 Tagen Kampf war Klopp beim Comeback 5:1 gegen Stuttgart live dabei – ohne Anruf! Said El Mala: 19 Jahre, Köln, 13 Bundesliga-Tore – Klopp rief persönlich an und gab ihm Podolskis Nummer 10. Kader-PK in 9 Tagen. Nur einer kann Klopps 2030-Star werden. Wer setzt sich durch?",
+  "uploadCaption": "18 vs. 19 Jahre – Klopps jüngste WM-2030-Hoffnungen kämpfen um den ersten Kader! Karl ohne Anruf. El Mala schon fix. Wem gehört die Zukunft der Nationalmannschaft?",
+  "uploadHashtags": "#DFB #Klopp #LennartKarl #ElMala #WM2030 #Nationalmannschaft #Bundesliga #Deutschland",
+  "images": [
+    { "file": "karl.jpg",           "search": "Lennart Karl" },
+    { "file": "elmala.jpg",         "search": "Said El Mala FC Köln" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "dfb_team.jpg",       "search": "Deutschland Nationalmannschaft 2026" },
+    { "file": "allianz_arena.jpg",  "search": "Allianz Arena München" },
+    { "file": "dfb_fans.jpg",       "search": "DFB Fans Deutschland Fahnen" },
+    { "file": "wm_pokal.jpg",       "search": "WM Pokal FIFA" },
+    { "file": "ouedraogo.jpg",      "search": "Assan Ouédraogo" },
+    { "file": "tribuene_fans.jpg",  "search": "DFB Fans Tribüne Stadion" },
+    { "file": "kader_countdown.jpg","search": "DFB Kader Nominierung Countdown September 2026", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "2 TEENAGER. 1 KADER-PLATZ.",
+      "image": "karl.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KADER-PK IN 9 TAGEN",
+      "title": "Karl vs. El Mala",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "karl.jpg",
+      "name": "Lennart Karl",
+      "role": "Stürmer · 18 · Bayern München",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Karl: Harter Weg zurück",
+      "stats": [
+        { "label": "WM 2026 verpasst", "value": "78 Tage" },
+        { "label": "Comeback BL Spieltag 1", "value": "5:1 Stuttgart" }
+      ],
+      "image": "allianz_arena.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "elmala.jpg",
+      "name": "Said El Mala",
+      "role": "Stürmer · 19 · FC Köln",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "El Mala: Klopps Designierter",
+      "stats": [
+        { "label": "Bundesliga-Tore", "value": "13" },
+        { "label": "Klopp-Anruf", "value": "✓ Kader fix" }
+      ],
+      "image": "dfb_fans.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · seit 15.8.2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ouedraogo.jpg",
+      "name": "Assan Ouédraogo",
+      "role": "Karls WM-Ersatz · 20 · RB Leipzig",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "tribuene_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wm_pokal.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kader_countdown.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Karl oder El Mala?",
+      "subtitle": "Wer wird Klopps 2030-Star?",
+      "image": "tribuene_fans.jpg",
+      "weight": 1.0
+    }
+  ]
+}
