@@ -1,0 +1,108 @@
+{
+  "slug": "torwart-top3-klopp-thronfolge",
+  "createdAt": "2026-09-08T15:37:00Z",
+  "title": "Wer erbt Neuers Tor?",
+  "script": "VÖLLIG OFFEN – 9 Tage vor Klopps erstem Kader steht Deutschlands neue Nummer Eins noch NICHT fest! Manuel Neuer hinterlässt eine gigantische Lücke nach 125 Länderspielen. Kandidat 1: Ter Stegen, 34, 48 Länderspiele, Man of the Match bei Ajax. Kandidat 2: Atubolu, nur 24, Klopps Wunschmann, aber zuletzt fatales Faustball-Patzer gegen Augsburg. Kandidat 3: Baumann, 36, Stammkeeper durch die gesamte WM-Quali, pure Verlässlichkeit. Am 17. September entscheidet Klopp – wer erbt den deutschen Kasten?",
+  "uploadCaption": "Neuer ist weg – und sein Erbe ist riesig 🧤 9 Tage vor Klopps erstem DFB-Kader ist die Nummer-Eins-Frage VÖLLIG offen. Ter Stegen, Atubolu oder Baumann? Schreib deinen Favoriten in die Kommentare!",
+  "uploadHashtags": "#DFB #Klopp #TerStegen #Atubolu #Baumann #Torwart #NationsLeague #WM2026 #Bundestrainer",
+  "images": [
+    { "file": "neuer_parade_dfb_01.jpg",          "search": "Manuel Neuer" },
+    { "file": "neuer_01.png",                      "search": "Manuel Neuer DFB" },
+    { "file": "neuer_pressekonverenz_dfb_01.webp", "search": "Manuel Neuer Pressekonferenz DFB" },
+    { "file": "neuer_aufwaermen_dfb_01.jpg",       "search": "Manuel Neuer aufwärmen DFB" },
+    { "file": "terstegen_ajax_2026.jpg",           "search": "Marc-André ter Stegen Ajax 2026" },
+    { "file": "atubolu_dfb_2026.jpg",              "search": "Noah Atubolu DFB Eintracht Frankfurt 2026" },
+    { "file": "baumann_01.png",                    "search": "Oliver Baumann" },
+    { "file": "baumann_training_dfb_01.jpg",       "search": "Oliver Baumann DFB Training" },
+    { "file": "juergen_klopp_01.jpg",              "search": "Jürgen Klopp Bundestrainer DFB" },
+    { "file": "public_viewing_hoffen_01.jpg",      "search": "DFB Fans public viewing" },
+    { "file": "deutschland-teamfoto-2026-hochkant.jpg", "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wm_pokal_staender_01.jpg",          "search": "WM Pokal Trophäe" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "VÖLLIG OFFEN.",
+      "image": "neuer_parade_dfb_01.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "9 TAGE BIS KLOPP-KADER",
+      "title": "Wer erbt Neuers Tor?",
+      "image": "neuer_01.png",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "neuer_pressekonverenz_dfb_01.webp",
+      "name": "Manuel Neuer",
+      "role": "Torwart-Legende · 125 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Das Erbe ist riesig",
+      "stats": [
+        { "label": "Länderspiele", "value": "125" },
+        { "label": "WM-Einsätze", "value": "21" }
+      ],
+      "image": "neuer_aufwaermen_dfb_01.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "terstegen_ajax_2026.jpg",
+      "name": "Marc-André ter Stegen",
+      "role": "Kandidat #1 · 34 · 48 LS · Ajax-MotM",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "atubolu_dfb_2026.jpg",
+      "name": "Noah Atubolu",
+      "role": "Kandidat #2 · 24 · Klopps Favorit",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "baumann_01.png",
+      "name": "Oliver Baumann",
+      "role": "Kandidat #3 · 36 · Stammkeeper WM-Quali",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopp entscheidet in 9 Tagen",
+      "stats": [
+        { "label": "Kandidaten gesamt", "value": "5+" },
+        { "label": "Plätze im Tor", "value": "3" },
+        { "label": "Nummer Eins offen", "value": "ja" }
+      ],
+      "image": "baumann_training_dfb_01.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "juergen_klopp_01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "public_viewing_hoffen_01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "deutschland-teamfoto-2026-hochkant.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Ter Stegen, Atubolu oder Baumann?",
+      "subtitle": "Schreib deinen Favoriten! 👇",
+      "image": "wm_pokal_staender_01.jpg",
+      "weight": 1.0
+    }
+  ]
+}

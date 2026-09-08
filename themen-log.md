@@ -547,3 +547,4 @@
 2026-09-08 | karl-vs-elmala-klopp-2030 | Karl 18J Bayern WM-Muskelbündelriss 78 Tage Comeback Klopp-Tribüne kein Anruf vs El Mala 19J Köln 13 Tore Klopp-Anruf Kader fix, Kader-PK 17.9. 9 Tage (DUELL/VERGLEICH)
 2026-09-08 | goretzka-verletzung-klopp-kader-aus | Goretzka Knieproblem Aston Villa wochenlang aus, verpasst Klopps ersten DFB-Kader 17.9., 70 Länderspiele 27 WM-Bankminuten, 'Es ist frustrierend', Amsterdam-Debüt 24.9. (NEWS-DRAMA)
 2026-09-08 | wirtz-53-ballverluste-pl-klopp | Wirtz 53 Ballverluste 3 PL-Spiele Ligarekord 0 Tore 125 Mio Pfund aberkanntes Tor erstmals Schiedsrichter-Erklärung live TV Klopp Liverpool-Insider 9 Tage bis Kader-PK (GEHEIMNIS)
+2026-09-08 | torwart-top3-klopp-thronfolge | Wer erbt Neuers Tor? Klopps 3 Torwart-Kandidaten Ter Stegen/Atubolu/Baumann völlig offen 9 Tage vor Kader-PK 17.9. Amsterdam-Debüt 24.9. (TOP-3-LISTE)
