@@ -1,0 +1,104 @@
+{
+  "slug": "goretzka-verletzung-klopp-kader-aus",
+  "createdAt": "2026-09-08T09:34:30Z",
+  "title": "Goretzka verletzt – Klopp-Kader geplatzt!",
+  "script": "VERLETZT! Leon Goretzka wechselt ablösefrei zu Aston Villa – und fällt sofort wochenlang mit Knieproblemen aus. 70 Länderspiele, Champions-League-Sieger 2020, aber nur 27 WM-Bankminuten. Und jetzt der nächste Schlag: Klopps ersten DFB-Kader am 17. September kann er VERGESSEN. Goretzka selbst sagt: 'Es ist frustrierend.' Während Wirtz, Kimmich und Musiala in Amsterdam auflaufen, sitzt er zuhause. Ist seine DFB-Karriere unter Klopp schon beendet, bevor sie begann?",
+  "uploadCaption": "Leon Goretzka wechselt ablösefrei zu Aston Villa – und fällt sofort wochenlang aus. Klopps ersten DFB-Kader am 17. September verpasst er definitiv. 70 Länderspiele, Champions-League-Sieger, doch unter Nagelsmann nur 27 WM-Bankminuten. Schreibt das die Geschichte vom Ende seiner Nationalmannschaftskarriere? 👇",
+  "uploadHashtags": "#DFB #Goretzka #Klopp #NationsLeague #AstonVilla #Nationalmannschaft #WM2030",
+  "images": [
+    { "file": "goretzka_01.png", "search": "Leon Goretzka" },
+    { "file": "goretzka_training_01.jpg", "search": "Leon Goretzka Training Bayern" },
+    { "file": "klopp_01.jpg", "search": "Jürgen Klopp Bundestrainer DFB 2026" },
+    { "file": "kimmich_01.png", "search": "Joshua Kimmich" },
+    { "file": "wirtz_01.png", "search": "Florian Wirtz" },
+    { "file": "pavlovic_01.png", "search": "Aleksandar Pavlović" },
+    { "file": "dfb_team_2026.jpg", "search": "DFB Nationalmannschaft Teamfoto 2026" },
+    { "file": "goretzka_villa_01.jpg", "search": "Leon Goretzka Aston Villa 2026" },
+    { "file": "kimmich_training_dfb_01.jpg", "search": "Joshua Kimmich" },
+    { "file": "fans_dfb_01.jpg", "search": "DFB Fans Deutschland" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "VERLETZT – KLOPP-KADER WEG!",
+      "image": "goretzka_01.png",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "DFB-SCHOCK",
+      "title": "Goretzka verpasst Klopps ersten Kader",
+      "image": "goretzka_training_01.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "goretzka_01.png",
+      "name": "Leon Goretzka",
+      "role": "Aston Villa · 70 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "goretzka_villa_01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Goretzka – die Bilanz",
+      "stats": [
+        { "label": "Länderspiele", "value": "70" },
+        { "label": "WM-Bankminuten 2026", "value": "27" },
+        { "label": "Wochen verletzt", "value": "mehrere" },
+        { "label": "Kader-PK", "value": "17.9." }
+      ],
+      "image": "goretzka_training_01.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp_01.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Debüt 24.9. Amsterdam",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich_01.png",
+      "name": "Joshua Kimmich",
+      "role": "Kapitän · 109 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_01.png",
+      "name": "Florian Wirtz",
+      "role": "Offensiv · Liverpool · 125 Mio. £",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pavlovic_01.png",
+      "name": "Aleksandar Pavlović",
+      "role": "Mittelfeld · Bayern München",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_team_2026.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_dfb_01.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Ist Goretzkas DFB-Karriere vorbei?",
+      "subtitle": "Schreib's in die Kommentare ⬇️",
+      "image": "fans_dfb_01.jpg",
+      "weight": 1.0
+    }
+  ]
+}
