@@ -1,0 +1,34 @@
+{
+  "slug": "matthaeus-vs-klopp-terminstreit",
+  "createdAt": "2026-09-08T19:34:00Z",
+  "title": "Matthäus greift Klopp an – vor dem ersten Kader!",
+  "script": "Lothar Matthäus greift Klopp an – und das noch VOR dem ersten Kader! Der Rekordnationalspieler mit 150 Länderspielen fordert: keine Donnerstagsnominierung! Sein Argument: Europa- und Conference-League-Spieler stehen dann kurz vor wichtigen Partien – der Druck ist unfair. Klopp hält an der Tradition fest. 9 Tage bis zur Kader-PK am 17. September. 57 Kandidaten. 26 Plätze. Und schon streitet Deutschland über den neuen Bundestrainer.",
+  "uploadCaption": "Matthäus gegen Klopp – noch vor dem ersten Kader! 150 Länderspiele sprechen laut, aber Klopp macht's anders. Wer hat Recht? Kommentiert! 👇",
+  "uploadHashtags": "#DFB #Klopp #Matthäus #NationsLeague #Bundestrainer #Nationalmannschaft #Deutschland",
+  "images": [
+    { "file": "donnerstag-europa.jpg", "search": "Europa League Donnerstagsspiel Stadion Nacht Atmosphäre", "thematic": true },
+    { "file": "teamfoto.jpg", "search": "DFB Nationalmannschaft 2026" },
+    { "file": "matthaeus.jpg", "search": "Lothar Matthäus" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "sane.jpg", "search": "Leroy Sané" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "fans.jpg", "search": "DFB Fans Fanmeile" },
+    { "file": "hoffen.jpg", "search": "Public Viewing Fans Spannung Hoffen" },
+    { "file": "flagge.jpg", "search": "Deutschland Flagge Berlin Reichstag" },
+    { "file": "wm-pokal.jpg", "search": "WM Pokal Gold Trophäe" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "MATTHÄUS GREIFT KLOPP AN.", "image": "donnerstag-europa.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "DUELL DER GENERATIONEN", "title": "Matthäus vs. Klopp", "image": "teamfoto.jpg", "weight": 0.7 },
+    { "type": "image", "image": "matthaeus.jpg", "name": "Lothar Matthäus", "role": "150 Länderspiele · Weltmeister 1990", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · DFB seit 2026", "weight": 0.8 },
+    { "type": "stats", "title": "Die Fakten", "stats": [{ "label": "Matthäus-Länderspiele", "value": "150" }, { "label": "Klopp-Kandidaten", "value": "57" }, { "label": "Tage bis Kader-PK", "value": "9" }], "image": "wirtz.jpg", "weight": 0.9 },
+    { "type": "image", "image": "sane.jpg", "name": "Leroy Sané", "role": "Galatasaray · 75 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "hoffen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "flagge.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Matthäus oder Klopp?", "subtitle": "Wer hat Recht? Kommentiert! 👇", "image": "wm-pokal.jpg", "weight": 1.0 }
+  ]
+}
