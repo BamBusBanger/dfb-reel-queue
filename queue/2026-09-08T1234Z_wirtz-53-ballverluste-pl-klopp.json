@@ -1,0 +1,97 @@
+{
+  "slug": "wirtz-53-ballverluste-pl-klopp",
+  "createdAt": "2026-09-08T12:34:00Z",
+  "title": "Wirtz' geheimes Liverpool-Problem – und Klopp kennt die Lösung",
+  "script": "SCHOCKZAHL: Florian Wirtz verlor in nur 3 Premier-League-Spielen den Ball 53 Mal – Ligabestwert negativ. 125 Millionen Pfund, 0 Tore diese Saison. Sein Tor gegen Nottingham Forest wurde aberkannt – und erstmals in der PL-Geschichte lief die Schiedsrichter-Erklärung live im Fernsehen. Beim DFB ist er dagegen unantastbar. Klopp nominiert ihn in 9 Tagen fix in seinen ersten Kader – denn als ehemaliger Liverpool-Trainer kennt der Bundestrainer das Geheimnis hinter diesem Formtief. Was steckt wirklich dahinter?",
+  "uploadCaption": "😱 53 Ballverluste in 3 Spielen – trotzdem fix im ersten Klopp-Kader! Was läuft bei Wirtz in Liverpool wirklich falsch? 👇",
+  "uploadHashtags": "#Wirtz #Liverpool #DFB #Klopp #NationsLeague #Fussball #WM2026",
+  "images": [
+    { "file": "wirtz_presse.jpg",      "search": "Florian Wirtz" },
+    { "file": "wirtz_training.jpg",    "search": "Florian Wirtz Liverpool" },
+    { "file": "wirtz_portrait.jpg",    "search": "Florian Wirtz" },
+    { "file": "wirtz_zweikampf.jpg",   "search": "Florian Wirtz" },
+    { "file": "klopp.jpg",             "search": "Jürgen Klopp" },
+    { "file": "anfield.jpg",           "search": "Anfield Liverpool Stadium" },
+    { "file": "ballverlust.jpg",       "search": "Ballverlust Frustration Mittelfeldspieler", "thematic": true },
+    { "file": "musiala.jpg",           "search": "Jamal Musiala" },
+    { "file": "wirtz_jubel_dfb.jpg",   "search": "Florian Wirtz DFB" },
+    { "file": "fans.jpg",              "search": "DFB Fans" },
+    { "file": "wirtz_jubel.jpg",       "search": "Florian Wirtz Jubel" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "53 MAL DEN BALL VERLOREN – LIGABESTWERT!",
+      "image": "wirtz_presse.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "GEHEIMNIS",
+      "title": "Wirtz' Liverpool-Problem",
+      "image": "wirtz_training.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "wirtz_portrait.jpg",
+      "name": "Florian Wirtz",
+      "role": "Liverpool · 23 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "PL-Saison 26/27 – nur 3 Spiele",
+      "stats": [
+        { "label": "Ballverluste", "value": "53" },
+        { "label": "Tore", "value": "0" },
+        { "label": "Ablöse", "value": "125 Mio £" }
+      ],
+      "image": "wirtz_zweikampf.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "anfield.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Ex-Liverpool",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "ballverlust.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Bayern München · 23 Jahre",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "wirtz_jubel_dfb.jpg",
+      "name": "Florian Wirtz",
+      "role": "DFB · 2 WM-Assists",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Liverpool-Flop oder DFB-Star?",
+      "subtitle": "Wird Wirtz 2026/27 noch zum Premier-League-Star?",
+      "image": "wirtz_jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}
