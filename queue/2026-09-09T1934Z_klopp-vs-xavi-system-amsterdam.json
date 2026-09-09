@@ -1,0 +1,36 @@
+{
+  "slug": "klopp-vs-xavi-system-amsterdam",
+  "createdAt": "2026-09-09T19:34:00Z",
+  "title": "Klopp vs. Xavi: Der Trainer-Showdown in Amsterdam",
+  "script": "GLEICHE FORMATION – ENTGEGENGESETZTE PHILOSOPHIE! Am 24. September treffen in Amsterdam 2 völlig verschiedene Fußball-Welten aufeinander. Klopps DFB: 4-3-3 Gegenpressing, 96 Kilometer pro Spiel, 5 Titel in 9 Liverpool-Jahren. Xavis Niederlande: 4-3-3 Tiki-Taka, 620 Pässe pro Spiel, 4 Champions-League-Titel als Spieler von Barcelona. Der entscheidende Haken: Gakpo und Gravenberch kennen Klopps System von innen – beide spielten UNTER IHM bei Liverpool. Klopp weiß natürlich genauso gut, wie die Niederländer ticken. 15 Tage bis zum Duell der Trainer-Philosophien. Wer hat die bessere Idee – Klopp oder Xavi?",
+  "uploadCaption": "GLEICHE FORMATION, ENTGEGENGESETZTE PHILOSOPHIE 🔥 Am 24. September trifft Jürgen Klopp mit dem DFB in Amsterdam auf Xavi Hernández und die Niederlande – ein Duell zweier Fußball-Welten. Klopp-Gegenpressing gegen Xavi-Tiki-Taka. Wer gewinnt das Trainer-Duell?",
+  "uploadHashtags": "#DFB #Klopp #Xavi #NationsLeague #Deutschland #Niederlande #Amsterdam #WM2026 #Fussball",
+  "images": [
+    { "file": "wirtz.jpg",         "search": "Florian Wirtz" },
+    { "file": "amsterdam_arena.jpg","search": "Johan Cruyff Arena Amsterdam 2026" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "xavi.jpg",           "search": "Xavi Hernandez Netherlands coach 2026" },
+    { "file": "kimmich.jpg",        "search": "Joshua Kimmich" },
+    { "file": "musiala.jpg",        "search": "Jamal Musiala" },
+    { "file": "beier.jpg",          "search": "Max Beier" },
+    { "file": "havertz.jpg",        "search": "Kai Havertz" },
+    { "file": "fans_de.jpg",        "search": "DFB Fans" },
+    { "file": "flagge_de.jpg",      "search": "Deutschland Flagge" },
+    { "file": "tah.jpg",            "search": "Jonathan Tah" },
+    { "file": "jubel_menge.jpg",    "search": "DFB Jubel Fans Stadion" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "GLEICHE FORMATION. ENTGEGENGESETZTE PHILOSOPHIE.", "image": "wirtz.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "AMSTERDAM · 24. SEPTEMBER", "title": "Klopp vs. Xavi", "image": "amsterdam_arena.jpg", "weight": 0.7 },
+    { "type": "image", "image": "klopp.jpg",    "name": "Jürgen Klopp",      "role": "Bundestrainer · Gegenpressing", "weight": 0.8 },
+    { "type": "image", "image": "xavi.jpg",     "name": "Xavi Hernández",    "role": "Oranje-Coach · Tiki-Taka",     "weight": 0.8 },
+    { "type": "stats", "title": "Klopp-System", "stats": [{ "label": "Laufleistung/Spiel", "value": "96 km" }, { "label": "Titel FC Liverpool", "value": "5" }, { "label": "Jahre Liverpool", "value": "9" }], "image": "kimmich.jpg", "weight": 0.9 },
+    { "type": "image", "image": "musiala.jpg",  "name": "Jamal Musiala",     "role": "Offensiv · 22",                "weight": 0.8 },
+    { "type": "image", "image": "beier.jpg",    "name": "Max Beier",         "role": "Flügelstürmer · 23",           "weight": 0.8 },
+    { "type": "stats", "title": "Xavi-System",  "stats": [{ "label": "Pässe/Spiel", "value": "620" }, { "label": "CL-Titel als Spieler", "value": "4" }, { "label": "Oranje-Insider bei LFC", "value": "2" }], "image": "havertz.jpg", "weight": 0.9 },
+    { "type": "image", "image": "fans_de.jpg",  "weight": 0.8 },
+    { "type": "image", "image": "flagge_de.jpg","weight": 0.8 },
+    { "type": "image", "image": "tah.jpg",      "name": "Jonathan Tah",      "role": "Innenverteidiger · Bayern",    "weight": 0.8 },
+    { "type": "outro", "title": "Wer gewinnt das Trainer-Duell?", "subtitle": "Klopp oder Xavi – schreib es in die Kommentare!", "image": "jubel_menge.jpg", "weight": 1.0 }
+  ]
+}

@@ -555,3 +555,4 @@
 2026-09-09 | griechenland-klopp-geheime-stolperfalle | Griechenland geheime Stolperfalle Klopp, Nations League Liga A erstmals, 2× Duelle Augsburg+Thessaloniki, Paraguay-Trauma (GEHEIMNIS)
 2026-09-09 | beier-adeyemi-klopp-rechtsaussen | Beier BVB 23J 20+ Torbeteiligungen vs Adeyemi Barcelona 22J 22 Mio Traumdebüt, beide 0 WM-Minuten, Rechtsaußen-Duell 8 Tage vor Klopps erstem Kader 17.9., Klopp-57er-Liste (DUELL/VERGLEICH)
 2026-09-09 | klopp-tietz-mainz-rampenlicht | Tietz Mainz 05 Klopp-Rampenlicht, erster DFB-Kader 17.9., 57 Kandidaten 27 Plätze, 8 Tage, El Mala gesetzt, Musiala Epilepsie-Comeback, nur 2 Trainings vor Amsterdam-Debüt (NEWS-DRAMA)
+2026-09-09 | klopp-vs-xavi-system-amsterdam | Klopp 4-3-3 Gegenpressing vs Xavi 4-3-3 Tiki-Taka, Amsterdam-Debut 24.9. Nations League, Gakpo/Gravenberch Liverpool-Insider, 96 km vs 620 Pässe (DUELL/VERGLEICH)
