@@ -1,0 +1,33 @@
+{
+  "slug": "beier-adeyemi-klopp-rechtsaussen",
+  "createdAt": "2026-09-09T15:35:00Z",
+  "title": "Beier vs Adeyemi – Klopps Rechtsaußen-Duell",
+  "script": "8 Tage bis Klopps erstem DFB-Kader – und der Rechtsaußen-Platz ist noch offen! Maximilian Beier: BVB, 23 Jahre, 20 Torbeteiligungen, Klopp sah ihn live beim Supercup. Karim Adeyemi: FC Barcelona, Traumdebüt mit Tor für nur 22 Millionen Euro, von Nagelsmann für die WM komplett ignoriert – jetzt auf Klopps 57er-Liste. Beide hatten null WM-Minuten 2026. Beide wollen sich am 17. September im Kader sehen. Wer verdient den Platz?",
+  "uploadCaption": "8 Tage bis Klopps erstem Kader 🔥 Wer kriegt den Rechtsaußen-Platz – Maximilian Beier (BVB, 20+ Torbeteiligungen) oder Karim Adeyemi (FC Barcelona, Traumdebüt)? Beide hatten 0 WM-Minuten. Kommentar: Beier oder Adeyemi? 👇",
+  "uploadHashtags": "#DFB #Klopp #Beier #Adeyemi #NationsLeague #Bundesliga #WM2026",
+  "images": [
+    { "file": "beier_aktion.jpg",       "search": "Maximilian Beier" },
+    { "file": "beier_spielszene.jpg",   "search": "Maximilian Beier DFB" },
+    { "file": "beier_portrait.jpg",     "search": "Maximilian Beier" },
+    { "file": "adeyemi_barca.jpg",      "search": "Karim Adeyemi Barcelona" },
+    { "file": "adeyemi_dfb.jpg",        "search": "Karim Adeyemi DFB" },
+    { "file": "klopp.jpg",              "search": "Jürgen Klopp" },
+    { "file": "dfb_team.jpg",           "search": "DFB Mannschaft 2026" },
+    { "file": "dfb_fans.jpg",           "search": "DFB Fans" },
+    { "file": "dfb_flagge.jpg",         "search": "Deutschland Flagge" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "WER KRIEGT DEN PLATZ?", "image": "beier_aktion.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "8 TAGE BIS KLOPPS KADER", "title": "Beier vs Adeyemi", "image": "adeyemi_dfb.jpg", "weight": 0.7 },
+    { "type": "image", "image": "beier_aktion.jpg",    "name": "Maximilian Beier",  "role": "BVB · 23 Jahre · Rechtsaußen", "weight": 0.8 },
+    { "type": "image", "image": "adeyemi_barca.jpg",   "name": "Karim Adeyemi",     "role": "FC Barcelona · 22 Jahre · Rechtsaußen", "weight": 0.8 },
+    { "type": "stats", "title": "BEIERS BILANZ", "stats": [{ "label": "Torbeteiligungen BL", "value": "20+" }, { "label": "WM-Minuten 2026", "value": "0" }], "image": "beier_spielszene.jpg", "weight": 0.9 },
+    { "type": "stats", "title": "ADEYEMIS COMEBACK", "stats": [{ "label": "Ablöse FC Barcelona", "value": "22 Mio €" }, { "label": "Tore La Liga Traumdebüt", "value": "1" }], "image": "adeyemi_dfb.jpg", "weight": 0.9 },
+    { "type": "image", "image": "beier_portrait.jpg",  "name": "Maximilian Beier",  "role": "Klopp-Scouting live · Supercup", "weight": 0.8 },
+    { "type": "image", "image": "klopp.jpg",            "name": "Jürgen Klopp",      "role": "Bundestrainer · 57er-Liste", "weight": 0.8 },
+    { "type": "image", "image": "dfb_team.jpg",         "weight": 0.8 },
+    { "type": "image", "image": "dfb_flagge.jpg",       "weight": 0.8 },
+    { "type": "image", "image": "dfb_fans.jpg",         "weight": 0.8 },
+    { "type": "outro", "title": "Dein Vote?", "subtitle": "Beier oder Adeyemi – wer gehört in Klopps ersten Kader?", "image": "dfb_fans.jpg", "weight": 1.0 }
+  ]
+}
