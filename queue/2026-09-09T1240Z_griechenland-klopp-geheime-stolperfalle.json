@@ -1,0 +1,36 @@
+{
+  "slug": "griechenland-klopp-geheime-stolperfalle",
+  "createdAt": "2026-09-09T12:40:00Z",
+  "title": "Griechenland – Klopps geheime Falle",
+  "script": "ALLE unterschätzen DIESEN Gegner – und das könnte Klopp teuer zu stehen kommen! Jeder redet über Klopp gegen Slot in Amsterdam oder Vlahović in München. Niemand spricht über Griechenland! Erstmals überhaupt steht Griechenland in der Nations League Liga A. 4 Spiele, 11 Tage – und 2 davon gegen die Griechen. Das Auswärtsspiel am 4. Oktober in Thessaloniki ist Klopps härteste Prüfung! Erinnert euch an Paraguay: Immer der vermeintlich schwächste Gegner sticht. Schafft Klopp, was Nagelsmann dreimal misslang?",
+  "uploadCaption": "Jeder redet über Slot & Vlahović – aber DIESER Gegner macht mir Angst! 🔥 Erstmals Liga A der Nations League & Deutschland muss AUSWÄRTS nach Thessaloniki (4.10.)! #DFB #Klopp #NationsLeague #Griechenland",
+  "uploadHashtags": "#DFB #KloppEra #NationsLeague2026 #Griechenland #WM2026 #Fussball",
+  "images": [
+    { "file": "klopp.jpg",                    "search": "Jürgen Klopp" },
+    { "file": "nations_league.jpg",            "search": "UEFA Nations League 2026 logo" },
+    { "file": "griechenland_team.jpg",         "search": "Greece national football team 2026" },
+    { "file": "wirtz.jpg",                     "search": "Florian Wirtz" },
+    { "file": "wm_pokal.jpg",                  "search": "WM Pokal Gold" },
+    { "file": "kimmich.jpg",                   "search": "Joshua Kimmich" },
+    { "file": "tah.jpg",                       "search": "Jonathan Tah" },
+    { "file": "ruediger.jpg",                  "search": "Antonio Rüdiger" },
+    { "file": "public_viewing_entsetzen.jpg",  "search": "DFB Fans Entsetzen public viewing" },
+    { "file": "thessaloniki.jpg",              "search": "Thessaloniki football stadium Greece" },
+    { "file": "deutschland_fans.jpg",          "search": "DFB Fans Deutschland" },
+    { "file": "stolperfalle.jpg",              "search": "football trap danger warning concept", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "ALLE UNTERSCHÄTZEN DIESEN GEGNER!", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "NATIONS LEAGUE 2026/27", "title": "Klopps geheime Falle", "image": "nations_league.jpg", "weight": 0.7 },
+    { "type": "image", "image": "griechenland_team.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Klopps Schlüsselspieler", "weight": 0.8 },
+    { "type": "stats", "title": "Gruppe A2: Die Wahrheit", "stats": [{ "label": "Spiele gg. Griechenland", "value": "2" }, { "label": "NL-Tage, 4 Spiele", "value": "11" }, { "label": "Erstmals Liga A", "value": "2026" }], "image": "wm_pokal.jpg", "weight": 0.9 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "DFB-Kapitän · 108 LS", "weight": 0.8 },
+    { "type": "image", "image": "tah.jpg", "name": "Jonathan Tah", "role": "DFB-Abwehrchef", "weight": 0.8 },
+    { "type": "image", "image": "ruediger.jpg", "name": "Antonio Rüdiger", "role": "DFB-Innenverteidiger", "weight": 0.8 },
+    { "type": "image", "image": "public_viewing_entsetzen.jpg", "weight": 0.8 },
+    { "type": "image", "image": "thessaloniki.jpg", "weight": 0.8 },
+    { "type": "image", "image": "stolperfalle.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Klopps größtes Problem?", "subtitle": "NL, Serbien oder Griechenland?", "image": "deutschland_fans.jpg", "weight": 1.0 }
+  ]
+}
