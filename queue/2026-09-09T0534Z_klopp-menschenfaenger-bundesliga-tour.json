@@ -1,0 +1,96 @@
+{
+  "slug": "klopp-menschenfaenger-bundesliga-tour",
+  "createdAt": "2026-09-09T05:34:00Z",
+  "title": "Klopp reist durch ganz Deutschland",
+  "script": "Kein Bundestrainer hat das je so gemacht! Jürgen Klopp besucht persönlich jeden Bundesliga-Club – Mainz, Frankfurt, Dortmund, München. 57 Kandidaten, nur 27 Plätze – die Entscheidung fällt in genau 8 Tagen. Kompany nach dem Bayern-Besuch: „Er ist absolut beeindruckend." Kade, Ebnoutalib, Pejčinović – keiner rechnete mit dem Besuch des Bundestrainers. Der Menschenfänger macht Deutschland wieder heiß. Am 17. September fällt das Urteil – wer schafft es in Klopps ersten Kader?",
+  "uploadCaption": "Kein Bundestrainer hat das je so gemacht! Klopp reist persönlich zu ALLEN Clubs – 57 Kandidaten, 27 Plätze, Nominierung in 8 Tagen. Wer schafft es in den ersten Klopp-Kader? #DFB #Klopp #WM2030 #NationsLeague #Bundesliga",
+  "uploadHashtags": "#DFB #Klopp #WM2030 #NationsLeague #Bundesliga #Nationalmannschaft #Deutschland",
+  "images": [
+    { "file": "klopp.jpg",         "search": "Jürgen Klopp" },
+    { "file": "dfb-team.jpg",      "search": "DFB Nationalmannschaft" },
+    { "file": "allianz-arena.jpg", "search": "Allianz Arena" },
+    { "file": "signal-iduna.jpg",  "search": "Signal Iduna Park" },
+    { "file": "kimmich.jpg",       "search": "Joshua Kimmich DFB Kapitän" },
+    { "file": "ebnoutalib.jpg",    "search": "Younes Ebnoutalib Eintracht Frankfurt" },
+    { "file": "elmala.jpg",        "search": "Said El Mala FC Köln" },
+    { "file": "pejcinovic.jpg",    "search": "Dzenan Pejcinovic VfB Stuttgart" },
+    { "file": "fans.jpg",          "search": "DFB Fans" },
+    { "file": "dfb-campus.jpg",    "search": "DFB Campus Frankfurt" },
+    { "file": "klopp-tour.jpg",    "search": "Bundestrainer Rundreise Deutschland Bundesliga Clubs", "thematic": true }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KEIN BUNDESTRAINER HAT DAS JE GEMACHT.",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KLOPP-ÄRA",
+      "title": "Die Bundesliga-Rundreise",
+      "image": "dfb-team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "allianz-arena.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "signal-iduna.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Klopps Kader-Mission",
+      "stats": [
+        { "label": "Kandidaten", "value": "57" },
+        { "label": "Kaderplätze", "value": "27" },
+        { "label": "Clubs besucht", "value": "4+" },
+        { "label": "Tage bis Nominierung", "value": "8" }
+      ],
+      "image": "kimmich.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "ebnoutalib.jpg",
+      "name": "Younes Ebnoutalib",
+      "role": "Eintracht Frankfurt · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "elmala.jpg",
+      "name": "Saïd El Mala",
+      "role": "FC Köln · 19",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pejcinovic.jpg",
+      "name": "Dženan Pejčinović",
+      "role": "VfB Stuttgart · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb-campus.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "17. September – das Urteil",
+      "subtitle": "Setzt Klopp auf Erfahrung oder auf die neue Generation?",
+      "image": "klopp-tour.jpg",
+      "weight": 1.0
+    }
+  ]
+}
