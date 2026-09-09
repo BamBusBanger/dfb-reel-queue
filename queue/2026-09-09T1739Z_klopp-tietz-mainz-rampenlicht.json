@@ -1,0 +1,34 @@
+{
+  "slug": "klopp-tietz-mainz-rampenlicht",
+  "createdAt": "2026-09-09T17:39:00Z",
+  "title": "Klopps erster Kader: Tietz im Rampenlicht!",
+  "script": "Nur noch 8 Tage – dann kommt Klopps erster DFB-Kader! 57 Kandidaten kämpfen um 27 Plätze, und Klopp reist persönlich durch die Bundesliga. Der größte Schock: Tom Tietz von Mainz 05 hat sich ins Rampenlicht gespielt! Während El Mala (19 Jahre!) als gesetzt gilt, zittern Stars wie Sané und Schlotterbeck. Musiala ist zurück nach seinem Epilepsie-Comeback, Wirtz wartet auf sein erstes DFB-Tor unter Klopp. Nur 2 Trainingseinheiten vor dem Amsterdam-Debüt. Das wird historisch!",
+  "uploadCaption": "8 Tage bis Klopps erstem DFB-Kader! Tom Tietz (Mainz 05) schlägt alle Favoriten – wer ist drin, wer ist draußen? 57 Kandidaten, 27 Plätze, 2 Trainings. Geschichte wird gemacht.",
+  "uploadHashtags": "#DFB #Klopp #Nationalmannschaft #NationsLeague #WM2026 #TomTietz #Mainz #Fussball",
+  "images": [
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "dfb_team.jpg", "search": "DFB Nationalmannschaft" },
+    { "file": "tietz.jpg", "search": "Tom Tietz Mainz 05" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala" },
+    { "file": "elmala.jpg", "search": "Said El Mala" },
+    { "file": "havertz.jpg", "search": "Kai Havertz" },
+    { "file": "fans_dfb.jpg", "search": "DFB Fans" },
+    { "file": "kader_countdown.jpg", "search": "DFB Kader Nominierung Bundestrainer Countdown", "thematic": true },
+    { "file": "fans_hoffen.jpg", "search": "Deutschland Fans Public Viewing Hoffen" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "NUR NOCH 8 TAGE.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "17. SEPTEMBER 2026", "title": "Klopps erster DFB-Kader", "image": "dfb_team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "tietz.jpg", "name": "Tom Tietz", "role": "Mainz 05 · Überraschung", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Offensiv · Liverpool", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg", "name": "Jamal Musiala", "role": "Offensiv · Bayern · Comeback", "weight": 0.8 },
+    { "type": "stats", "title": "Klopps Mega-Rätsel", "stats": [{"label": "Kandidaten", "value": "57"}, {"label": "Kader-Plätze", "value": "27"}, {"label": "Trainings vor Debüt", "value": "2"}], "image": "kader_countdown.jpg", "weight": 0.9 },
+    { "type": "image", "image": "elmala.jpg", "name": "Said El Mala", "role": "Angriff · FC Köln · 19 Jahre", "weight": 0.8 },
+    { "type": "image", "image": "havertz.jpg", "name": "Kai Havertz", "role": "Sturm · Arsenal · PL-Meister", "weight": 0.8 },
+    { "type": "image", "image": "fans_dfb.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wer überrascht dich am meisten?", "subtitle": "Drin oder draußen – schreib's in die Kommentare!", "image": "fans_hoffen.jpg", "weight": 1.0 }
+  ]
+}
