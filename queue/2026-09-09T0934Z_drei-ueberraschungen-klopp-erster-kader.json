@@ -1,0 +1,33 @@
+{
+  "slug": "drei-ueberraschungen-klopp-erster-kader",
+  "createdAt": "2026-09-09T09:34:00Z",
+  "title": "Klopps 3 Schock-Nennungen",
+  "script": "In 8 Tagen präsentiert Klopp seinen ersten DFB-Kader – und 3 Namen werden Deutschland spalten! Nummer 3: Said El Mala, 19 Jahre, noch nie im A-Kader, 13 Bundesliga-Tore – Klopp rief ihn persönlich an. Nummer 2: Pejčinović, 22 Jahre, 0 Profi-Länderspiele, Stuttgart – ein echter Schock. Und Nummer 1: Jonas Urbig, Bayerns 22-jähriger Keeper, bestätigte heute ein 'super Gespräch' mit Klopp und verdrängt damit Baumann! Dazu: kein Klopp-Anruf bei Sané, Goretzka verletzt draußen. Wen hättest DU nominiert?",
+  "uploadCaption": "8 Tage bis Klopps erstem DFB-Kader – und diese 3 Namen werden Deutschland schockieren! El Mala (19, 13 BL-Tore, 0 A-LS), Pejčinović (22, 0 Profi-LS), Urbig (22, Bayern-Keeper, Klopp-Gespräch bestätigt). Sané ohne Anruf, Goretzka verletzt. Wer fehlt dir im Kader?",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #ElMala #Pejcinovic #Urbig #Bundestrainer #KaderPK",
+  "images": [
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "elmala.jpg", "search": "Said El Mala FC Köln" },
+    { "file": "pejcinovic.jpg", "search": "Strahinja Pejčinović VfB Stuttgart" },
+    { "file": "urbig.jpg", "search": "Jonas Urbig Bayern München" },
+    { "file": "goretzka.jpg", "search": "Leon Goretzka" },
+    { "file": "sane.jpg", "search": "Leroy Sané" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "team.jpg", "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "IN 8 TAGEN DREHT KLOPP DEUTSCHLAND AUF DEN KOPF!", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "17. SEPTEMBER", "title": "Klopps 3 Schock-Nennungen", "image": "team.jpg", "weight": 0.7 },
+    { "type": "image", "image": "elmala.jpg", "name": "Said El Mala", "role": "FC Köln · 19 J.", "weight": 0.8 },
+    { "type": "stats", "title": "#3 – El Mala", "stats": [{ "label": "Bundesliga-Tore", "value": "13" }, { "label": "A-Länderspiele", "value": "0" }, { "label": "Klopp-Anruf", "value": "persönlich" }], "image": "elmala.jpg", "weight": 0.9 },
+    { "type": "image", "image": "pejcinovic.jpg", "name": "Strahinja Pejčinović", "role": "VfB Stuttgart · 22 J.", "weight": 0.8 },
+    { "type": "stats", "title": "#2 – Pejčinović", "stats": [{ "label": "Profi-Länderspiele", "value": "0" }, { "label": "Klopp-Besuch", "value": "persönlich" }], "image": "pejcinovic.jpg", "weight": 0.9 },
+    { "type": "image", "image": "urbig.jpg", "name": "Jonas Urbig", "role": "Bayern München · 22 J.", "weight": 0.8 },
+    { "type": "stats", "title": "#1 – Urbig", "stats": [{ "label": "Alter", "value": "22" }, { "label": "Gespräch Klopp", "value": "bestätigt" }, { "label": "Konkurrent Baumann", "value": "36 J." }], "image": "urbig.jpg", "weight": 0.9 },
+    { "type": "image", "image": "goretzka.jpg", "name": "Leon Goretzka", "role": "verletzt · draußen", "weight": 0.8 },
+    { "type": "image", "image": "sane.jpg", "name": "Leroy Sané", "role": "kein Klopp-Anruf · 0 Tore", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wen hättest DU nominiert?", "subtitle": "Kommentiere jetzt!", "image": "kimmich.jpg", "weight": 1.0 }
+  ]
+}
