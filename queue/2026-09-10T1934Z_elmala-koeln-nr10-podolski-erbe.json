@@ -1,0 +1,97 @@
+{
+  "slug": "elmala-koeln-nr10-podolski-erbe",
+  "createdAt": "2026-09-10T19:34:00Z",
+  "title": "Said El Mala: Das Erbe der Kölner Nr.10",
+  "script": "DIESE ZAHL schwebte 14 Jahre über dem Rhein. Die Nummer 10 des 1. FC Köln – Rücken von Weltmeister Wolfgang Overath 1974, Lukas Podolski, Pierre Littbarski. Dann jahrelang kein Würdiger. Im Sommer 2026 rief Podolski selbst an: „Trag die Nummer mit Stolz." Den Anruf bekam Said El Mala – 19 Jahre, 13 Bundesligatore, und jetzt Klopps persönliche erste Wahl für den DFB-Kader am 17. September. Ist El Mala der nächste DFB-Superstar – oder zu viel Druck für 19 Jahre?",
+  "uploadCaption": "Was hat die Kölner #10 mit dem DFB zu tun? Podolski rief persönlich an und wählte seinen Erben selbst. Said El Mala – 19 Jahre, 13 Tore, und die schwerste Trikotnummer des Rheinlands.",
+  "uploadHashtags": "#DFB #FCKoeln #ElMala #Klopp #WM2026 #Bundesliga #Fussball #NationsLeague",
+  "images": [
+    { "file": "elmala_jubel.jpg",   "search": "Said El Mala Jubel" },
+    { "file": "koeln_nr10.jpg",     "search": "FC Köln Nummer 10 Trikot Legende", "thematic": true },
+    { "file": "overath.jpg",        "search": "Wolfgang Overath FC Köln" },
+    { "file": "podolski.jpg",       "search": "Lukas Podolski" },
+    { "file": "elmala_trikot.jpg",  "search": "Said El Mala Trikot 10 Köln" },
+    { "file": "elmala_dfb.jpg",     "search": "Said El Mala DFB Nationalmannschaft" },
+    { "file": "klopp.jpg",          "search": "Jürgen Klopp" },
+    { "file": "dfb_fans.jpg",       "search": "DFB Fans" },
+    { "file": "dfb_teamfoto.jpg",   "search": "DFB Nationalmannschaft 2026" },
+    { "file": "koeln_fans.jpg",     "search": "1. FC Köln Fans Rheinenergie Stadion" },
+    { "file": "elmala_action.jpg",  "search": "Said El Mala Köln Bundesliga Aktion" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DIESE ZAHL schwebte 14 Jahre über dem Rhein.",
+      "image": "elmala_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "FC KÖLN · 2026",
+      "title": "Das Erbe der Nr. 10",
+      "image": "koeln_nr10.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "overath.jpg",
+      "name": "Wolfgang Overath",
+      "role": "WM-Held 1974 · Nr.10 bis 1977",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "podolski.jpg",
+      "name": "Lukas Podolski",
+      "role": "DFB-Legende · Nr.10 bis 2012",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Die Kölner Nr.10",
+      "stats": [
+        { "label": "Jahre ohne Nr.10-Träger", "value": "14" },
+        { "label": "BL-Tore El Malas 2025/26", "value": "13" },
+        { "label": "U19-EM-Tore 2025", "value": "4" }
+      ],
+      "image": "elmala_trikot.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "elmala_dfb.jpg",
+      "name": "Said El Mala",
+      "role": "Offensiv · 19 Jahre · DFB-Kandidat",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer ab 2026",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_teamfoto.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "koeln_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "El Mala: DFB-Superstar?",
+      "subtitle": "Zu viel Druck für 19 Jahre – oder Made for this?",
+      "image": "elmala_action.jpg",
+      "weight": 1.0
+    }
+  ]
+}
