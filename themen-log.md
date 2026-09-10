@@ -560,3 +560,4 @@
 2026-09-10 | karius-klopp-8-jahre-comeback | Loris Karius auf Klopps 57er-Liste, Kiev-Finale 2018 2 Fehler 8 Jahre Leidensweg, Schalke 0:0 Bayern 5.9., Klopp Niemand abgeschrieben, Kader-PK 17.9. Amsterdam 24.9. (GEHEIMNIS)
 2026-09-10 | klopp-amsterdam-3-gefahren | Klopp Debüt Amsterdam 24.9., 3 Gefahren: Xavi 620 Pässe 4 CL-Titel, Gakpo/Gravenberch Liverpool-Insider, nur 2 Trainingseinheiten vor Anpfiff, 68 Tage Bundestrainer (TOP-3-LISTE)
 2026-09-10 | stiller-erbt-goretzka-klopp | Stiller vs Goretzka Klopps Achter-Duel, Goretzka Knieproblem Aston Villa wochenlang aus, Stiller 25J 9LS 0 WM-Minuten Spieltag-3-Bühne morgen vs Hoffenheim, Kader-PK 7 Tage, Kimmich/Pavlovic/Nmecha (DUELL/VERGLEICH)
+2026-09-10 | klopp-kimmich-sechser-wende | Klopp löst Kimmich-Positionsrätsel sofort: Kapitän kehrt ins zentrale Mittelfeld zurück, 14 Monate RV unter Nagelsmann, 110 Länderspiele, 2 Trainings bis Amsterdam-Debüt 24.9. (NEWS-DRAMA)

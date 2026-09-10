@@ -1,0 +1,32 @@
+{
+  "slug": "klopp-kimmich-sechser-wende",
+  "createdAt": "2026-09-10T17:34:00Z",
+  "title": "Klopp löst das Kimmich-Rätsel",
+  "script": "14 Monate lang dasselbe Rätsel: Kimmich auf Rechtsverteidiger – oder doch im Zentrum? Nagelsmann zögerte bis zum bitteren WM-Aus in Boston. Jürgen Klopp macht in Woche 1 Schluss. Der neue Bundestrainer setzt Joshua Kimmich, 110 Länderspiele, Kapitän, fest auf die Sechs – zurück wo er hingehört. Matthäus hatte es ein Dutzend Mal gefordert. Klopp liefert. 14 Tage bis Amsterdam. Nur 2 Trainingseinheiten vor dem Debüt. Die Taktik-Wende ist fix – aber macht das allein den Unterschied?",
+  "uploadCaption": "Jürgen Klopp löst das größte Rätsel der Nagelsmann-Ära in Woche 1: Joshua Kimmich kehrt ins zentrale Mittelfeld zurück. 110 Länderspiele. Kapitän. Sechser. Klopp macht's einfach.",
+  "uploadHashtags": "#DFB #Klopp #Kimmich #NationsLeague #Fussball #WM2026",
+  "images": [
+    { "file": "kimmich_binde.jpg", "search": "Joshua Kimmich" },
+    { "file": "kimmich_kapitaen.jpg", "search": "Joshua Kimmich Kapitän DFB" },
+    { "file": "kimmich_training.jpg", "search": "Joshua Kimmich training" },
+    { "file": "nagelsmann.jpg", "search": "Julian Nagelsmann" },
+    { "file": "kimmich_stats.jpg", "search": "Joshua Kimmich jubel" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp" },
+    { "file": "teamfoto.jpg", "search": "DFB Team 2026" },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "deutschland_flagge.jpg", "search": "Deutschland Flagge" },
+    { "file": "amsterdam_arena.jpg", "search": "Johan Cruyff Arena Amsterdam" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "14 MONATE DEBATTE – IN 1 WOCHE GELÖST.", "image": "kimmich_binde.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPP-ÄRA BEGINNT", "title": "Kimmich kehrt ins Zentrum zurück", "image": "kimmich_kapitaen.jpg", "weight": 0.7 },
+    { "type": "image", "image": "kimmich_training.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 110 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "nagelsmann.jpg", "name": "Julian Nagelsmann", "role": "Ex-Bundestrainer 2023–2026", "weight": 0.8 },
+    { "type": "stats", "title": "Das Kimmich-Rätsel", "stats": [{ "label": "Monate Kimmich auf RV", "value": "14" }, { "label": "Länderspiele gesamt", "value": "110" }, { "label": "Trainings bis Amsterdam", "value": "2" }], "image": "kimmich_stats.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer seit Juli 2026", "weight": 0.8 },
+    { "type": "image", "image": "teamfoto.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "deutschland_flagge.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Kimmich auf der Sechs – bringt das endlich den WM-Titel 2030?", "subtitle": "Kommentiert eure Meinung 👇", "image": "amsterdam_arena.jpg", "weight": 1.0 }
+  ]
+}
