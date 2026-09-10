@@ -1,0 +1,105 @@
+{
+  "slug": "stiller-erbt-goretzka-klopp",
+  "createdAt": "2026-09-10T15:34:00Z",
+  "title": "Goretzka raus – erbt Stiller Klopps Achter?",
+  "script": "Goretzka draußen – und der Countdown läuft! Der 70-fache Nationalspieler fehlt Aston Villa wochenlang mit einem Knieproblem. Für Angelo Stiller ist das die Chance seines Lebens: Morgen gegen Hoffenheim hat der 25-jährige Stuttgarter seine allerletzte Bühne vor Klopps Kader-PK am 17. September. Nur 9 Länderspiele, 0 WM-Minuten unter Nagelsmann – doch Klopp liebt genau solche dynamischen Achter. Kimmich als Sechser fix, Pavlović und Nmecha drin. Aber der zweite Achter-Platz ist offen. Wer bekommt ihn?",
+  "uploadCaption": "Goretzka verletzt, Stiller bereit – 7 Tage bis Klopps historischem ersten DFB-Kader! Schafft der Stuttgarter die Sensation?",
+  "uploadHashtags": "#DFB #Klopp #Stiller #Goretzka #NationsLeague #Bundesliga",
+  "images": [
+    { "file": "goretzka_training.jpg", "search": "Leon Goretzka" },
+    { "file": "stiller_aktion.jpg", "search": "Angelo Stiller" },
+    { "file": "goretzka_dfb.jpg", "search": "Leon Goretzka DFB" },
+    { "file": "stiller_portrait.jpg", "search": "Angelo Stiller Stuttgart" },
+    { "file": "team.jpg", "search": "DFB Team 2026" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "pavlovic.jpg", "search": "Aleksandar Pavlovic" },
+    { "file": "nmecha.jpg", "search": "Felix Nmecha" },
+    { "file": "amsterdam.jpg", "search": "Johan Cruijff Arena Amsterdam" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "fans.jpg", "search": "DFB Fans Tribüne" },
+    { "file": "fans_stimmung.jpg", "search": "Deutschland Fans Stadion" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "GORETZKA RAUS!\nStillers Chance kommt JETZT.",
+      "image": "goretzka_training.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "KADER-PK IN 7 TAGEN",
+      "title": "Klopps Mittelfeld-Duell",
+      "image": "stiller_aktion.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "goretzka_dfb.jpg",
+      "name": "Leon Goretzka",
+      "role": "Aston Villa · 31 J. · 70 Länderspiele · verletzt",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "stiller_portrait.jpg",
+      "name": "Angelo Stiller",
+      "role": "VfB Stuttgart · 25 J. · 9 Länderspiele · 0 WM-Min.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "DIREKTVERGLEICH",
+      "stats": [
+        { "label": "Goretzka Länderspiele", "value": "70" },
+        { "label": "Stiller Länderspiele", "value": "9" },
+        { "label": "Tage bis Kader-PK", "value": "7" }
+      ],
+      "image": "team.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 109 LS · Sechser fix",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "pavlovic.jpg",
+      "name": "Aleksandar Pavlović",
+      "role": "Bayern München · 22 J. · Achter",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "nmecha.jpg",
+      "name": "Felix Nmecha",
+      "role": "BVB · 25 J. · Achter",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Stiller in Klopps erstem Kader?",
+      "subtitle": "JA oder NEIN – kommentier jetzt!",
+      "image": "fans_stimmung.jpg",
+      "weight": 1.0
+    }
+  ]
+}
