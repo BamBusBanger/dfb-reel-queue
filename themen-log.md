@@ -558,3 +558,4 @@
 2026-09-09 | klopp-vs-xavi-system-amsterdam | Klopp 4-3-3 Gegenpressing vs Xavi 4-3-3 Tiki-Taka, Amsterdam-Debut 24.9. Nations League, Gakpo/Gravenberch Liverpool-Insider, 96 km vs 620 Pässe (DUELL/VERGLEICH)
 2026-09-10 | spieltag3-klopp-letzte-chance | Spieltag 3 BL letzter Live-Scouting-Test vor Kader-PK 17.9., 57 Kandidaten 27 Plätze 7 Tage, Atubolu Faustball-Horror, Musiala Comeback, Wirtz & Klopp nie getroffen, Ter Stegen vs Atubolu #1-Duell (NEWS-DRAMA)
 2026-09-10 | karius-klopp-8-jahre-comeback | Loris Karius auf Klopps 57er-Liste, Kiev-Finale 2018 2 Fehler 8 Jahre Leidensweg, Schalke 0:0 Bayern 5.9., Klopp Niemand abgeschrieben, Kader-PK 17.9. Amsterdam 24.9. (GEHEIMNIS)
+2026-09-10 | klopp-amsterdam-3-gefahren | Klopp Debüt Amsterdam 24.9., 3 Gefahren: Xavi 620 Pässe 4 CL-Titel, Gakpo/Gravenberch Liverpool-Insider, nur 2 Trainingseinheiten vor Anpfiff, 68 Tage Bundestrainer (TOP-3-LISTE)

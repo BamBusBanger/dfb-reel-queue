@@ -1,0 +1,112 @@
+{
+  "slug": "klopp-amsterdam-3-gefahren",
+  "createdAt": "2026-09-10T12:34:00Z",
+  "title": "Klopps Debüt in der Falle – 3 Amsterdam-Gefahren",
+  "script": "KLOPP LÄUFT IN DIE FALLE! Am 24. September beim Amsterdam-Debüt – und 3 tödliche Fallen warten schon. FALLE 1: Xavis Niederlande spielen 620 Pässe pro Spiel – das ist 4-Champions-League-Taktik auf höchstem Niveau. FALLE 2: Gakpo und Gravenberch trainierten 2 Jahre unter Klopp in Liverpool – sie kennen jedes seiner Pressing-Muster auswendig. FALLE 3: Klopp hat gerade mal 2 Trainingseinheiten vor dem Anpfiff. 68 Tage als Bundestrainer gegen Europas eingespieltstes Ensemble. Haben wir eine Chance?",
+  "uploadCaption": "Klopps Debüt am 24.9. in Amsterdam wird seine härteste Prüfung als Bundestrainer. 3 Fallen hat die Niederlande aufgestellt – und die DFB-Elf hat kaum Zeit zur Vorbereitung. Was denkst du: Gewinnt Deutschland oder verliert Klopp sein erstes Spiel als Bundestrainer?",
+  "uploadHashtags": "#DFB #Klopp #NationsLeague #Niederlande #Amsterdam #WM2030 #Fussball #Bundestrainer",
+  "images": [
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "team.jpg",       "search": "DFB Team 2026" },
+    { "file": "amsterdam.jpg",  "search": "Johan Cruyff Arena Amsterdam" },
+    { "file": "xavi.jpg",       "search": "Xavi Netherlands coach 2026" },
+    { "file": "gakpo.jpg",      "search": "Cody Gakpo" },
+    { "file": "gravenberch.jpg","search": "Ryan Gravenberch Liverpool" },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "fans.jpg",       "search": "DFB Fans" },
+    { "file": "flagge.jpg",     "search": "Deutschland Flagge" },
+    { "file": "dfb_fans2.jpg",  "search": "Deutschland Fanmeile" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "KLOPP LÄUFT IN DIE FALLE!",
+      "image": "klopp.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "24. SEPT · AMSTERDAM",
+      "title": "3 Gefahren für Klopps Debüt",
+      "image": "team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "amsterdam.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "xavi.jpg",
+      "name": "Xavi",
+      "role": "Oranjes Cheftrainer",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "GEFAHR 1: XAVI-TAKTIK",
+      "stats": [
+        { "label": "Pässe/Spiel Niederlande", "value": "620" },
+        { "label": "CL-Titel Xavis als Trainer", "value": "4" }
+      ],
+      "image": "wirtz.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "gakpo.jpg",
+      "name": "Cody Gakpo",
+      "role": "Liverpool-Insider · Niederlande",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "gravenberch.jpg",
+      "name": "Ryan Gravenberch",
+      "role": "Liverpool-Insider · Niederlande",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "GEFAHR 2: LIVERPOOL-INSIDER",
+      "stats": [
+        { "label": "NL-Spieler mit Klopp-Liverpool-Wissen", "value": "2" },
+        { "label": "Jahre Klopp an der Merseyside", "value": "9" }
+      ],
+      "image": "kimmich.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "DFB-Schlüsselspieler · 22",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "GEFAHR 3: NUR 2 TRAININGS",
+      "stats": [
+        { "label": "Gemeinsame Trainings vor Debüt", "value": "2" },
+        { "label": "Tage Klopp als Bundestrainer", "value": "68" }
+      ],
+      "image": "flagge.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Scheitert Klopp beim Debüt?",
+      "subtitle": "Deine Prognose in die Kommentare!",
+      "image": "dfb_fans2.jpg",
+      "weight": 1.0
+    }
+  ]
+}
