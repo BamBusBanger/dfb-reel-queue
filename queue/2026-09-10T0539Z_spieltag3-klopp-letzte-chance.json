@@ -1,0 +1,35 @@
+{
+  "slug": "spieltag3-klopp-letzte-chance",
+  "createdAt": "2026-09-10T05:39:00Z",
+  "title": "Spieltag 3 – Klopps letzte Scouting-Chance",
+  "script": "In NUR 2 Tagen fällt die Entscheidung. Bundesliga Spieltag 3 – Klopps LETZTE Chance, seine 57 Kandidaten live zu beobachten. 27 Plätze im ersten WM-Kader, und noch 7 Tage bis zur Kader-Pressekonferenz am 17. September. Atubolu muss den Faustball-Horror vergessen. Musiala braucht sein zweites starkes Spiel. Wirtz und Klopp haben sich noch nie persönlich gesehen. Wer jetzt liefert, fährt zur WM – wer versagt, ist raus. Dieses Wochenende ist für viele die letzte Chance.",
+  "uploadCaption": "In 2 Tagen entscheidet sich alles 🚨 Spieltag 3 ist Klopps LETZTER Live-Test vor dem ersten WM-Kader. 57 Kandidaten – 27 Plätze. Wer liefert jetzt?",
+  "uploadHashtags": "#DFB #WM2026 #Klopp #Bundesliga #Musiala #Wirtz #Nationalmannschaft",
+  "images": [
+    { "file": "klopp.jpg",      "search": "Jürgen Klopp" },
+    { "file": "dfb-team.jpg",   "search": "DFB Nationalmannschaft 2026" },
+    { "file": "wm2026-logo.jpg","search": "WM 2026 Logo" },
+    { "file": "musiala.jpg",    "search": "Jamal Musiala" },
+    { "file": "atubolu.jpg",    "search": "Noah Atubolu Torwart" },
+    { "file": "ter-stegen.jpg", "search": "Marc-André ter Stegen" },
+    { "file": "wirtz.jpg",      "search": "Florian Wirtz Training" },
+    { "file": "beier.jpg",      "search": "Maximilian Beier" },
+    { "file": "undav.jpg",      "search": "Deniz Undav" },
+    { "file": "fans.jpg",       "search": "Deutschland Fans" },
+    { "file": "kimmich.jpg",    "search": "Joshua Kimmich" }
+  ],
+  "scenes": [
+    { "type": "hook",  "text": "NUR 2 TAGE.", "image": "klopp.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "Spieltag 3 · 12./13. Sept 2026", "title": "Klopps letzte Chance", "image": "dfb-team.jpg", "weight": 0.7 },
+    { "type": "stats", "title": "Die Zahlen", "stats": [{ "label": "Kandidaten", "value": "57" }, { "label": "WM-Plätze", "value": "27" }, { "label": "Tage bis Kader-PK", "value": "7" }], "image": "wm2026-logo.jpg", "weight": 0.9 },
+    { "type": "image", "image": "klopp.jpg", "weight": 0.8 },
+    { "type": "image", "image": "musiala.jpg",    "name": "Jamal Musiala",          "role": "Offensiv · 23", "weight": 0.8 },
+    { "type": "image", "image": "atubolu.jpg",    "name": "Noah Atubolu",           "role": "Torwart · 24",  "weight": 0.8 },
+    { "type": "image", "image": "ter-stegen.jpg", "name": "Marc-André ter Stegen",  "role": "Torwart · 34",  "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg",      "name": "Florian Wirtz",          "role": "Offensiv · 23", "weight": 0.8 },
+    { "type": "image", "image": "beier.jpg",      "name": "Maximilian Beier",       "role": "Stürmer · 24",  "weight": 0.8 },
+    { "type": "image", "image": "undav.jpg",      "name": "Deniz Undav",            "role": "Stürmer · 30",  "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "outro", "title": "Wer überrascht Klopp am meisten?", "subtitle": "Kommentiere deinen Favoriten ⬇️", "image": "kimmich.jpg", "weight": 1.0 }
+  ]
+}
