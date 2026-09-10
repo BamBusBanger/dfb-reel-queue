@@ -1,0 +1,91 @@
+{
+  "slug": "karius-klopp-8-jahre-comeback",
+  "createdAt": "2026-09-10T09:34:00Z",
+  "title": "Karius & Klopp – 8 Jahre danach",
+  "script": "Würde Klopp wirklich DEN Mann nominieren? Loris Karius: 2018, Kiev, Champions-League-Finale. 2 katastrophale Fehler. Liverpool verliert 1:3 gegen Real Madrid. Klopp umarmt ihn weinend auf dem Rasen. Seitdem: 8 Jahre Leidensweg, 5 Vereine. Jetzt Schalke – erster Punkt gegen Bayern seit 2017. Sky bestätigt: Karius auf Klopps 57er-Liste. Am 15. August sagte Klopp öffentlich: Niemand ist abgeschrieben. In 7 Tagen nominiert Klopp seinen ersten DFB-Kader. Darf die Geschichte neu geschrieben werden?",
+  "uploadCaption": "8 Jahre nach dem Kiev-Finale könnte Klopp seinen Sündenbock zurückholen 🤯 Karius auf der 57er-Liste – Märchen oder Wahnsinn?",
+  "uploadHashtags": "#DFB #Klopp #Karius #NationsLeague #Fussball #Bundestrainer #ComebackKing",
+  "images": [
+    { "file": "klopp_portrait.jpg",      "search": "Jürgen Klopp" },
+    { "file": "karius_portrait.jpg",     "search": "Loris Karius" },
+    { "file": "karius_schalke.jpg",      "search": "Loris Karius Schalke 2026" },
+    { "file": "kl_finale_kiev.jpg",      "search": "Champions League Final 2018 Liverpool Real Madrid Kiev" },
+    { "file": "karius_klopp_2018.jpg",   "search": "Klopp Karius Liverpool Kiev 2018" },
+    { "file": "dfb_fans.jpg",            "search": "DFB Fans Deutschland" },
+    { "file": "public_view_entsetzen.jpg","search": "Public Viewing Entsetzen" },
+    { "file": "dfb_mannschaft.jpg",      "search": "DFB Mannschaftsfoto 2026" },
+    { "file": "dfb_flagge.jpg",          "search": "Deutschland Flagge" },
+    { "file": "public_view_hoffen.jpg",  "search": "Public Viewing Hoffen" },
+    { "file": "dfb_kader_2026.jpg",      "search": "DFB Kader Nominierung 2026 Klopp" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "DER Mann, den Klopp einst weinend tröstete.",
+      "image": "klopp_portrait.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "GEHEIMNIS",
+      "title": "Karius & Klopp – 8 Jahre später",
+      "image": "karius_portrait.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "karius_schalke.jpg",
+      "name": "Loris Karius",
+      "role": "Torwart · 33 · Schalke 04",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kl_finale_kiev.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Kiev 2018 – Das Drama",
+      "stats": [
+        { "label": "Fehler im CL-Finale", "value": "2" },
+        { "label": "Jahre Leidensweg", "value": "8" },
+        { "label": "Vereine danach", "value": "5" }
+      ],
+      "image": "karius_klopp_2018.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "dfb_fans.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "public_view_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_mannschaft.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_flagge.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "public_view_hoffen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Verdient Karius eine zweite Chance?",
+      "subtitle": "Klopp nominiert am 17. September",
+      "image": "dfb_kader_2026.jpg",
+      "weight": 1.0
+    }
+  ]
+}
