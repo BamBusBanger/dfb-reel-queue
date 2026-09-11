@@ -1,0 +1,115 @@
+{
+  "slug": "klopp-drei-elfmeter-suender-comeback",
+  "createdAt": "2026-09-11T05:40:33Z",
+  "title": "Die 3 WM-Elfmeter-Sünder: Klopps Urteil in 6 Tagen",
+  "script": "Nacht des 29. Juni, Foxborough – drei verschossene Elfmeter, und Deutschland war draußen. Havertz, Woltemade, Tah: Das Trio, das die WM-Träume einer Nation zerstörte. Havertz: 60 Länderspiele, 2 WM-Tore – und doch kein Elfmeter-Held. Woltemade: 75 Millionen Euro teuer, null WM-Spielminuten – nur für den verhängnisvollen Schuss eingewechselt. Tah: Phantomtor in der 102. Minute, dann der Elfmeter ins Nirgendwo. Klopp sagt: Niemand wird abgeschrieben. Aber verdienen sie alle wirklich eine zweite Chance?",
+  "uploadCaption": "29. Juni, Foxborough – 3 verschossene Elfmeter, WM-Aus gegen Paraguay. Havertz, Woltemade, Tah: Das Trio, das Deutschland brach. In 6 Tagen entscheidet Klopp. Zweite Chance für alle drei?",
+  "uploadHashtags": "#DFB #WM2026 #Klopp #Havertz #Woltemade #Tah #Paraguay #Elfmeter #Nationalmannschaft #Fussball",
+  "images": [
+    { "file": "havertz_jubel.jpg",    "search": "Kai Havertz" },
+    { "file": "dfb_team.jpg",         "search": "DFB Mannschaft 2026" },
+    { "file": "havertz.jpg",          "search": "Kai Havertz" },
+    { "file": "stadion_foxborough.jpg","search": "Gillette Stadium Foxborough WM 2026" },
+    { "file": "woltemade.jpg",        "search": "Nick Woltemade" },
+    { "file": "woltemade_jubel.jpg",  "search": "Nick Woltemade" },
+    { "file": "tah.jpg",              "search": "Jonathan Tah" },
+    { "file": "tah_spielszene.jpg",   "search": "Jonathan Tah DFB" },
+    { "file": "klopp.jpg",            "search": "Jürgen Klopp" },
+    { "file": "fans_entsetzen.jpg",   "search": "DFB Fans Schock" },
+    { "file": "dfb_trikot.jpg",       "search": "DFB Trikot WM 2026" },
+    { "file": "fans_jubel.jpg",       "search": "DFB Fans" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3 ELFMETER VERSCHOSSEN. DEUTSCHLAND DRAUSSEN.",
+      "image": "havertz_jubel.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "WM 2026 · Paraguay · Foxborough",
+      "title": "Das Elfmeter-Trio",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "havertz.jpg",
+      "name": "Kai Havertz",
+      "role": "Arsenal · 60 LS · Elfmeter verschossen",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Havertz bei der WM",
+      "stats": [
+        { "label": "WM-Tore", "value": "2" },
+        { "label": "Länderspiele", "value": "60" },
+        { "label": "Elfmeter verschossen", "value": "1" }
+      ],
+      "image": "stadion_foxborough.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "woltemade.jpg",
+      "name": "Nick Woltemade",
+      "role": "Newcastle · 75 Mio. € · 0 WM-Min.",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Woltemade bei der WM",
+      "stats": [
+        { "label": "WM-Spielminuten", "value": "0" },
+        { "label": "Ablöse", "value": "75 Mio. €" },
+        { "label": "Elfmeter verschossen", "value": "1" }
+      ],
+      "image": "woltemade_jubel.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "tah.jpg",
+      "name": "Jonathan Tah",
+      "role": "Bayern · DFB-Abwehrchef · Min. 102",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Tah bei der WM",
+      "stats": [
+        { "label": "Tore anerkannt", "value": "0" },
+        { "label": "Phantomtor Minute", "value": "102" },
+        { "label": "Elfmeter verschossen", "value": "1" }
+      ],
+      "image": "tah_spielszene.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Kader-PK: 17.09.",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "dfb_trikot.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Zweite Chance verdient?",
+      "subtitle": "Kommentiert JA oder NEIN! ⬇️",
+      "image": "fans_jubel.jpg",
+      "weight": 1.0
+    }
+  ]
+}

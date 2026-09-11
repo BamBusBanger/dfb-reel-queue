@@ -562,3 +562,4 @@
 2026-09-10 | stiller-erbt-goretzka-klopp | Stiller vs Goretzka Klopps Achter-Duel, Goretzka Knieproblem Aston Villa wochenlang aus, Stiller 25J 9LS 0 WM-Minuten Spieltag-3-Bühne morgen vs Hoffenheim, Kader-PK 7 Tage, Kimmich/Pavlovic/Nmecha (DUELL/VERGLEICH)
 2026-09-10 | klopp-kimmich-sechser-wende | Klopp löst Kimmich-Positionsrätsel sofort: Kapitän kehrt ins zentrale Mittelfeld zurück, 14 Monate RV unter Nagelsmann, 110 Länderspiele, 2 Trainings bis Amsterdam-Debüt 24.9. (NEWS-DRAMA)
 2026-09-10 | elmala-koeln-nr10-podolski-erbe | El Mala 19J FC Köln Nummer 10 Podolski-Erbe Overath DFB-Kader 17.9. Klopp-Wahl 13 BL-Tore (GEHEIMNIS)
+2026-09-11 | klopp-drei-elfmeter-suender-comeback | WM-Elfmeter-Trio Havertz/Woltemade/Tah Paraguay-Schock, Klopp clean slate Kader-PK 17.9., 6 Tage bis erste Nominierung (TOP-3-LISTE)
