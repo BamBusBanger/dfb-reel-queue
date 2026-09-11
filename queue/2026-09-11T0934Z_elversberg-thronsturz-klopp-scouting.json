@@ -1,0 +1,111 @@
+{
+  "slug": "elversberg-thronsturz-klopp-scouting",
+  "createdAt": "2026-09-11T09:34:00Z",
+  "title": "Bayern-Thronsturz nach 67 Spieltagen",
+  "script": "67 Spieltage unangefochten. Dann das 0:0 gegen Schalke – Karius macht Bayern-Fans sprachlos. Plötzlich ist Bayern nicht mehr Tabellenführer, zum ersten Mal seit 67 Bundesliga-Spieltagen! SV Elversberg, gerade erst aufgestiegen, führt jetzt die Tabelle an: 7 Tore in 2 Spielen, bester Angriff der Liga. Am Sonntag das erste Bundesliga-Duell beider Klubs. Klopp sitzt live auf der Tribüne – sein letzter Scouting-Test vor der Kader-PK am 17. September. Musiala muss jetzt liefern. Besiegt Bayern den Rekord-Aufsteiger?",
+  "uploadCaption": "Bayern nach 67 Spieltagen vom Thron gestoßen! Neuling Elversberg führt die Bundesliga an – und Klopp schaut am Sonntag live beim ersten Bundesliga-Duell beider Klubs zu. Nur noch 6 Tage bis zur ersten DFB-Kader-Nominierung. Musiala muss endlich performen.",
+  "uploadHashtags": "#DFB #BundesligaDE #Elversberg #FCBayern #Klopp #Musiala #WM2030 #Bundesliga",
+  "images": [
+    { "file": "allianz.jpg", "search": "Allianz Arena München" },
+    { "file": "dfb_team.jpg", "search": "DFB Nationalmannschaft 2026" },
+    { "file": "karius.jpg", "search": "Loris Karius Schalke 2026" },
+    { "file": "fans_entsetzen.jpg", "search": "Fans Public Viewing Entsetzen" },
+    { "file": "thron.jpg", "search": "Fußball Thron Krone Symbol Bundesliga", "thematic": true },
+    { "file": "elversberg.jpg", "search": "SV Elversberg Bundesliga 2026" },
+    { "file": "fans_wm14.jpg", "search": "DFB Fans Fanmeile Berlin" },
+    { "file": "klopp.jpg", "search": "Jürgen Klopp Bundestrainer" },
+    { "file": "musiala.jpg", "search": "Jamal Musiala Bayern München" },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich DFB Kapitän" },
+    { "file": "beier.jpg", "search": "Maximilian Beier DFB" },
+    { "file": "fans_hoffen.jpg", "search": "Fans Tribüne Stadion Spannung" }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "67 SPIELTAGE – PLÖTZLICH VORBEI.",
+      "image": "allianz.jpg",
+      "weight": 0.5
+    },
+    {
+      "type": "title",
+      "eyebrow": "BUNDESLIGA SCHOCK",
+      "title": "Bayern-Thronsturz",
+      "image": "dfb_team.jpg",
+      "weight": 0.7
+    },
+    {
+      "type": "image",
+      "image": "karius.jpg",
+      "name": "Loris Karius",
+      "role": "Torwart · Schalke 04",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "fans_entsetzen.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Bayern nach 2 Spieltagen",
+      "stats": [
+        { "label": "Spieltag 1 vs Stuttgart", "value": "5:1 ✓" },
+        { "label": "Spieltag 2 vs Schalke", "value": "0:0 ✗" },
+        { "label": "Tabellenrang", "value": "Platz 3" }
+      ],
+      "image": "thron.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "elversberg.jpg",
+      "weight": 0.8
+    },
+    {
+      "type": "stats",
+      "title": "Elversberg – Der Aufsteiger",
+      "stats": [
+        { "label": "Tore in 2 Spielen", "value": "7" },
+        { "label": "Punkte", "value": "6" },
+        { "label": "Tabellenrang", "value": "Platz 1" }
+      ],
+      "image": "fans_wm14.jpg",
+      "weight": 0.9
+    },
+    {
+      "type": "image",
+      "image": "klopp.jpg",
+      "name": "Jürgen Klopp",
+      "role": "Bundestrainer · Letztes Scouting",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "musiala.jpg",
+      "name": "Jamal Musiala",
+      "role": "Offensiv · Bayern München",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "kimmich.jpg",
+      "name": "Joshua Kimmich",
+      "role": "DFB-Kapitän · 110 Länderspiele",
+      "weight": 0.8
+    },
+    {
+      "type": "image",
+      "image": "beier.jpg",
+      "name": "Maximilian Beier",
+      "role": "Offensiv · Borussia Dortmund",
+      "weight": 0.8
+    },
+    {
+      "type": "outro",
+      "title": "Bayern schlägt zurück?",
+      "subtitle": "Oder macht Elversberg Geschichte?",
+      "image": "fans_hoffen.jpg",
+      "weight": 1.0
+    }
+  ]
+}

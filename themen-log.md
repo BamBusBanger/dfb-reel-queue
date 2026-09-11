@@ -563,3 +563,4 @@
 2026-09-10 | klopp-kimmich-sechser-wende | Klopp löst Kimmich-Positionsrätsel sofort: Kapitän kehrt ins zentrale Mittelfeld zurück, 14 Monate RV unter Nagelsmann, 110 Länderspiele, 2 Trainings bis Amsterdam-Debüt 24.9. (NEWS-DRAMA)
 2026-09-10 | elmala-koeln-nr10-podolski-erbe | El Mala 19J FC Köln Nummer 10 Podolski-Erbe Overath DFB-Kader 17.9. Klopp-Wahl 13 BL-Tore (GEHEIMNIS)
 2026-09-11 | klopp-drei-elfmeter-suender-comeback | WM-Elfmeter-Trio Havertz/Woltemade/Tah Paraguay-Schock, Klopp clean slate Kader-PK 17.9., 6 Tage bis erste Nominierung (TOP-3-LISTE)
+2026-09-11 | elversberg-thronsturz-klopp-scouting | Bayern nach 67 Spieltagen nicht mehr Tabellenführer, SV Elversberg Aufsteiger Platz 1 mit 7 Toren in 2 Spielen, Klopp letztes Live-Scouting Sonntag vor Kader-PK 17.9., Musiala muss liefern (NEWS-DRAMA)
