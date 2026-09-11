@@ -1,0 +1,32 @@
+{
+  "slug": "benfarhat-klopp-geheimass",
+  "createdAt": "2026-09-11T12:34:00Z",
+  "title": "Klopps geheimes Ass: Ben Farhat",
+  "script": "Er hätte bei der WM spielen können – lehnte aber ab! Louey Ben Farhat, 20 Jahre, KSC-Angreifer, spielte 2 Länderspiele für Tunesien – dann kam Klopp. Jetzt hat er sich für Deutschland entschieden. DFB-Boss Neuendorf verrät: Klopp plant Überraschungen. Klopp-Zitat: „Spieler werden eine Chance bekommen, die damit noch gar nicht rechnen." In 6 Tagen kommt die Kader-PK am 17. September. Ben Farhat hat den richtigen Schritt gemacht – aber reicht das für Klopps ersten Kader?",
+  "uploadCaption": "Das ist Klopps geheimes Ass! Louey Ben Farhat (20) lehnte Tunesiens WM-Einladung 2026 ab – und hält sich den DFB-Weg offen. Klopp kündigt Überraschungen an: Wer nicht damit rechnet, bekommt die Chance. 17.9. Kader-PK: Kommt er rein?",
+  "uploadHashtags": "#DFB #NationsLeague2026 #BenFarhat #KloppDFB #Fussball #KSC #Nationalmannschaft #WM2026",
+  "images": [
+    { "file": "benfarhat.jpg", "search": "Louey Ben Farhat Karlsruher SC" },
+    { "file": "klopp_dfb.jpg", "search": "Jürgen Klopp DFB Bundestrainer 2026" },
+    { "file": "ksc_nachwuchs.jpg", "search": "Nachwuchstalent Zweikampf Bundesliga Jugend", "thematic": true },
+    { "file": "tunesien_fahne.jpg", "search": "Tunesien Nationalmannschaft Fahne Fussball", "thematic": true },
+    { "file": "kimmich.jpg", "search": "Joshua Kimmich" },
+    { "file": "dfb_campus.jpg", "search": "DFB Campus Frankfurt Eingang Gebäude", "thematic": true },
+    { "file": "fans.jpg", "search": "DFB Fans" },
+    { "file": "wirtz.jpg", "search": "Florian Wirtz" },
+    { "file": "kader_geheimnis.jpg", "search": "Kader Nominierung Liste Zettel Fussball", "thematic": true }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "ER LEHNTE DIE WM AB.", "image": "benfarhat.jpg", "weight": 0.5 },
+    { "type": "title", "eyebrow": "KLOPPS GEHEIMES AS", "title": "Ben Farhat – DFB statt WM", "image": "klopp_dfb.jpg", "weight": 0.7 },
+    { "type": "image", "image": "benfarhat.jpg", "name": "Louey Ben Farhat", "role": "Stürmer · 20 · KSC", "weight": 0.8 },
+    { "type": "stats", "title": "Die Entscheidung", "stats": [{ "label": "Tunesien-Länderspiele", "value": "2" }, { "label": "WM-Einladung abgelehnt", "value": "2026" }, { "label": "Tage bis Kader-PK", "value": "6" }], "image": "ksc_nachwuchs.jpg", "weight": 0.9 },
+    { "type": "image", "image": "tunesien_fahne.jpg", "weight": 0.8 },
+    { "type": "image", "image": "klopp_dfb.jpg", "name": "Jürgen Klopp", "role": "Bundestrainer · DFB", "weight": 0.8 },
+    { "type": "image", "image": "kimmich.jpg", "name": "Joshua Kimmich", "role": "Kapitän · 109 Länderspiele", "weight": 0.8 },
+    { "type": "image", "image": "dfb_campus.jpg", "weight": 0.8 },
+    { "type": "image", "image": "fans.jpg", "weight": 0.8 },
+    { "type": "image", "image": "wirtz.jpg", "name": "Florian Wirtz", "role": "Offensiv · Liverpool", "weight": 0.8 },
+    { "type": "outro", "title": "Schafft Ben Farhat Klopps ersten Kader?", "subtitle": "17.9. Kader-PK – Folgen für das Ergebnis!", "image": "kader_geheimnis.jpg", "weight": 1.0 }
+  ]
+}

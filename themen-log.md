@@ -564,3 +564,4 @@
 2026-09-10 | elmala-koeln-nr10-podolski-erbe | El Mala 19J FC Köln Nummer 10 Podolski-Erbe Overath DFB-Kader 17.9. Klopp-Wahl 13 BL-Tore (GEHEIMNIS)
 2026-09-11 | klopp-drei-elfmeter-suender-comeback | WM-Elfmeter-Trio Havertz/Woltemade/Tah Paraguay-Schock, Klopp clean slate Kader-PK 17.9., 6 Tage bis erste Nominierung (TOP-3-LISTE)
 2026-09-11 | elversberg-thronsturz-klopp-scouting | Bayern nach 67 Spieltagen nicht mehr Tabellenführer, SV Elversberg Aufsteiger Platz 1 mit 7 Toren in 2 Spielen, Klopp letztes Live-Scouting Sonntag vor Kader-PK 17.9., Musiala muss liefern (NEWS-DRAMA)
+2026-09-11 | benfarhat-klopp-geheimass | Ben Farhat KSC 20J lehnte Tunesien WM-Einladung 2026 (2 Länderspiele) ab, DFB-Entscheidung gefallen, Klopp plant Überraschungen Kader-PK 17.9. 6 Tage (GEHEIMNIS)
